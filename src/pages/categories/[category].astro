@@ -8,7 +8,7 @@ import taxonomyFilter from "@/lib/utils/taxonomyFilter";
 import { humanize } from "@/lib/utils/textConverter";
 
 export async function getStaticPaths() {
-  const categories = await getTaxonomy("Apps", "categories");
+  const categories = await getTaxonomy("apps", "categories");
 
   return categories.map((category) => {
     return {
@@ -19,7 +19,7 @@ export async function getStaticPaths() {
 
 const { category } = Astro.params;
 
-const Apps = await getSinglePage("Apps");
+const Apps = await getSinglePage("AppSingle");
 const filterByCategory = taxonomyFilter(Apps, "categories", category);
 const sortedApps = sortByDate(filterByCategory);
 
