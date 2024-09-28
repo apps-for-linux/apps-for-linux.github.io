@@ -19,17 +19,20 @@ const postsCollection = defineCollection({
 // Author collection schema
 const authorsCollection = defineCollection({
   schema: z.object({
-    id: z.string().optional(),
     title: z.string(),
     meta_title: z.string().optional(),
     image: z.string().optional(),
     description: z.string().optional(),
     social: z
-      .object({
-        facebook: z.string().optional(),
-        twitter: z.string().optional(),
-        instagram: z.string().optional(),
-      })
+      .array(
+        z
+          .object({
+            name: z.string().optional(),
+            icon: z.string().optional(),
+            link: z.string().optional(),
+          })
+          .optional()
+      )
       .optional(),
     draft: z.boolean().optional(),
   }),
