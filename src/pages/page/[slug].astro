@@ -24,19 +24,19 @@ export async function getStaticPaths() {
 
 const { slug } = Astro.params;
 const authors = await getSinglePage("authors");
-const sortedPosts = sortByDate(authors);
+const sortedApps = sortByDate(authors);
 const totalPages = Math.ceil(authors.length / config.settings.pagination);
 const currentPage = slug && !isNaN(Number(slug)) ? Number(slug) : 1;
-const indexOfLastPost = currentPage * config.settings.pagination;
-const indexOfFirstPost = indexOfLastPost - config.settings.pagination;
-const currentPosts = sortedPosts.slice(indexOfFirstPost, indexOfLastPost);
+const indexOfLastApp = currentPage * config.settings.pagination;
+const indexOfFirstApp = indexOfLastApp - config.settings.pagination;
+const currentApps = sortedApps.slice(indexOfFirstApp, indexOfLastApp);
 ---
 
 <Base title={"Authors"}>
   <section class="section">
     <div class="container text-center">
       <h1 set:text={markdownify("Authors")} class="page-heading h2" />
-      <Authors authors={currentPosts} />
+      <Authors authors={currentApps} />
       <Pagination
         section={"authors"}
         currentPage={currentPage}
