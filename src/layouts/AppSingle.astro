@@ -65,7 +65,7 @@ const { title, description, authors, categories, image, date, tags } =
                         class="mr-2 hover:text-primary font-medium"
                       >
                         {humanize(category)}
-                        {i !== apps.data.categories.length - 1 && ","}
+                        {i !== app.data.categories.length - 1 && ","}
                       </a>
                     </li>
                   ))
@@ -121,7 +121,7 @@ const { title, description, authors, categories, image, date, tags } =
     <section class="section pt-0">
       <div class="container">
         <h2 class="mb-8 text-center h3">Similar Apps</h2>
-        <SimilarApps Apps={similarApps.slice(0, 3)} />
+        <SimilarApps apps={similarApps.slice(0, 3)} />
       </div>
     </section>
   )

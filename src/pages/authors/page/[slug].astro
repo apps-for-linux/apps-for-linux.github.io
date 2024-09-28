@@ -27,9 +27,9 @@ const authors = await getSinglePage("authors");
 const sortedApps = sortByDate(authors);
 const totalPages = Math.ceil(authors.length / config.settings.pagination);
 const currentPage = slug && !isNaN(Number(slug)) ? Number(slug) : 1;
-const indexOfLastApps = currentPage * config.settings.pagination;
-const indexOfFirstApps = indexOfLastApps - config.settings.pagination;
-const currentApps = sortedApps.slice(indexOfFirstApps, indexOfLastApps);
+const indexOfLastApp = currentPage * config.settings.pagination;
+const indexOfFirstApp = indexOfLastApp - config.settings.pagination;
+const currentApps = sortedApps.slice(indexOfFirstApp, indexOfLastApp);
 ---
 
 <Base title={"Authors"}>

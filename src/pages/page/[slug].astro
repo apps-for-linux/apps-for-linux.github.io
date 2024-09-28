@@ -1,15 +1,14 @@
 ---
 import config from "@/config/config.json";
-import Authors from "@/layouts/Authors.astro";
 import Base from "@/layouts/Base.astro";
 import Pagination from "@/layouts/components/Pagination.astro";
+import Apps from "@/layouts/Apps.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { sortByDate } from "@/lib/utils/sortFunctions";
-import { markdownify } from "@/lib/utils/textConverter";
 
 export async function getStaticPaths() {
-  const authors = await getSinglePage("authors");
-  const totalPages = Math.ceil(authors.length / config.settings.pagination);
+  const apps = await getSinglePage("apps");
+  const totalPages = Math.ceil(apps.length / config.settings.pagination);
   const paths = [];
 
   for (let i = 1; i < totalPages; i++) {
@@ -23,25 +22,20 @@ export async function getStaticPaths() {
 }
 
 const { slug } = Astro.params;
-const authors = await getSinglePage("authors");
-const sortedApps = sortByDate(authors);
-const totalPages = Math.ceil(authors.length / config.settings.pagination);
+const apps = await getSinglePage("apps");
+const sortedApps = sortByDate(apps);
+const totalPages = Math.ceil(apps.length / config.settings.pagination);
 const currentPage = slug && !isNaN(Number(slug)) ? Number(slug) : 1;
 const indexOfLastApp = currentPage * config.settings.pagination;
 const indexOfFirstApp = indexOfLastApp - config.settings.pagination;
 const currentApps = sortedApps.slice(indexOfFirstApp, indexOfLastApp);
 ---
 
-<Base title={"Authors"}>
+<Base>
   <section class="section">
-    <div class="container text-center">
-      <h1 set:text={markdownify("Authors")} class="page-heading h2" />
-      <Authors authors={currentApps} />
-      <Pagination
-        section={"authors"}
-        currentPage={currentPage}
-        totalPages={totalPages}
-      />
+    <div class="container">
+      <Apps className="mb-16" apps={currentApps} />
+      <Pagination totalPages={totalPages} currentPage={currentPage} />
     </div>
   </section>
 </Base>

@@ -6,7 +6,7 @@ import { getSinglePage } from "@/lib/contentParser.astro";
 import type { TApp } from "@/types";
 
 const getApps = (await getSinglePage("apps")) as TApp[];
-const appsSlug = getapps.map((item) => item.slug);
+const appsSlug = getApps.map((item) => item.slug);
 
 export async function getStaticPaths() {
   const apps = await getSinglePage("apps");
@@ -34,7 +34,7 @@ const { title, meta_title, description, image } = page.data;
 >
   {
     appsSlug.includes(page.slug) ? (
-      <AppsSingle app={page} />
+      <AppSingle app={page} />
     ) : (
       <Default data={page} />
     )
