@@ -24,6 +24,10 @@ jobs:
         uses: withastro/action@v3
         with:
           package-manager: bun@latest
+      - name: Setup Biome CLI
+        uses: biomejs/setup-biome@v2
+      - name: Run Biome
+        run: biome ci .
  
   deploy:
     needs: build
