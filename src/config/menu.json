@@ -2,40 +2,55 @@
   "main": [
     {
       "name": "Home",
-      "url": "/"
+      "url": "appimages"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Pages",
-      "url": "",
+      "name": "Categories",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "Audio & Video",
+          "url": "/categories/audio--video"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Development",
+          "url": "/categories/development"
         },
         {
-          "name": "Tags",
-          "url": "/tags"
+          "name": "Education",
+          "url": "/categories/education"
         },
         {
-          "name": "Elements",
-          "url": "/elements"
+          "name": "Finance",
+          "url": "/categories/finance"
         },
         {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "name": "Games",
+          "url": "/categories/games"
+        },
+        {
+          "name": "Graphics",
+          "url": "/categories/graphics"
+        },
+        {
+          "name": "Network",
+          "url": "/categories/network"
+        },
+        {
+          "name": "Productivity",
+          "url": "/categories/productivity"
+        },
+        {
+          "name": "Science",
+          "url": "/categories/science"
+        },
+        {
+          "name": "System",
+          "url": "/categories/system"
+        },
+        {
+          "name": "Utilities",
+          "url": "/categories/utilities"
         }
       ]
     }
@@ -43,19 +58,11 @@
   "footer": [
     {
       "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
+      "url": "about"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "privacy-policy"
     }
   ]
 }
