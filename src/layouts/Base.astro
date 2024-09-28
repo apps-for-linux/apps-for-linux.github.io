@@ -135,22 +135,6 @@ const { title, meta_title, description, image, noindex, canonical } =
       content={`${config.site.base_url}/${Astro.url.pathname.replace("/", "")}`}
     />
 
-    <!-- twitter-title -->
-    <meta
-      name="twitter:title"
-      content={plainify(
-        meta_title ? meta_title : title ? title : config.site.title,
-      )}
-    />
-
-    <!-- twitter-description -->
-    <meta
-      name="twitter:description"
-      content={plainify(
-        description ? description : config.metadata.meta_description,
-      )}
-    />
-
     <!-- og-image -->
     <meta
       property="og:image"
@@ -168,12 +152,4 @@ const { title, meta_title, description, image, noindex, canonical } =
     />
     <meta name="twitter:card" content="summary_large_image" />
   </head>
-  <body>
-    <TwSizeIndicator />
-    <Header />
-    <main id="main-content" class="min-h-[60vh]">
-      <slot />
-    </main>
-    <Footer />
-  </body>
 </html>
