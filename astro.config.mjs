@@ -1,5 +1,4 @@
 import mdx from "@astrojs/mdx";
-import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 import AutoImport from "astro-auto-import";
