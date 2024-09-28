@@ -3,7 +3,7 @@ import Base from "@/layouts/Base.astro";
 import { getTaxonomy } from "@/lib/taxonomyParser.astro";
 import { humanize } from "@/lib/utils/textConverter";
 
-const categories = await getTaxonomy("Apps", "categories");
+const categories = await getTaxonomy("apps", "categories");
 
 import { BiCategoryAlt } from "react-icons/bi";
 ---

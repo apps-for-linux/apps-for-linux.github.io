@@ -19,7 +19,7 @@ export async function getStaticPaths() {
 
 const { category } = Astro.params;
 
-const Apps = await getSinglePage("apps");
+const apps = await getSinglePage("apps");
 const filterByCategory = taxonomyFilter(apps, "categories", category);
 const sortedApps = sortByDate(filterByCategory);
 
@@ -31,7 +31,7 @@ const title = humanize(category || "");
     <div class="container">
       <p class="text-center text-2xl mb-4">Showing Apps From</p>
       <h1 class="h2 mb-16 text-center text-primary">{title}</h1>
-      <Apps Apps={sortedApps} fluid={false} />
+      <Apps apps={sortedApps} fluid={false} />
     </div>
   </div>
 </Base>
