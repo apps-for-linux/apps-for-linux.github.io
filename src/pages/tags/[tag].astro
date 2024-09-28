@@ -8,7 +8,7 @@ import taxonomyFilter from "@/lib/utils/taxonomyFilter";
 import { humanize } from "@/lib/utils/textConverter";
 
 export async function getStaticPaths() {
-  const tags = await getTaxonomy("posts", "tags");
+  const tags = await getTaxonomy("apps", "tags");
 
   return tags.map((tag) => {
     return {
