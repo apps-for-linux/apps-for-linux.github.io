@@ -4,6 +4,7 @@ meta_title: "About"
 description: "this is meta description"
 image: "/images/author.png"
 draft: false
+---
 
 A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
 
