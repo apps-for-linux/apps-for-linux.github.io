@@ -19,8 +19,8 @@ export async function getStaticPaths() {
 
 const { tag } = Astro.params;
 
-const posts = await getSinglePage("posts");
-const filterByTags = taxonomyFilter(posts, "tags", tag);
+const apps = await getSinglePage("apps");
+const filterByTags = taxonomyFilter(apps, "tags", tag);
 const sortedPosts = sortByDate(filterByTags);
 
 const title = humanize(tag || "");
