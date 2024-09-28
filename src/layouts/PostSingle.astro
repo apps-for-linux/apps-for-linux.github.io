@@ -1,6 +1,6 @@
 ---
 import { Image } from "astro:assets";
-import SimilarPosts from "@/components/SimilarPosts.astro";
+import SimilarApps from "@/components/SimilarApps.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import similerItems from "@/lib/utils/similarItems";
@@ -8,9 +8,9 @@ import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
 import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
 
 const allAuthors = await getSinglePage("authors");
-const posts = await getSinglePage("posts");
+const Apps = await getSinglePage("Apps");
 const { post } = Astro.props;
-const similarPosts = similerItems(post, posts, post.slug);
+const similarApps = similerItems(post, Apps, post.slug);
 const { Content } = await post.render();
 const { title, description, authors, categories, image, date, tags } =
   post.data;
@@ -115,13 +115,13 @@ const { title, description, authors, categories, image, date, tags } =
   </div>
 </section>
 
-<!-- similar posts -->
+<!-- similar Apps -->
 {
-  similarPosts.length > 0 && (
+  similarApps.length > 0 && (
     <section class="section pt-0">
       <div class="container">
-        <h2 class="mb-8 text-center h3">Similar Posts</h2>
-        <SimilarPosts posts={similarPosts.slice(0, 3)} />
+        <h2 class="mb-8 text-center h3">Similar Apps</h2>
+        <SimilarApps Apps={similarApps.slice(0, 3)} />
       </div>
     </section>
   )

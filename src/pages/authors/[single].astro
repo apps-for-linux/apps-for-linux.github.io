@@ -24,10 +24,10 @@ export async function getStaticPaths() {
 const { author } = Astro.props;
 const { title, meta_title, description, image } = author.data;
 
-// Author Posts
-const posts = await getSinglePage("posts");
-const sortPostsByDate = sortByDate(posts);
-const currentPosts = sortPostsByDate.filter((post) => {
+// Author Apps
+const Apps = await getSinglePage("Apps");
+const sortAppsByDate = sortByDate(Apps);
+const currentApps = sortAppsByDate.filter((post) => {
   return post.data.authors
     .map((author: string) => slugify(author))
     .includes(slugify(title));
@@ -43,14 +43,14 @@ const currentPosts = sortPostsByDate.filter((post) => {
   <AuthorSingle author={author} />
 
   {
-    currentPosts.length > 0 && (
+    currentApps.length > 0 && (
       <section class="section pt-0">
         <div class="container">
-          <h2 class="mb-8 text-center h3">Recent Posts</h2>
+          <h2 class="mb-8 text-center h3">Recent Apps</h2>
           <div
-            class={`row gy-4 ${currentPosts.length < 3 ? "justify-center" : ""}`}
+            class={`row gy-4 ${currentApps.length < 3 ? "justify-center" : ""}`}
           >
-            {currentPosts.map((post: any, i: number) => (
+            {currentApps.map((post: any, i: number) => (
               <div class="col-12 sm:col-6 lg:col-4">
                 {post.data.image && (
                   <a
