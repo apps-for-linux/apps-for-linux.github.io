@@ -18,7 +18,7 @@ const { className, apps, fluid } = Astro.props;
       <div class={i === 0 && fluid != false ? "col-12" : "col-12 sm:col-6"}>
         {app.data.image && (
           <a
-            href={`/${apps.slug}`}
+            href={`/${app.slug}`}
             class="rounded-lg block hover:text-primary overflow-hidden group"
           >
             <Image

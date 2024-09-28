@@ -10,10 +10,10 @@ import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
 const allAuthors = await getSinglePage("authors");
 const apps = await getSinglePage("apps");
 const { app } = Astro.props;
-const similarApps = similerItems(apps, apps, apps.slug);
+const similarApps = similerItems(app, apps, app.slug);
 const { Content } = await apps.render();
 const { title, description, authors, categories, image, date, tags } =
-  apps.data;
+  app.data;
 ---
 
 <section class="section">
