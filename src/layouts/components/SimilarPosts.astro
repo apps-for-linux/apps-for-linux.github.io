@@ -8,17 +8,17 @@ const { Apps } = Astro.props;
 
 <div class="row gy-4 justify-center">
   {
-    Apps.map((post: any, i: number) => (
+    Apps.map((apps: any, i: number) => (
       <div class={`col-12 sm:col-6 md:col-4 ${i === 2 && "hidden md:block"}`}>
-        {post.data.image && (
+        {apps.data.image && (
           <a
-            href={`/${post.slug}`}
+            href={`/${apps.slug}`}
             class="rounded-lg block hover:text-primary overflow-hidden group"
           >
             <Image
               class="group-hover:scale-[1.05] transition duration-300 w-full"
-              src={post.data.image}
-              alt={post.data.title}
+              src={apps.data.image}
+              alt={apps.data.title}
               width={445}
               height={230}
             />
@@ -27,20 +27,20 @@ const { Apps } = Astro.props;
         <ul class="mt-4 text-text flex flex-wrap items-center text-sm">
           <li class="mb-2 mr-4 flex items-center flex-wrap font-medium">
             <BiCalendarEdit className="mr-1 h-[16px] w-[16px] text-gray-600" />
-            <>{dateFormat(post.data.date)}</>
+            <>{dateFormat(apps.data.date)}</>
           </li>
           <li class="mb-2 mr-4 flex items-center flex-wrap">
             <BiCategoryAlt className="mr-1 h-[16px] w-[16px] text-gray-600" />
             <>
               <ul>
-                {post.data.categories.map((category: string, i: number) => (
+                {apps.data.categories.map((category: string, i: number) => (
                   <li class="inline-block">
                     <a
                       href={`/categories/${slugify(category)}`}
                       class="mr-2 hover:text-primary font-medium"
                     >
                       {humanize(category)}
-                      {i !== post.data.categories.length - 1 && ","}
+                      {i !== apps.data.categories.length - 1 && ","}
                     </a>
                   </li>
                 ))}
@@ -50,10 +50,10 @@ const { Apps } = Astro.props;
         </ul>
         <h3 class="h5">
           <a
-            href={`/${post.slug}`}
+            href={`/${apps.slug}`}
             class="block hover:text-primary transition duration-300"
           >
-            {post.data.title}
+            {apps.data.title}
           </a>
         </h3>
       </div>

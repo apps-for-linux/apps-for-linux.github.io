@@ -1,6 +1,6 @@
 import { defineCollection, z } from "astro:content";
 
-// Post collection schema
+// Apps collection schema
 const AppsCollection = defineCollection({
   schema: z.object({
     id: z.string().optional(),

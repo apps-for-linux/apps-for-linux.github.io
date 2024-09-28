@@ -26,9 +26,9 @@ const Apps = await getSinglePage("Apps");
 const sortedApps = sortByDate(Apps);
 const totalPages = Math.ceil(Apps.length / config.settings.pagination);
 const currentPage = slug && !isNaN(Number(slug)) ? Number(slug) : 1;
-const indexOfLastPost = currentPage * config.settings.pagination;
-const indexOfFirstPost = indexOfLastPost - config.settings.pagination;
-const currentApps = sortedApps.slice(indexOfFirstPost, indexOfLastPost);
+const indexOfLastApps = currentPage * config.settings.pagination;
+const indexOfFirstApps = indexOfLastApps - config.settings.pagination;
+const currentApps = sortedApps.slice(indexOfFirstApps, indexOfLastApps);
 ---
 
 <Base>

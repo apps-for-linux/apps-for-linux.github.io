@@ -9,11 +9,11 @@ import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
 
 const allAuthors = await getSinglePage("authors");
 const Apps = await getSinglePage("Apps");
-const { post } = Astro.props;
-const similarApps = similerItems(post, Apps, post.slug);
-const { Content } = await post.render();
+const { apps } = Astro.props;
+const similarApps = similerItems(apps, Apps, apps.slug);
+const { Content } = await apps.render();
 const { title, description, authors, categories, image, date, tags } =
-  post.data;
+  apps.data;
 ---
 
 <section class="section">
@@ -65,7 +65,7 @@ const { title, description, authors, categories, image, date, tags } =
                         class="mr-2 hover:text-primary font-medium"
                       >
                         {humanize(category)}
-                        {i !== post.data.categories.length - 1 && ","}
+                        {i !== apps.data.categories.length - 1 && ","}
                       </a>
                     </li>
                   ))
