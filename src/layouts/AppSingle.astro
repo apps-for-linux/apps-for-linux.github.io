@@ -11,7 +11,7 @@ const allAuthors = await getSinglePage("authors");
 const apps = await getSinglePage("apps");
 const { app } = Astro.props;
 const similarApps = similerItems(app, apps, app.slug);
-const { Content } = await apps.render();
+const { Content } = await app.render();
 const { title, description, authors, categories, image, date, tags } =
   app.data;
 ---
