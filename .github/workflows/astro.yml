@@ -20,14 +20,10 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v4
-      - name: Use Bun
-        uses: oven-sh/setup-bun@v2
       - name: Install, build, and upload your site
-        run: bun install && bun run build
-      - name: Upload your site to GitHub Pages
-        uses: actions/upload-pages-artifact@v3
+        uses: withastro/action@v3
         with:
-          path: dist/
+          package-manager: bun@latest
  
   deploy:
     needs: build
