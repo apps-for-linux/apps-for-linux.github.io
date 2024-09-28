@@ -3,10 +3,10 @@ import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 
 // Retrieve all articles
-const Apps = await getSinglePage("Apps");
+const apps = await getSinglePage("apps");
 
 // List of items to search in
-const searchList = Apps.map((item: any) => ({
+const searchList = apps.map((item: any) => ({
   slug: item.slug,
   data: item.data,
   content: item.body,
