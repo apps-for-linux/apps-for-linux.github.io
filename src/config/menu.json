@@ -1,80 +1,58 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
+      "name": "Audio & Video",
+      "url": "/categories/audio--video"
     },
     {
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-{
-      "name": "Categories",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Audio & Video",
-          "url": "/categories/audio--video"
-        },
-        {
-          "name": "Development",
-          "url": "/categories/development"
-        },
-        {
-          "name": "Education",
-          "url": "/categories/education"
-        },
-        {
-          "name": "Finance",
-          "url": "/categories/finance"
-        },
-        {
-          "name": "Games",
-          "url": "/categories/games"
-        },
-        {
-          "name": "Graphics",
-          "url": "/categories/graphics"
-        },
-        {
-          "name": "Network",
-          "url": "/categories/network"
-        },
-        {
-          "name": "Productivity",
-          "url": "/categories/productivity"
-        },
-        {
-          "name": "Science",
-          "url": "/categories/science"
-        },
-        {
-          "name": "System",
-          "url": "/categories/system"
-        },
-        {
-          "name": "Utilities",
-          "url": "/categories/utilities"
-        }
-      ]
+      "name": "Development",
+      "url": "/categories/development"
+    },
+    {
+      "name": "Education",
+      "url": "/categories/education"
+    },
+    {
+      "name": "Finance",
+      "url": "/categories/finance"
+    },
+    {
+      "name": "Games",
+      "url": "/categories/games"
+    },
+    {
+      "name": "Graphics",
+      "url": "/categories/graphics"
+    },
+    {
+      "name": "Network",
+      "url": "/categories/network"
+    },
+    {
+      "name": "Productivity",
+      "url": "/categories/productivity"
+    },
+    {
+      "name": "Science",
+      "url": "/categories/science"
+    },
+    {
+      "name": "System",
+      "url": "/categories/system"
+    },
+    {
+      "name": "Utilities",
+      "url": "/categories/utilities"
     }
   ],
   "footer": [
     {
       "name": "About",
-      "url": "/about"
+      "url": "about"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "privacy-policy"
     }
   ]
 }
