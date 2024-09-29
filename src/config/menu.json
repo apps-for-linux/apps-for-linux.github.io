@@ -2,9 +2,21 @@
   "main": [
     {
       "name": "Home",
-      "url": "appimages"
+      "url": "/"
     },
     {
+        {
+          "name": "Authors",
+          "url": "/authors"
+        },
+        {
+          "name": "Categories",
+          "url": "/categories"
+        },
+        {
+          "name": "Tags",
+          "url": "/tags"
+{
       "name": "Categories",
       "hasChildren": true,
       "children": [
@@ -58,11 +70,11 @@
   "footer": [
     {
       "name": "About",
-      "url": "about"
+      "url": "/about"
     },
     {
       "name": "Privacy Policy",
-      "url": "privacy-policy"
+      "url": "/privacy-policy"
     }
   ]
 }

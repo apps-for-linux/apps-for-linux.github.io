@@ -1,6 +1,6 @@
 ---
 import { Image } from "astro:assets";
-import SimilarApps from "@/components/SimilarApps.astro";
+import SimilarPosts from "@/components/SimilarPosts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import similerItems from "@/lib/utils/similarItems";
@@ -8,11 +8,12 @@ import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
 import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
 
 const allAuthors = await getSinglePage("authors");
-const apps = await getSinglePage("apps");
-const { app } = Astro.props;
-const similarApps = similerItems(app, apps, app.slug);
-const { Content } = await app.render();
-const { title, authors, categories, image, date, tags } = app.data;
+const posts = await getSinglePage("posts");
+const { post } = Astro.props;
+const similarPosts = similerItems(post, posts, post.slug);
+const { Content } = await post.render();
+const { title, description, authors, categories, image, date, tags } =
+  post.data;
 ---
 
 <section class="section">
@@ -64,7 +65,7 @@ const { title, authors, categories, image, date, tags } = app.data;
                         class="mr-2 hover:text-primary font-medium"
                       >
                         {humanize(category)}
-                        {i !== app.data.categories.length - 1 && ","}
+                        {i !== post.data.categories.length - 1 && ","}
                       </a>
                     </li>
                   ))
@@ -120,13 +121,13 @@ const { title, authors, categories, image, date, tags } = app.data;
   </div>
 </section>
 
-<!-- similar Apps -->
+<!-- similar posts -->
 {
-  similarApps.length > 0 && (
+  similarPosts.length > 0 && (
     <section class="section pt-0">
       <div class="container">
-        <h2 class="mb-8 text-center h3">Similiar Apps</h2>
-        <SimilarApps apps={similarApps.slice(0, 3)} />
+        <h2 class="mb-8 text-center h3">Similar Apps</h2>
+        <SimilarPosts posts={similarPosts.slice(0, 3)} />
       </div>
     </section>
   )

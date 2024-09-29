@@ -2,14 +2,14 @@
 import config from "@/config/config.json";
 import Base from "@/layouts/Base.astro";
 import Pagination from "@/layouts/components/Pagination.astro";
-import Apps from "@/layouts/Apps.astro";
+import Posts from "@/layouts/Posts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { sortByDate } from "@/lib/utils/sortFunctions";
 
 export async function getStaticPaths() {
-    const apps = await getSinglePage("apps");
-    const totalPages = Math.ceil(apps.length / config.settings.pagination);
-    const paths = [];
+  const posts = await getSinglePage("posts");
+  const totalPages = Math.ceil(posts.length / config.settings.pagination);
+  const paths = [];
 
   for (let i = 1; i < totalPages; i++) {
     paths.push({
@@ -22,19 +22,19 @@ export async function getStaticPaths() {
 }
 
 const { slug } = Astro.params;
-const apps = await getSinglePage("apps");
-const sortedApps = sortByDate(apps);
-const totalPages = Math.ceil(apps.length / config.settings.pagination);
+const posts = await getSinglePage("posts");
+const sortedPosts = sortByDate(posts);
+const totalPages = Math.ceil(posts.length / config.settings.pagination);
 const currentPage = slug && !isNaN(Number(slug)) ? Number(slug) : 1;
-const indexOfLastApp = currentPage * config.settings.pagination;
-const indexOfFirstApp = indexOfLastApp - config.settings.pagination;
-const currentApps = sortedApps.slice(indexOfFirstApp, indexOfLastApp);
+const indexOfLastPost = currentPage * config.settings.pagination;
+const indexOfFirstPost = indexOfLastPost - config.settings.pagination;
+const currentPosts = sortedPosts.slice(indexOfFirstPost, indexOfLastPost);
 ---
 
 <Base>
   <section class="section">
     <div class="container">
-      <Apps className="mb-16" apps={currentApps} />
+      <Posts className="mb-16" posts={currentPosts} />
       <Pagination totalPages={totalPages} currentPage={currentPage} />
     </div>
   </section>

@@ -8,16 +8,16 @@ import { sortByDate } from "@/lib/utils/sortFunctions";
 import { markdownify } from "@/lib/utils/textConverter";
 
 const authors = await getSinglePage("authors");
-const sortedApps = sortByDate(authors);
+const sortedPosts = sortByDate(authors);
 const totalPages = Math.ceil(authors.length / config.settings.pagination);
-const currentApps = sortedApps.slice(0, config.settings.pagination);
+const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 ---
 
 <Base title={"Authors"}>
   <section class="section">
     <div class="container text-center">
       <h1 set:text={markdownify("Authors")} class="page-heading h2" />
-      <Authors authors={currentApps} />
+      <Authors authors={currentPosts} />
       <Pagination section={"authors"} currentPage={1} totalPages={totalPages} />
     </div>
   </section>

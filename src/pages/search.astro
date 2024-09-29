@@ -4,10 +4,10 @@ import SearchBar from "@/layouts/SearchBar";
 import { getSinglePage } from "@/lib/contentParser.astro";
 
 // Retrieve all articles
-const apps = await getSinglePage("apps");
+const posts = await getSinglePage("posts");
 
 // List of items to search in
-const searchList = apps.map((item: any) => ({
+const searchList = posts.map((item: any) => ({
   slug: item.slug,
   data: item.data,
   content: item.body,

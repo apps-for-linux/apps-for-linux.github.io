@@ -1,6 +1,6 @@
 ---
 import Base from "@/layouts/Base.astro";
-import Apps from "@/layouts/Apps.astro";
+import Posts from "@/layouts/Posts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { getTaxonomy } from "@/lib/taxonomyParser.astro";
 import { sortByDate } from "@/lib/utils/sortFunctions";
@@ -8,7 +8,7 @@ import taxonomyFilter from "@/lib/utils/taxonomyFilter";
 import { humanize } from "@/lib/utils/textConverter";
 
 export async function getStaticPaths() {
-    const tags = await getTaxonomy("apps", "tags");
+  const tags = await getTaxonomy("posts", "tags");
 
   return tags.map((tag) => {
     return {
@@ -19,9 +19,9 @@ export async function getStaticPaths() {
 
 const { tag } = Astro.params;
 
-const apps = await getSinglePage("apps");
-const filterByTags = taxonomyFilter(apps, "tags", tag);
-const sortedApps = sortByDate(filterByTags);
+const posts = await getSinglePage("posts");
+const filterByTags = taxonomyFilter(posts, "tags", tag);
+const sortedPosts = sortByDate(filterByTags);
 
 const title = humanize(tag || "");
 ---
@@ -29,9 +29,9 @@ const title = humanize(tag || "");
 <Base title={title || "Tag"}>
   <div class="section">
     <div class="container">
-      <p class="text-center text-2xl mb-4">Showing Apps From</p>
+      <p class="text-center text-2xl mb-4">Showing Posts From</p>
       <h1 class="h2 mb-16 text-center text-primary">{title}</h1>
-      <Apps apps={sortedApps} fluid={false} />
+      <Posts posts={sortedPosts} fluid={false} />
     </div>
   </div>
 </Base>

@@ -16,7 +16,7 @@ export interface TAuthor {
   render: () => Promise<{ Content: any }>;
 }
 
-export interface TApp {
+export interface TPost {
   id: string;
   slug: string;
   body: string;
