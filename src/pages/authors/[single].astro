@@ -22,7 +22,7 @@ export async function getStaticPaths() {
 }
 
 const { author } = Astro.props;
-const { title, meta_title, description, image } = author.data;
+const { title, description, image } = author.data;
 
 // Author Posts
 const posts = await getSinglePage("posts");
@@ -36,7 +36,6 @@ const currentPosts = sortPostsByDate.filter((post) => {
 
 <Base
   title={title}
-  meta_title={meta_title}
   description={description}
   image={image}
 >
