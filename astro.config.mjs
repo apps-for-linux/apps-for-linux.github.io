@@ -17,6 +17,7 @@ export default defineConfig({
     service: squooshImageService(),
   },
   integrations: [
+    react(),
     sitemap(),
     tailwind({
       config: {
