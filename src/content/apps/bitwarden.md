@@ -4,7 +4,7 @@ description: "Open source password management solutions for individuals, teams, 
 date: 2024-05-06T19:08:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "BitWarden"
+authors: ["BitWarden"]
 tags: ["official"]
 draft: false
 ---

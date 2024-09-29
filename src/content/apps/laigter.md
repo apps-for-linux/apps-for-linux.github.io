@@ -4,7 +4,7 @@ description: "Laigter is a tool that automatically generates maps for dynamic li
 date: 2023-08-15T16:37:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Pablo Ivan Fonovich"
+authors: ["Pablo Ivan Fonovich"]
 tags: ["official"]
 draft: false
 ---

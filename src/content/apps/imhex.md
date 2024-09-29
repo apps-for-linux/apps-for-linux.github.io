@@ -4,7 +4,7 @@ description: "ImHex is a feature-rich Hex Editor aimed towards Reverse Engineers
 date: 2024-03-23T13:06:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "WerWolv"
+authors: ["WerWolv"]
 tags: ["official"]
 draft: false
 ---

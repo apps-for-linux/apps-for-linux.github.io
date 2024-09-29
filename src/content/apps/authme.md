@@ -4,7 +4,7 @@ description: "Simple cross-platform two-factor (2FA) authenticator app for deskt
 date: 2024-07-09T18:32:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Lőrik Levente"
+authors: ["Lőrik Levente"]
 tags: ["official"]
 draft: false
 ---

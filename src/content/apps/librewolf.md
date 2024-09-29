@@ -4,7 +4,7 @@ description: "A custom version of Firefox, focused on privacy, security and free
 date: 2024-05-02T12:56:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "LibreWolf"
+authors: ["LibreWolf"]
 tags: ["official"]
 draft: false
 ---

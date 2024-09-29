@@ -4,7 +4,7 @@ description: "FreeTube is an open source desktop YouTube player built with priva
 date: 2024-07-11T03:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "FreeTube Authors"
+authors: ["FreeTube Authors"]
 tags: ["official"]
 draft: false
 ---

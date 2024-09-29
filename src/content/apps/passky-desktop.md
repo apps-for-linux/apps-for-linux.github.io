@@ -4,7 +4,7 @@ description: "Passky is a simple, modern, lightweight, open source and secure pa
 date: 2023-04-02T15:21:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "Rabbit Company"
+authors: ["Rabbit Company"]
 tags: ["official"]
 draft: false
 ---

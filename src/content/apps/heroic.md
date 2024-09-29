@@ -4,7 +4,7 @@ description: "A Native GOG, Amazon and Epic Games Launcher"
 date: 2024-04-06T15:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Heroic Games Launcher Authors"
+authors: ["Heroic Games Launcher Authors"]
 tags: ["official"]
 draft: false
 ---

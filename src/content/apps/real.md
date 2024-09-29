@@ -4,7 +4,7 @@ description: "Easy to use GUI to enhance videos on Linux and MacOS using RIFE, R
 date: 2024-02-03T22:48:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "TNTwise"
+authors: ["TNTwise"]
 tags: ["official"]
 draft: false
 ---

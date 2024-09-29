@@ -1,11 +1,10 @@
 ---
 title: "Makoureactor"
-
 description: "Final Fantasy VII field archive editor"
 date: 2024-04-20T15:53:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Jérôme Arzel"
+authors: ["Jérôme Arzel"]
 tags: ["Community"]
 draft: false
 ---

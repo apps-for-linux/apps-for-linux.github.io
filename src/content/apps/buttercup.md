@@ -4,7 +4,7 @@ description: "Buttercup is a free, open-source and cross-platform password manag
 date: 2024-04-01T23:33:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "Perry Mitchell"
+authors: ["Perry Mitchell"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "End-to-end encryption for photos and more."
 date: 2024-07-12T14:47:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Ente"
+authors: ["Ente"]
 tags: ["official"]
 draft: false
 ---

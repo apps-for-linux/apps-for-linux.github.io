@@ -4,7 +4,7 @@ description: "Python-powered, cross-platform, Unix-gazing shell language and com
 date: 2024-03-07T18:12:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
-author: "the xonsh developers"
+authors: ["the xonsh developers"]
 tags: ["official"]
 draft: false
 ---

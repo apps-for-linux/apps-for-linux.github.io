@@ -4,7 +4,7 @@ description: "A quick and easy to use drag and drop retro game creator for your 
 date: 2024-06-13T11:56:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Chris Maltby"
+authors: ["Chris Maltby"]
 tags: ["official"]
 draft: false
 ---

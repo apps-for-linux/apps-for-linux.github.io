@@ -4,7 +4,7 @@ description: "Open-source software for highly secure, borderless collaboration a
 date: 2024-01-04T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "ownCloud"
+authors: ["ownCloud"]
 tags: ["official"]
 draft: false
 ---

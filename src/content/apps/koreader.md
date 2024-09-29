@@ -4,7 +4,7 @@ description: "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and ma
 date: 2024-04-29T20:56:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "KOReader Community"
+authors: ["KOReader Community"]
 tags: ["official"]
 draft: false
 ---

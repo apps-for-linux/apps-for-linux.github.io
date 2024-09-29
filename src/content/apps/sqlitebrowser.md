@@ -4,7 +4,7 @@ description: "High quality, visual, open source tool to create, design, and edit
 date: 2024-03-27T01:48:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "DB Browser for SQLite Team"
+authors: ["DB Browser for SQLite Team"]
 tags: ["official"]
 draft: false
 ---

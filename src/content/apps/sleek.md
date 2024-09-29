@@ -4,7 +4,7 @@ description: "Open-source (FOSS) todo manager based on the todo.txt syntax"
 date: 2024-03-28T23:38:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Robin Ahle"
+authors: ["Robin Ahle"]
 tags: ["official"]
 draft: false
 ---

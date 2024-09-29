@@ -4,7 +4,7 @@ description: "Frontend for legendary, the open source Epic Games Launcher altern
 date: 2024-03-06T19:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Rare Devs"
+authors: ["Rare Devs"]
 tags: ["official"]
 draft: false
 ---

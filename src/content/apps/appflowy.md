@@ -4,7 +4,7 @@ description: "Open-source alternative to Notion. You are in charge of your data 
 date: 2024-07-08T10:15:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "AppFlowy"
+authors: ["AppFlowy"]
 tags: ["official"]
 draft: false
 ---

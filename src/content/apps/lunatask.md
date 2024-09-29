@@ -1,11 +1,10 @@
 ---
 title: "Lunatask"
-
 description: "All-in-one encrypted to-do list, habit and mood tracker, journaling and notes app"
 date: 2024-04-30T20:23:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Michal Krejci"
+authors: ["Michal Krejci"]
 tags: ["official"]
 draft: false
 ---

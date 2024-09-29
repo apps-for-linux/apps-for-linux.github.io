@@ -4,7 +4,7 @@ description: "ArmCord is a custom client designed to enhance your Discord experi
 date: 2024-01-28T16:46:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "ArmCord"
+authors: ["ArmCord"]
 tags: ["official"]
 draft: false
 ---

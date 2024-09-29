@@ -4,7 +4,7 @@ description: "Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and
 date: 2023-09-03T23:09:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Franz Team"
+authors: ["Franz Team"]
 tags: ["official"]
 draft: false
 ---

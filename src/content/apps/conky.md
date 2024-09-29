@@ -4,7 +4,7 @@ description: "Light-weight system monitor for X, Wayland, and other things, too"
 date: 2024-04-24T22:06:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "Brenden Matthews"
+authors: ["Brenden Matthews"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Privaxy is the next generation tracker and advertisement blocker. 
 date: 2023-01-28T02:27:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Pierre Barre"
+authors: ["Pierre Barre"]
 tags: ["official"]
 draft: false
 ---

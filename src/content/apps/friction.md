@@ -4,7 +4,7 @@ description: "Powerful and versatile free and open-source motion graphics applic
 date: 2023-05-26T20:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Friction contributors"
+authors: ["Friction contributors"]
 tags: ["official"]
 draft: false
 ---

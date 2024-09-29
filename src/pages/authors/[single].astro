@@ -12,7 +12,7 @@ import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
 export async function getStaticPaths() {
     const authors = await getSinglePage("authors");
 
-    const paths = authors.map((author: any) => ({
+    const paths = authors.map((authors: any) => ({
         params: {
             single: author.slug,
         },
@@ -29,7 +29,7 @@ const apps = await getSinglePage("apps");
 const sortAppsByDate = sortByDate(apps);
 const currentApps = sortAppsByDate.filter((app) => {
     return app.data.authors
-        .map((author: string) => slugify(author))
+        .map((authors: string) => slugify(author))
         .includes(slugify(title));
 });
 ---

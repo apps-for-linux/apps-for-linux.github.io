@@ -4,7 +4,7 @@ description: "Free software that gathers information on CPU, motherboard and mor
 date: 2023-04-28T17:06:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "The Tumultuous Unicorn Of Darkness"
+authors: ["The Tumultuous Unicorn Of Darkness"]
 tags: ["official"]
 draft: false
 ---

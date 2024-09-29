@@ -5,7 +5,7 @@ description: "A beautiful feature-rich GraphQL Client"
 date: 2024-07-10T11:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Samuel Imolorhe"
+authors: ["Samuel Imolorhe"]
 tags: ["official"]
 draft: false
 ---

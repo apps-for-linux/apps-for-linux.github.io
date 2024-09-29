@@ -4,7 +4,7 @@ description: "Practical and minimal image viewer"
 date: 2023-08-16T16:57:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Benjamin O"
+authors: ["Benjamin O"]
 tags: ["official"]
 draft: false
 ---

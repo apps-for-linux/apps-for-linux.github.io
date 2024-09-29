@@ -1,11 +1,10 @@
 ---
 title: "Nuclear"
-
 description: "Streaming music player that finds free music for you"
 date: 2023-08-09T10:37:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "nukeop"
+authors: ["nukeop"]
 tags: ["official"]
 draft: false
 ---

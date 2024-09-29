@@ -4,7 +4,7 @@ description: "With this app you can control CPU turbo boost and the settings of 
 date: 2023-07-16T19:02:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "nbebaw"
+authors: ["nbebaw"]
 tags: ["official"]
 draft: false
 ---

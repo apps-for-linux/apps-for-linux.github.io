@@ -4,7 +4,7 @@ description: "The official Alephium desktop wallet."
 date: 2023-07-04T20:21:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
-author: "Alephium Team"
+authors: ["Alephium Team"]
 tags: ["official"]
 draft: false
 ---

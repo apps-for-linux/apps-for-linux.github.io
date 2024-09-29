@@ -4,7 +4,7 @@ description: "Open-source IDE for exploring and testing APIs"
 date: 2024-07-10T02:57:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Bruno Authors"
+authors: ["Bruno Authors"]
 tags: ["official"]
 draft: false
 ---

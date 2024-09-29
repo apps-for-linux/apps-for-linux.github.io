@@ -4,7 +4,7 @@ description: "Free open source office suite"
 date: 2024-05-02T14:16:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "The Document Foundation"
+authors: ["The Document Foundation"]
 tags: ["Community"]
 draft: false
 ---

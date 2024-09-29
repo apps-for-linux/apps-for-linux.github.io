@@ -4,7 +4,7 @@ description: "Fork of Chiaki with Enhancements for Steam Deck and Documentation 
 date: 2024-04-07T10:15:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Street Pea"
+authors: ["Street Pea"]
 tags: ["official"]
 draft: false
 ---

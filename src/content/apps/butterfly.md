@@ -4,7 +4,7 @@ description: "Powerful, minimalistic, cross-platform, opensource note-taking app
 date: 2024-05-07T15:03:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "LinwoodDev"
+authors: ["LinwoodDev"]
 tags: ["official"]
 draft: false
 ---

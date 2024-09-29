@@ -5,7 +5,7 @@ description: "The Modrinth App is a unique, open source launcher that allows you
 date: 2023-12-17T22:01:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Rinth"
+authors: ["Rinth"]
 tags: ["official"]
 draft: false
 ---

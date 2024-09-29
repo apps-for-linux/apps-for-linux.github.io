@@ -4,7 +4,7 @@ description: "Non-custodial Bitcoin wallet"
 date: 2024-05-08T19:23:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
-author: "Blockstream"
+authors: ["Blockstream"]
 tags: ["official"]
 draft: false
 ---

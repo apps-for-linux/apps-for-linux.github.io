@@ -4,7 +4,7 @@ description: "Free Media Player with built-in codecs"
 date: 2024-04-13T16:27:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "Ricardo Villalba"
+authors: ["Ricardo Villalba"]
 tags: ["official"]
 draft: false
 ---

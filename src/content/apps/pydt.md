@@ -4,7 +4,7 @@ description: "Electron client that helps with playing your damn turn."
 date: 2024-01-17T16:39:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Michael Rosack"
+authors: ["Michael Rosack"]
 tags: ["official"]
 draft: false
 ---

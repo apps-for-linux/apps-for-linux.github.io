@@ -4,7 +4,7 @@ description: "RetroArch is the reference frontend for the libretro API"
 date: 2024-02-03T22:48:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Florian Märkl"
+authors: ["Florian Märkl"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "GPU-accelerated cross-platform terminal emulator and multiplexer"
 date: 2024-02-03T21:32:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "Wez Furlong"
+authors: ["Wez Furlong"]
 tags: ["official"]
 draft: false
 ---

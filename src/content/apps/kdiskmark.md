@@ -4,7 +4,7 @@ description: "A simple open-source disk benchmark tool for Linux distros"
 date: 2023-06-19T10:31:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "Dmitry Sidorov"
+authors: ["Dmitry Sidorov"]
 tags: ["official"]
 draft: false
 ---

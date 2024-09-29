@@ -4,7 +4,7 @@ description: "The open-source, cross-platform API client for GraphQL, REST, WebS
 date: 2024-06-20T14:35:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Kong"
+authors: ["Kong"]
 tags: ["official"]
 draft: false
 ---

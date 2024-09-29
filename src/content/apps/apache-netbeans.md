@@ -4,7 +4,7 @@ description: "Apache NetBeans is an open source development environment, tooling
 date: 2023-12-04T21:24:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Codelerity"
+authors: ["Codelerity"]
 tags: ["Community"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Alduin is a free and open source RSS, Atom and JSON feed reader"
 date: 2023-08-08T18:45:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "AlduinApp"
+authors: ["AlduinApp"]
 tags: ["official"]
 draft: false
 ---

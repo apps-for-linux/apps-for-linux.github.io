@@ -4,7 +4,7 @@ description: "Simple RSS/ATOM feed reader"
 date: 2024-03-15T10:13:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Martin Rotter"
+authors: ["Martin Rotter"]
 tags: ["official"]
 draft: false
 ---

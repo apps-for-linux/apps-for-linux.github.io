@@ -4,7 +4,7 @@ description: "Privacy-focused note-taking application"
 date: 2024-04-26T14:15:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Daniele Rolli"
+authors: ["Daniele Rolli"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Make your budget quick, simple and private"
 date: 2023-03-07T05:59:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
-author: "One Part Rain"
+authors: ["One Part Rain"]
 tags: ["official"]
 draft: false
 ---

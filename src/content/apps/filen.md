@@ -4,7 +4,7 @@ description: "Desktop client for filen.io."
 date: 2023-05-31T14:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Filen-Cloud-Dienste"
+authors: ["Filen-Cloud-Dienste"]
 tags: ["official"]
 draft: false
 ---

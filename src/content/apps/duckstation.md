@@ -4,7 +4,7 @@ description: "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64"
 date: 2024-07-13T06:09:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Connor McLaughlin"
+authors: ["Connor McLaughlin"]
 tags: ["official"]
 draft: false
 ---

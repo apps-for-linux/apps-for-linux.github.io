@@ -4,7 +4,7 @@ description: "Quixel Bridge is a software that lets you browse, download, and ex
 date: 2023-05-19T18:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Quixel"
+authors: ["Quixel"]
 tags: ["official"]
 draft: false
 ---

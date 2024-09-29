@@ -4,7 +4,7 @@ description: "acreom is a powerful knowledge base integrated with time managemen
 date: 2024-05-02T15:24:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Acreom"
+authors: ["Acreom"]
 tags: ["official"]
 draft: false
 ---

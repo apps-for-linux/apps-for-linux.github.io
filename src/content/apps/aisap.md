@@ -4,7 +4,7 @@ description: "Tool to make sandboxing AppImages easy"
 date: 2023-10-02T09:30:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "mgord9518"
+authors: ["mgord9518"]
 tags: ["official"]
 draft: false
 ---

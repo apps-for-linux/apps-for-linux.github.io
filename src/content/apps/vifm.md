@@ -4,7 +4,7 @@ description: "Vifm is a file manager with curses interface, which provides Vim-l
 date: 2023-04-04T19:30:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
-author: "vifm Authors"
+authors: ["vifm Authors"]
 tags: ["official"]
 draft: false
 ---

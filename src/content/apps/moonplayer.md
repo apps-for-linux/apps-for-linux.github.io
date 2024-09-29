@@ -5,7 +5,7 @@ description: "All-in-One video player that can play videos from Youtube, Bilibil
 date: 2023-08-12T16:26:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "Coslyk"
+authors: ["Coslyk"]
 tags: ["Official"]
 draft: false
 ---

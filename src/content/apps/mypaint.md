@@ -1,11 +1,10 @@
 ---
 title: "MyPaint"
-
 description: "A fast and dead-simple painting app for artists"
 date: 2020-07-10T12:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "MyPaint Development Team"
+authors: ["MyPaint Development Team"]
 tags: ["official"]
 draft: false
 ---

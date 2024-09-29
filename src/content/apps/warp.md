@@ -4,7 +4,7 @@ description: "Warp is a modern, Rust-based terminal with AI built in so you and 
 date: 2024-04-09T14:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
-author: "Warp"
+authors: ["Warp"]
 tags: ["official"]
 draft: false
 ---

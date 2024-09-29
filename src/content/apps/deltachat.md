@@ -4,7 +4,7 @@ description: "Email-based instant messaging for Desktop."
 date: 2024-06-18T16:17:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Delta Chat contributors"
+authors: ["Delta Chat contributors"]
 tags: ["official"]
 draft: false
 ---

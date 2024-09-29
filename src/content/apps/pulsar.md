@@ -4,7 +4,7 @@ description: "A Community-led Hyper-Hackable Text Editor"
 date: 2024-05-17T07:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Pulsar-Edit Original work"
+authors: ["Pulsar-Edit Original work"]
 tags: ["official"]
 draft: false
 ---

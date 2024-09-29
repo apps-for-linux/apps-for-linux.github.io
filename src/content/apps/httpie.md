@@ -4,7 +4,7 @@ description: "Cross-platform API testing client for humans. Painlessly test REST
 date: 2024-01-07T00:41:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "HTTPie"
+authors: ["HTTPie"]
 tags: ["official"]
 draft: false
 ---

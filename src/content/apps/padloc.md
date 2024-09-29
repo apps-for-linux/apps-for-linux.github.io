@@ -4,7 +4,7 @@ description: "A modern, open source password manager for individuals and teams."
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "Martin Kleinschrodt"
+authors: ["Martin Kleinschrodt"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Port of Diablo and Hellfire that strives to make it simple to run 
 date: 2023-09-02T12:06:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "diasurgical"
+authors: ["diasurgical"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Vesktop is a custom Discord App aiming to give you better performa
 date: 2024-03-12T05:47:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Vendicated"
+authors: ["Vendicated"]
 tags: ["official"]
 draft: false
 ---

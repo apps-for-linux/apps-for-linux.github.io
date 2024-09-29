@@ -4,7 +4,7 @@ description: "Anytype is a personal knowledge base, a digital brain that allows 
 date: 2024-06-05T17:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Anytype"
+authors: ["Anytype"]
 tags: ["official"]
 draft: false
 ---

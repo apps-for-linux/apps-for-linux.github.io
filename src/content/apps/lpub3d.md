@@ -1,11 +1,10 @@
 ---
 title: "LPub3D"
-
 description: "An LDraw™ editor for LEGO® style digital building instructions"
 date: 2023-09-05T06:05:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Trevor Sandy"
+authors: ["Trevor Sandy"]
 tags: ["official"]
 draft: false
 ---

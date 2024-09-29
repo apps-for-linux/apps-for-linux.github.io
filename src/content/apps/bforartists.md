@@ -4,7 +4,7 @@ description: "Bforartists is a fork of the popular 3D software Blender, with the
 date: 2024-04-24T01:40:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Reiner Prokein"
+authors: ["Reiner Prokein"
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "A terminal built on web technologies"
 date: 2023-07-13T09:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
-author: "Vercel"
+authors: ["Vercel"]
 tags: ["official"]
 draft: false
 ---

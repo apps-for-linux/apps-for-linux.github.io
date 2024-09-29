@@ -4,7 +4,7 @@ description: "Free, open source, cross-platform video editor"
 date: 2024-04-14T01:39:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "Meltytech"
+authors: ["Meltytech"]
 tags: ["official"]
 draft: false
 ---

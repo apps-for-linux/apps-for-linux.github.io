@@ -4,7 +4,7 @@ description: "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLit
 date: 2024-06-21T10:47:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Jan Prochazka"
+authors: ["Jan Prochazka"]
 tags: ["official"]
 draft: false
 ---

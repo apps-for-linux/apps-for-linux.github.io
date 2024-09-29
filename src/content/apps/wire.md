@@ -4,7 +4,7 @@ description: "Wire is the most secure platform for messaging, audio, and video c
 date: 2024-04-08T14:09:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Wire Swiss"
+authors: ["Wire Swiss"]
 tags: ["official"]
 draft: false
 ---

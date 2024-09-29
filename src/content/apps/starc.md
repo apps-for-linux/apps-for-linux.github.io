@@ -4,7 +4,7 @@ description: "All in one screenwriting app"
 date: 2024-03-05T07:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Story Apps"
+authors: ["Story Apps"]
 tags: ["official"]
 draft: false
 ---

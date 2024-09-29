@@ -4,7 +4,7 @@ description: "A modern, fast and productivity driven SQL client with a focus in 
 date: 2024-07-12T09:47:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Fabio Di Stasio"
+authors: ["Fabio Di Stasio"]
 tags: ["official"]
 draft: false
 ---

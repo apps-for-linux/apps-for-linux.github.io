@@ -4,7 +4,7 @@ description: "Archipelago provides a generic framework for developing multiworld
 date: 2024-04-22T17:24:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Archipelago"
+authors: ["Archipelago"]
 tags: ["official"]
 draft: false
 ---

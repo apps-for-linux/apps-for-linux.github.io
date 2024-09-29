@@ -4,7 +4,7 @@ description: "Multi functional app to find duplicates, empty folders, similar im
 date: 2023-10-15T11:24:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
-author: "Rafał Mikrut"
+authors: ["Rafał Mikrut"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Emulator of x86-based machines based on PCem."
 date: 2024-03-21T02:01:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "86box"
+authors: ["86box"]
 tags: ["official"]
 draft: false
 ---

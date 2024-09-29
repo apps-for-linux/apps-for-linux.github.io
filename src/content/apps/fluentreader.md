@@ -4,7 +4,7 @@ description: "A modern desktop RSS reader"
 date: 2023-10-16T08:30:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Haoyuan Liu"
+authors: ["Haoyuan Liu"]
 tags: ["official"]
 draft: false
 ---

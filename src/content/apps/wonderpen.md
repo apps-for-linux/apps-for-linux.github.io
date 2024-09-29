@@ -4,7 +4,7 @@ description: "WonderPen is a professional writing app with a focused and fluid w
 date: 2023-12-04T13:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Hangzhou Tongming Technology"
+authors: ["Hangzhou Tongming Technology"]
 tags: ["official"]
 draft: false
 ---

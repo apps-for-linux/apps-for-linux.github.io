@@ -4,7 +4,7 @@ description: "Figma is the first interface design tool based in the browser, mak
 date: 2023-05-26T22:08:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Roman Chugunov"
+authors: ["Roman Chugunov"]
 tags: ["official"]
 draft: false
 ---

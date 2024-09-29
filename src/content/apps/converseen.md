@@ -4,7 +4,7 @@ description: "Converseen is a batch image converter and resizer"
 date: 2024-04-22T14:07:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
-author: "Francesco Mondello"
+authors: ["Francesco Mondello"]
 tags: ["official"]
 draft: false
 ---

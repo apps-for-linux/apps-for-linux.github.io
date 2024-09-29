@@ -4,7 +4,7 @@ description: "Python fitting assistant, cross-platform fitting tool for EVE Onli
 date: 2024-02-27T01:38:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: ""
+authors: [""]
 tags: ["official"]
 draft: false
 ---

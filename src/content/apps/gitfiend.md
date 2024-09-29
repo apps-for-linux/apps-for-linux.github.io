@@ -4,7 +4,7 @@ description: "A Git client designed for humans."
 date: 2023-11-19T13:53:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Toby Suggate"
+authors: ["Toby Suggate"]
 tags: ["official"]
 draft: false
 ---

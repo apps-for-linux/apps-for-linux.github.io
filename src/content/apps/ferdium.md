@@ -4,7 +4,7 @@ description: "All your services in one place, built by the community."
 date: 2024-05-14T07:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Ferdium Team"
+authors: ["Ferdium Team"]
 tags: ["official"]
 draft: false
 ---

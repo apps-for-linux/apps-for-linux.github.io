@@ -4,7 +4,7 @@ description: "Security-first diagramming for teams."
 date: 2024-06-28T16:38:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "JGraph"
+authors: ["JGraph"]
 tags: ["official"]
 draft: false
 ---

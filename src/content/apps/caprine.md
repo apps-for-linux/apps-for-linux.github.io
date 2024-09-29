@@ -4,7 +4,7 @@ description: "Caprine is an unofficial and privacy-focused Facebook Messenger ap
 date: 2024-04-10T02:08:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Sindre Sorhus"
+authors: ["Sindre Sorhus"]
 tags: ["official"]
 draft: false
 ---

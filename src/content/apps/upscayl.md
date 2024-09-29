@@ -4,7 +4,7 @@ description: "Free and Open Source AI Image Upscaler for Linux, MacOS and Window
 date: 2024-02-29T19:31:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Nayam Amarshe"
+authors: ["Nayam Amarshe"]
 tags: ["official"]
 draft: false
 ---

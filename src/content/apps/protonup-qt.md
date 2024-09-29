@@ -4,7 +4,7 @@ description: "Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE 
 date: 2024-04-09T20:15:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "DavidoTek"
+authors: ["DavidoTek"]
 tags: ["official"]
 draft: false
 ---

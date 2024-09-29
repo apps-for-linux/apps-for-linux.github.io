@@ -4,7 +4,7 @@ description: "Anonymous peer-to-peer instant messaging"
 date: 2024-04-16T23:47:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Blueprint for Free Speech"
+authors: ["Blueprint for Free Speech"]
 tags: ["official"]
 draft: false
 ---

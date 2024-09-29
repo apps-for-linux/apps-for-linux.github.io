@@ -4,7 +4,7 @@ description: "Blockbench is a free, modern model editor for low-poly and boxy mo
 date: 2024-02-16T23:11:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Jannis Petersen"
+authors: ["Jannis Petersen"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "File Synchronisation for Cozy on Desktop and Laptop"
 date: 2023-10-26T12:33:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "Cozy Labs"
+authors: ["Cozy Labs"]
 tags: ["community"]
 draft: false
 ---

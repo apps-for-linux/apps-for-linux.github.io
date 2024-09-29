@@ -4,7 +4,7 @@ description: "RawTherapee is a free, cross-platform raw image processing program
 date: 2024-02-16T09:19:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "The RawTherapee Team"
+authors: ["The RawTherapee Team"]
 tags: ["official"]
 draft: false
 ---

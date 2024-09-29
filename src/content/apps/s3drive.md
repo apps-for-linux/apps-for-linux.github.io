@@ -4,7 +4,7 @@ description: "Zero Knowledge E2E encrypted storage compatible with multiple prov
 date: 2024-04-11T11:11:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "S3Drive"
+authors: ["S3Drive"]
 tags: ["official"]
 draft: false
 ---

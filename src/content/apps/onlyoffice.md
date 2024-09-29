@@ -4,7 +4,7 @@ description: "Free office suite that combines text, spreadsheet and presentation
 date: 2023-02-26T15:16:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Ascensio System"
+authors: ["Ascensio System"]
 tags: ["official"]
 draft: false
 ---

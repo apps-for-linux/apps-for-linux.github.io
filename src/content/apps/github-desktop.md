@@ -4,7 +4,7 @@ description: "Fork of GitHub Desktop to support various Linux distributions"
 date: 2024-06-02T20:43:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Brendan Forster"
+authors: ["Brendan Forster"]
 tags: ["community"]
 draft: false
 ---

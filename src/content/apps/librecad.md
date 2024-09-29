@@ -4,7 +4,7 @@ description: "LibreCAD is a 2D Computer Aided Design (CAD) application for creat
 date: 2024-06-20T16:17:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "LibreCAD Contributors"
+authors: ["LibreCAD Contributors"]
 tags: ["official"]
 draft: false
 ---

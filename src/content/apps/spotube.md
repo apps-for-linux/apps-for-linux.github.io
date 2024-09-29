@@ -4,7 +4,7 @@ description: "Open source Spotify client"
 date: 2023-11-27T18:03:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "Kingkor Roy Tirtho"
+authors: ["Kingkor Roy Tirtho"]
 tags: ["official"]
 draft: false
 ---

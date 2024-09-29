@@ -4,7 +4,7 @@ description: "Cross-platform backup tool for Windows, macOS & Linux with fast, i
 date: 2023-04-16T06:46:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Kopia Authors"
+authors: ["Kopia Authors"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "An open-source remote desktop, and alternative to TeamViewer"
 date: 2024-04-07T11:12:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "RustDesk"
+authors: ["RustDesk"]
 tags: ["official"]
 draft: false
 ---

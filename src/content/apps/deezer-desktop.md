@@ -4,7 +4,7 @@ description: "An universal linux port of deezer, supporting Flatpak, Appimage, S
 date: 2024-04-16T12:19:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "Aurélien Hamy"
+authors: ["Aurélien Hamy"]
 tags: ["official"]
 draft: false
 ---

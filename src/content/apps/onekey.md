@@ -4,7 +4,7 @@ description: "Secure, open source and community driven crypto wallet runs on all
 date: 2024-03-28T06:59:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
-author: "OneKey"
+authors: ["OneKey"]
 tags: ["Official"]
 draft: false
 ---

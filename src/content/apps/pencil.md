@@ -4,7 +4,7 @@ description: "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animatio
 date: 2021-02-17T07:53:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Pencil2D"
+authors: ["Pencil2D"]
 tags: ["official"]
 draft: false
 ---

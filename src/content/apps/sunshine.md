@@ -4,7 +4,7 @@ description: "Self-hosted game stream host for Moonlight."
 date: 2024-04-07T06:32:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "LizardByte"
+authors: ["LizardByte"]
 tags: ["official"]
 draft: false
 ---

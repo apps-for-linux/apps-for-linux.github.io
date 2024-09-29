@@ -4,7 +4,7 @@ description: "The secure note taking and to-do app with synchronisation capabili
 date: 2024-04-27T16:16:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Laurent Cozic"
+authors: ["Laurent Cozic"]
 tags: ["official"]
 draft: false
 ---

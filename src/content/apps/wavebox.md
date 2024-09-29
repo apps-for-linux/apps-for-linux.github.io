@@ -4,7 +4,7 @@ description: "Wavebox, the revolutionary and feature-rich Chromium browser that'
 date: 2023-04-04T10:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Wavebox"
+authors: ["Wavebox"]
 tags: ["official"]
 draft: false
 ---

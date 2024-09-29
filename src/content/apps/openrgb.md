@@ -4,7 +4,7 @@ description: "Open source RGB lighting control that doesn't depend on manufactur
 date: 2023-07-09T03:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
-author: "Adam Honse"
+authors: ["Adam Honse"
 tags: ["official"]
 draft: false
 ---

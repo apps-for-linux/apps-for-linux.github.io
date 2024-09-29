@@ -4,7 +4,7 @@ description: "Advanced molecular editor designed for cross-platform use in compu
 date: 2024-02-10T19:12:00Z
 image: "/images/image-placeholder.png"
 categories: ["Science"]
-author: "Open Chemistry"
+authors: ["Open Chemistry"]
 tags: ["official"]
 draft: false
 ---

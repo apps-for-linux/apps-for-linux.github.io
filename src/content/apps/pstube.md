@@ -4,7 +4,7 @@ description: "Youtube video client made using Flutter"
 date: 2022-06-22T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Prateek Sunal"
+authors: ["Prateek Sunal"]
 tags: ["official"]
 draft: false
 ---

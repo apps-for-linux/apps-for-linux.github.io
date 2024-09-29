@@ -4,7 +4,7 @@ description: "A Free and open source vector graphics editor"
 date: 2023-11-25T20:20:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Inkscape Authors"
+authors: ["Inkscape Authors"]
 tags: ["official"]
 draft: false
 ---

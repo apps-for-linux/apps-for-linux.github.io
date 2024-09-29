@@ -4,7 +4,7 @@ description: "Control your PC with your phone in easy way possible"
 date: 2024-05-12T11:54:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Riva Farabi"
+authors: ["Riva Farabi"]
 tags: ["official"]
 draft: false
 ---

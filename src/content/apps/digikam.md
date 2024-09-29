@@ -4,7 +4,7 @@ description: "Professional Photo Management with Power of Open Source"
 date: 2023-03-14T23:41:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "digiKam Team"
+authors: ["digiKam Team"]
 tags: ["official"]
 draft: false
 ---

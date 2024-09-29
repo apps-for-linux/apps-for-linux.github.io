@@ -4,7 +4,7 @@ description: "Your One-Stop Publication Workbench"
 date: 2024-04-20T15:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Hendrik Erz"
+authors: ["Hendrik Erz"]
 tags: ["official"]
 draft: false
 ---

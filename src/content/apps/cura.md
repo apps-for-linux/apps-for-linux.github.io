@@ -4,7 +4,7 @@ description: "3D printer / slicing GUI built on top of the Uranium framework"
 date: 2024-04-24T17:16:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Ultimaker"
+authors: ["Ultimaker"]
 tags: ["official"]
 draft: false
 ---

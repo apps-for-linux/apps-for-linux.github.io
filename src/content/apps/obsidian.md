@@ -1,11 +1,10 @@
 ---
 title: "Obsidian"
-
 description: "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files"
 date: 2024-04-01T17:22:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Obsidian Team"
+authors: ["Obsidian Team"]
 tags: ["official"]
 draft: false
 ---

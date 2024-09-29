@@ -4,7 +4,7 @@ description: "A post-modern modal text editor."
 date: 2024-03-30T17:06:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Blaž Hrastnik"
+authors: ["Blaž Hrastnik"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Complete cross-platform Signal client"
 date: 2023-10-27T23:04:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Aaron Kimmig"
+authors: ["Aaron Kimmig"]
 tags: ["official"]
 draft: false
 ---

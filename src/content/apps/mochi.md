@@ -1,11 +1,10 @@
 ---
 title: "Mochi"
-
 description: "Take notes and make flashcards using markdown, then study them using spaced repetition."
 date: 2024-05-04T00:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Mochi Cards"
+authors: ["Mochi Cards"]
 tags: ["official"]
 draft: false
 ---

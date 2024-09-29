@@ -4,7 +4,7 @@ description: "An open-source Discord client using Firefox"
 date: 2024-06-13T08:04:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Pranay Sanghai"
+authors: ["Pranay Sanghai"]
 tags: ["official"]
 draft: false
 ---

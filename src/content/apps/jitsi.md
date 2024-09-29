@@ -4,7 +4,7 @@ description: "Secure, Simple and Scalable Video Conferences that you use as a st
 date: 2024-06-15T14:40:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Jitsi team"
+authors: ["Jitsi team"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Linphone is an open source SIP phone for voice/video calls, instan
 date: 2024-04-11T15:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Belledonne Communications"
+authors: ["Belledonne Communications"]
 tags: ["official"]
 draft: false
 ---

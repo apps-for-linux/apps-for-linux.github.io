@@ -4,7 +4,7 @@ description: "Beekeeper Studio is a cross-platform SQL editor and database manag
 date: 2024-06-17T17:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Matthew Rathbone"
+authors: ["Matthew Rathbone"]
 tags: ["official"]
 draft: false
 ---

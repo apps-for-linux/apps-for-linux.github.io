@@ -4,7 +4,7 @@ description: "Session Desktop - Onion routing based messenger."
 date: 2024-04-12T06:17:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "The Oxen Project"
+authors: ["The Oxen Project"]
 tags: ["official"]
 draft: false
 ---

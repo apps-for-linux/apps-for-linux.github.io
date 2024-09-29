@@ -4,7 +4,7 @@ description: "Krita is a professional free and open source painting program"
 date: 2023-12-06T13:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Stichting Krita Foundation"
+authors: ["Stichting Krita Foundation"]
 tags: ["official"]
 draft: false
 ---

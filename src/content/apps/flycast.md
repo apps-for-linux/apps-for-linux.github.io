@@ -4,7 +4,7 @@ description: "Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emul
 date: 2024-03-16T18:33:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Flyinghead"
+authors: ["Flyinghead"]
 tags: ["official"]
 draft: false
 ---

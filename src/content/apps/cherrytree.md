@@ -4,7 +4,7 @@ description: "A hierarchical note taking application, featuring rich text and sy
 date: 2024-06-30T17:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Giuseppe Penone"
+authors: ["Giuseppe Penone"]
 tags: ["official"]
 draft: false
 ---

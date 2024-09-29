@@ -37,7 +37,7 @@ const { className, apps, fluid } = Astro.props;
                         {authors
                             .filter((author) =>
                                 app.data.authors
-                                    .map((author: string) => slugify(author))
+                                    .map((authors: string) => slugify(author))
                                     .includes(slugify(author.data.title)),
                             )
                             .map((author) => (

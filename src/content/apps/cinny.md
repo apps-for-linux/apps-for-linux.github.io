@@ -4,7 +4,7 @@ description: "Matrix client focusing primarly on simple, elegant and secure inte
 date: 2023-11-03T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Ajay Bura"
+authors: ["Ajay Bura"]
 tags: ["official"]
 draft: false
 ---

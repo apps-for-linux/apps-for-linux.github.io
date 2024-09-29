@@ -4,7 +4,7 @@ description: "Ishiiruka fork for Super Smash Bros. Brawl"
 date: 2024-03-06T23:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Jordan Lambert"
+authors: ["Jordan Lambert"]
 tags: ["community"]
 draft: false
 ---

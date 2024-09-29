@@ -4,7 +4,7 @@ description: "Email service with a strong focus on security and privacy that let
 date: 2024-04-12T11:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Tutao"
+authors: ["Tutao"]
 tags: ["official"]
 draft: false
 ---

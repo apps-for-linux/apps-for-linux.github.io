@@ -4,7 +4,7 @@ description: "Lens is the most powerful IDE for Kubernetes developers and operat
 date: 2024-05-29T00:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "OpenLens Authors"
+authors: ["OpenLens Authors"]
 tags: ["official"]
 draft: false
 ---

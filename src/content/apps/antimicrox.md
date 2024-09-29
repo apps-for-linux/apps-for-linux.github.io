@@ -4,7 +4,7 @@ description: "Graphical program used to map gamepad keys to keyboard, mouse, scr
 date: 2024-03-10T14:03:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "AntiMicroX Authors"
+authors: ["AntiMicroX Authors"]
 tags: ["official"]
 draft: false
 ---

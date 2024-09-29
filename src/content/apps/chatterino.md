@@ -4,7 +4,7 @@ description: "Chat client for Twitch.tv"
 date: 2024-04-21T12:42:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Chatterino2 Authors"
+authors: ["Chatterino2 Authors"]
 tags: ["official"]
 draft: false
 ---

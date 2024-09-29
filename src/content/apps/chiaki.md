@@ -4,7 +4,7 @@ description: "Chiaki is a Free and Open Source Software Client for PlayStation 4
 date: 2023-08-20T13:04:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Florian Märkl"
+authors: ["Florian Märkl"]
 tags: ["official"]
 draft: false
 ---

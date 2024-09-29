@@ -5,7 +5,7 @@ description: "muffon is a cross-platform music streaming client for desktop, whi
 date: 2024-04-22T11:43:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "Aleksey Shpakovsky"
+authors: ["Aleksey Shpakovsky"]
 tags: ["official"]
 draft: false
 ---

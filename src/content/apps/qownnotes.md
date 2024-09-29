@@ -4,7 +4,7 @@ description: "Open source notepad with Markdown support and todo list manager fo
 date: 2024-05-05T16:54:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Patrizio Bekerle"
+authors: ["Patrizio Bekerle"]
 tags: ["official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "An outline font editor"
 date: 2023-01-01T09:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "FontForge Project contributors"
+authors: ["FontForge Project contributors"]
 tags: ["official"]
 draft: false
 ---

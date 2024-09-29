@@ -4,7 +4,7 @@ description: "A modern self-hosted music player"
 date: 2024-05-07T10:27:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "Jeff"
+authors: ["Jeff"]
 tags: ["community"]
 draft: false
 ---

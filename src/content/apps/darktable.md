@@ -4,7 +4,7 @@ description: "darktable is an open source photography workflow application and r
 date: 2023-06-21T00:08:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "the darktable team"
+authors: ["the darktable team"]
 tags: ["official"]
 draft: false
 ---

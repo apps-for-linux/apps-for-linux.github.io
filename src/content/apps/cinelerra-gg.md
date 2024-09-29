@@ -4,7 +4,7 @@ description: "Cinelerra GG Infinity is a free and open source video editing soft
 date: 2023-11-30T20:09:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "Cinelerra GG community"
+authors: ["Cinelerra GG community"]
 tags: ["official"]
 draft: false
 ---

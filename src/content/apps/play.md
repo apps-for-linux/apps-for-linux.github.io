@@ -4,7 +4,7 @@ description: "Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android
 date: 2024-01-26T12:01:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Jean-Philip Desjardins"
+authors: ["Jean-Philip Desjardins"]
 tags: ["official"]
 draft: false
 ---

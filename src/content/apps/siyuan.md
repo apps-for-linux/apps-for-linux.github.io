@@ -4,7 +4,7 @@ description: "A privacy-first, self-hosted, fully open source personal knowledge
 date: 2024-04-16T05:40:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Yunnan Liandi Technology"
+authors: ["Yunnan Liandi Technology"]
 tags: ["official"]
 draft: false
 ---

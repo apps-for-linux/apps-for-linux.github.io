@@ -4,7 +4,7 @@ description: "A lightweight and user-focused web browser powered by Electron"
 date: 2023-05-08T05:38:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Catalyst Developers"
+authors: ["Catalyst Developers"]
 tags: ["official"]
 draft: false
 ---

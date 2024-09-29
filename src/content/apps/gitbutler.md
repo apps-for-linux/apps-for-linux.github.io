@@ -4,7 +4,7 @@ description: "The GitButler version control client, backed by Git, powered by Ta
 date: 2024-05-06T20:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "GitButler"
+authors: ["GitButler"]
 tags: ["official"]
 draft: false
 ---

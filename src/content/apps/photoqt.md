@@ -4,7 +4,7 @@ description: "PhotoQt is a simple yet powerful and good looking image viewer, ba
 date: 2024-04-04T08:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "Lukas Spies"
+authors: ["Lukas Spies"]
 tags: ["official"]
 draft: false
 ---

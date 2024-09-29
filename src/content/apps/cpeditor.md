@@ -4,7 +4,7 @@ description: "The IDE for competitive programming."
 date: 2023-03-20T12:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "CP Editor team"
+authors: ["CP Editor team"]
 tags: ["official"]
 draft: false
 ---

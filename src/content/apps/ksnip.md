@@ -4,7 +4,7 @@ description: "ksnip the cross-platform screenshot and annotation tool"
 date: 2024-03-15T12:43:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Damir Porobić"
+authors: ["Damir Porobić"]
 tags: ["official"]
 draft: false
 ---

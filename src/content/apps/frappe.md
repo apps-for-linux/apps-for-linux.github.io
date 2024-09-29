@@ -4,7 +4,7 @@ description: "Simple, well-designed, free desktop accounting software for freela
 date: 2024-02-12T03:23:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
-author: "Frappe Technologies"
+authors: ["Frappe Technologies"]
 tags: ["official"]
 draft: false
 ---

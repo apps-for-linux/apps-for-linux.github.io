@@ -4,7 +4,7 @@ description: "Free and Open Source Reverse Engineering platform powered by Rizin
 date: 2024-03-04T16:20:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Rizin"
+authors: ["Rizin"]
 tags: ["official"]
 draft: false
 ---

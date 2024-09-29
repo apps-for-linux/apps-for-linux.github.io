@@ -4,7 +4,7 @@ description: "The swiss army chainsaw of terminal emulators."
 date: 2024-06-20T00:02:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-author: "Simon Edwards"
+authors: ["Simon Edwards"]
 tags: ["official"]
 draft: false
 ---

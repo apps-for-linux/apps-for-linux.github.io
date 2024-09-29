@@ -4,7 +4,7 @@ description: "WeekToDo is a Free and Open Source Minimalist Weekly Planner and T
 date: 2023-02-13T01:04:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Manuel Ernesto Garcia"
+authors: ["Manuel Ernesto Garcia"]
 tags: ["official"]
 draft: false
 ---

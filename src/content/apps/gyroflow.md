@@ -4,7 +4,7 @@ description: "Video stabilization using gyroscope data"
 date: 2023-11-01T20:17:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "Gyroflow Team"
+authors: ["Gyroflow Team"]
 tags: ["official"]
 draft: false
 ---

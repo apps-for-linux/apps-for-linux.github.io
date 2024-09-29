@@ -4,7 +4,7 @@ description: "The Programmers Solid 3D CAD Modeller"
 date: 2023-04-08T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "Marius Kintel"
+authors: ["Marius Kintel"]
 tags: ["official"]
 draft: false
 ---

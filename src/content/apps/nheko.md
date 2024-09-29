@@ -1,11 +1,10 @@
 ---
 title: "nheko"
-
 description: "Desktop client for Matrix using Qt and C++20"
 date: 2023-02-23T03:58:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "Nheko-reborn developers"
+authors: ["Nheko-reborn developers"]
 tags: ["official"]
 draft: false
 ---

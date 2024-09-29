@@ -28,7 +28,7 @@ const { title, authors, categories, image, date, tags } = app.data;
                             allAuthors
                                 .filter((author) =>
                                     authors
-                                        .map((author: string) =>
+                                        .map((authors: string) =>
                                             slugify(author),
                                         )
                                         .includes(slugify(author.data.title)),

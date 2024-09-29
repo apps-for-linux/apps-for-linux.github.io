@@ -4,7 +4,7 @@ description: "The mod manager for the Outer Wilds Mod Loader"
 date: 2024-03-21T05:20:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Outer Wilds Mods"
+authors: ["Outer Wilds Mods"]
 tags: ["official"]
 draft: false
 ---

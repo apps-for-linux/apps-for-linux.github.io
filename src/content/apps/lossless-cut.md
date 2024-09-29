@@ -1,11 +1,10 @@
 ---
 title: "Lossless-cut"
-
 description: "Simple and ultra fast cross platform tool for lossless trimming/cutting of video and audio files."
 date: 2023-12-22T16:18:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-author: "Mikael Finstad"
+authors: ["Mikael Finstad"]
 tags: ["official"]
 draft: false
 ---
