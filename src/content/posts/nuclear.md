@@ -13,10 +13,10 @@ Streaming music player that finds free music for you
 
 License: AGPL-3.0
 
-Web page: https://nuclear.js.org/  
-Source code: https://github.com/nukeop/nuclear
+Web page: <https://nuclear.js.org/>  
+Source code: <https://github.com/nukeop/nuclear>
 
-Donate: https://github.com/sponsors/nukeop  
-Translate: https://crowdin.com/project/nuclear  
-Report the bug: https://github.com/nukeop/nuclear/issues/new  
-Download: https://github.com/nukeop/nuclear/releases/download/v0.6.30/nuclear-v0.6.30.AppImage
+Donate: <https://github.com/sponsors/nukeop>  
+Translate: <https://crowdin.com/project/nuclear>  
+Report the bug: <https://github.com/nukeop/nuclear/issues/new>  
+Download: <https://github.com/nukeop/nuclear/releases/download/v0.6.30/nuclear-v0.6.30.AppImage>

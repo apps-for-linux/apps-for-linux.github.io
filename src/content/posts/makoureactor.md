@@ -13,7 +13,7 @@ Final Fantasy VII field archive editor
 
 License: GPL-3.0
 
-Source code: https://github.com/myst6re/makoureactor
+Source code: <https://github.com/myst6re/makoureactor>
 
-Report the bug: https://github.com/myst6re/makoureactor/issues/new  
-Download: https://github.com/myst6re/makoureactor/releases/download/2.1.0/makoureactor-continuous-gui-linux64.AppImage
+Report the bug: <https://github.com/myst6re/makoureactor/issues/new>  
+Download: <https://github.com/myst6re/makoureactor/releases/download/2.1.0/makoureactor-continuous-gui-linux64.AppImage>

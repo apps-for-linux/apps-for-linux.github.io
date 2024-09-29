@@ -13,7 +13,7 @@ Privaxy is the next generation tracker and advertisement blocker. It blocks ads 
 
 License: AGPL-3.0
 
-Source code: https://github.com/Barre/privaxy
+Source code: <https://github.com/Barre/privaxy>
 
-Report the bug: https://github.com/Barre/privaxy/issues/new
-Download: https://github.com/Barre/privaxy/releases/download/v0.5.2/privaxy_0.5.2_amd64.AppImage
+Report the bug: <https://github.com/Barre/privaxy/issues/new>
+Download: <https://github.com/Barre/privaxy/releases/download/v0.5.2/privaxy_0.5.2_amd64.AppImage>

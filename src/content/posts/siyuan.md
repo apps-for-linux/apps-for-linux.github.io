@@ -13,9 +13,9 @@ A privacy-first, self-hosted, fully open source personal knowledge management so
 
 License: AGPL-3.0
 
-Web page: https://www.libreoffice.org/
-Source code: https://github.com/siyuan-note/siyuan
+Web page: <https://www.libreoffice.org/>
+Source code: <https://github.com/siyuan-note/siyuan>
 
-Donate: https://ld246.com/sponsor
-Report the bug: https://github.com/siyuan-note/siyuan/issues/new
-Download: https://github.com/siyuan-note/siyuan/releases/download/v3.0.10/siyuan-3.0.10-linux.AppImage
+Donate: <https://ld246.com/sponsor>
+Report the bug: <https://github.com/siyuan-note/siyuan/issues/new>
+Download: <https://github.com/siyuan-note/siyuan/releases/download/v3.0.10/siyuan-3.0.10-linux.AppImage>

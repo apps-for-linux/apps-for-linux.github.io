@@ -13,10 +13,10 @@ Cross-platform libre handwritten notes app
 
 License: GPL-3.0
 
-Web page: https://saber.adil.hanney.org/
-Source code: https://github.com/saber-notes/saber/
+Web page: <https://saber.adil.hanney.org/>
+Source code: <https://github.com/saber-notes/saber/>
 
-Donate: https://github.com/sponsors/adil192
-Translate: https://github.com/saber-notes/saber?tab=readme-ov-file#translating
-Report the bug: https://github.com/saber-notes/saber/issues/new/
-Download: https://github.com/saber-notes/saber/releases/download/v0.21.3/Saber-0.21.3-x86_64.AppImage
+Donate: <https://github.com/sponsors/adil192>
+Translate: <https://github.com/saber-notes/saber?tab=readme-ov-file#translating>
+Report the bug: <https://github.com/saber-notes/saber/issues/new/>
+Download: <https://github.com/saber-notes/saber/releases/download/v0.21.3/Saber-0.21.3-x86_64.AppImage>

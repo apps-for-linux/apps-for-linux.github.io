@@ -13,9 +13,9 @@ Open-source alternative to Notion. You are in charge of your data and customizat
 
 License: AGPL-3.0
 
-Web page: https://www.appflowy.io/
-Source code: https://github.com/AppFlowy-IO/AppFlowy
+Web page: <https://www.appflowy.io/>  
+Source code: <https://github.com/AppFlowy-IO/AppFlowy>
 
-Translate: https://inlang.com/editor/github.com/AppFlowy-IO/AppFlowy
-Report the bug: https://github.com/AppFlowy-IO/AppFlowy/issues/new/
-Download: https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.6.3/AppFlowy-0.6.3-linux-x86_64.AppImage
+Translate: <https://inlang.com/editor/github.com/AppFlowy-IO/AppFlowy>  
+Report the bug: <https://github.com/AppFlowy-IO/AppFlowy/issues/new/>  
+Download: <https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.6.3/AppFlowy-0.6.3-linux-x86_64.AppImage>

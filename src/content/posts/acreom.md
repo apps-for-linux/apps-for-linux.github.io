@@ -13,7 +13,7 @@ acreom is a powerful knowledge base integrated with time management running on l
 
 License: EULA
 
-Web page: https://acreom.com/
+Web page: <https://acreom.com/>
 
-Report the bug: https://github.com/Acreom/releases/issues/new/
-Download: https://github.com/Acreom/releases/releases/download/v1.20.1/acreom-1.20.1.AppImage
+Report the bug: <https://github.com/Acreom/releases/issues/new/>
+Download: <https://github.com/Acreom/releases/releases/download/v1.20.1/acreom-1.20.1.AppImage>

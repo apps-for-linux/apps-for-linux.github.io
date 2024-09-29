@@ -13,9 +13,9 @@ Open-source software for highly secure, borderless collaboration and filesharing
 
 License: GPL-2.0
 
-Web page: https://owncloud.com/desktop-app/
-Source code: https://github.com/owncloud/client
+Web page: <https://owncloud.com/desktop-app/>
+Source code: <https://github.com/owncloud/client>
 
-Translate: https://www.transifex.com/projects/p/owncloud/
-Report the bug: https://github.com/owncloud/client/issues/new
-Download: https://download.owncloud.com/desktop/ownCloud/stable/5.2.1.13040/linux-appimage/ownCloud-5.2.1.13040-x86_64.AppImage
+Translate: <https://www.transifex.com/projects/p/owncloud/>
+Report the bug: <https://github.com/owncloud/client/issues/new>
+Download: <https://download.owncloud.com/desktop/ownCloud/stable/5.2.1.13040/linux-appimage/ownCloud-5.2.1.13040-x86_64.AppImage>

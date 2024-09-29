@@ -13,9 +13,9 @@ Electron client that helpsith playing your damn turn.
 
 License: MIT
 
-Web page: https://www.playyourdamnturn.com/
-Source code: https://github.com/pydt/client
+Web page: <https://www.playyourdamnturn.com/>
+Source code: <https://github.com/pydt/client>
 
-Donate: https://www.patreon.com/pydt
-Report the bug: https://github.com/pydt/client/issues/new
-Download: https://github.com/pydt/client/releases/download/v2.1.6/playyourdamnturn-linux-2.1.6-x86_64.AppImage
+Donate: <https://www.patreon.com/pydt>
+Report the bug: <https://github.com/pydt/client/issues/new>
+Download: <https://github.com/pydt/client/releases/download/v2.1.6/playyourdamnturn-linux-2.1.6-x86_64.AppImage>

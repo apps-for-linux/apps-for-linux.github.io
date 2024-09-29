@@ -13,9 +13,9 @@ Matrix client focusing primarly on simple, elegant and secure interface
 
 License: AGPL-3.0
 
-Web page: https://cinny.in/
-Source code: https://github.com/cinnyapp/cinny-desktop
+Web page: <https://cinny.in/>
+Source code: <https://github.com/cinnyapp/cinny-desktop>
 
-Donate: https://opencollective.com/cinny
-Report the bug: https://github.com/cinnyapp/cinny-desktop/issues/new/
-Download: https://github.com/cinnyapp/cinny-desktop/releases/download/v3.2.1/Cinny_desktop-x86_64.AppImage
+Donate: <https://opencollective.com/cinny>
+Report the bug: <https://github.com/cinnyapp/cinny-desktop/issues/new/>
+Download: <https://github.com/cinnyapp/cinny-desktop/releases/download/v3.2.1/Cinny_desktop-x86_64.AppImage>

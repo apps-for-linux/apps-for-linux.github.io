@@ -13,10 +13,10 @@ Passky is a simple, modern, lightweight, open source and secure password manager
 
 License: GPL-3.0
 
-Web page: https://passky.org/
-Source code: https://github.com/Rabbit-Company/Passky-Desktop
+Web page: <https://passky.org/>
+Source code: <https://github.com/Rabbit-Company/Passky-Desktop>
 
-Donate: https://passky.org/donation
-Translate: https://crowdin.com/project/passky
-Report the bug: https://github.com/Rabbit-Company/Passky-Desktop/issues/new
-Download: https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.1.2/Passky-8.1.2.AppImage
+Donate: <https://passky.org/donation>
+Translate: <https://crowdin.com/project/passky>
+Report the bug: <https://github.com/Rabbit-Company/Passky-Desktop/issues/new>
+Download: <https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.1.2/Passky-8.1.2.AppImage>

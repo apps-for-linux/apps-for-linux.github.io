@@ -13,9 +13,9 @@ A quick and easy to use drag and drop retro game creator for your favourite hand
 
 License: MIT
 
-Web page: https://www.gbstudio.dev/
-Source code: https://github.com/chrismaltby/gb-studio/
+Web page: <https://www.gbstudio.dev/>
+Source code: <https://github.com/chrismaltby/gb-studio/>
 
-Translate: https://github.com/chrismaltby/gb-studio?tab=readme-ov-file#note-for-translators
-Report the bug: https://github.com/chrismaltby/gb-studio/issues/new/
-Download: https://github.com/chrismaltby/gb-studio/releases/download/v4.0.0-rc.2/gb-studio-linux-x86_64.AppImage
+Translate: <https://github.com/chrismaltby/gb-studio?tab=readme-ov-file#note-for-translators>
+Report the bug: <https://github.com/chrismaltby/gb-studio/issues/new/>
+Download: <https://github.com/chrismaltby/gb-studio/releases/download/v4.0.0-rc.2/gb-studio-linux-x86_64.AppImage>

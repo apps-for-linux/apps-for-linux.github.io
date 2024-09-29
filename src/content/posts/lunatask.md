@@ -13,6 +13,6 @@ All-in-one encrypted to-do list, habit and mood tracker, journaling and notes ap
 
 License: EULA
 
-Web page: https://lunatask.app/  
+Web page: <https://lunatask.app/>  
 
-Download: https://github.com/lunatask/lunatask/releases/download/v2.0.0/Lunatask-2.0.0.AppImage
+Download: <https://github.com/lunatask/lunatask/releases/download/v2.0.0/Lunatask-2.0.0.AppImage>

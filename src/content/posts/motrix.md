@@ -13,10 +13,10 @@ Motrix is a full-featured download manager that supports downloading HTTP, FTP, 
 
 License: MIT
 
-Web page: https://motrix.app/  
-Source code: https://github.com/agalwood/Motrix
+Web page: <https://motrix.app/>  
+Source code: <https://github.com/agalwood/Motrix>
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://github.com/agalwood/Motrix/blob/master/CONTRIBUTING.md#-translation-guide  
-Report the bug: https://github.com/agalwood/Motrix/issues/new  
-Download: https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.AppImage
+Donate: <https://www.libreoffice.org/donate/>  
+Translate: <https://github.com/agalwood/Motrix/blob/master/CONTRIBUTING.md#-translation-guide>  
+Report the bug: <https://github.com/agalwood/Motrix/issues/new>  
+Download: <https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.AppImage>

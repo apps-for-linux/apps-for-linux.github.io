@@ -13,11 +13,11 @@ Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others
 
 License: MIT
 
-Web page: https://dbgate.org/
-Source code: https://github.com/dbgate/dbgate
+Web page: <https://dbgate.org/>
+Source code: <https://github.com/dbgate/dbgate>
 
-Donate: https://github.com/sponsors/dbgate
-Report the bug: https://github.com/dbgate/dbgate/issues/new/
-Download:   x86_64: https://github.com/dbgate/dbgate/releases/download/v5.3.1/dbgate-5.3.1-linux_x86_64.AppImage
-            arm64: https://github.com/dbgate/dbgate/releases/download/v5.3.1/dbgate-5.3.1-linux_arm64.AppImage
-            armv7l https://github.com/dbgate/dbgate/releases/download/v5.3.1/dbgate-5.3.1-linux_armv7l.AppImage
+Donate: <https://github.com/sponsors/dbgate>
+Report the bug: <https://github.com/dbgate/dbgate/issues/new/>
+Download:   x86_64: <https://github.com/dbgate/dbgate/releases/download/v5.3.1/dbgate-5.3.1-linux_x86_64.AppImage>
+            arm64: <https://github.com/dbgate/dbgate/releases/download/v5.3.1/dbgate-5.3.1-linux_arm64.AppImage>
+            armv7l <https://github.com/dbgate/dbgate/releases/download/v5.3.1/dbgate-5.3.1-linux_armv7l.AppImage>

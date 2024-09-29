@@ -13,10 +13,10 @@ Simple cross-platform two-factor (2FA) authenticator app for desktop
 
 License: GPL-3.0
 
-Web page: https://authme.levminer.com/
-Source code: https://github.com/Levminer
+Web page: <https://authme.levminer.com/>
+Source code: <https://github.com/Levminer>
 
-Donate: https://paypal.me/levminer
-Translate: https://github.com/Levminer/authme/issues/258#issuecomment-1909792332
-Report the bug: https://github.com/Levminer/authme/issues/new/
-Download: https://github.com/Levminer/authme/releases/download/5.2.1/authme-5.2.1-linux-x64.appimage
+Donate: <https://paypal.me/levminer>
+Translate: <https://github.com/Levminer/authme/issues/258#issuecomment-1909792332>
+Report the bug: <https://github.com/Levminer/authme/issues/new/>
+Download: <https://github.com/Levminer/authme/releases/download/5.2.1/authme-5.2.1-linux-x64.appimage>

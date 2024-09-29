@@ -13,8 +13,8 @@ Alduin is a free and open source RSS, Atom and JSON feed reader
 
 License: MIT
 
-Web page: https://alduin.stouder.io/
-Source code: https://github.com/AlduinApp/alduin
+Web page: <https://alduin.stouder.io/>
+Source code: <https://github.com/AlduinApp/alduin>
 
-Report the bug: https://github.com/AlduinApp/alduin/issues/new
-Download: https://github.com/AlduinApp/alduin/releases/download/v3.2.0/alduin_3.2.0_amd64.AppImage
+Report the bug: <https://github.com/AlduinApp/alduin/issues/new>
+Download: <https://github.com/AlduinApp/alduin/releases/download/v3.2.0/alduin_3.2.0_amd64.AppImage>

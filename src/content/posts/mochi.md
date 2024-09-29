@@ -13,6 +13,6 @@ Take notes and make flashcards using markdown, then study them using spaced repe
 
 License: EULA
 
-Web page: https://mochi.cards/  
+Web page: <https://mochi.cards/>  
 
-Download: https://mochi.cards/releases/releases/Mochi-1.17.7.AppImage
+Download: <https://mochi.cards/releases/releases/Mochi-1.17.7.AppImage>

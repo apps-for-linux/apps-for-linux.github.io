@@ -13,9 +13,9 @@ Chromium fork for linux, includes Widevine, All Codecs, Chrome Plugins, as well 
 
 License: BSD-3-Clause
 
-Web page: https://thorium.rocks/
-Source code: https://github.com/Alex313031/thorium
+Web page: <https://thorium.rocks/>
+Source code: <https://github.com/Alex313031/thorium>
 
-Donate: https://paypal.me/alex313031
-Report the bug: https://github.com/Alex313031/thorium/issues/new/
-Download: https://github.com/Alex313031/thorium/releases/download/M123.0.6312.133/Thorium_Browser_123.0.6312.133_AVX2.AppImage
+Donate: <https://paypal.me/alex313031>
+Report the bug: <https://github.com/Alex313031/thorium/issues/new/>
+Download: <https://github.com/Alex313031/thorium/releases/download/M123.0.6312.133/Thorium_Browser_123.0.6312.133_AVX2.AppImage>

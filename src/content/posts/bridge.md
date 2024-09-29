@@ -13,6 +13,6 @@ Quixel Bridge is a software that lets you browse, download, and export 3D assets
 
 License: EULA
 
-Web page: https://quixel.com/bridge
+Web page: <https://quixel.com/bridge>
 
-Download: https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage
+Download: <https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage>

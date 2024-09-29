@@ -13,6 +13,6 @@ WonderPen is a professional writing app with a focused and fluid writing experie
 
 License: EULA
 
-Web page: https://www.tominlab.com/en/wonderpen
+Web page: <https://www.tominlab.com/en/wonderpen>
 
-Download: https://file.tominlab.com/WonderPen/2.4/WonderPen_linux_x86_64_2.4.4(7328).AppImage
+Download: <https://file.tominlab.com/WonderPen/2.4/WonderPen_linux_x86_64_2.4.4(7328).AppImage>

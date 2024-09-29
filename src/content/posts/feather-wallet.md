@@ -13,8 +13,8 @@ A free and open-source Monero desktop wallet.
 
 License: BSD-3-Clause
 
-Web page: https://featherwallet.org/
-Source code: https://github.com/feather-wallet/feather
+Web page: <https://featherwallet.org/>
+Source code: <https://github.com/feather-wallet/feather>
 
-Report the bug: https://github.com/feather-wallet/feather/issues/new
-Download: https://featherwallet.org/files/releases/linux-appimage/feather-2.6.7.AppImage
+Report the bug: <https://github.com/feather-wallet/feather/issues/new>
+Download: <https://featherwallet.org/files/releases/linux-appimage/feather-2.6.7.AppImage>

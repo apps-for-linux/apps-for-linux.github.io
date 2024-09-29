@@ -13,9 +13,9 @@ Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with L
 
 License: AGPL-3.0
 
-Web page: https://upscayl.org/
-Source code: https://github.com/upscayl/upscayl
+Web page: <https://upscayl.org/>
+Source code: <https://github.com/upscayl/upscayl>
 
-Donate: https://www.buymeacoffee.com/fossisthefuture
-Report the bug: https://github.com/upscayl/upscayl/issues/new
-Download: https://github.com/upscayl/upscayl/releases/download/v2.10.0/upscayl-2.10.0-linux.AppImage
+Donate: <https://www.buymeacoffee.com/fossisthefuture>
+Report the bug: <https://github.com/upscayl/upscayl/issues/new>
+Download: <https://github.com/upscayl/upscayl/releases/download/v2.10.0/upscayl-2.10.0-linux.AppImage>

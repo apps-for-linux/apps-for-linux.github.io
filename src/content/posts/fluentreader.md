@@ -13,10 +13,10 @@ A modern desktop RSS reader
 
 License: BSD-3-Clause
 
-Web page: https://hyliu.me/fluent-reader/
-Source code: https://github.com/yang991178/fluent-reader
+Web page: <https://hyliu.me/fluent-reader/>
+Source code: <https://github.com/yang991178/fluent-reader>
 
-Donate: https://github.com/sponsors/yang991178
-Translate: https://github.com/yang991178/fluent-reader/tree/master/src/scripts/i18n/
-Report the bug: https://github.com/yang991178/fluent-reader/issues/new/
-Download: https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.1.1.4.AppImage
+Donate: <https://github.com/sponsors/yang991178>
+Translate: <https://github.com/yang991178/fluent-reader/tree/master/src/scripts/i18n/>
+Report the bug: <https://github.com/yang991178/fluent-reader/issues/new/>
+Download: <https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.1.1.4.AppImage>

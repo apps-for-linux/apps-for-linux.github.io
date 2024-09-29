@@ -13,8 +13,8 @@ A terminal built on web technologies
 
 License: MIT
 
-Web page: https://hyper.is/
-Source code: https://github.com/vercel/hyper/
+Web page: <https://hyper.is/>
+Source code: <https://github.com/vercel/hyper/>
 
-Report the bug: https://github.com/vercel/hyper/issues/new/
-Download: https://github.com/vercel/hyper/releases/download/v4.0.0-canary.5/Hyper-4.0.0-canary.5-x86_64.AppImage
+Report the bug: <https://github.com/vercel/hyper/issues/new/>
+Download: <https://github.com/vercel/hyper/releases/download/v4.0.0-canary.5/Hyper-4.0.0-canary.5-x86_64.AppImage>

@@ -13,9 +13,8 @@ Anonymous peer-to-peer instant messaging
 
 License: GPL-3.0
 
-Web page: https://www.ricochetrefresh.net/
-Source code: https://github.com/blueprint-freespeech/ricochet-refresh
+Web page: <https://www.ricochetrefresh.net/>
+Source code: <https://github.com/blueprint-freespeech/ricochet-refresh>
 
-
-Report the bug: https://github.com/blueprint-freespeech/ricochet-refresh/issues/new/
-Download: https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.23-release/ricochet-refresh-3.0.23-x86_64.appimage
+Report the bug: <https://github.com/blueprint-freespeech/ricochet-refresh/issues/new/>
+Download: <https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.23-release/ricochet-refresh-3.0.23-x86_64.appimage>

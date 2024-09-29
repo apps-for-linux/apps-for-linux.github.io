@@ -13,9 +13,9 @@ Caprine is an unofficial and privacy-focused Facebook Messenger app with many us
 
 License: MIT
 
-Web page: https://sindresorhus.com/caprine/
-Source code: https://github.com/sindresorhus/caprine
+Web page: <https://sindresorhus.com/caprine/>
+Source code: <https://github.com/sindresorhus/caprine>
 
-Donate: https://opencollective.com/sindresorhus
-Report the bug: https://github.com/sindresorhus/caprine/issues/new/
-Download: https://github.com/sindresorhus/caprine/releases/download/v2.60.1/Caprine-2.60.1.AppImage
+Donate: <https://opencollective.com/sindresorhus>
+Report the bug: <https://github.com/sindresorhus/caprine/issues/new/>
+Download: <https://github.com/sindresorhus/caprine/releases/download/v2.60.1/Caprine-2.60.1.AppImage>

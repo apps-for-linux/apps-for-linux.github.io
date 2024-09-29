@@ -13,10 +13,10 @@ Offline password manager with cross-platform synchronization
 
 License: GPL-3.0
 
-Web page: https://glitterware.github.io/Passy/
-Source code: https://github.com/GlitterWare/Passy
+Web page: <https://glitterware.github.io/Passy/>
+Source code: <https://github.com/GlitterWare/Passy>
 
-Donate: https://github.com/sponsors/GlitterWare
-Translate: https://github.com/GlitterWare/Passy/blob/main/LOCALIZATION.md
-Report the bug: https://github.com/GlitterWare/Passy/issues/new
-Download: https://github.com/GlitterWare/Passy/releases/download/v1.8.0/Passy-v1.8.0-x86-64.AppImage
+Donate: <https://github.com/sponsors/GlitterWare>
+Translate: <https://github.com/GlitterWare/Passy/blob/main/LOCALIZATION.md>
+Report the bug: <https://github.com/GlitterWare/Passy/issues/new>
+Download: <https://github.com/GlitterWare/Passy/releases/download/v1.8.0/Passy-v1.8.0-x86-64.AppImage>

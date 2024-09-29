@@ -13,8 +13,8 @@ Wavebox, the revolutionary and feature-rich Chromium browser that's built for pr
 
 License: EULA
 
-Web page: https://wavebox.io/
-Source code: https://github.com/wavebox/waveboxapp
+Web page: <https://wavebox.io/>
+Source code: <https://github.com/wavebox/waveboxapp>
 
-Report the bug: https://github.com/wavebox/issues/new
-Download: https://download.wavebox.app/stable/linux/appimage/Wavebox_10.123.9-2_x86_64.AppImage
+Report the bug: <https://github.com/wavebox/issues/new>
+Download: <https://download.wavebox.app/stable/linux/appimage/Wavebox_10.123.9-2_x86_64.AppImage>

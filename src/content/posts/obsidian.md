@@ -13,7 +13,7 @@ Obsidian is a powerful and extensible knowledge base that works on top of your l
 
 License: EULA
 
-Web page: https://obsidian.md/
+Web page: <https://obsidian.md/>
 
-Translate: https://github.com/obsidianmd/obsidian-translations
-Download: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian-1.5.12.AppImage
+Translate: <https://github.com/obsidianmd/obsidian-translations>
+Download: <https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian-1.5.12.AppImage>

@@ -13,10 +13,10 @@ An outline font editor
 
 License: GPL-3.0
 
-Web page: http://fontforge.org/
-Source code: https://github.com/fontforge/fontforge/
+Web page: <http://fontforge.org/>
+Source code: <https://github.com/fontforge/fontforge/>
 
-Donate: https://fontforge.org/en-US/donate/
-Translate: https://crowdin.com/project/fontforge
-Report the bug: https://github.com/fontforge/fontforge/issues/new/
-Download: https://github.com/fontforge/fontforge/releases/download/20230101/FontForge-2023-01-01-a1dad3e-x86_64.AppImage
+Donate: <https://fontforge.org/en-US/donate/>
+Translate: <https://crowdin.com/project/fontforge>
+Report the bug: <https://github.com/fontforge/fontforge/issues/new/>
+Download: <https://github.com/fontforge/fontforge/releases/download/20230101/FontForge-2023-01-01-a1dad3e-x86_64.AppImage>

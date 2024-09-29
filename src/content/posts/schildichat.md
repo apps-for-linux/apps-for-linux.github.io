@@ -13,9 +13,9 @@ Matrix client / Element Desktop fork
 
 License: Apache-2.0 license
 
-Web page: https://schildi.chat/desktop/
-Source code: https://github.com/SchildiChat/schildichat-desktop
+Web page: <https://schildi.chat/desktop/>
+Source code: <https://github.com/SchildiChat/schildichat-desktop>
 
-Translate: https://weblate.spiritcroc.de/projects/schildichat/
-Report the bug: https://github.com/SchildiChat/schildichat-desktop/issues/new/
-Download: https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.36-sc.3/SchildiChat-1.11.36-sc.3.AppImage
+Translate: <https://weblate.spiritcroc.de/projects/schildichat/>
+Report the bug: <https://github.com/SchildiChat/schildichat-desktop/issues/new/>
+Download: <https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.36-sc.3/SchildiChat-1.11.36-sc.3.AppImage>
