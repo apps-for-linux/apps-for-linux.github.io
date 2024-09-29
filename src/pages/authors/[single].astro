@@ -7,7 +7,7 @@ import dateFormat from "@/lib/utils/dateFormat";
 
 import { sortByDate } from "@/lib/utils/sortFunctions";
 import { humanize, slugify } from "@/lib/utils/textConverter";
-import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
+
 
 export async function getStaticPaths() {
   const authors = await getSinglePage("authors");
