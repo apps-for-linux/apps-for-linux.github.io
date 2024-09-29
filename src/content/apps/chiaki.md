@@ -1,6 +1,5 @@
 ---
 title: "Chiaki"
-meta_title: ""
 description: "Chiaki is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play"
 date: 2023-08-20T13:04:00Z
 image: "/images/image-placeholder.png"

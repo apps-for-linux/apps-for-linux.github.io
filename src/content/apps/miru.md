@@ -1,6 +1,6 @@
 ---
 title: "Miru"
-meta_title: ""
+
 description: "Stream anime torrents, real-time with no waiting for downloads"
 date: 2024-04-19T00:00:00Z
 image: "/images/image-placeholder.png"

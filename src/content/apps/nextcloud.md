@@ -1,6 +1,6 @@
 ---
 title: "Nextcloud"
-meta_title: ""
+
 description: "Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform."
 date: 2024-07-09T14:13:00Z
 image: "/images/image-placeholder.png"

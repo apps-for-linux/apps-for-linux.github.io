@@ -1,6 +1,6 @@
 ---
 title: "NightPDF"
-meta_title: ""
+
 description: "Dark Mode PDF Reader built using Electron and PDF.js"
 date: 2023-04-30T11:33:00Z
 image: "/images/image-placeholder.png"

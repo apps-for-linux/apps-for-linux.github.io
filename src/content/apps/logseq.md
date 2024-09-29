@@ -1,6 +1,6 @@
 ---
 title: "Logseq"
-meta_title: ""
+
 description: "A privacy-first, open-source platform for knowledge management and collaboration"
 date: 2024-04-23T17:00:00Z
 image: "/images/image-placeholder.png"

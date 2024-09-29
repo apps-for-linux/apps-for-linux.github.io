@@ -1,6 +1,6 @@
 ---
 title: "MyPaint"
-meta_title: ""
+
 description: "A fast and dead-simple painting app for artists"
 date: 2020-07-10T12:28:00Z
 image: "/images/image-placeholder.png"

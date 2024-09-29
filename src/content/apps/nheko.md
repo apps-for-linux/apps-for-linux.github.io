@@ -1,6 +1,6 @@
 ---
 title: "nheko"
-meta_title: ""
+
 description: "Desktop client for Matrix using Qt and C++20"
 date: 2023-02-23T03:58:00Z
 image: "/images/image-placeholder.png"

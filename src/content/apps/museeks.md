@@ -1,6 +1,6 @@
 ---
 title: "museeks"
-meta_title: ""
+
 description: "A simple, clean and cross-platform music player"
 date: 2022-09-22T19:10:00Z
 image: "/images/image-placeholder.png"

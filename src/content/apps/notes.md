@@ -1,6 +1,6 @@
 ---
 title: "Notes"
-meta_title: ""
+
 description: "Notes is an open source and cross-platform note-taking app that is both beautiful and powerful"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"

@@ -1,6 +1,6 @@
 ---
 title: "OneKeePass"
-meta_title: ""
+
 description: "OneKeePass is a cross-platform, open source and secure password manager"
 date: 2024-04-16T17:58:00Z
 image: "/images/image-placeholder.png"

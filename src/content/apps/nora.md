@@ -1,6 +1,6 @@
 ---
 title: "Nora"
-meta_title: ""
+
 description: "An elegant music player built using Electron and React"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"

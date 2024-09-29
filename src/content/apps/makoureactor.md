@@ -1,6 +1,6 @@
 ---
 title: "Makoureactor"
-meta_title: ""
+
 description: "Final Fantasy VII field archive editor"
 date: 2024-04-20T15:53:00Z
 image: "/images/image-placeholder.png"

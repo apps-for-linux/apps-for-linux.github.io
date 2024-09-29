@@ -1,6 +1,5 @@
 ---
 title: "RawTherapee"
-meta_title: ""
 description: "RawTherapee is a free, cross-platform raw image processing program"
 date: 2024-02-16T09:19:00Z
 image: "/images/image-placeholder.png"
@@ -19,5 +18,5 @@ Source code: https://github.com/Beep6581/RawTherapee
 
 Donate: https://pixls.us/support/
 Translate: https://github.com/Beep6581/RawTherapee/blob/dev/rtdata/languages/README
-Report the bug: https://github.com/Beep6581/RawTherapee/issues/new/  
+Report the bug: https://github.com/Beep6581/RawTherapee/issues/new/
 Download: https://rawtherapee.com/shared/builds/linux/RawTherapee_5.10.AppImage

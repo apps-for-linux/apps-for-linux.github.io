@@ -1,6 +1,6 @@
 ---
 title: "LMMS"
-meta_title: ""
+
 description: "Cross-platform music production software"
 date: 2020-07-04T15:27:00Z
 image: "/images/image-placeholder.png"

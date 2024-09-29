@@ -1,6 +1,5 @@
 ---
 title: "Aptakube"
-meta_title: ""
 description: "Modern, lightweight and multi-cluster Kubernetes GUI"
 date: 2023-06-18T11:40:00Z
 image: "/images/image-placeholder.png"

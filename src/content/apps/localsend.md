@@ -1,6 +1,6 @@
 ---
 title: "Localsend"
-meta_title: ""
+
 description: "Open source cross-platform alternative to AirDrop"
 date: 2024-02-26T19:10:00Z
 image: "/images/image-placeholder.png"

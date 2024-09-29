@@ -1,6 +1,5 @@
 ---
 title: "LibreWolf"
-meta_title: ""
 description: "A custom version of Firefox, focused on privacy, security and freedom."
 date: 2024-05-02T12:56:00Z
 image: "/images/image-placeholder.png"

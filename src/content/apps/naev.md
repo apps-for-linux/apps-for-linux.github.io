@@ -1,6 +1,6 @@
 ---
 title: "Naev"
-meta_title: ""
+
 description: "Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres."
 date: 2024-03-09T08:01:00Z
 image: "/images/image-placeholder.png"
