@@ -1,12 +1,12 @@
-import mdx from "@astrojs/mdx";
-import react from "@astrojs/react";
-import sitemap from "@astrojs/sitemap";
-import tailwind from "@astrojs/tailwind";
-import AutoImport from "astro-auto-import";
-import { defineConfig, squooshImageService } from "astro/config";
-import remarkCollapse from "remark-collapse";
-import remarkToc from "remark-toc";
-import config from "./src/config/config.json";
+import mdx from "@astrojs/mdx"
+import react from "@astrojs/react"
+import sitemap from "@astrojs/sitemap"
+import tailwind from "@astrojs/tailwind"
+import AutoImport from "astro-auto-import"
+import { defineConfig, squooshImageService } from "astro/config"
+import remarkCollapse from "remark-collapse"
+import remarkToc from "remark-toc"
+import config from "./src/config/config.json"
 
 // https://astro.build/config
 export default defineConfig({
@@ -51,4 +51,4 @@ export default defineConfig({
     },
     extendDefaultPlugins: true,
   },
-});
+})

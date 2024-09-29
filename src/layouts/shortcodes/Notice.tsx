@@ -1,12 +1,12 @@
-import { humanize } from "@/lib/utils/textConverter";
-import React from "react";
+import { humanize } from "@/lib/utils/textConverter"
+import React from "react"
 
 function Notice({
   type,
   children,
 }: {
-  type: string;
-  children: React.ReactNode;
+  type: string
+  children: React.ReactNode
 }) {
   return (
     <div className={`notice ${type}`}>
@@ -79,7 +79,7 @@ function Notice({
       </div>
       <div className="notice-body">{children}</div>
     </div>
-  );
+  )
 }
 
-export default Notice;
+export default Notice
