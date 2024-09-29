@@ -4,7 +4,7 @@ description: "Cross-platform libre handwritten notes app"
 date: 2024-03-31T10:23:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["Adil Hanney"
+authors: ["Adil Hanney"]
 tags: ["official"]
 draft: false
 ---

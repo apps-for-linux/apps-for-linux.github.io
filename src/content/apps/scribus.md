@@ -4,7 +4,7 @@ description: "Go-to libre desltop publishing application"
 date: 2024-01-07T22:46:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["The Scribus Team"
+authors: ["The Scribus Team"]
 tags: ["official"]
 draft: false
 ---
