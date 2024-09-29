@@ -8,9 +8,9 @@ export interface TAuthor {
     image: string;
     description: string;
     social: {
-      facebook: string;
-      twitter: string;
-      instagram: string;
+      name: string;
+      icon: string;
+      link: string;
     }
   };
   render: () => Promise<{ Content: any }>;
