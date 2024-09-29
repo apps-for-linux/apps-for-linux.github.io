@@ -1,25 +1,25 @@
-const theme = require("./src/config/theme.json")
+const theme = require("./src/config/theme.json");
 
-let font_base = Number(theme.fonts.font_size.base.replace("px", ""))
-let font_scale = Number(theme.fonts.font_size.scale)
-let h6 = font_base / font_base
-let h5 = h6 * font_scale
-let h4 = h5 * font_scale
-let h3 = h4 * font_scale
-let h2 = h3 * font_scale
-let h1 = h2 * font_scale
-let fontPrimary, fontPrimaryType, fontSecondary, fontSecondaryType
+let font_base = Number(theme.fonts.font_size.base.replace("px", ""));
+let font_scale = Number(theme.fonts.font_size.scale);
+let h6 = font_base / font_base;
+let h5 = h6 * font_scale;
+let h4 = h5 * font_scale;
+let h3 = h4 * font_scale;
+let h2 = h3 * font_scale;
+let h1 = h2 * font_scale;
+let fontPrimary, fontPrimaryType, fontSecondary, fontSecondaryType;
 if (theme.fonts.font_family.primary) {
   fontPrimary = theme.fonts.font_family.primary
     .replace(/\+/g, " ")
-    .replace(/:[ital,]*[ital@]*[wght@]*[0-9,;]+/gi, "")
-  fontPrimaryType = theme.fonts.font_family.primary_type
+    .replace(/:[ital,]*[ital@]*[wght@]*[0-9,;]+/gi, "");
+  fontPrimaryType = theme.fonts.font_family.primary_type;
 }
 if (theme.fonts.font_family.secondary) {
   fontSecondary = theme.fonts.font_family.secondary
     .replace(/\+/g, " ")
-    .replace(/:[ital,]*[ital@]*[wght@]*[0-9,;]+/gi, "")
-  fontSecondaryType = theme.fonts.font_family.secondary_type
+    .replace(/:[ital,]*[ital@]*[wght@]*[0-9,;]+/gi, "");
+  fontSecondaryType = theme.fonts.font_family.secondary_type;
 }
 
 /** @type {import('tailwindcss').Config} */
@@ -81,4 +81,4 @@ module.exports = {
       },
     }),
   ],
-}
+};
