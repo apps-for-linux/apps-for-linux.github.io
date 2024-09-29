@@ -1,66 +1,70 @@
-import React from "react"
-import config from "@/config/config.json"
-import dateFormat from "@/lib/utils/dateFormat"
-import { humanize, slugify } from "@/lib/utils/textConverter"
-import Fuse from "fuse.js"
-import { useEffect, useRef, useState } from "react"
-import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi"
-const { summary_length } = config.settings
+import React from "react";
+import config from "@/config/config.json";
+import dateFormat from "@/lib/utils/dateFormat";
+import { humanize, slugify } from "@/lib/utils/textConverter";
+import Fuse from "fuse.js";
+import { useEffect, useRef, useState } from "react";
+import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
+const { summary_length } = config.settings;
 
 export type SearchItem = {
-  slug: string
-  data: any
-  content: any
-}
+  slug: string;
+  data: any;
+  content: any;
+};
 
 interface Props {
-  searchList: SearchItem[]
+  searchList: SearchItem[];
 }
 
 interface SearchResult {
-  item: SearchItem
-  refIndex: number
+  item: SearchItem;
+  refIndex: number;
 }
 
 export default function SearchBar({ searchList }: Props) {
-  const inputRef = useRef<HTMLInputElement>(null)
-  const [inputVal, setInputVal] = useState("")
-  const [searchResults, setSearchResults] = useState<SearchResult[] | null>(null)
+  const inputRef = useRef<HTMLInputElement>(null);
+  const [inputVal, setInputVal] = useState("");
+  const [searchResults, setSearchResults] = useState<SearchResult[] | null>(
+    null,
+  );
 
   const handleChange = (e: React.FormEvent<HTMLInputElement>) => {
-    setInputVal(e.currentTarget.value)
-  }
+    setInputVal(e.currentTarget.value);
+  };
 
   const fuse = new Fuse(searchList, {
     keys: ["data.title", "data.categories", "data.tags"],
     includeMatches: true,
     minMatchCharLength: 2,
     threshold: 0.5,
-  })
+  });
 
   useEffect(() => {
-    const searchUrl = new URLSearchParams(window.location.search)
-    const searchStr = searchUrl.get("q")
-    if (searchStr) setInputVal(searchStr)
+    const searchUrl = new URLSearchParams(window.location.search);
+    const searchStr = searchUrl.get("q");
+    if (searchStr) setInputVal(searchStr);
 
     setTimeout(function () {
-      inputRef.current!.selectionStart = inputRef.current!.selectionEnd = searchStr?.length || 0
-    }, 50)
-  }, [])
+      inputRef.current!.selectionStart = inputRef.current!.selectionEnd =
+        searchStr?.length || 0;
+    }, 50);
+  }, []);
 
   useEffect(() => {
-    let inputResult = inputVal.length > 2 ? fuse.search(inputVal) : []
-    setSearchResults(inputResult)
+    let inputResult = inputVal.length > 2 ? fuse.search(inputVal) : [];
+    setSearchResults(inputResult);
 
     if (inputVal.length > 0) {
-      const searchParams = new URLSearchParams(window.location.search)
-      searchParams.set("q", inputVal)
-      const newRelativePathQuery = window.location.pathname + "?" + searchParams.toString()
-      history.pushState(null, "", newRelativePathQuery)
+      const searchParams = new URLSearchParams(window.location.search);
+      searchParams.set("q", inputVal);
+      const newRelativePathQuery =
+        window.location.pathname + "?" + searchParams.toString();
+      history.pushState(null, "", newRelativePathQuery);
     } else {
-      history.pushState(null, "", window.location.pathname)
+      history.pushState(null, "", window.location.pathname);
     }
-  }, [inputVal])
+  }, [inputVal]);
 
   return (
     <div className="min-h-[45vh]">
@@ -79,8 +83,10 @@ export default function SearchBar({ searchList }: Props) {
       {inputVal.length > 1 && (
         <div className="my-6 text-center">
           Found {searchResults?.length}
-          {searchResults?.length && searchResults?.length === 1 ? " result" : " results"} for '
-          {inputVal}'
+          {searchResults?.length && searchResults?.length === 1
+            ? " result"
+            : " results"}{" "}
+          for '{inputVal}'
         </div>
       )}
 
@@ -135,10 +141,12 @@ export default function SearchBar({ searchList }: Props) {
                 {item.data.title}
               </a>
             </h3>
-            <p className="text-text">{item.content?.slice(0, Number(summary_length))}...</p>
+            <p className="text-text">
+              {item.content?.slice(0, Number(summary_length))}...
+            </p>
           </div>
         ))}
       </div>
     </div>
-  )
+  );
 }

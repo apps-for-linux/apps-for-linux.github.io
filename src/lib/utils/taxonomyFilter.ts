@@ -1,6 +1,8 @@
-import { slugify } from "@/lib/utils/textConverter"
+import { slugify } from "@/lib/utils/textConverter";
 
-const taxonomyFilter = (apps: any[], name: string, key: any) =>
-  apps.filter(app => app.data[name].map((name: string) => slugify(name)).includes(key))
+const taxonomyFilter = (posts: any[], name: string, key: any) =>
+  posts.filter((post) =>
+    post.data[name].map((name: string) => slugify(name)).includes(key)
+  );
 
-export default taxonomyFilter
+export default taxonomyFilter;

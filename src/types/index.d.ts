@@ -1,35 +1,35 @@
 export interface TAuthor {
-  id: string
-  slug: string
-  body: string
-  collection: string
+  id: string;
+  slug: string;
+  body: string;
+  collection: string;
   data: {
-    title: string
-    image: string
-    description: string
+    title: string;
+    image: string;
+    description: string;
     social: {
-      name: string
-      icon: string
-      link: string
+      facebook: string;
+      twitter: string;
+      instagram: string;
     }
-  }
-  render: () => Promise<{ Content: any }>
+  };
+  render: () => Promise<{ Content: any }>;
 }
 
 export interface TApp {
-  id: string
-  slug: string
-  body: string
-  collection: string
+  id: string;
+  slug: string;
+  body: string;
+  collection: string;
   data: {
-    title: string
-    description: string
-    date: any
-    image: string
-    authors: string[]
-    categories: string[]
-    tags: string[]
-    draft: boolean
-  }
-  render: () => Promise<{ Content: any }>
+    title: string;
+    description: string;
+    date: any;
+    image: string;
+    authors: string[];
+    categories: string[];
+    tags: string[];
+    draft: boolean;
+  };
+  render: () => Promise<{ Content: any }>;
 }
