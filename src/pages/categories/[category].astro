@@ -10,11 +10,11 @@ import { humanize } from "@/lib/utils/textConverter";
 export async function getStaticPaths() {
     const categories = await getTaxonomy("apps", "categories");
 
-    return categories.map((category) => {
-        return {
-            params: { category },
-        };
-    });
+  return categories.map((category) => {
+    return {
+      params: { category },
+    };
+  });
 }
 
 const { category } = Astro.params;
@@ -27,11 +27,11 @@ const title = humanize(category || "");
 ---
 
 <Base title={title || "Category"}>
-    <div class="section">
-        <div class="container">
-            <p class="text-center text-2xl mb-4">Showing Apps From</p>
-            <h1 class="h2 mb-16 text-center text-primary">{title}</h1>
-            <Apps apps={sortedApps} fluid={false} />
-        </div>
+  <div class="section">
+    <div class="container">
+      <p class="text-center text-2xl mb-4">Showing Apps From</p>
+      <h1 class="h2 mb-16 text-center text-primary">{title}</h1>
+      <Apps apps={sortedApps} fluid={false} />
     </div>
+  </div>
 </Base>

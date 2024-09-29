@@ -9,17 +9,17 @@ const getApps = (await getSinglePage("apps")) as TApp[];
 const appsSlug = getApps.map((item) => item.slug);
 
 export async function getStaticPaths() {
-    const apps = await getSinglePage("apps");
-    const pages = await getSinglePage("pages");
-    const allPages = [...pages, ...apps];
+  const apps = await getSinglePage("apps");
+  const pages = await getSinglePage("pages");
+  const allPages = [...pages, ...apps];
 
-    const paths = allPages.map((page: any) => ({
-        params: {
-            regular: page.slug,
-        },
-        props: { page },
-    }));
-    return paths;
+  const paths = allPages.map((page: any) => ({
+    params: {
+      regular: page.slug,
+    },
+    props: { page },
+  }));
+  return paths;
 }
 
 const { page } = Astro.props;
@@ -27,16 +27,16 @@ const { title, meta_title, description, image } = page.data;
 ---
 
 <Base
-    title={title}
-    meta_title={meta_title}
-    description={description}
-    image={image}
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
 >
-    {
-        appsSlug.includes(page.slug) ? (
-            <AppSingle app={page} />
-        ) : (
-            <Default data={page} />
-        )
-    }
+  {
+    appsSlug.includes(page.slug) ? (
+      <AppSingle app={page} />
+    ) : (
+      <Default data={page} />
+    )
+  }
 </Base>
