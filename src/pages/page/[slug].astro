@@ -7,18 +7,18 @@ import { getSinglePage } from "@/lib/contentParser.astro";
 import { sortByDate } from "@/lib/utils/sortFunctions";
 
 export async function getStaticPaths() {
-  const apps = await getSinglePage("apps");
-  const totalPages = Math.ceil(apps.length / config.settings.pagination);
-  const paths = [];
+    const apps = await getSinglePage("apps");
+    const totalPages = Math.ceil(apps.length / config.settings.pagination);
+    const paths = [];
 
-  for (let i = 1; i < totalPages; i++) {
-    paths.push({
-      params: {
-        slug: (i + 1).toString(),
-      },
-    });
-  }
-  return paths;
+    for (let i = 1; i < totalPages; i++) {
+        paths.push({
+            params: {
+                slug: (i + 1).toString(),
+            },
+        });
+    }
+    return paths;
 }
 
 const { slug } = Astro.params;
@@ -32,10 +32,10 @@ const currentApps = sortedApps.slice(indexOfFirstApp, indexOfLastApp);
 ---
 
 <Base>
-  <section class="section">
-    <div class="container">
-      <Apps className="mb-16" apps={currentApps} />
-      <Pagination totalPages={totalPages} currentPage={currentPage} />
-    </div>
-  </section>
+    <section class="section">
+        <div class="container">
+            <Apps className="mb-16" apps={currentApps} />
+            <Pagination totalPages={totalPages} currentPage={currentPage} />
+        </div>
+    </section>
 </Base>
