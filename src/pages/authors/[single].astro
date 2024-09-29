@@ -50,7 +50,7 @@ const currentApps = sortAppsByDate.filter((app) => {
                     <div
                         class={`row gy-4 ${currentApps.length < 3 ? "justify-center" : ""}`}
                     >
-                        {currentApps.map((app: any_i) => (
+                        {currentApps.map((app: any_i: number) => (
                             <div class="col-12 sm:col-6 lg:col-4">
                                 {app.data.image && (
                                     <a
@@ -76,10 +76,7 @@ const currentApps = sortAppsByDate.filter((app) => {
                                         <>
                                             <ul>
                                                 {app.data.categories.map(
-                                                    (
-                                                        category: string,
-                                                        i: number,
-                                                    ) => (
+                                                    (category: string, i: number) => (
                                                         <li class="inline-block">
                                                             <a
                                                                 href={`/categories/${slugify(category)}`}
