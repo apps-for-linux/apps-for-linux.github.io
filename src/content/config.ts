@@ -5,12 +5,11 @@ const postsCollection = defineCollection({
   schema: z.object({
     id: z.string().optional(),
     title: z.string(),
-    meta_title: z.string().optional(),
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    authors: z.array(z.string()).default(["admin"]),
     categories: z.array(z.string()).default(["others"]),
+    authors: z.array(z.string()).default(["admin"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
   }),
@@ -21,7 +20,6 @@ const authorsCollection = defineCollection({
   schema: z.object({
     id: z.string().optional(),
     title: z.string(),
-    meta_title: z.string().optional(),
     image: z.string().optional(),
     description: z.string().optional(),
     social: z
