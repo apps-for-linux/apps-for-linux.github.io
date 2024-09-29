@@ -1,7 +1,6 @@
 ---
 title: Blockstream
 description: Blockstream is the global leader in Bitcoin and blockchain technology. Our products and services form the foundations for the financial infrastructure of the future.
-
 social:
   - name: Web
     icon: FaGlobe

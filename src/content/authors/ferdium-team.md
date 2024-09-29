@@ -1,7 +1,6 @@
 ---
 title: Ferdium Team
 description: The project is driven by all maintainers, contributors and users
-
 social:
   - name: github
     icon: FaGithub

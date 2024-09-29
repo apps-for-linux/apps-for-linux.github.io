@@ -1,7 +1,6 @@
 ---
 title: Kdenlive Team
 description: Kdenlive is an acronym for KDE Non-Linear Video Editor
-
 social:
   - name: Web
     icon: FaGlobe

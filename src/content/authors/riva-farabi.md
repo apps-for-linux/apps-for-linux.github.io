@@ -1,7 +1,6 @@
 ---
 title: Riva Farabi
 description: A noob dev for eternity
-
 social:
   - name: github
     icon: FaGithub

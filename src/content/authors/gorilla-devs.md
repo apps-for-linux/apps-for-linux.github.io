@@ -2,7 +2,6 @@
 title: Gorilla Devs
 description: GorillaDevs is creating open source software
 
-
 social:
   - name: web
     icon: FaGlobe

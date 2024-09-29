@@ -1,7 +1,6 @@
 ---
 title: The FreeCAD Team
 description: The FreeCAD project
-
 social:
   - name: github
     icon: FaGithub

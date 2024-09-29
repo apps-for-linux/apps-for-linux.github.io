@@ -1,7 +1,6 @@
 ---
 title: Streetwriters
 description: A community of writers for writers
-
 social:
   - name: Web
     icon: FaGlobe

@@ -1,7 +1,6 @@
 ---
 title: Marius Kintel
 description: I'm a generalist software engineer with >20 years of professional experience.
-
 social:
   - name: web
     icon: FaGlobe

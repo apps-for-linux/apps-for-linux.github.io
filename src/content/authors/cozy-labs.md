@@ -1,7 +1,6 @@
 ---
 title: Cozy Labs
 description: Cozy Desktop is maintained by Cozy Labs.
-
 social:
   - name: Web
     icon: FaGlobe

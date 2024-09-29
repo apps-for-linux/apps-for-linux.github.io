@@ -2,7 +2,6 @@
 title: Ruby Mamistvalove
 description: Founder of Notes
 
-
 social:
   - name: Web
     icon: FaGlobe

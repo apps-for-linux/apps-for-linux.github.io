@@ -1,7 +1,6 @@
 ---
 title: Catalyst Developers
 description: Development of the Catalyst Project and the software in the suite.
-
 social:
   - name: Web
     icon: FaGlobe

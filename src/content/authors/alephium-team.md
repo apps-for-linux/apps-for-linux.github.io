@@ -1,7 +1,6 @@
 ---
 title: alephium team
 description: Innovative sharding meets expressive sUTXO and efficient Proof-of-Less-Work to secure scalable dApps for real-world use cases.
-
 social:
   - name: web
     icon: FaGlobe

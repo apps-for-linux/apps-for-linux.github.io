@@ -1,7 +1,6 @@
 ---
 title: Anatoliy Kashkin
 description: I develop native mobile applications for Android and iOS. It's my main job now.
-
 social:
   - name: web
     icon: FaGlobe

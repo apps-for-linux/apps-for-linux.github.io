@@ -1,7 +1,6 @@
 ---
 title: Sindre Sorhus
 description: Full-Time Open-Sourcerer. Focuses on Swift & JavaScript. Makes macOS apps, CLI tools, npm packages.
-
 social:
   - name: Web
     icon: FaGlobe

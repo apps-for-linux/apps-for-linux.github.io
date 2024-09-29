@@ -1,7 +1,6 @@
 ---
 title: EMQX Team
 description: Open-source IoT data infrastructure software provider
-
 social:
   - name: web
     icon: FaGlobe

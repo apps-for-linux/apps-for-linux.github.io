@@ -1,7 +1,6 @@
 ---
 title: Laurent Cozic
 description: Open-source developer working on projects related to Node.js, React Native and Electron, with funding and support from the community
-
 social:
   - name: github
     icon: FaGithub

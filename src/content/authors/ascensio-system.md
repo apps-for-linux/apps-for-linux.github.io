@@ -1,7 +1,6 @@
 ---
 title: Ascensio System
 description: ONLYOFFICE is a project developed by experienced IT experts from Ascensio System SIA, leading IT company with headquarters in Riga, Latvia.
-
 social:
   - name: Web
     icon: FaGlobe

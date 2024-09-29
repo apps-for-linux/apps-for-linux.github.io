@@ -1,7 +1,6 @@
 ---
 title: BitWarden
 description: Make Your Online Experience Safer, Faster, and More Enjoyable
-
 social:
   - name: Web
     icon: FaGlobe

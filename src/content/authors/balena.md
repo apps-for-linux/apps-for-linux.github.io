@@ -1,7 +1,6 @@
 ---
 title: balena
 description: Balena brings the benefits of Linux containers to the IoT. Develop iteratively, deploy safely, and manage at scale.
-
 social:
   - name: Web
     icon: FaGlobe

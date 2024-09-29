@@ -1,7 +1,6 @@
 ---
 title: GAMS Development
 description: Best in class mathematical modeling
-
 social:
   - name: Web
     icon: FaGlobe

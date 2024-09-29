@@ -1,7 +1,6 @@
 ---
 title: Archipelago
 description: Archipelago World Code Owners
-
 social:
   - name: github
     icon: FaGithub

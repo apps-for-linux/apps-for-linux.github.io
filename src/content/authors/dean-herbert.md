@@ -1,7 +1,6 @@
 ---
 title: Dean Herbert
 description: Creator of OSU
-
 social:
   - name: web
     icon: FaGlobe

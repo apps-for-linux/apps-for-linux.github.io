@@ -1,7 +1,6 @@
 ---
 title: Pranay Sanghai
 description: Creator of Datcord
-
 social:
   - name: Web
     icon: FaGlobe

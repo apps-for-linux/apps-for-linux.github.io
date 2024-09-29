@@ -1,7 +1,6 @@
 ---
 title: Tien Do Nam
 description: I am creator of LocalSend, slang, and Refena.
-
 social:
   - name: web
     icon: FaGlobe

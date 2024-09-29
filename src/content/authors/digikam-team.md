@@ -1,7 +1,6 @@
 ---
 title: digiKam Team
 description: We Digitize You. Security First.
-
 social:
   - name: Web
     icon: FaGlobe

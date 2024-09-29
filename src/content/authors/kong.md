@@ -1,7 +1,6 @@
 ---
 title: Kong
 description: The Cloud Connectivity Company. Community Driven & Enterprise Adopted.
-
 social:
   - name: Web
     icon: FaGlobe

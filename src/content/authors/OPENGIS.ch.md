@@ -1,7 +1,6 @@
 ---
 title: OPENGIS.ch
 description: QGIS, QField and other exciting challenges
-
 social:
   - name: web
     icon: FaGlobe

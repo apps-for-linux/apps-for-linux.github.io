@@ -1,7 +1,6 @@
 ---
 title: Jordan Lambert
 description: Maintainer of FPM-AppImage
-
 social:
   - name: github
     icon: FaGithub

@@ -1,7 +1,6 @@
 ---
 title: Quixel
 description: We capture the World
-
 social:
   - name: Web
     icon: FaGlobe

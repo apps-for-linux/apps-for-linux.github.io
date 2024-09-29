@@ -1,7 +1,6 @@
 ---
 title: Simon Edwards
-description: Extraterm is maintained by sedwards2009
-social:
+description: Extraterm is maintained by sedwards2009social:
   - name: github
     icon: FaGithub
     link: https://github.com/sedwards2009

@@ -1,7 +1,6 @@
 ---
 title: Wavebox
 description: Boost productivity & save time when working across all your favorite web apps
-
 social:
   - name: web
     icon: FaGlobe

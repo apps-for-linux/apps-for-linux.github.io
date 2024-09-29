@@ -1,7 +1,6 @@
 ---
 title: DB Browser for SQLite Team
 description: Creator of DB Browser for SQLite Team
-
 social:
   - name: web
     icon: FaGlobe

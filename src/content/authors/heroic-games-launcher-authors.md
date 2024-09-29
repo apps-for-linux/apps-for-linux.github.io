@@ -1,7 +1,6 @@
 ---
 title: Heroic Games Launcher Authors
 description: An alternative GOG and Epic Games Launcher for Linux, Windows and macOS
-
 social:
   - name: Web
     icon: FaGlobe

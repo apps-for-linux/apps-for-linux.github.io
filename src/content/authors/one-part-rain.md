@@ -1,7 +1,6 @@
 ---
 title: One Part Rain
 description: Four parts laughter, three parts work, two parts imagination, and one part rain
-
 social:
   - name: Web
     icon: FaGlobe

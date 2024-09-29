@@ -1,7 +1,6 @@
 ---
 title: vifm Authors
 description: Developers of Vifm
-
 social:
   - name: github
     icon: FaGithub

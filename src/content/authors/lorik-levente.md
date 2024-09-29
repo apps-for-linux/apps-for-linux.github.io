@@ -1,7 +1,6 @@
 ---
 title: Lőrik Levente
 description: Currently working on Authme
-
 social:
   - name: web
     icon: FaGlobe

@@ -2,7 +2,6 @@
 title: Filen Cloud Dienste
 description: Zero knowledge end-to-end encrypted cloud storage, redefined.
 
-
 social:
   - name: Web
     icon: FaGlobe

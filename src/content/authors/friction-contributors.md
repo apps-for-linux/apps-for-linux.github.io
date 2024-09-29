@@ -1,7 +1,6 @@
 ---
 title: Friction contributors
 description: Friction is an open-source, vector-based application designed for creating web animations and videos.
-
 social:
   - name: github
     icon: FaGithub

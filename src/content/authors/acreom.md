@@ -1,7 +1,6 @@
 ---
 title: acreom
 description: Team which develop acreom
-
 social:
   - name: web
     icon: FaGlobe

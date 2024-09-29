@@ -1,7 +1,6 @@
 ---
 title: Jitsi team
 description: Author of the fre:ac audio converter
-
 social:
   - name: github
     icon: FaGithub

@@ -1,7 +1,6 @@
 ---
 title: Ultimaker
 description: World class open source 3D printers!
-
 social:
   - name: Web
     icon: FaGlobe

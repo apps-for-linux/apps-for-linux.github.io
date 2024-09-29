@@ -1,7 +1,6 @@
 ---
 title: SimpleX Chat
 description: Creator of SimpleX Chat
-
 social:
   - name: github
     icon: FaGithub

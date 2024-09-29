@@ -1,7 +1,6 @@
 ---
 title: Jan Prochazka
 description: Creator of DbGate. Passionate whitewater kayaker.
-
 social:
   - name: Web
     icon: FaGlobe

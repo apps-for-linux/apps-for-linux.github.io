@@ -1,7 +1,6 @@
 ---
 title: Perry Mitchell
 description: Aussie web/app/platform developer. @LeadooMT Principal Engineer, @buttercup creator
-
 social:
   - name: Web
     icon: FaGlobe

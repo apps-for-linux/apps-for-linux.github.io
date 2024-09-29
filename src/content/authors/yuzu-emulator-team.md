@@ -1,7 +1,6 @@
 ---
 title: yuzu emulator team
 description: Team which develop yuzu
-
 social:
   - name: github
     icon: FaGithub

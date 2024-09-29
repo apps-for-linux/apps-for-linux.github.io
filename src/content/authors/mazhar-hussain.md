@@ -1,7 +1,6 @@
 ---
 title: Mazhar Hussain
 description: Open Source and Libre Software Developer
-
 social:
   - name: Web
     icon: FaGlobe

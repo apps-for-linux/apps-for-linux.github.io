@@ -1,7 +1,6 @@
 ---
 title: OpenLens Authors
 description: Lens is a product by Mirantis
-
 social:
   - name: web
     icon: FaGlobe

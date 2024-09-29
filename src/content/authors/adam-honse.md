@@ -1,7 +1,6 @@
 ---
 title: Adam Honse
-description: Creator of OpenRGB
-social:
+description: Creator of OpenRGBsocial:
   - name: github
     icon: FaGithub
     link: https://github.com/CalcProgrammer1

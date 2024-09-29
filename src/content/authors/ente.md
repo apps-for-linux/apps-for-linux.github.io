@@ -1,7 +1,6 @@
 ---
 title: Ente Technologies
 description: End-to-end encryption for photos and more.
-
 social:
   - name: Web
     icon: FaGlobe

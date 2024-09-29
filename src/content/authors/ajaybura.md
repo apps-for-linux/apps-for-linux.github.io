@@ -1,7 +1,6 @@
 ---
 title: Ajay Bura
 description: Web Designer & Developer in love with music, cycling and discovering new worlds and cultures.
-
 social:
   - name: Web
     icon: FaGlobe

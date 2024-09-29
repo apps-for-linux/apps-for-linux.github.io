@@ -1,7 +1,6 @@
 ---
 title: Florian Märkl
 description: Creator of Chiaki
-
 social:
   - name: Web
     icon: FaGlobe

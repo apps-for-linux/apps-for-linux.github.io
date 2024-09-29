@@ -1,7 +1,6 @@
 ---
 title: WerWolv
 description: I'm a 25 year old embedded systems electronics engineer
-
 social:
   - name: web
     icon: FaGlobe

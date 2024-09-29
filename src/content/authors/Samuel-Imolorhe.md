@@ -1,7 +1,6 @@
 ---
 title: Samuel Imolorhe
 description: Problem Solver. Frontend Developer. Made Altair GraphQL Client.
-
 social:
   - name: github
     icon: FaGithub

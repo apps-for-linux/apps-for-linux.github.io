@@ -1,7 +1,6 @@
 ---
 title: Obsidian Team
 description: We're a small team focused on helping you think better.
-
 social:
   - name: Web
     icon: FaGlobe

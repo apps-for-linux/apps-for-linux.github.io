@@ -1,7 +1,6 @@
 ---
 title: Open Chemistry
 description: The Open Chemistry project offers a suite of permissively licensed cross-platform tools that provide reusable libraries and end-user applications for computational chemistry, materials science, and related areas.
-
 social:
   - name: web
     icon: FaGlobe

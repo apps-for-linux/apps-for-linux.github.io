@@ -1,7 +1,6 @@
 ---
 title: Arduino SA
 description: This organization hosts the various open-source projects managed by the Arduino team
-
 social:
   - name: Web
     icon: FaGlobe

@@ -1,7 +1,6 @@
 ---
 title: Francesco Mondello
 description: Welcome to Fasterland
-
 social:
   - name: Web
     icon: FaGlobe

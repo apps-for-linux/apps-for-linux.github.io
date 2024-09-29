@@ -1,7 +1,6 @@
 ---
 title: ArchGPT
 description: Architecture for Reasoning and Computing over Hypergraph and the Yoneda perspective
-
 social:
   - name: Web
     icon: FaGlobe

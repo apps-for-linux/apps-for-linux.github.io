@@ -1,7 +1,6 @@
 ---
 title: Brendan Forster
 description: Staff Engineer @github. Recovering Open Source Cat Herder.
-
 social:
   - name: web
     icon: FaGlobe

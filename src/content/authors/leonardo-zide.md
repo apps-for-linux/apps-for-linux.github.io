@@ -1,7 +1,6 @@
 ---
 title: Leonardo Zide
 description: Developer and maintainer LeoCAD
-
 social:
   - name: github
     icon: FaGithub

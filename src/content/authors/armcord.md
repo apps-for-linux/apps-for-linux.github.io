@@ -1,7 +1,6 @@
 ---
 title: ArmCord
 description: This organization hosts the various open-source projects managed by the Arduino team
-
 social:
   - name: github
     icon: FaGithub

@@ -1,7 +1,6 @@
 ---
 title: MyPaint Development Team
 description: Now anyone can pick up MyPaint and draw to their heart’s content!
-
 social:
   - name: web
     icon: FaGlobe

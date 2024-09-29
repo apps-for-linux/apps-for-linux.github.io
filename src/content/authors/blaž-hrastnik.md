@@ -1,7 +1,6 @@
 ---
 title: Blaž Hrastnik
 description: Software engineer residing in Tokyo
-
 social:
   - name: Web
     icon: FaGlobe

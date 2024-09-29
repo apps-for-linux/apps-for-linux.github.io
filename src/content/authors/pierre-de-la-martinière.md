@@ -1,7 +1,6 @@
 ---
 title: Pierre de la Martinière,
 description: French guy, based in Zurich, Switzerland, front-end developer, but also a photographer and a musician
-
 social:
   - name: web
     icon: FaGlobe

@@ -1,7 +1,6 @@
 ---
 title: David Morais
 description: Software Engineer and Open Source enthusiast. Developer and maintainer of ksnip and kImageAnnotator.
-
 social:
   - name: Web
     icon: FaGlobe

@@ -1,7 +1,6 @@
 ---
 title: Inkscape Authors
 description: A vector drawing app
-
 social:
   - name: Web
     icon: FaGlobe

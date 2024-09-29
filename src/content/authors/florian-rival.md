@@ -2,7 +2,6 @@
 title: Florian Rival
 description: Making game building accessible to everyone with @GDevelopApp the open-source and no-code game engine.
 
-
 social:
   - name: Web
     icon: FaGlobe

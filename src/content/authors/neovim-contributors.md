@@ -1,7 +1,6 @@
 ---
 title: Neovim contributors
 description: Code contributors which develop and maintain Neovim
-
 social:
   - name: github
     icon: FaGithub

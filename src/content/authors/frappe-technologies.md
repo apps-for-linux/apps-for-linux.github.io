@@ -1,7 +1,6 @@
 ---
 title: Frappe Technologies
 description: We build world class open-source software products.
-
 social:
   - name: Web
     icon: FaGlobe

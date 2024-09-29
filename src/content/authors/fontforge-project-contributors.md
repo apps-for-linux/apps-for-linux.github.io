@@ -1,7 +1,6 @@
 ---
 title: FontForge Project contributors
 description: Creator of Flacon
-
 social:
   - name: web
     icon: FaGlobe

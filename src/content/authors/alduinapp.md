@@ -1,7 +1,6 @@
 ---
 title: Xavier Stouder
 description: IT Student working with @nodejs. Self-proclaimed cool dude.
-
 social:
   - name: web
     icon: FaGlobe

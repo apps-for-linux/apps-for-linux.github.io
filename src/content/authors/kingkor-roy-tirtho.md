@@ -1,7 +1,6 @@
 ---
 title: Kingkor Roy Tirtho
 description: Frontend developer who's weapon of choice is Flutter and for Millie attacks, I use NextJS.
-
 social:
   - name: web
     icon: FaGlobe

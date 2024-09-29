@@ -1,7 +1,6 @@
 ---
 title: Avidemux Authors
 description: Multiplatform Sw Engineer
-
 social:
   - name: github
     icon: FaGithub

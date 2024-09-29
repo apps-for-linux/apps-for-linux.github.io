@@ -1,7 +1,6 @@
 ---
 title: LinwoodDev
 description: Simple to use software for everyone
-
 social:
   - name: Web
     icon: FaGlobe

@@ -1,7 +1,6 @@
 ---
 title: Manuel Ernesto Garcia
 description: Software Engineer and Entrepreneur
-
 social:
   - name: web
     icon: FaGlobe

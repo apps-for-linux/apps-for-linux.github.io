@@ -1,7 +1,6 @@
 ---
 title: Wez Furlong
 description: I'm a software engineer from England living in Phoenix, Arizona.
-
 social:
   - name: web
     icon: FaGlobe

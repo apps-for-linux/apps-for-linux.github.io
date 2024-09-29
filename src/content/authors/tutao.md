@@ -1,7 +1,6 @@
 ---
 title: Tutao
 description: Developers of Tuta
-
 social:
   - name: Web
     icon: FaGlobe

@@ -1,7 +1,6 @@
 ---
 title: Giuseppe Penone
-description: Creator of CherryTree
-social:
+description: Creator of CherryTreesocial:
   - name: Web
     icon: FaGlobe
     link: https://www.giuspen.net/

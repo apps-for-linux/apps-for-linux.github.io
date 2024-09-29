@@ -1,7 +1,6 @@
 ---
 title: Adil Hanney
 description: Computer Science and Maths student at the University of Manchester
-
 social:
   - name: web
     icon: FaGlobe

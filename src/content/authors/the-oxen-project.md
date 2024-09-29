@@ -2,7 +2,6 @@
 title: The Oxen Project
 description: Builders of $OXEN, Session, and Lokinet.
 
-
 social:
   - name: github
     icon: FaGithub

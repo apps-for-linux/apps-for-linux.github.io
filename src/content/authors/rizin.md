@@ -1,7 +1,6 @@
 ---
 title: Rizin
 description: Rizin is a free and open-source Reverse Engineering framework
-
 social:
   - name: Web
     icon: FaGlobe

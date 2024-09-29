@@ -1,7 +1,6 @@
 ---
 title: The Scribus Team
 description: Source Page Layout and Desktop Publishing
-
 social:
   - name: web
     icon: FaGlobe

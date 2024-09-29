@@ -1,7 +1,6 @@
 ---
 title: Nextcloud
 description: We help you achieve a safe home for all your data
-
 social:
   - name: github
     icon: FaGithub

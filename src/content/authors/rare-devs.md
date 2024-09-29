@@ -1,7 +1,6 @@
 ---
 title: Rare Devs
 description: Team which develop Rare
-
 social:
   - name: github
     icon: FaGithub

@@ -1,7 +1,6 @@
 ---
 title: CP Editor team
 description: Together we can build the best editor for competitive programmers
-
 social:
   - name: github
     icon: FaGithub

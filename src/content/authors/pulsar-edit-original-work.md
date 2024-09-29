@@ -1,7 +1,6 @@
 ---
 title: Pulsar-Edit Original work
 description: Community developed, led and focused
-
 social:
   - name: web
     icon: FaGlobe

@@ -1,7 +1,6 @@
 ---
 title: Skymatic
 description: We Digitize You. Security First.
-
 social:
   - name: Web
     icon: FaGlobe

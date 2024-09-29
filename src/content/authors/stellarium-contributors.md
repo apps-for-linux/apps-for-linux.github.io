@@ -1,7 +1,6 @@
 ---
 title: Stellarium contributors
 description: Creator of Stellarium
-
 social:
   - name: web
     icon: FaGlobe

@@ -1,7 +1,6 @@
 ---
 title: Vercel
 description: Develop. Preview. Ship.
-
 social:
   - name: github
     icon: FaGithub

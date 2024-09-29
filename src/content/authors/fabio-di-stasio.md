@@ -1,7 +1,6 @@
 ---
 title: Fabio Di Stasi
 description: A wild software developer from Italy. Author of @antares-sql
-
 social:
   - name: web
     icon: FaGlobe

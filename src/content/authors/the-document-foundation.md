@@ -1,7 +1,6 @@
 ---
 title: The Document Foundation
 description: LibreOffice is community-driven and developed software, and is a project of the not-for-profit organization, The Document Foundation
-
 social:
   - name: Web
     icon: FaGlobe

@@ -1,7 +1,6 @@
 ---
 title: Aurélien Hamy
 description: A fish swimming in acid.
-
 social:
   - name: Web
     icon: FaGlobe

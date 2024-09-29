@@ -1,7 +1,6 @@
 ---
 title: Dr_rOot
 description: Author of Motrix
-
 social:
   - name: web
     icon: FaGlobe

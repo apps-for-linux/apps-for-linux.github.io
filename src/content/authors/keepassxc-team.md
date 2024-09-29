@@ -1,7 +1,6 @@
 ---
 title: KeePassXC Team
 description: Developing a community driven, offline password manager
-
 social:
   - name: Web
     icon: FaGlobe

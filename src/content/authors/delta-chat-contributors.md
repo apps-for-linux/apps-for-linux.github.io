@@ -1,7 +1,6 @@
 ---
 title: Delta Chat contributors
 description: Instant Email Messaging - the largest decentralized messenger. Chat over e-mail and head back to the future with us!
-
 social:
   - name: Web
     icon: FaGlobe

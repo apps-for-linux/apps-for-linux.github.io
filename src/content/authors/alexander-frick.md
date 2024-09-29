@@ -1,7 +1,6 @@
 ---
 title: Alexander Frick
 description: LizardByte is developing self hosted cloud game streaming solutions.
-
 social:
   - name: web
     icon: FaGlobe

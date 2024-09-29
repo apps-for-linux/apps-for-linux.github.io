@@ -1,7 +1,6 @@
 ---
 title: monocasual laboratories
 description: We are part of the mystery we are trying to solve.
-
 social:
   - name: Web
     icon: FaGlobe

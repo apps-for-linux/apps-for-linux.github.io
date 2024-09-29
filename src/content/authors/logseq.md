@@ -1,7 +1,6 @@
 ---
 title: Logseq
 description: A privacy-first, open-source platform for knowledge management and collaboration.
-
 social:
   - name: github
     icon: FaGithub
