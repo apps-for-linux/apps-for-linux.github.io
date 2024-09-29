@@ -5,7 +5,6 @@ export interface TAuthor {
   collection: string;
   data: {
     title: string;
-    image: string;
     description: string;
     social: {
       name: string;
@@ -26,8 +25,8 @@ export interface TPost {
     description: string;
     date: any;
     image: string;
-    authors: string[];
     categories: string[];
+    authors: string[];
     tags: string[];
     draft: boolean;
   };
