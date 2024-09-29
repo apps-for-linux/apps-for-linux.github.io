@@ -5,6 +5,7 @@ export interface TAuthor {
   collection: string;
   data: {
     title: string;
+    image: string;
     description: string;
     social: {
       name: string;

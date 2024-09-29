@@ -4,10 +4,15 @@ import Social from "@/components/Social.astro";
 import { markdownify } from "@/lib/utils/textConverter";
 
 const { author } = Astro.props;
-const { title, image, social } = author.data;
+const { title, social, meta_title, description, image } = author.data;
 const { Content } = await author.render();
 ---
-
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
 <section class="section">
   <div class="container">
     <div class="mb-4 text-center md:px-24">
