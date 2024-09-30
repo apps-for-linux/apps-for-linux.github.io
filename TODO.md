@@ -23,3 +23,7 @@
 - [ ] ossia score https://github.com/ossia/score/releases/download/v3.2.4/ossia.score-3.2.4-linux-amd64.AppImage
 - [ ] Helio https://ci.helio.fm/helio-3.14-x64.AppImage
 - [ ] Headlamp https://github.com/headlamp-k8s/headlamp/releases/download/v0.25.1/Headlamp-0.25.1-linux-x64.AppImage
+- [ ] NexusMods https://github.com/Nexus-Mods/NexusMods.App/
+- [ ] Zen Browser https://github.com/zen-browser/desktop/releases/download/1.0.1-a.5/zen-specific.AppImage
+- [ ] Akuse https://github.com/akuse-app/akuse/
+- [ ] FireDragon https://gitlab.com/garuda-linux/firedragon/builder/-/releases/v11.18.1-2/downloads/firedragon-v11.18.1-2.appimage-x86_64.AppImage
