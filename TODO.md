@@ -13,8 +13,7 @@
 - [ ] Auto-updating using npx
 
 # Add content list
-- [ ] BambuStudio https://github.com/bambulab/BambuStudio/
-- [ ] PrusaSlicer https://github.com/prusa3d/PrusaSlicer
+
 - [ ] https://github.com/xournalpp/xournalpp/releases/download/nightly/xournalpp-1.2.3+dev-nightly.20240925-x86_64.AppImage
 - [ ] Outline Client https://github.com/Jigsaw-Code/outline-apps/releases/download/v1.10.1/Outline-Client.AppImage
 - [ ] QOwnNotes https://github.com/pbek/QOwnNotes/releases/download/v24.9.7/QOwnNotes-x86_64.AppImage
@@ -22,7 +21,7 @@
 - [ ] Frigoligo https://github.com/casimir/frigoligo/releases/download/v1.2.0/Frigoligo-v1.2.0-x86_64.AppImage
 - [ ] ossia score https://github.com/ossia/score/releases/download/v3.2.4/ossia.score-3.2.4-linux-amd64.AppImage
 - [ ] Helio https://ci.helio.fm/helio-3.14-x64.AppImage
-- [ ] Headlamp https://github.com/headlamp-k8s/headlamp/releases/download/v0.25.1/Headlamp-0.25.1-linux-x64.AppImage
+- [x] Headlamp https://github.com/headlamp-k8s/headlamp/releases/download/v0.25.1/Headlamp-0.25.1-linux-x64.AppImage
 - [ ] NexusMods https://github.com/Nexus-Mods/NexusMods.App/
 - [ ] Zen Browser https://github.com/zen-browser/desktop/releases/download/1.0.1-a.5/zen-specific.AppImage
 - [ ] Akuse https://github.com/akuse-app/akuse/

@@ -1,7 +1,7 @@
 ---
 title: "Beaver Notes"
 description: "Privacy-focused note-taking application"
-date: 2024-04-26T14:15:00Z
+date: 2024-09-21T15:53:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Daniele Rolli"]
@@ -19,5 +19,5 @@ Source code: <https://github.com/Daniele-rolli/Beaver-Notes/>
 Donate: <https://ko-fi.com/danielerollibeavernotes>
 Translate: <https://danieles-organization.gitbook.io/beaver-notes/dev-guides/translate-beaver>
 Report the bug: <https://github.com/Daniele-rolli/Beaver-Notes/issues/new/>
-Download:   x86_64: <https://github.com/Beaver-Notes/Beaver-Notes/releases/download/3.4.0/Beaver-notes-3.4.0.AppImage>
-            arm64: <https://github.com/Beaver-Notes/Beaver-Notes/releases/download/3.4.0/Beaver-notes-3.4.0-arm64.AppImage>
+Download:   x86_64: <https://github.com/Beaver-Notes/Beaver-Notes/releases/download/3.7.0/Beaver-notes-3.7.0.AppImage>
+            arm64: <https://github.com/Beaver-Notes/Beaver-Notes/releases/download/3.7.0/Beaver-notes-3.7.0-arm64.AppImage>
