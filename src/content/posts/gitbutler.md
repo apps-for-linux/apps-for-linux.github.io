@@ -1,7 +1,7 @@
 ---
 title: "GitButler"
 description: "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte."
-date: 2024-05-06T20:29:00Z
+date: 2024-10-01T20:27:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["GitButler"]
@@ -17,4 +17,4 @@ Web page: <https://gitbutler.com/>
 Source code: <https://github.com/gitbutlerapp/gitbutler>
 
 Report the bug: <https://github.com/gitbutlerapp/gitbutler/issues/new/>
-Download: <https://releases.gitbutler.com/releases/release/0.11.7-889/linux/x86_64/git-butler_0.11.7_amd64.AppImage.tar.gz>
+Download: <https://releases.gitbutler.com/releases/release/0.12.27-1312/linux/x86_64/git-butler_0.12.27_amd64.AppImage.tar.gz>

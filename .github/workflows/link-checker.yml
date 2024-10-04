@@ -17,9 +17,9 @@ jobs:
         uses: lycheeverse/lychee-action@v1
         with: 
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail: false
 
       - name: Create Issue From File
-        if: env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: Link Checker Report
