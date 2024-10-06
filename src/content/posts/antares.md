@@ -19,6 +19,6 @@ Source code: <https://github.com/antares-sql/antares>
 Donate: <https://www.paypal.com/paypalme/fabiodistasio>
 Translate: <https://github.com/antares-sql/antares/wiki/Translate-Antares>
 Report the bug: <https://github.com/antares-sql/antares/issues>
-Download:   x86_64: <https://github.com/antares-sql/antares/releases/download/v0.7.28/Antares-0.7.28-linux_x86_64.AppImage>
+Download:   x86_64: <https://github.com/antares-sql/antares/releases/download/v0.7.29-beta.2/Antares-0.7.29-beta.2-linux_x86_64.AppImage>
             arm64:  <https://github.com/antares-sql/antares/releases/download/v0.7.28/Antares-0.7.28-linux_arm64.AppImage>
-            armv7l: <https://github.com/antares-sql/antares/releases/download/v0.7.28/Antares-0.7.28-linux_armv7l.AppImage>
+            armv7l: <https://github.com/antares-sql/antares/releases/download/v0.7.29-beta.2/Antares-0.7.29-beta.2-linux_armv7l.AppImage>

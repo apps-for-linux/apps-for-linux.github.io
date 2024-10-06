@@ -1,7 +1,7 @@
 ---
 title: "draw.io"
 description: "Security-first diagramming for teams."
-date: 2024-06-28T16:38:00Z
+date: 2024-10-01T19:12:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["JGraph"]
@@ -17,5 +17,5 @@ Web page: <https://www.drawio.com/>
 Source code: <https://github.com/jgraph/drawio-desktop>
 
 Report the bug: <https://github.com/jgraph/drawio-desktop/issues/new/>
-Download: x86_64: <https://github.com/jgraph/drawio-desktop/releases/download/v24.6.4/drawio-x86_64-24.6.4.AppImage>
-          arm64: <https://github.com/jgraph/drawio-desktop/releases/download/v24.6.4/drawio-arm64-24.6.4.AppImage>
+Download: x86_64: <https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/drawio-x86_64-24.7.17.AppImage>
+          arm64: <https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/drawio-arm64-24.7.17.AppImage>
