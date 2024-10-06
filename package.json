@@ -8,14 +8,14 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^3.1.7",
+    "@astrojs/react": "^3.6.2",
     "@astrojs/rss": "^4.0.7",
-    "@astrojs/react": "^3.4.0",
-    "@astrojs/sitemap": "^3.1.6",
+    "@astrojs/sitemap": "^3.2.0",
     "@astrojs/tailwind": "^5.1.1",
-    "astro": "^4.15.9",
+    "astro": "^4.15.11",
     "astro-auto-import": "^0.4.2",
     "astro-font": "^0.1.81",
-    "date-fns": "^4.0.0",
+    "date-fns": "^4.1.0",
     "fuse.js": "^7.0.0",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
@@ -30,14 +30,15 @@
     "@tailwindcss/forms": "^0.5.9",
     "@tailwindcss/typography": "^0.5.15",
     "@types/github-slugger": "^2.0.0",
-    "@types/react": "^18.3.3",
+    "@types/react": "^18.3.11",
     "@types/marked": "^6.0.0",
-    "postcss": "^8.4.47",
+    "@tinacms/cli": "^1.6.8",
     "pagefind": "^1.1.1",
     "sass": "^1.79.4",
     "tailwind-bootstrap-grid": "^5.1.0",
     "tailwindcss": "^3.4.13",
-    "typescript": "5.6.2"
+    "typescript": "5.6.2",
+    "tinacms": "^2.2.8"
   },
-  "trustedDependencies": ["sharp"]
+  "trustedDependencies": ["esbuild", "sharp"]
 }
