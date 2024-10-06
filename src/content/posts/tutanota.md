@@ -1,7 +1,7 @@
 ---
 title: "Tuta"
 description: "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
-date: 2024-04-12T11:28:00Z
+date: 2024-09-13T20:09:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Tutao"]
@@ -13,10 +13,10 @@ Email service with a strong focus on security and privacy that lets you encrypt 
 
 License: GPL-3.0
 
-Web page: <https://tuta.com/>
+Web page: <https://tuta.com/>  
 Source code: <https://github.com/tutao/tutanota>
 
-Donate: <https://tuta.com/community/#donate>
-Translate: <https://tuta.com/blog/tutanota-translation-project>
-Report the bug: <https://github.com/tutao/tutanota/issues/new>
-Download: <https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-220.240411.0/tutanota-desktop-linux.AppImage>
+Donate: <https://tuta.com/community/#donate>  
+Translate: <https://tuta.com/blog/tutanota-translation-project>  
+Report the bug: <https://github.com/tutao/tutanota/issues/new>  
+Download: <https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-244.240913.1/tutanota-desktop-linux.AppImage>

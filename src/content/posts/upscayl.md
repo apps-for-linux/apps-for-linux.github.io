@@ -1,7 +1,7 @@
 ---
 title: "Upscayl"
 description: "Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy."
-date: 2024-02-29T19:31:00Z
+date: 2024-06-01T17:48:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Nayam Amarshe"]
@@ -13,9 +13,9 @@ Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with L
 
 License: AGPL-3.0
 
-Web page: <https://upscayl.org/>
+Web page: <https://upscayl.org/>  
 Source code: <https://github.com/upscayl/upscayl>
 
-Donate: <https://www.buymeacoffee.com/fossisthefuture>
-Report the bug: <https://github.com/upscayl/upscayl/issues/new>
-Download: <https://github.com/upscayl/upscayl/releases/download/v2.10.0/upscayl-2.10.0-linux.AppImage>
+Donate: <https://www.buymeacoffee.com/fossisthefuture>  
+Report the bug: <https://github.com/upscayl/upscayl/issues/new>  
+Download: <https://github.com/upscayl/upscayl/releases/download/v2.11.5/upscayl-2.11.5-linux.AppImage>
