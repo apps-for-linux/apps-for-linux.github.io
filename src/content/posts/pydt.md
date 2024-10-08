@@ -1,7 +1,7 @@
 ---
 title: "PYDT"
-description: "Electron client that helps with playing your damn turn."
-date: 2024-01-17T16:39:00Z
+description: "Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management."
+date: 2024-09-22T04:04:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Michael Rosack"]
@@ -9,13 +9,13 @@ tags: ["official"]
 draft: false
 ---
 
-Electron client that helpsith playing your damn turn.
+Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management.
 
 License: MIT
 
-Web page: <https://www.playyourdamnturn.com/>
+Web page: <https://www.playyourdamnturn.com/>  
 Source code: <https://github.com/pydt/client>
 
-Donate: <https://www.patreon.com/pydt>
-Report the bug: <https://github.com/pydt/client/issues/new>
-Download: <https://github.com/pydt/client/releases/download/v2.1.6/playyourdamnturn-linux-2.1.6-x86_64.AppImage>
+Donate: <https://www.patreon.com/pydt>  
+Report the bug: <https://github.com/pydt/client/issues/new>  
+Download: <https://github.com/pydt/client/releases/download/v2.1.8/playyourdamnturn-linux-2.1.8-x86_64.AppImage>

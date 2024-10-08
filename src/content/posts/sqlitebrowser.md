@@ -1,7 +1,7 @@
 ---
 title: "DB Browser for SQLite"
 description: "High quality, visual, open source tool to create, design, and edit database files compatible with SQLite"
-date: 2024-03-27T01:48:00Z
+date: 2024-09-30T04:38:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["DB Browser for SQLite Team"]
@@ -13,10 +13,10 @@ High quality, visual, open source tool to create, design, and edit database file
 
 License: GPL-3.0
 
-Web page: <https://sqlitebrowser.org/>
+Web page: <https://sqlitebrowser.org/>  
 Source code: <https://github.com/sqlitebrowser/sqlitebrowser>
 
 Donate: <https://patreon.com/db4s>
-Translate: <https://github.com/sqlitebrowser/sqlitebrowser/wiki/Translations>
-Report the bug: <https://github.com/sqlitebrowser/sqlitebrowser/issues/new/>
-Download: <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLCipher-dev-3e7dd41-x86.64.AppImage>
+Translate: <https://github.com/sqlitebrowser/sqlitebrowser/wiki/Translations>  
+Report the bug: <https://github.com/sqlitebrowser/sqlitebrowser/issues/new/>  
+Download: <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1-rc2/DB.Browser.for.SQLite-v3.13.1-rc2-x86.64.AppImage>

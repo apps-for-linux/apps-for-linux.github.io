@@ -13,7 +13,7 @@ Practical and minimal image viewer
 
 License: GPL-3.0
 
-Web page: <https://www.shotcut.org/>
+Web page: <https://interversehq.com/qview/>
 Source code: <https://github.com/jurplel/qView>
 
 Translate: <https://hosted.weblate.org/projects/qview/qview/>

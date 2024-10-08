@@ -1,7 +1,7 @@
 ---
 title: "Sunshine"
 description: "Self-hosted game stream host for Moonlight."
-date: 2024-04-07T06:32:00Z
+date: 2024-10-08T00:59:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["LizardByte"]
@@ -13,9 +13,10 @@ Self-hosted game stream host for Moonlight
 
 License: GPL-3.0
 
-Web page: <https://app.lizardbyte.dev/Sunshine>
+Web page: <https://app.lizardbyte.dev/Sunshine>  
 Source code: <https://github.com/LizardByte/Sunshine>
 
-Donate: <https://github.com/sponsors/LizardByte>
-Report the bug: <https://github.com/LizardByte/Sunshine/issues/new/>
-Download: <https://github.com/LizardByte/Sunshine/releases/download/v0.23.0/sunshine.AppImage>
+Donate: <https://github.com/sponsors/LizardByte>  
+Translate: <https://translate.lizardbyte.dev/>
+Report the bug: <https://github.com/LizardByte/Sunshine/issues/new/>  
+Download: <https://github.com/LizardByte/Sunshine/releases/download/v2024.1007.214114/sunshine.AppImage>

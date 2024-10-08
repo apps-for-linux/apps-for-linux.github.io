@@ -15,6 +15,6 @@ License: GPL-3.0
 
 Source code: <https://github.com/pyfa-org/Pyfa/>
 
-Translate: <https://crowdin.com/project/pyfa>
-Report the bug: <https://github.com/pyfa-org/Pyfa/issues/new>
+Translate: <https://crowdin.com/project/pyfa>  
+Report the bug: <https://github.com/pyfa-org/Pyfa/issues/new>  
 Download: <https://github.com/pyfa-org/Pyfa/releases/download/v2.60.0/pyfa-v2.60.0-linux.AppImage>
