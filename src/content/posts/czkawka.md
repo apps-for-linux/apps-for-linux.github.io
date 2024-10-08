@@ -13,7 +13,6 @@ Multi functional app to find duplicates, empty folders, similar images etc.
 
 License: MIT
 
-Web page: <https://cozy.io/en/>  
 Source code: <https://github.com/qarmin/czkawka/>
 
 Donate: <https://github.com/sponsors/qarmin>  

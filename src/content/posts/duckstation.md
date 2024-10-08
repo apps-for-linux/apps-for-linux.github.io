@@ -16,5 +16,4 @@ License: GPL-3.0
 Web page: <https://www.duckstation.org/>
 Source code: <https://github.com/stenzek/duckstation>
 
-Report the bug: <https://github.com/stenzek/duckstation/issues/new/>
 Download: <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage>

@@ -19,4 +19,4 @@ Source code: <https://github.com/naev/naev>
 Donate: <https://www.libreoffice.org/donate/>  
 Translate: <https://hosted.weblate.org/projects/naev/naev/>  
 Report the bug: <https://github.com/naev/naev/issues/new>  
-Download: <https://github.com/naev/naev/releases/download/nightly/naev-0.12.0-alpha.1+481.g058b76ece0-linux-x86-64.AppImage>
+Download: <https://github.com/naev/naev/releases/download/v0.11.5/naev-0.11.5-linux-x86-64.AppImage>

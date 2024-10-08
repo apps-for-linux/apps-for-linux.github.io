@@ -1,7 +1,7 @@
 ---
 title: "OpenSCAD"
 description: "The Programmers Solid 3D CAD Modeller"
-date: 2023-04-08T22:52:00Z
+date: 2024-10-06T00:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Marius Kintel"]
@@ -19,4 +19,4 @@ Source code: <https://github.com/openscad/openscad/>
 Donate: <https://github.com/sponsors/openscad>
 Translate: <https://wiki.documentfoundation.org/Language>
 Report the bug: <https://github.com/openscad/openscad/issues/new>
-Download: <https://files.openscad.org/snapshots/OpenSCAD-2024.05.08.ai19352-x86_64.AppImage>
+Download: <https://files.openscad.org/snapshots/OpenSCAD-2024.10.06.ai20798-x86_64.AppImage>
