@@ -14,7 +14,7 @@ Cross-platform backup tool for Windows, macOS & Linux with fast, incremental bac
 License: Apache-2.0
 
 Web page: <https://kopia.io/>
-Source code: <https://github.com/kopia/kopia/desktop>
+Source code: <https://github.com/kopia/kopia>
 
 Report the bug: <https://github.com/kopia/kopia/issues/new/>
 Download:   x86_64: <https://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-0.17.0.AppImage>
