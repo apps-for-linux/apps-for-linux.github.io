@@ -1,7 +1,7 @@
 ---
 title: "Passky"
 description: "Passky is a simple, modern, lightweight, open source and secure password manager."
-date: 2023-04-02T15:21:00Z
+date: 2024-04-02T15:21:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 authors: ["Rabbit Company"]

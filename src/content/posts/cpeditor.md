@@ -1,7 +1,7 @@
 ---
 title: "CP Editor"
 description: "The IDE for competitive programming."
-date: 2023-03-20T12:10:00Z
+date: 2024-02-17T07:58:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["CP Editor team"]

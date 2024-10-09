@@ -1,7 +1,7 @@
 ---
 title: "vifm"
 description: "Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt"
-date: 2023-04-04T19:30:00Z
+date: 2024-04-04T19:30:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
 authors: ["vifm Authors"]

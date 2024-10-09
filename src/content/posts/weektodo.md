@@ -1,7 +1,7 @@
 ---
 title: "WeekToDo"
 description: "WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy"
-date: 2023-02-13T01:04:00Z
+date: 2024-02-12T23:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Manuel Ernesto Garcia"]

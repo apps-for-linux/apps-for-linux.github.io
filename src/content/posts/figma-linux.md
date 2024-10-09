@@ -1,7 +1,7 @@
 ---
 title: "Figma-Linux"
 description: "Figma is the first interface design tool based in the browser, making it easier for teams to create software"
-date: 2023-05-26T22:08:00Z
+date: 2024-05-26T22:08:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Roman Chugunov"]

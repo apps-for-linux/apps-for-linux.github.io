@@ -1,7 +1,7 @@
 ---
 title: "Catalyst"
 description: "A lightweight and user-focused web browser powered by Electron"
-date: 2023-05-08T05:38:00Z
+date: 2024-09-01T19:21:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Catalyst Developers"]
@@ -17,4 +17,4 @@ Web page: <https://getcatalyst.eu.org/>
 Source code: <https://github.com/CatalystDevOrg/Catalyst>
 
 Report the bug: <https://github.com/CatalystDevOrg/Catalyst/issues/new/>
-Download: <https://github.com/CatalystDevOrg/Catalyst/releases/download/v3.6.2/catalyst-3.6.2.AppImage>
+Download: <https://github.com/CatalystDevOrg/Catalyst/releases/download/v3.8.4/catalyst-3.8.4.AppImage>

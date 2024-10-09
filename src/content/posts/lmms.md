@@ -1,7 +1,7 @@
 ---
 title: "LMMS"
 description: "Cross-platform music production software"
-date: 2020-07-04T15:27:00Z
+date: 2021-04-26T05:07:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["LMMS"]

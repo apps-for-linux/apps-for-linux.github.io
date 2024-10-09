@@ -1,7 +1,7 @@
 ---
 title: "Pencil2D"
 description: "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform."
-date: 2021-02-17T07:53:00Z
+date: 2024-07-12T11:36:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Pencil2D"]
@@ -18,4 +18,4 @@ Source code: <https://github.com/pencil2d/pencil>
 
 Translate: <https://www.transifex.com/pencil2d/>
 Report the bug: <https://github.com/pencil2d/pencil/issues/new>
-Download: <https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-linux-amd64-0.6.6.AppImage>
+Download: <https://github.com/pencil2d/pencil/releases/download/v0.7.0/pencil2d-linux-amd64-0.7.0.AppImage>
