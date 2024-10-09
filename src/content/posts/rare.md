@@ -1,7 +1,7 @@
 ---
 title: "Rare"
 description: "Frontend for legendary, the open source Epic Games Launcher alternative"
-date: 2024-10-25T22:10:00Z
+date: 2024-09-25T22:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Rare Devs"]
