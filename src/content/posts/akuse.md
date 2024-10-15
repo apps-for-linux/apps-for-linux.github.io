@@ -1,7 +1,7 @@
 ---
 title: "akuse"
 description: "Simple and easy to use anime streaming desktop app without ads."
-date: 2024-09-23T01:28:00Z
+date: 2024-10-08T19:33:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Alessio Ganzarolli"]
@@ -17,4 +17,4 @@ Source code: <https://github.com/akuse-app/akuse>
 
 Donate: <https://github.com/sponsors/aleganza>  
 Report the bug: <https://github.com/akuse-app/akuse/issues/new/>  
-Download: <https://github.com/akuse-app/akuse/releases/download/1.7.0/linux-akuse-1.7.0.AppImage>
+Download: <https://github.com/akuse-app/akuse/releases/download/1.8.0/linux-akuse-1.8.0.AppImage>
