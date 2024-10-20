@@ -12,6 +12,6 @@ cd $HOME/apps-for-linux.github.io/src/content/posts
 repo=$( cat *.md | grep "Download" | cut -c 31- | sed -r 's/releases.+//' | sed '$ s/.$//' )
 
 current_version=$(curl -s https://api.github.com/repos/"$repo"/releases/latest | grep "browser_download_url.*AppImage" | cut -d : -f 2,3 | tr -d \")
-previous_version=$(grep "Download" | cut -c12-)
+previous_version=$(grep "Download" | cut -c12- | tr -d '>')
 
-update=$(sed -e s/$previous_version/$current_version/g "$filename".md )
+update=$(sed -e 's/$previous_version/$current_version/g' "$filename".md )
