@@ -14,13 +14,13 @@
 
 # Add content list
 
-- [ ] Alexandria
-- [ ] Ooni Probe
+- [x] Alexandria
+- [x] Ooni Probe
 - [ ] Ungoogled-chromium
-- [ ] GoofCord
+- [x] GoofCord
 - [ ] spmp
 - [ ] Equibop
-- [ ] Webcord
+- [x] Webcord
 - [ ] Vieb
 - [ ] Pokete
 - [ ] Koodo
