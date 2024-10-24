@@ -1,7 +1,7 @@
 ---
 title: "Gyroflow"
 description: "Video stabilization using gyroscope data"
-date: 2023-11-01T20:17:00Z
+date: 2024-10-23T23:30:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Gyroflow Team"]
@@ -13,10 +13,10 @@ Video stabilization using gyroscope data
 
 License: GPL-3.0
 
-Web page: <https://gyroflow.xyz>
+Web page: <https://gyroflow.xyz>  
 Source code: <https://github.com/gyroflow/gyroflow/>
 
-Donate: <https://gyroflow.xyz/donate>
-Translate: <https://crowdin.com/project/gyroflow>
-Report the bug: <https://github.com/gyroflow/gyroflow/issues/new/>
-Download: <https://github.com/gyroflow/gyroflow/releases/download/v1.5.4/Gyroflow-linux64.AppImage>
+Donate: <https://gyroflow.xyz/donate>  
+Translate: <https://crowdin.com/project/gyroflow>  
+Report the bug: <https://github.com/gyroflow/gyroflow/issues/new/>  
+Download: <https://github.com/gyroflow/gyroflow/releases/download/v1.6.0/Gyroflow-linux64.AppImage>
