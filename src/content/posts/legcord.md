@@ -19,6 +19,6 @@ Source code: <https://github.com/Legcord/Legcord>
 Donate: <https://github.com/sponsors/smartfrigde>  
 Translate: <https://hosted.weblate.org/projects/armcord/armcord/>  
 Report the bug: <https://github.com/Legcord/Legcord/issues/new/>  
-Download: x86_64: <https://github.com/Legcord/Legcord/releases/download/v3.3.1/ArmCord-3.3.1-linux-x86_64.AppImage>  
-          arm64: <https://github.com/Legcord/Legcord/releases/download/v3.3.1/ArmCord-3.3.1-linux-arm64.AppImage>  
-          armv7l: <https://github.com/Legcord/Legcord/releases/download/v3.3.1/ArmCord-3.3.1-linux-armv7l.AppImage>  
+Download: x86_64: <https://github.com/Legcord/Legcord/releases/download/v1.0.2/Legcord-1.0.2-linux-x86_64.AppImage>  
+          arm64: <https://github.com/Legcord/Legcord/releases/download/v1.0.2/Legcord-1.0.2-linux-arm64.AppImage>  
+          armv7l: <https://github.com/Legcord/Legcord/releases/download/v1.0.2/Legcord-1.0.2-linux-armv7l.AppImage>  
