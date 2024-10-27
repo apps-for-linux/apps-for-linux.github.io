@@ -15,7 +15,7 @@ License: OSL-3.0
 
 Source code: <https://github.com/Milkshiift/GoofCord>
 
-Donate: <https://ko-fi.com/milkshift>  
+Become a sponsor: <https://ko-fi.com/milkshift>  
 Report the bug: <https://github.com/Milkshiift/GoofCord/issues/new/>  
 Download: x86_64: <https://github.com/Milkshiift/GoofCord/releases/download/v1.7.1/GoofCord-1.7.1-linux-x86_64.AppImage>  
           arm64: <https://github.com/Milkshiift/GoofCord/releases/download/v1.7.1/GoofCord-1.7.1-linux-arm64.AppImage>  

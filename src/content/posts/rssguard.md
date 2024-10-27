@@ -16,7 +16,7 @@ License: GPL-3.0
 Web page: <https://rssguard.readthedocs.io/en/stable/index.html>  
 Source code: <https://github.com/martinrotter/rssguard>
 
-Donate: <https://github.com/sponsors/martinrotter>  
+Become a sponsor: <https://github.com/sponsors/martinrotter>  
 Translate: <https://crowdin.com/project/rssguard>  
 Report the bug: <https://github.com/martinrotter/rssguard/new>  
 Download: <https://github.com/martinrotter/rssguard/releases/download/4.7.4/rssguard-4.7.4-68c322710-lite-linux64.AppImage>

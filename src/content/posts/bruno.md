@@ -16,6 +16,6 @@ License: MIT
 Web page: <https://www.usebruno.com/>
 Source code: <https://github.com/usebruno/bruno>
 
-Donate: <https://github.com/sponsors/helloanoop>
+Become a sponsor: <https://github.com/sponsors/helloanoop>
 Report the bug: <https://github.com/usebruno/bruno/issues/new/>
 Download: <https://github.com/usebruno/bruno/releases/download/v1.20.4/bruno_1.20.4_x86_64_linux.AppImage>

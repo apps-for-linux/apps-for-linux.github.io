@@ -16,6 +16,6 @@ License: BSD-3-Clause
 Web page: <https://thorium.rocks/>  
 Source code: <https://github.com/Alex313031/thorium>
 
-Donate: <https://paypal.me/alex313031>  
+Become a sponsor: <https://paypal.me/alex313031>  
 Report the bug: <https://github.com/Alex313031/thorium/issues/new/>  
 Download: <https://github.com/Alex313031/thorium/releases/download/M126.0.6478.251/Thorium_Browser_TH24_126.0.6478.251_SSE4.AppImage>

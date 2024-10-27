@@ -16,7 +16,7 @@ License: MIT
 Source code: <https://github.com/SpacingBat3/WebCord>
 
 Translate: <https://hosted.weblate.org/projects/webcord>
-Donate: <https://github.com/sponsors/SpacingBat3>  
+Become a sponsor: <https://github.com/sponsors/SpacingBat3>  
 Report the bug: <https://github.com/SpacingBat3/WebCord/issues/new/>  
 Download: x86_64: <https://github.com/SpacingBat3/WebCord/releases/download/v4.10.2/WebCord-4.10.2-x64.AppImage>  
           arm64: <https://github.com/SpacingBat3/WebCord/releases/download/v4.10.2/WebCord-4.10.2-arm64.AppImage>  

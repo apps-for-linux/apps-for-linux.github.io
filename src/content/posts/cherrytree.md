@@ -16,6 +16,6 @@ License: GPL-3.0
 Web page: <https://www.giuspen.net/cherrytree/>
 Source code: <https://github.com/giuspen/cherrytree>
 
-Donate: <https://www.giuspen.net/cherrytree/>
+Become a sponsor: <https://www.giuspen.net/cherrytree/>
 Report the bug: <https://github.com/giuspen/cherrytree/issues/new/>
 Download: <https://github.com/giuspen/cherrytree/releases/download/v1.2.0/CherryTree-1.2.0-x86_64.AppImage>

@@ -16,6 +16,6 @@ License: AGPL-3.0
 Web page: <https://muffon.netlify.app/>  
 Source code: <https://github.com/staniel359/muffon>
 
-Donate: <https://ko-fi.com/staniel359>  
+Become a sponsor: <https://ko-fi.com/staniel359>  
 Report the bug: <https://github.com/staniel359/muffon/issues>  
 Download: <https://github.com/staniel359/muffon/releases/download/v2.0.3/muffon-2.0.3-linux-x86_64.AppImage>

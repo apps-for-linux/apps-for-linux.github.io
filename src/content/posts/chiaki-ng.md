@@ -16,6 +16,6 @@ License: AGPL-3.0
 Web page: <https://streetpea.github.io/chiaki-ng/>  
 Source code: <https://github.com/streetpea/chiaki-ng>
 
-Donate: <https://buymeacoffee.com/streetpea>
+Become a sponsor: <https://buymeacoffee.com/streetpea>
 Report the bug: <https://github.com/streetpea/chiaki-ng/issues/new>  
 Download: <https://github.com/streetpea/chiaki-ng/releases/download/v1.9.0/chiaki-ng.AppImage.zip>

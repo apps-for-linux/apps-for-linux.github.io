@@ -16,6 +16,6 @@ License: MIT
 Web page: <https://www.playyourdamnturn.com/>  
 Source code: <https://github.com/pydt/client>
 
-Donate: <https://www.patreon.com/pydt>  
+Become a sponsor: <https://www.patreon.com/pydt>  
 Report the bug: <https://github.com/pydt/client/issues/new>  
 Download: <https://github.com/pydt/client/releases/download/v2.1.8/playyourdamnturn-linux-2.1.8-x86_64.AppImage>

@@ -16,6 +16,6 @@ License: AGPL-3.0
 Web page: <https://upscayl.org/>  
 Source code: <https://github.com/upscayl/upscayl>
 
-Donate: <https://www.buymeacoffee.com/fossisthefuture>  
+Become a sponsor: <https://www.buymeacoffee.com/fossisthefuture>  
 Report the bug: <https://github.com/upscayl/upscayl/issues/new>  
 Download: <https://github.com/upscayl/upscayl/releases/download/v2.11.5/upscayl-2.11.5-linux.AppImage>

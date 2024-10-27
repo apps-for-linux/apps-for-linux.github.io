@@ -16,7 +16,7 @@ License: GPL-3.0
 Web page: <https://www.openshot.org>  
 Source code: <https://github.com/OpenShot/openshot-qt>
 
-Donate: <https://www.openshot.org/donate/>  
+Become a sponsor: <https://www.openshot.org/donate/>  
 Translate: <https://translations.launchpad.net/openshot/2.0/+translations>  
 Report the bug: <https://github.com/OpenShot/openshot-qt/issues/new>  
 Download: <https://github.com/OpenShot/openshot-qt/releases/download/v3.2.1/OpenShot-v3.2.1-x86_64.AppImage>

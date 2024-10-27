@@ -16,7 +16,7 @@ License: GPL-2.0
 Web page: <https://mifi.no/losslesscut/>  
 Source code: <https://github.com/mifi/lossless-cut>
 
-Donate: <https://github.com/sponsors/mifi>  
+Become a sponsor: <https://github.com/sponsors/mifi>  
 Translate: <https://hosted.weblate.org/projects/losslesscut/losslesscut/>  
 Report the bug: <https://github.com/mifi/lossless-cut/issues/new/>  
 Download: <https://github.com/mifi/lossless-cut/releases/download/v3.59.1/LosslessCut-linux-x86_64.AppImage>

@@ -16,7 +16,7 @@ License: GPL-3.0
 Web page: <https://saber.adil.hanney.org/>  
 Source code: <https://github.com/saber-notes/saber/>
 
-Donate: <https://github.com/sponsors/adil192>  
+Become a sponsor: <https://github.com/sponsors/adil192>  
 Translate: <https://github.com/saber-notes/saber?tab=readme-ov-file#translating>  
 Report the bug: <https://github.com/saber-notes/saber/issues/new/>  
 Download: <https://github.com/saber-notes/saber/releases/download/v0.25.0/Saber-0.25.0-x86_64.AppImage>

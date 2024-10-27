@@ -16,6 +16,6 @@ License: Apache-2.0
 Web page: <https://www.libreoffice.org/>
 Source code: <https://github.com/codelerity/netbeans-installers>
 
-Donate: <https://github.com/sponsors/neilcsmith-net>
+Become a sponsor: <https://github.com/sponsors/neilcsmith-net>
 Report the bug: <https://github.com/codelerity/netbeans-installers/issues/new/>
 Download: <https://github.com/codelerity/netbeans-installers/releases/download/v23-build1/Apache_NetBeans-23-x86_64.AppImage>

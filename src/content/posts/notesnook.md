@@ -16,7 +16,7 @@ License: GPL-3.0
 Web page: <https://notesnook.com/>  
 Source code: <https://github.com/streetwriters/notesnook>
 
-Donate: <https://opencollective.com/notesnook>
+Become a sponsor: <https://opencollective.com/notesnook>
 Report the bug: <https://github.com/streetwriters/notesnook/issues/new/>  
 Download:   x86_64: <https://github.com/streetwriters/notesnook/releases/download/v3.0.18/notesnook_linux_x86_64.AppImage>
             arm64:  <https://github.com/streetwriters/notesnook/releases/download/v3.0.18/notesnook_linux_arm64.AppImage>

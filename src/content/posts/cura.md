@@ -16,7 +16,7 @@ License: LGPL-3.0
 Web page: <https://ultimaker.com/software/ultimaker-cura/>  
 Source code: <https://github.com/Ultimaker/Cura>
 
-Donate: <https://github.com/sponsors/Ultimaker>  
+Become a sponsor: <https://github.com/sponsors/Ultimaker>  
 Translate: <https://github.com/Ultimaker/Cura/wiki/Translating-Cura>  
 Report the bug: <https://github.com/Ultimaker/Cura/issues/new/>  
 Download: <https://github.com/Ultimaker/Cura/releases/download/5.7.1/UltiMaker-Cura-5.7.1-linux-X64.AppImage>

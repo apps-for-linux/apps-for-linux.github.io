@@ -16,7 +16,7 @@ License: GPL-3.0
 Web page: <https://azagaya.itch.io/laigter>  
 Source code: <https://github.com/azagaya/laigter/>
 
-Donate: <https://www.patreon.com/jazagaya>  
+Become a sponsor: <https://www.patreon.com/jazagaya>  
 Translate: <https://github.com/azagaya/laigter/blob/master/CONTRIBUTING.md#contributing-with-translation>  
 Report the bug: <https://github.com/azagaya/laigter/issues/new>  
 Download: <https://github.com/azagaya/laigter/releases/download/1.12.0/Laigter-x86_64.AppImage>

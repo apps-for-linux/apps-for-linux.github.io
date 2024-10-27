@@ -16,7 +16,7 @@ License: GPL-3.0
 Web page: <https://miru.watch/>  
 Source code: <https://github.com/ThaUnknown/miru>
 
-Donate: <https://github.com/sponsors/ThaUnknown>  
+Become a sponsor: <https://github.com/sponsors/ThaUnknown>  
 Translate: <https://wiki.documentfoundation.org/Language>  
 Report the bug: <https://github.com/ThaUnknown/miru/issues/new>  
 Download: <https://github.com/ThaUnknown/miru/releases/download/v5.1.0/linux-Miru-5.1.0.AppImage>

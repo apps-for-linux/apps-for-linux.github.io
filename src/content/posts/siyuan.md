@@ -16,7 +16,7 @@ License: AGPL-3.0
 Web page: <https://b3log.org/siyuan/>  
 Source code: <https://github.com/siyuan-note/siyuan>
 
-Donate: <https://ld246.com/sponsor>  
+Become a sponsor: <https://ld246.com/sponsor>  
 Translate: <https://github.com/siyuan-note/siyuan/tree/master/app/appearance/langs>  
 Report the bug: <https://github.com/siyuan-note/siyuan/issues/new>  
 Download:   x86_64: <https://github.com/siyuan-note/siyuan/releases/download/v3.1.8/siyuan-3.1.8-linux.AppImage>  

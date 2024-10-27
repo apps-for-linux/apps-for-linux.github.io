@@ -16,7 +16,7 @@ License: GPL-3.0
 Web page: <https://cpeditor.org/>
 Source code: <https://github.com/cpeditor/cpeditor/>
 
-Donate: <https://github.com/sponsors/cpeditor>
+Become a sponsor: <https://github.com/sponsors/cpeditor>
 Translate: <https://github.com/cpeditor/cpeditor/blob/master/CONTRIBUTING.md#translations>
 Report the bug: <https://github.com/cpeditor/cpeditor/issues/new/>
 Download: <https://github.com/cpeditor/cpeditor/releases/download/7.0.1/cpeditor-7.0.1-linux-x86_64.AppImage>

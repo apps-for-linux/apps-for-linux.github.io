@@ -16,6 +16,6 @@ License: GPL-3.0
 Web page: <https://weektodo.me/>  
 Source code: <https://github.com/manuelernestog/weektodo/>
 
-Donate: <https://weektodo.me/sponsor-us/>  
+Become a sponsor: <https://weektodo.me/sponsor-us/>  
 Report the bug: <https://github.com/manuelernestog/weektodo/issues/new>  
 Download: <https://github.com/manuelernestog/weektodo/releases/download/v2.2.0/WeekToDo-2.2.0.AppImage>

@@ -16,7 +16,7 @@ License: GPL-3.0
 Web page: <https://getsession.org/>  
 Source code: <https://github.com/oxen-io/session-desktop>
 
-Donate: <https://donorbox.org/optf-donation>  
+Become a sponsor: <https://donorbox.org/optf-donation>  
 Translate: <https://crowdin.com/project/session-crossplatform-strings>  
 Report the bug: <https://github.com/oxen-io/session-desktop/issues/new/>  
 Download: <https://github.com/oxen-io/session-desktop/releases/download/v1.14.2/session-desktop-linux-x86_64-1.14.2.AppImage>

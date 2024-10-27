@@ -16,6 +16,6 @@ License: AGPL-3.0
 Web page: <https://deckboard.app/>
 Source code: <https://github.com/rivafarabi/deckboard>
 
-Donate: <https://ko-fi.com/rivafarabi>
+Become a sponsor: <https://ko-fi.com/rivafarabi>
 Report the bug: <https://github.com/rivafarabi/deckboard/issues/new>
 Download: <https://github.com/rivafarabi/deckboard/releases/download/v3.0.0-rc9.3/Deckboard-3.0.0-rc9.3.AppImage>

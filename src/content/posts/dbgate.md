@@ -16,7 +16,7 @@ License: MIT
 Web page: <https://dbgate.org/>
 Source code: <https://github.com/dbgate/dbgate>
 
-Donate: <https://github.com/sponsors/dbgate>
+Become a sponsor: <https://github.com/sponsors/dbgate>
 Report the bug: <https://github.com/dbgate/dbgate/issues/new/>
 Download:   x86_64: <https://github.com/dbgate/dbgate/releases/download/v5.3.1/dbgate-5.3.1-linux_x86_64.AppImage>
             arm64: <https://github.com/dbgate/dbgate/releases/download/v5.3.1/dbgate-5.3.1-linux_arm64.AppImage>

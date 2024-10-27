@@ -16,7 +16,7 @@ License: MIT
 Web page: <https://pulsar-edit.dev/>
 Source code: <https://github.com/pulsar-edit/pulsar>
 
-Donate: <https://opencollective.com/pulsar-edit>  
+Become a sponsor: <https://opencollective.com/pulsar-edit>  
 Translate: <https://crowdin.com/project/pulsar-edit>  
 Report the bug: <https://github.com/pulsar-edit/pulsar/issues/new/>  
 Download:   x86_64: <https://github.com/pulsar-edit/pulsar/releases/download/v1.121.0/Linux.Pulsar-1.121.0.AppImage>  

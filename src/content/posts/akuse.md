@@ -15,6 +15,6 @@ License: GPL-3.0
 
 Source code: <https://github.com/akuse-app/akuse>
 
-Donate: <https://github.com/sponsors/aleganza>  
+Become a sponsor: <https://github.com/sponsors/aleganza>  
 Report the bug: <https://github.com/akuse-app/akuse/issues/new/>  
 Download: <https://github.com/akuse-app/akuse/releases/download/1.8.0/linux-akuse-1.8.0.AppImage>

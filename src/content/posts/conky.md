@@ -16,6 +16,6 @@ License: GPL-3.0
 Web page: <https://conky.cc/>
 Source code: <https://github.com/brndnmtthws/conky/>
 
-Donate: <https://github.com/sponsors/brndnmtthws>
+Become a sponsor: <https://github.com/sponsors/brndnmtthws>
 Report the bug: <https://github.com/brndnmtthws/conky/issues/new>
 Download: <https://github.com/brndnmtthws/conky/releases/download/v1.20.2/conky-ubuntu-22.04-x86_64-v1.20.2.AppImage>

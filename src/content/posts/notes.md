@@ -16,6 +16,6 @@ License: MPL-2.0
 Web page: <https://www.get-notes.com/>  
 Source code: <https://github.com/nuttyartist/notes>
 
-Donate: <https://github.com/sponsors/nuttyartist>  
+Become a sponsor: <https://github.com/sponsors/nuttyartist>  
 Report the bug: <https://github.com/nuttyartist/notes/issues>
 Download: <https://github.com/nuttyartist/notes/releases/download/v2.2.1/Notes_2.2.1-Qt6.4.3-x86_64.AppImage>

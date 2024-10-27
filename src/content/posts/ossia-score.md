@@ -16,6 +16,6 @@ License: GPL-3.0
 Web page: <https://ossia.io/score/about.html>  
 Source code: <https://github.com/ossia/score>
 
-Donate: <https://opencollective.com/ossia>  
+Become a sponsor: <https://opencollective.com/ossia>  
 Report the bug: <https://github.com/ossia/score/issues/new>  
 Download: <https://github.com/ossia/score/releases/download/v3.2.4/ossia.score-3.2.4-linux-amd64.AppImage>

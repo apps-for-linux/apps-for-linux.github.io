@@ -16,6 +16,6 @@ License: Apache-2.0
 Web page: <https://neovim.io/>  
 Source code: <https://github.com/neovim/neovim>
 
-Donate: <https://github.com/sponsors/neovim>  
+Become a sponsor: <https://github.com/sponsors/neovim>  
 Report the bug: <https://github.com/neovim/neovim/issues/new>  
 Download: <https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage>
