@@ -13,10 +13,10 @@ Secure, Simple and Scalable Video Conferences that you use as a standalone app o
 
 License: Apache-2.0
 
-Web page: <https://desktop.jitsi.org/>
+Web page: <https://desktop.jitsi.org/>  
 Source code: <https://github.com/jitsi/jitsi-meet-electron>
 
-Translate: <https://github.com/jitsi/jitsi-meet-electron/blob/master/app/i18n/lang>
-Report the bug: <https://github.com/jitsi/jitsi-meet-electron/issues/new/>
-Download:   x86_64: <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2024.10.0/jitsi-meet-x86_64.AppImage>
+Translate: <https://github.com/jitsi/jitsi-meet-electron/blob/master/app/i18n/lang>  
+Report the bug: <https://github.com/jitsi/jitsi-meet-electron/issues/new/>  
+Download:   x86_64: <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2024.10.0/jitsi-meet-x86_64.AppImage>  
             arm64: <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2024.10.0/jitsi-meet-arm64.AppImage>

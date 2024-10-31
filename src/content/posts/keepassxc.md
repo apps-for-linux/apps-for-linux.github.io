@@ -13,10 +13,10 @@ KeePassXC is a modern, secure, and open-source password manager that stores and 
 
 License: GPL-3.0
 
-Web page: <https://onekeepass.github.io/>
+Web page: <https://onekeepass.github.io/>  
 Source code: <https://github.com/keepassxreboot/keepassxc>
 
-Become a sponsor: <https://keepassxc.org/donate/>
-Translate: <https://www.transifex.com/keepassxc/keepassxc/>
-Report the bug: <https://github.com/keepassxreboot/keepassxc/issues/new/>
+Become a sponsor: <https://keepassxc.org/donate/>  
+Translate: <https://www.transifex.com/keepassxc/keepassxc/>  
+Report the bug: <https://github.com/keepassxreboot/keepassxc/issues/new/>  
 Download: <https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-x86_64.AppImage>

@@ -15,6 +15,6 @@ License: GPL-3.0
 
 Source code: <https://github.com/JonMagon/KDiskMark>
 
-Translate: <https://crowdin.com/project/kdiskmark>
-Report the bug: <https://github.com/JonMagon/KDiskMark/issues/new/>
+Translate: <https://crowdin.com/project/kdiskmark>  
+Report the bug: <https://github.com/JonMagon/KDiskMark/issues/new/>  
 Download: <https://github.com/JonMagon/KDiskMark/releases/download/3.1.4/KDiskMark-3.1.4-fio-3.35-x86_64.AppImage>
