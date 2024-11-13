@@ -58,7 +58,7 @@ const { className, posts, fluid } = Astro.props;
           </li>
             <>{dateFormat(post.data.date)}</>
           </li>
-          <li class="ml-30 flex items-center flex-wrap">
+          <li class="mr-5 flex items-stretch flex-wrap">
             <>
               <ul>
                 {post.data.categories.map((category: string, i: number) => (
