@@ -14,7 +14,7 @@ FreeCAD is a general purpose Open Source 3D CAD/MCAD/CAx/CAE/PLM modeler
 License: GPL-2.0
 
 Web page: <https://www.freecad.org/>
-Source code: : <https://github.com/FreeCAD/FreeCAD>
+Source code: <https://github.com/FreeCAD/FreeCAD>
 
 Become a sponsor: <https://www.freecad.org/sponsor.php>
 Translate: <https://crowdin.com/project/freecad>
