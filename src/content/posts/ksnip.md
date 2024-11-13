@@ -17,5 +17,5 @@ Source code: <https://github.com/ksnip/ksnip>
 
 Become a sponsor: <https://github.com/sponsors/DamirPorobic>
 Translate: <https://hosted.weblate.org/engage/ksnip/>
-Report the bug: <https://github.com/ksnip/ksnip/issues/new/>
+Report the bug: <https://github.com/ksnip/ksnip/issues/new>
 Download: <https://github.com/ksnip/ksnip/releases/download/v1.10.1/ksnip-1.10.1-x86_64.AppImage>

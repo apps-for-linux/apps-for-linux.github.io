@@ -17,5 +17,5 @@ Web page: <https://frappe.io/books>
 Source code: <https://github.com/frappe/books>
 
 Translate: <https://github.com/frappe/books/wiki/Contributing-Translations>
-Report the bug: <https://github.com/frappe/books/issues/new/>
+Report the bug: <https://github.com/frappe/books/issues/new>
 Download: <https://github.com/frappe/books/releases/download/v0.23.0/Frappe-Books-0.23.0.AppImage>

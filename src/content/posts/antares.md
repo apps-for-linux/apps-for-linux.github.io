@@ -13,7 +13,7 @@ A modern, fast and productivity driven SQL client with a focus in UX
 
 License: MIT
 
-Web page: <https://antares-sql.app/>
+Web page: <https://antares-sql.app>
 Source code: <https://github.com/antares-sql/antares>
 
 Become a sponsor: <https://www.paypal.com/paypalme/fabiodistasio>

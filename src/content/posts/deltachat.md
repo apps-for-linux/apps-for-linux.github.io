@@ -18,6 +18,6 @@ Source code: <https://github.com/deltachat/deltachat-desktop>
 
 Translate: <https://www.transifex.com/delta-chat/public/>
 Become a sponsor: <https://delta.chat/en/donate>
-Report the bug: <https://github.com/deltachat/deltachat-desktop/issues/new/>
+Report the bug: <https://github.com/deltachat/deltachat-desktop/issues/new>
 Download: x86_64: <https://github.com/deltachat/deltachat-desktop/releases/download/v1.46.1/DeltaChat-1.46.1.AppImage>
           arm64: <https://github.com/deltachat/deltachat-desktop/releases/download/v1.46.1/DeltaChat-1.46.1-arm64.AppImage>

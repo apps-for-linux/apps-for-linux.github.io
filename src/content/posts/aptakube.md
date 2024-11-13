@@ -13,7 +13,7 @@ Modern, lightweight and multi-cluster Kubernetes GUI
 
 License: EULA
 
-Web page: <https://aptakube.com/>
+Web page: <https://aptakube.com>
 
-Report the bug: <https://github.com/aptakube/aptakube/issues/>  
+Report the bug: <https://github.com/aptakube/aptakube/issues>  
 Download: <https://github.com/aptakube/aptakube/releases/download/1.7.13/aptakube_1.7.13_amd64.AppImage>

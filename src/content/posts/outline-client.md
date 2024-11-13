@@ -13,7 +13,7 @@ A cross-platform proxy client
 
 License: Apache-2.0
 
-Web page: <https://getoutline.org/ru/>
+Web page: <https://getoutline.org>
 Source code: <https://github.com/Jigsaw-Code/outline-apps/tree/master/client>
 
 Report the bug: <https://github.com/Jigsaw-Code/outline-apps/issues/new>

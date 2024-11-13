@@ -13,9 +13,9 @@ Security-first diagramming for teams
 
 License: Apache-2.0
 
-Web page: <https://www.drawio.com/>
+Web page: <https://www.drawio.com>
 Source code: <https://github.com/jgraph/drawio-desktop>
 
-Report the bug: <https://github.com/jgraph/drawio-desktop/issues/new/>
+Report the bug: <https://github.com/jgraph/drawio-desktop/issues/new>
 Download: x86_64: <https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/drawio-x86_64-24.7.17.AppImage>
           arm64: <https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/drawio-arm64-24.7.17.AppImage>

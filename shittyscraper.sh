@@ -9,7 +9,7 @@
 
 cd $HOME/apps-for-linux.github.io/src/content/posts
 
-repo=$( cat *.md | grep "Source Code" | cut -c 15- | sed -r 's/releases.+//' | sed '$ s/.$//' )
+repo=$( cat *.md | grep "Download" | cut -c 31- | sed -r 's/releases.+//' | sed '$ s/.$//' )
 
 current_version=$(curl -s https://api.github.com/repos/"$repo"/releases/latest | grep "browser_download_url.*AppImage" | cut -d : -f 2,3 | tr -d \")
 previous_version=$(grep "Download" | cut -c12- | tr -d '>')

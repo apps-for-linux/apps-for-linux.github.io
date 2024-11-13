@@ -18,5 +18,5 @@ Source code: <https://github.com/toeverything/AFFiNE/>
 
 Become a sponsor: <https://github.com/sponsors/toeverything>
 Translate: <https://crowdin.com/project/affine/>
-Report the bug: <https://github.com/toeverything/AFFiNE/issues/>
+Report the bug: <https://github.com/toeverything/AFFiNE/issues>
 Download: <https://github.com/toeverything/AFFiNE/releases/download/v0.17.5/affine-0.17.5-stable-linux-x64.appimage>

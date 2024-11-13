@@ -18,5 +18,5 @@ Source code: <https://github.com/LizardByte/Sunshine>
 
 Become a sponsor: <https://github.com/sponsors/LizardByte>  
 Translate: <https://translate.lizardbyte.dev/>
-Report the bug: <https://github.com/LizardByte/Sunshine/issues/new/>  
+Report the bug: <https://github.com/LizardByte/Sunshine/issues/new>  
 Download: <https://github.com/LizardByte/Sunshine/releases/download/v2024.1007.214114/sunshine.AppImage>

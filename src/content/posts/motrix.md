@@ -13,7 +13,7 @@ Motrix is a full-featured download manager that supports downloading HTTP, FTP, 
 
 License: MIT
 
-Web page: <https://motrix.app/>  
+Web page: <https://motrix.app>  
 Source code: <https://github.com/agalwood/Motrix>
 
 Become a sponsor: <https://www.libreoffice.org/donate/>  

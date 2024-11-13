@@ -13,7 +13,7 @@ Daily journaling without distraction
 
 License: GPL-3.0
 
-Web page: <https://uselinked.com/>
+Web page: <https://uselinked.com>
 Source code: <https://github.com/lostdesign/linked>
 
 Become a sponsor: <https://uselinked.com/sponsor>

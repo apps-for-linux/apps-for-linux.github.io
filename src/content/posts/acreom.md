@@ -13,8 +13,8 @@ Local-first open-source markdown knowledge base
 
 License: GPL-3.0
 
-Web page: <https://acreom.com/>
-Source code: <https://github.com/Acreom/app/>
+Web page: <https://acreom.com>
+Source code: <https://github.com/Acreom/app>
 
-Report the bug: <https://github.com/Acreom/app/issues/>
+Report the bug: <https://github.com/Acreom/app/issues>
 Download: <https://github.com/Acreom/app/releases/download/v1.20.3/acreom-1.20.3.AppImage>

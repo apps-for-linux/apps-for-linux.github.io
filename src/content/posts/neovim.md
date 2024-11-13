@@ -13,7 +13,7 @@ Vim-fork focused on extensibility and usability
 
 License: Apache-2.0
 
-Web page: <https://neovim.io/>  
+Web page: <https://neovim.io>  
 Source code: <https://github.com/neovim/neovim>
 
 Become a sponsor: <https://github.com/sponsors/neovim>  

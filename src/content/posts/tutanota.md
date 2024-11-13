@@ -13,7 +13,7 @@ Email service with a strong focus on security and privacy that lets you encrypt 
 
 License: GPL-3.0
 
-Web page: <https://tuta.com/>  
+Web page: <https://tuta.com>  
 Source code: <https://github.com/tutao/tutanota>
 
 Become a sponsor: <https://tuta.com/community/#donate>  

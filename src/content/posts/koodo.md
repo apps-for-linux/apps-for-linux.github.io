@@ -13,11 +13,11 @@ A modern ebook manager and reader with sync and backup capacities for Windows, m
 
 License: AGPL-3.0
 
-Web page: <https://koodoreader.com/>  
+Web page: <https://koodoreader.com>  
 Source code: <https://github.com/koodo-reader/koodo-reader>
 
 Translate: <https://github.com/koodo-reader/koodo-reader?tab=readme-ov-file#translation>  
-Report the bug: <https://github.com/koodo-reader/koodo-reader/issues/new/>  
+Report the bug: <https://github.com/koodo-reader/koodo-reader/issues/new>  
 Download:   x86_64: <https://github.com/koodo-reader/koodo-reader/releases/download/v1.7.1/Koodo-Reader-1.7.1-x86_64.AppImage>
             i386: <https://github.com/koodo-reader/koodo-reader/releases/download/v1.7.1/Koodo-Reader-1.7.1-i386.AppImage>
             arm64: <https://github.com/koodo-reader/koodo-reader/releases/download/v1.7.1/Koodo-Reader-1.7.1-arm64.AppImage>

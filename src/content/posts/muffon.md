@@ -13,7 +13,7 @@ muffon is a cross-platform music streaming client for desktop, which helps you l
 
 License: AGPL-3.0
 
-Web page: <https://muffon.netlify.app/>  
+Web page: <https://muffon.netlify.app>  
 Source code: <https://github.com/staniel359/muffon>
 
 Become a sponsor: <https://ko-fi.com/staniel359>  

@@ -13,7 +13,7 @@ Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management.
 
 License: MIT
 
-Web page: <https://www.playyourdamnturn.com/>  
+Web page: <https://www.playyourdamnturn.com>  
 Source code: <https://github.com/pydt/client>
 
 Become a sponsor: <https://www.patreon.com/pydt>  

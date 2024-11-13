@@ -13,7 +13,7 @@ Notes is an open source and cross-platform note-taking app that is both beautifu
 
 License: MPL-2.0
 
-Web page: <https://www.get-notes.com/>  
+Web page: <https://www.get-notes.com>  
 Source code: <https://github.com/nuttyartist/notes>
 
 Become a sponsor: <https://github.com/sponsors/nuttyartist>  

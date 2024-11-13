@@ -13,7 +13,7 @@ Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with L
 
 License: AGPL-3.0
 
-Web page: <https://upscayl.org/>  
+Web page: <https://upscayl.org>  
 Source code: <https://github.com/upscayl/upscayl>
 
 Become a sponsor: <https://www.buymeacoffee.com/fossisthefuture>  

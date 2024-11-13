@@ -17,5 +17,5 @@ Source code: <https://github.com/ransome1/sleek>
 
 Become a sponsor: <https://github.com/sponsors/ransome1>  
 Translate: <https://github.com/ransome1/sleek/tree/main/src/locales>  
-Report the bug: <https://github.com/ransome1/sleek/issues/new/>  
+Report the bug: <https://github.com/ransome1/sleek/issues/new>  
 Download: <https://github.com/ransome1/sleek/releases/download/v2.0.14/sleek-2.0.14.AppImage>

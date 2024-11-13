@@ -13,9 +13,9 @@ The official Alephium desktop wallet
 
 License: LGPL-3.0
 
-Web page: <https://alephium.org/>
+Web page: <https://alephium.org>
 Source code: <https://github.com/alephium/alephium-frontend>
 
 Translate: <https://crowdin.com/project/alephium>
-Report the bug: <https://github.com/alephium/alephium-frontend/issues/new/>
+Report the bug: <https://github.com/alephium/alephium-frontend/issues/new>
 Download: <https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%402.4.2/Alephium-2.4.2.AppImage>

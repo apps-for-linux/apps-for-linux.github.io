@@ -17,5 +17,5 @@ Web page: <https://thetumultuousunicornofdarkness.github.io/CPU-X>
 Source code: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X>
 
 Translate: <https://hosted.weblate.org/engage/cpu-x/?utm_source=widget>  
-Report the bug: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/issues/new/>  
+Report the bug: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/issues/new>  
 Download: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v5.1.0/CPU-X-5.1.0-x86_64.AppImage>

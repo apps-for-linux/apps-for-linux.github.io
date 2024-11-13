@@ -13,7 +13,7 @@ Naev is a 2d action/rpg space game that combines elements from the action, rpg a
 
 License: GPL-3.0
 
-Web page: <https://naev.org/>  
+Web page: <https://naev.org>  
 Source code: <https://github.com/naev/naev>
 
 Become a sponsor: <https://www.libreoffice.org/donate/>  

@@ -13,6 +13,6 @@ Mendeley Reference Manager simplifies your workflow, so you can focus on achievi
 
 License: EULA
 
-Web page: <https://www.mendeley.com/>  
+Web page: <https://www.mendeley.com>  
 
 Download: <https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.112.2-x86_64.AppImage>

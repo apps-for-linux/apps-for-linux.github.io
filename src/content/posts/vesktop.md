@@ -16,6 +16,6 @@ License: GPL-3.0
 Source code: <https://github.com/Vencord/Vesktop>
 
 Become a sponsor: <https://github.com/sponsors/Vendicated>  
-Report the bug: <https://github.com/Vencord/Vesktop/issues/new/>  
+Report the bug: <https://github.com/Vencord/Vesktop/issues/new>  
 Download: x86_64: <https://github.com/Vencord/Vesktop/releases/download/v1.5.3/Vesktop-1.5.3.AppImage>  
             arm64: <https://github.com/Vencord/Vesktop/releases/download/v1.5.3/Vesktop-1.5.3-arm64.AppImage>

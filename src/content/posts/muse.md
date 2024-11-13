@@ -13,7 +13,7 @@ MusE is a digital audio workstation with support for both Audio and MIDI
 
 License: GPL-2.0
 
-Web page: <https://muse-sequencer.github.io/>
+Web page: <https://muse-sequencer.github.io>
 Source code: <https://github.com/muse-sequencer/muse>
 
 Become a sponsor: <https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YJCUXMC9MBG7Y>  

@@ -13,9 +13,9 @@ All in one screenwriting app
 
 License: GPL-3.0
 
-Web page: <https://starc.app/>  
+Web page: <https://starc.app>  
 Source code: <https://github.com/story-apps/starc>
 
 Translate: <https://www.transifex.com/story-apps/starc/>  
-Report the bug: <https://github.com/story-apps/starcdownload/issues/new/>  
+Report the bug: <https://github.com/story-apps/starcdownload/issues/new>  
 Download: <https://github.com/story-apps/starc/releases/download/v0.7.4/starc-setup.AppImage>

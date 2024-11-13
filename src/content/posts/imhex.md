@@ -18,5 +18,5 @@ Source code: <https://github.com/WerWolv/ImHex/>
 
 Become a sponsor: <https://github.com/sponsors/WerWolv>  
 Translate: <https://weblate.werwolv.net/projects/imhex/>  
-Report the bug: <https://github.com/WerWolv/ImHex/issues/new/>  
+Report the bug: <https://github.com/WerWolv/ImHex/issues/new>  
 Download: <https://github.com/WerWolv/ImHex/releases/download/v1.33.2/imhex-1.33.2-x86_64.AppImage>

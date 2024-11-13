@@ -13,7 +13,7 @@ Music player capable of playing local audio or from Youtube, Spotify and many mo
 
 License: GPL-3.0
 
-Web page: <https://moosync.app/>  
+Web page: <https://moosync.app>  
 Source code: <https://github.com/Moosync/Moosync>
 
 Become a sponsor: <https://github.com/Moosync/Moosync#Donations>  

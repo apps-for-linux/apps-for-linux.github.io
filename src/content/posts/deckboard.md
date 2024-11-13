@@ -13,7 +13,7 @@ Control your PC with your phone in easy way possible
 
 License: AGPL-3.0
 
-Web page: <https://deckboard.app/>
+Web page: <https://deckboard.app>
 Source code: <https://github.com/rivafarabi/deckboard>
 
 Become a sponsor: <https://ko-fi.com/rivafarabi>

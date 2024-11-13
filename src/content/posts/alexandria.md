@@ -15,5 +15,5 @@ License: GPL-3.0
 
 Source code: <https://github.com/btpf/Alexandria>
 
-Report the bug: <https://github.com/btpf/Alexandria/issues/new/>
+Report the bug: <https://github.com/btpf/Alexandria/issues/new>
 Download: <https://github.com/btpf/Alexandria/releases/download/v0.13.1/alexandria_0.13.1_amd64.AppImage>

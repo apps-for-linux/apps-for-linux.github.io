@@ -13,7 +13,7 @@ Passky is a simple, modern, lightweight, open source and secure password manager
 
 License: GPL-3.0
 
-Web page: <https://passky.org/>
+Web page: <https://passky.org>
 Source code: <https://github.com/Rabbit-Company/Passky-Desktop>
 
 Become a sponsor: <https://passky.org/donation>

@@ -13,7 +13,7 @@ Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D i
 
 License: GPL-2.0
 
-Web page: <http://pencil2d.org/>
+Web page: <http://pencil2d.org>
 Source code: <https://github.com/pencil2d/pencil>
 
 Translate: <https://www.transifex.com/pencil2d/>

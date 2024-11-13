@@ -17,5 +17,5 @@ Web page: <https://raredevs.github.io/Rare/>
 Source code: <https://github.com/RareDevs/Rare>
 
 Translate: <https://www.transifex.com/rare-1/rare>  
-Report the bug: <https://github.com/RareDevs/Rare/issues/new/>  
+Report the bug: <https://github.com/RareDevs/Rare/issues/new>  
 Download: <https://github.com/RareDevs/Rare/releases/download/1.10.11.423/Rare-1.10.11.423.AppImage>

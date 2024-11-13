@@ -13,7 +13,7 @@ A modern, open source password manager for individuals and teams.
 
 License: AGPL-3.0
 
-Web page: <https://padloc.app/>  
+Web page: <https://padloc.app>  
 Source code: <https://github.com/padloc/padloc>
 
 Translate: <https://github.com/padloc/padloc/tree/main/packages/locale>  

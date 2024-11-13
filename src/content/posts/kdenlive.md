@@ -13,10 +13,10 @@ Free and Open Source Video Editor
 
 License: GPL-3.0
 
-Web page: <https://kdenlive.org/>  
+Web page: <https://kdenlive.org>  
 Source code: <https://invent.kde.org/multimedia/kdenlive>
 
 Become a sponsor: <https://kdenlive.org/en/fund/>
-Translate: <https://l10n.kde.org/>  
+Translate: <https://l10n.kde.org>  
 Report the bug: <https://invent.kde.org/multimedia/kdenlive/-/issues/new>  
 Download: <https://download.kde.org/stable/kdenlive/24.05/linux/kdenlive-24.05.1-x86_64.AppImage>

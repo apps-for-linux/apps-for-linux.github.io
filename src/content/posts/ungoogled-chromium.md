@@ -13,8 +13,8 @@ ungoogled-chromium is Google Chromium, sans dependency on Google web services.
 
 License: BSD-3-Clause
 
-Web page: <https://ungoogled-software.github.io/>  
+Web page: <https://ungoogled-software.github.io>  
 Source code: <https://github.com/ungoogled-software/ungoogled-chromium>
 
-Report the bug: <https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/issues/new/>  
+Report the bug: <https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/issues/new>  
 Download: <https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/releases/download/130.0.6723.69-1/ungoogled-chromium_130.0.6723.69-1.AppImage>

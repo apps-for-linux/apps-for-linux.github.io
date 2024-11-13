@@ -13,7 +13,7 @@ PrusaSlicer takes 3D models (STL, OBJ, AMF) and converts them into G-code instru
 
 License: AGPL-3.0
 
-Web page: <https://www.prusa3d.com/en/page/prusaslicer_424/>
+Web page: <https://www.prusa3d.com/en/page/prusaslicer_424>
 Source code: <https://github.com/prusa3d/PrusaSlicer>
 
 Translate: <https://github.com/prusa3d/PrusaSlicer/blob/master/doc/Localization_guide.md>

@@ -13,9 +13,9 @@ Desktop client for filen.io
 
 License: AGPL-3.0
 
-Web page: <https://filen.io/>  
+Web page: <https://filen.io>  
 Source code: <https://github.com/FilenCloudDienste/filen-desktop>
 
-Report the bug: <https://github.com/FilenCloudDienste/filen-desktop/issues/new/>  
+Report the bug: <https://github.com/FilenCloudDienste/filen-desktop/issues/new>  
 Download:   x86_64: <https://cdn.filen.io/desktop/release/filen_x86_64.AppImage>  
             arm64: <https://cdn.filen.io/desktop/release/filen_arm64.AppImage>

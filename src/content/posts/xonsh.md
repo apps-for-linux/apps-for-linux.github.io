@@ -17,5 +17,5 @@ Web page: <https://xon.sh/>
 Source code: <https://github.com/xonsh/xonsh>
 
 Become a sponsor: <https://github.com/sponsors/xonsh>  
-Report the bug: <https://github.com/xonsh/xonsh/issues/new/>  
+Report the bug: <https://github.com/xonsh/xonsh/issues/new>  
 Download: <https://github.com/xonsh/xonsh/releases/download/0.18.3/xonsh-x86_64.AppImage>

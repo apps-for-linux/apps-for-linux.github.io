@@ -13,7 +13,7 @@ MQTTX is a cross-platform MQTT 5.0 client tool open sourced by EMQ, which can ru
 
 License: Apache-2.0
 
-Web page: <https://mqttx.app/>  
+Web page: <https://mqttx.app>  
 Source code: <https://github.com/emqx/MQTTX>
 
 Report the bug: <https://github.com/emqx/MQTTX/issues/new>  

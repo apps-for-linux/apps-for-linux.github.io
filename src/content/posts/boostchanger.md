@@ -15,5 +15,5 @@ License: MIT
 
 Source code: <https://github.com/nbebaw/boostchanger>
 
-Report the bug: <https://github.com/nbebaw/boostchanger/issues/new/>
+Report the bug: <https://github.com/nbebaw/boostchanger/issues/new>
 Download: <https://github.com/nbebaw/boostchanger/releases/download/v5.0.3/boostchanger-5.0.3.AppImage>
