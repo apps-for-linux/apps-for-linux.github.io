@@ -13,7 +13,7 @@ Free Real Time Strategy Game with a grand scale and full physical simulation in 
 
 License: GPL-2.0
 
-Web page: <https://www.beyondallreason.info/>
+Web page: <https://www.beyondallreason.info>
 Source code: <https://github.com/beyond-all-reason/BYAR-Chobby>
 
 Become a sponsor: <https://www.beyondallreason.info/donate-to-bar>

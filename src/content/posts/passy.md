@@ -13,7 +13,7 @@ Offline password manager with cross-platform synchronization
 
 License: GPL-3.0
 
-Web page: <https://glitterware.github.io/Passy/>
+Web page: <https://glitterware.github.io/Passy>
 Source code: <https://github.com/GlitterWare/Passy>
 
 Become a sponsor: <https://github.com/sponsors/GlitterWare>

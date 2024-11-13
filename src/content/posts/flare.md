@@ -14,7 +14,7 @@ Fantasy action RPG using the FLARE engine
 License: GPL-3.0
 
 Web page: <http://flarerpg.org>  
-Source code: <https://github.com/flareteam/flare-game/>
+Source code: <https://github.com/flareteam/flare-game>
 
 Translate: <https://explore.transifex.com/flareorg>  
 Report the bug: <https://github.com/flareteam/flare-game/issues/new>  

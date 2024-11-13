@@ -14,7 +14,7 @@ Actual Budget is a super fast and privacy-focused app for managing your finances
 License: MIT
 
 Web page: <https://actualbudget.org>
-Source code: <https://github.com/actualbudget/actual/>
+Source code: <https://github.com/actualbudget/actual>
 
 Become a sponsor: <https://github.com/sponsors/actualbudget>
 Translate: <https://hosted.weblate.org/projects/actualbudget>

@@ -13,8 +13,8 @@ Free and open-source music sequencer for desktop and mobile platforms
 
 License: MIT
 
-Web page: <https://helio.fm/>  
-Source code: <https://github.com/helio-fm/helio-sequencer/>
+Web page: <https://helio.fm>  
+Source code: <https://github.com/helio-fm/helio-sequencer>
 
 Become a sponsor: <https://www.patreon.com/peterrudenko>  
 Translate: <https://docs.google.com/spreadsheets/d/1RBDyVUDZcx6Y_OZzicnfwaWSI5uAcPbHgByo6xiFhBQ/edit?gid=0#gid=0>  

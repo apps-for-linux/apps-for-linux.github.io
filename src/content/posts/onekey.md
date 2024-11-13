@@ -13,7 +13,7 @@ Secure, open source and community driven crypto wallet runs on all platforms and
 
 License: Apache-2.0
 
-Web page: <https://www.onekey.so/>
+Web page: <https://www.onekey.so>
 Source code: <https://github.com/OneKeyHQ/app-monorepo>
 
 Report the bug: <https://github.com/OneKeyHQ/app-monorepo/issues/new>

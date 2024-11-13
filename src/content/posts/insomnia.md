@@ -13,7 +13,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 License: MIT
 
-Web page: <https://insomnia.rest/>  
+Web page: <https://insomnia.rest>  
 Source code: <https://github.com/Kong/insomnia>
 
 Report the bug: <https://github.com/Kong/insomnia/issues>  

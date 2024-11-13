@@ -14,7 +14,7 @@ A lightweight text editor written in Lua
 License: MIT
 
 Web page: <https://lite-xl.com>  
-Source code: <https://github.com/lite-xl/lite-xl/>
+Source code: <https://github.com/lite-xl/lite-xl>
 
 Become a sponsor: <https://github.com/franko>  
 Report the bug: <https://github.com/lite-xl/lite-xl/issues/new>  

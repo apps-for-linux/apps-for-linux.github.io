@@ -14,7 +14,7 @@ Privacy-focused note-taking application
 License: MIT
 
 Web page: <https://beavernotes.com>
-Source code: <https://github.com/Daniele-rolli/Beaver-Notes/>
+Source code: <https://github.com/Daniele-rolli/Beaver-Notes>
 
 Become a sponsor: <https://ko-fi.com/danielerollibeavernotes>
 Translate: <https://danieles-organization.gitbook.io/beaver-notes/dev-guides/translate-beaver>

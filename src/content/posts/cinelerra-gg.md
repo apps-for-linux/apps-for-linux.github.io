@@ -14,7 +14,7 @@ Cinelerra GG Infinity is a free and open source video editing software for Linux
 License: GPL-2.0
 
 Web page: <https://www.cinelerra-gg.org>  
-Source code: <https://git.cinelerra-gg.org/git/>
+Source code: <https://git.cinelerra-gg.org/git>
 
 Translate: <https://www.cinelerra-gg.org/translate-app>  
 Report the bug: <https://www.cinelerra-gg.org/bugtracker/login_page.php>  

@@ -13,7 +13,7 @@ Vim Inspired Electron Browser - Vim bindings for the web by design
 
 License: GPL-3.0
 
-Web page: <https://vieb.dev/>  
+Web page: <https://vieb.dev>  
 Source code: <https://github.com/Jelmerro/Vieb>
 
 Become a sponsor: <https://github.com/sponsors/Jelmerro>  

@@ -13,10 +13,10 @@ ImHex is a feature-rich Hex Editor aimed towards Reverse Engineers working with 
 
 License: GPL-2.0
 
-Web page: <https://imhex.werwolv.net/>  
-Source code: <https://github.com/WerWolv/ImHex/>
+Web page: <https://imhex.werwolv.net>  
+Source code: <https://github.com/WerWolv/ImHex>
 
 Become a sponsor: <https://github.com/sponsors/WerWolv>  
-Translate: <https://weblate.werwolv.net/projects/imhex/>  
+Translate: <https://weblate.werwolv.net/projects/imhex>  
 Report the bug: <https://github.com/WerWolv/ImHex/issues/new>  
 Download: <https://github.com/WerWolv/ImHex/releases/download/v1.33.2/imhex-1.33.2-x86_64.AppImage>

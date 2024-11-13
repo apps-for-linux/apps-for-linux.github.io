@@ -13,7 +13,7 @@ Chromium fork for linux, includes Widevine, All Codecs, Chrome Plugins, as well 
 
 License: BSD-3-Clause
 
-Web page: <https://thorium.rocks/>  
+Web page: <https://thorium.rocks>  
 Source code: <https://github.com/Alex313031/thorium>
 
 Become a sponsor: <https://paypal.me/alex313031>  

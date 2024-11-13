@@ -13,7 +13,7 @@ A quick and easy to use drag and drop retro game creator for your favourite hand
 
 License: MIT
 
-Web page: <https://www.gbstudio.dev/>  
+Web page: <https://www.gbstudio.dev>  
 Source code: <https://github.com/chrismaltby/gb-studio>
 
 Translate: <https://github.com/chrismaltby/gb-studio?tab=readme-ov-file#note-for-translators>  

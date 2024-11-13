@@ -13,8 +13,8 @@ Frigoligo is a wallabag client crafted using Flutter
 
 License: MIT
 
-Source code: <https://github.com/casimir/frigoligo/>
+Source code: <https://github.com/casimir/frigoligo>
 
-Translate: <https://hosted.weblate.org/engage/frigoligo/>  
+Translate: <https://hosted.weblate.org/engage/frigoligo>  
 Report the bug: <https://github.com/casimir/frigoligo/issues/new>  
 Download: <https://github.com/casimir/frigoligo/releases/download/v1.2.0/Frigoligo-v1.2.0-x86_64.AppImage>

@@ -13,7 +13,7 @@ A privacy-first, self-hosted, fully open source personal knowledge management so
 
 License: AGPL-3.0
 
-Web page: <https://b3log.org/siyuan/>  
+Web page: <https://b3log.org/siyuan>  
 Source code: <https://github.com/siyuan-note/siyuan>
 
 Become a sponsor: <https://ld246.com/sponsor>  

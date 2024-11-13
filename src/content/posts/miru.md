@@ -13,7 +13,7 @@ Stream anime torrents, real-time with no waiting for downloads
 
 License: GPL-3.0
 
-Web page: <https://miru.watch/>  
+Web page: <https://miru.watch>  
 Source code: <https://github.com/ThaUnknown/miru>
 
 Become a sponsor: <https://github.com/sponsors/ThaUnknown>  

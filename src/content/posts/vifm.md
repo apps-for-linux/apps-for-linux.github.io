@@ -13,7 +13,7 @@ Vifm is a file manager with curses interface, which provides Vim-like environmen
 
 License: GPL-2.0
 
-Web page: <https://vifm.info/>  
+Web page: <https://vifm.info>  
 Source code: <https://github.com/vifm/vifm>
 
 Become a sponsor: <https://github.com/sponsors/vifm>  

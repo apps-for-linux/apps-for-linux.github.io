@@ -14,7 +14,7 @@ Laigter is a tool that automatically generates maps for dynamic lighting effects
 License: GPL-3.0
 
 Web page: <https://azagaya.itch.io/laigter>  
-Source code: <https://github.com/azagaya/laigter/>
+Source code: <https://github.com/azagaya/laigter>
 
 Become a sponsor: <https://www.patreon.com/jazagaya>  
 Translate: <https://github.com/azagaya/laigter/blob/master/CONTRIBUTING.md#contributing-with-translation>  

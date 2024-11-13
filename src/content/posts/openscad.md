@@ -14,7 +14,7 @@ The Programmers Solid 3D CAD Modeller
 License: GPL-3.0
 
 Web page: <https://www.openscad.org>
-Source code: <https://github.com/openscad/openscad/>
+Source code: <https://github.com/openscad/openscad>
 
 Become a sponsor: <https://github.com/sponsors/openscad>
 Translate: <https://wiki.documentfoundation.org/Language>

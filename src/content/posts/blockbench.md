@@ -13,9 +13,9 @@ Blockbench is a free, modern model editor for low-poly and boxy models with pixe
 
 License: GPL-3.0
 
-Web page: <https://www.blockbench.net/>
+Web page: <https://www.blockbench.net>
 Source code: <https://github.com/JannisX11/blockbench>
 
-Translate: <https://blockbench.net/translations/>
+Translate: <https://blockbench.net/translations>
 Report the bug: <https://github.com/JannisX11/blockbench/issues/new>
 Download: <https://github.com/JannisX11/blockbench/releases/download/v4.9.4/Blockbench_4.9.4.AppImage>

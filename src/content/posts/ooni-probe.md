@@ -16,5 +16,5 @@ License: BSD-3-Clause
 Web page: <https://ooni.org/install/desktop>  
 Source code: <https://github.com/ooni/probe-desktop>
 
-Report the bug: <https://github.com/ooni/probe-desktop/>  
+Report the bug: <https://github.com/ooni/probe-desktop>  
 Download: <https://github.com/ooni/probe-desktop/releases/download/v3.9.8/OONI-Probe-3.9.8.AppImage>

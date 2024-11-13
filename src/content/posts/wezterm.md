@@ -13,7 +13,7 @@ GPU-accelerated cross-platform terminal emulator and multiplexer
 
 License: MIT
 
-Web page: <https://wezfurlong.org/wezterm/>  
+Web page: <https://wezfurlong.org/wezterm> 
 Source code: <https://github.com/wez/wezterm>
 
 Become a sponsor: <https://patreon.com/WezFurlong>  

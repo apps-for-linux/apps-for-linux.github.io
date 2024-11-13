@@ -13,7 +13,7 @@ Privacy first financial tracking, with radical customizability!
 
 License: AGPL-3.0
 
-Web page: <https://reckoner.finance/>  
+Web page: <https://reckoner.finance>  
 Source code: <https://codeberg.org/Reckoner/app>
 
 Report the bug: <https://codeberg.org/Reckoner/app/issues/new>  

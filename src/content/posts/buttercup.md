@@ -13,7 +13,7 @@ Buttercup is a free, open-source and cross-platform password manager
 
 License: GPL-3.0
 
-Web page: <https://buttercup.pw/>  
+Web page: <https://buttercup.pw>  
 Source code: <https://github.com/buttercup/buttercup-desktop>
 
 Become a sponsor: <https://opencollective.com/buttercup>  

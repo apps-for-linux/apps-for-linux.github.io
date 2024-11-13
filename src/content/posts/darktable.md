@@ -14,7 +14,7 @@ darktable is an open source photography workflow application and raw developer
 License: GPL-3.0
 
 Web page: <https://www.darktable.org>
-Source code: <https://github.com/darktable-org/darktable/>
+Source code: <https://github.com/darktable-org/darktable>
 
 Translate: <https://github.com/darktable-org/darktable/blob/master/doc/TRANSLATORS.md>
 Report the bug: <https://github.com/darktable-org/darktable//issues/new>

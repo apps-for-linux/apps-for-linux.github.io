@@ -16,7 +16,7 @@ License: GPL-3.0
 Web page: <https://naev.org>  
 Source code: <https://github.com/naev/naev>
 
-Become a sponsor: <https://www.libreoffice.org/donate/>  
-Translate: <https://hosted.weblate.org/projects/naev/naev/>  
+Become a sponsor: <https://www.libreoffice.org/donate>  
+Translate: <https://hosted.weblate.org/projects/naev/naev>  
 Report the bug: <https://github.com/naev/naev/issues/new>  
 Download: <https://github.com/naev/naev/releases/download/v0.11.5/naev-0.11.5-linux-x86-64.AppImage>

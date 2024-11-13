@@ -13,7 +13,7 @@ Powerful, minimalistic, cross-platform, opensource note-taking app
 
 License: AGPL-3.0
 
-Web page: <https://docs.butterfly.linwood.dev/>  
+Web page: <https://docs.butterfly.linwood.dev>  
 Source code: <https://github.com/LinwoodDev/Butterfly>
 
 Translate: <https://translate.linwood.dev/butterfly>  

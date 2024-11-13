@@ -17,6 +17,6 @@ Web page: <https://heroicgameslauncher.com>
 Source code: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher>
 
 Become a sponsor: <https://patreon.com/heroicgameslauncher>
-Translate: <https://hosted.weblate.org/projects/heroic-games-launcher/>
+Translate: <https://hosted.weblate.org/projects/heroic-games-launcher>
 Report the bug: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/issues/new>
 Download: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.14.1/Heroic-2.14.1.AppImage>

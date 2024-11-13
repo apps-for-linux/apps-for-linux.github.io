@@ -13,7 +13,7 @@ Frontend for legendary, the open source Epic Games Launcher alternative
 
 License: GPL-3.0
 
-Web page: <https://raredevs.github.io/Rare/>  
+Web page: <https://raredevs.github.io/Rare>  
 Source code: <https://github.com/RareDevs/Rare>
 
 Translate: <https://www.transifex.com/rare-1/rare>  

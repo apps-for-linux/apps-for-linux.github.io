@@ -13,7 +13,7 @@ Matrix client focusing primarly on simple, elegant and secure interface
 
 License: AGPL-3.0
 
-Web page: <https://cinny.in/>  
+Web page: <https://cinny.in>  
 Source code: <https://github.com/cinnyapp/cinny-desktop>
 
 Become a sponsor: <https://opencollective.com/cinny>  

@@ -13,7 +13,7 @@ Emulator of x86-based machines based on PCem
 
 License: GPL-2.0
 
-Web page: <https://86box.net/>  
+Web page: <https://86box.net>  
 Source code: <https://github.com/86Box/86Box>
 
 Become a sponsor: <https://www.paypal.com/paypalme/86Box>  

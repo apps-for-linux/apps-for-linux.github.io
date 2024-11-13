@@ -13,7 +13,7 @@ Open-source remote play client for PlayStation
 
 License: AGPL-3.0
 
-Web page: <https://streetpea.github.io/chiaki-ng/>  
+Web page: <https://streetpea.github.io/chiaki-ng>  
 Source code: <https://github.com/streetpea/chiaki-ng>
 
 Become a sponsor: <https://buymeacoffee.com/streetpea>

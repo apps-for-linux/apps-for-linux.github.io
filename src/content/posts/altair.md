@@ -13,7 +13,7 @@ A beautiful feature-rich GraphQL Client
 
 License: MIT
 
-Web page: <https://altairgraphql.dev/>  
+Web page: <https://altairgraphql.dev>  
 Source code: <https://github.com/altair-graphql/altair>
 
 Become a sponsor: <https://opencollective.com/altair>  

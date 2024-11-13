@@ -13,7 +13,7 @@ The mod manager for the Outer Wilds Mod Loader
 
 License: GPL-3.0
 
-Web page: <https://outerwildsmods.com/mod-manager/>
+Web page: <https://outerwildsmods.com/mod-manager>
 Source code: <https://github.com/ow-mods/ow-mod-man>
 
 Translate: <https://github.com/ow-mods/ow-mod-man/blob/main/owmods_gui/TRANSLATIONS.md>

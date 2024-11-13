@@ -13,7 +13,7 @@ Innovation-first digital audio workstation (DAW), instrument and effect plugins,
 
 License: GPL-3.0
 
-Source code: <https://github.com/stargatedaw/stargate/>
+Source code: <https://github.com/stargatedaw/stargate>
 
 Report the bug: <https://github.com/stargatedaw/stargate/issues/new>  
 Download: <https://github.com/stargatedaw/stargate/releases/download/release-24.02.2/StargateDAW-24.02.2-linux-x86_64.AppImage>

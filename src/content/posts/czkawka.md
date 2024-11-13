@@ -13,7 +13,7 @@ Multi functional app to find duplicates, empty folders, similar images etc.
 
 License: MIT
 
-Source code: <https://github.com/qarmin/czkawka/>
+Source code: <https://github.com/qarmin/czkawka>
 
 Become a sponsor: <https://github.com/sponsors/qarmin>  
 Translate: <https://crowdin.com/project/czkawka>  

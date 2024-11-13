@@ -13,10 +13,10 @@ Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris wit
 
 License: GPL-3.0
 
-Web page: <https://davidotek.github.io/protonup-qt/>
+Web page: <https://davidotek.github.io/protonup-qt>
 Source code: <https://github.com/DavidoTek/ProtonUp-Qt>
 
 Become a sponsor: <https://ko-fi.com/davidotek>
-Translate: <https://hosted.weblate.org/projects/protonup-qt/>
+Translate: <https://hosted.weblate.org/projects/protonup-qt>
 Report the bug: <https://github.com/DavidoTek/ProtonUp-Qt/issues/new>
 Download: <https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.9.2/ProtonUp-Qt-2.9.2-x86_64.AppImage>

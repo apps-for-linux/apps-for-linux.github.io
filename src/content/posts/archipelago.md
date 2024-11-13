@@ -13,7 +13,7 @@ Archipelago provides a generic framework for developing multiworld capability fo
 
 License: GPL-3.0
 
-Web page: <https://archipelago.gg/>
+Web page: <https://archipelago.gg>
 Source code: <https://github.com/ArchipelagoMW/Archipelago>
 
 Report the bug: <https://github.com/ArchipelagoMW/Archipelago/issues/new>

@@ -13,7 +13,7 @@ Warp is a modern, Rust-based terminal with AI built in so you and your team can 
 
 License: EULA
 
-Web page: <https://www.warp.dev/>
+Web page: <https://www.warp.dev>
 
 Report the bug: <https://github.com/warpdotdev/Warp/issues>
 Download: <https://releases.warp.dev/stable/v0.2024.09.24.08.02.stable_01/Warp-x86_64.AppImage>

@@ -13,7 +13,7 @@ Powerful and versatile free and open-source motion graphics application
 
 License: GPL-3.0
 
-Web page: <https://friction.graphics/>  
+Web page: <https://friction.graphics>  
 Source code: <https://github.com/friction2d/friction>
 
 Report the bug: <https://github.com/friction2d/friction/issues/new>  

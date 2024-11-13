@@ -14,7 +14,7 @@ A fast and dead-simple painting app for artists
 License: GPL-2.0
 
 Web page: <http://mypaint.app>  
-Source code: <https://github.com/mypaint/mypaint/>
+Source code: <https://github.com/mypaint/mypaint>
 
 Become a sponsor: <https://opencollective.com/mypaint>  
 Translate: <https://hosted.weblate.org/engage/mypaint/?utm_source=widget>  

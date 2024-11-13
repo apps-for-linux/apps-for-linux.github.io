@@ -13,8 +13,8 @@ A Kubernetes web UI that is fully-featured, user-friendly and extensible
 
 License: Apache-2.0
 
-Web page: <https://headlamp.dev/>  
-Source code: <https://github.com/headlamp-k8s/headlamp/>
+Web page: <https://headlamp.dev>  
+Source code: <https://github.com/headlamp-k8s/headlamp>
 
 Translate: <https://github.com/headlamp-k8s/headlamp/blob/main/docs/development/i18n/contributing.md>  
 Report the bug: <https://github.com/headlamp-k8s/headlamp/issues/new>  
