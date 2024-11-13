@@ -58,14 +58,14 @@ const { className, posts, fluid } = Astro.props;
           </li>
             <>{dateFormat(post.data.date)}</>
           </li>
-          <li class="mr-5 flex items-center flex-wrap">
+          <li class="ml-30 flex items-center flex-wrap">
             <>
               <ul>
                 {post.data.categories.map((category: string, i: number) => (
                   <li class="inline-block">
                     <a
                       href={`/categories/${slugify(category)}`}
-                      class="ml-30 hover:text-primary font-medium"
+                      class="mr-2 hover:text-primary font-medium"
                     >
                       {humanize(category)}
                       {i !== post.data.categories.length - 1 && ","}

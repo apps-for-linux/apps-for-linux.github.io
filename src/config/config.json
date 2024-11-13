@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Apps for Linux Catalogue",
+    "title": "AppImage Center",
     "base_url": "https://apps-for-linux.github.io",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_width": "100",
+    "logo_height": "17",
+    "logo_text": "Apps for Linux Catalogue"
   },
 
   "settings": {
