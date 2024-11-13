@@ -16,11 +16,11 @@
 
 - [x] Alexandria
 - [x] Ooni Probe
-- [ ] Ungoogled-chromium
+- [x] Ungoogled-chromium
 - [x] GoofCord
-- [ ] spmp
-- [ ] Equibop
+- [x] spmp
+- [x] Equibop
 - [x] Webcord
-- [ ] Vieb
+- [x] Vieb
 - [ ] Pokete
 - [ ] Koodo
