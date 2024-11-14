@@ -1,5 +1,4 @@
 ---
-import Logo from "@/components/Logo.astro";
 import menu from "@/config/menu.json";
 import { IoSearch } from "react-icons/io5";
 
@@ -20,16 +19,12 @@ const { main }: { main: NavigationLink[] } = menu;
 
 <header class="header pt-6">
   <nav class="navbar container">
-    <!-- logo -->
-    <div class="order-0">
-      <Logo />
-    </div>
     <!-- navbar toggler -->
     <input id="nav-toggle" type="checkbox" class="hidden" />
     <label
       id="show-button"
       for="nav-toggle"
-      class="order-2 flex cursor-pointer items-center text-black md:order-1 md:hidden"
+      class="order-2 flex cursor-pointer items-stretch text-black md:order-1 md:hidden"
     >
       <svg class="h-6 fill-current" viewBox="0 0 20 20">
         <title>Menu Open</title>
