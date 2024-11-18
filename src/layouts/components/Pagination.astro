@@ -31,12 +31,15 @@ if (pageList[pageList.length - 1] === totalPages - 1) {
   pageList.push(totalPages);
 } else {
   pageList.push("...", totalPages);
- }
+}
 ---
 
 {
   totalPages > 1 && (
-    <nav class="mb-4 flex justify-center space-x-2 text-center" aria-label="Pagination">
+    <nav
+      class="mb-4 flex justify-center space-x-2 text-center"
+      aria-label="Pagination"
+    >
       {/* previous */}
       {hasPrevPage ? (
         <a
@@ -84,7 +87,7 @@ if (pageList[pageList.length - 1] === totalPages - 1) {
       {/* page index */}
       {pageList.map((pagination, i) =>
         pagination === currentPage ? (
-         <span class="border border-gray-400 opacity-40 rounded-md h-10 w-10 leading-[36px] font-semibold text-dark flex items-center justify-center pointer-events-none">
+          <span class="border border-gray-400 opacity-40 rounded-md h-10 w-10 leading-[36px] font-semibold text-dark flex items-center justify-center pointer-events-none">
             {pagination}
           </span>
         ) : (
@@ -99,7 +102,7 @@ if (pageList[pageList.length - 1] === totalPages - 1) {
           >
             {pagination}
           </a>
-        )
+        ),
       )}
 
       {/* next page */}

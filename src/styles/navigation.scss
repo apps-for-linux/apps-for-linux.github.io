@@ -1,13 +1,13 @@
 // navbar toggler
-input#nav-toggle:checked ~ label#show-button {
+input#nav-toggle:checked~label#show-button {
   @apply hidden;
 }
 
-input#nav-toggle:checked ~ label#hide-button {
+input#nav-toggle:checked~label#hide-button {
   @apply flex md:hidden;
 }
 
-input#nav-toggle:checked ~ #nav-menu {
+input#nav-toggle:checked~#nav-menu {
   @apply block md:flex;
 }
 
@@ -47,12 +47,15 @@ input#nav-toggle:checked ~ #nav-menu {
 // search style
 .search-modal {
   @apply invisible absolute top-0 left-0 right-0 z-10 h-10 bg-white opacity-0 transition md:h-full;
+
   .form-input {
     @apply h-full w-full border-0 text-lg;
   }
+
   .search-close {
     @apply absolute top-1/2 right-2 -translate-y-1/2 p-3 text-h4;
   }
+
   &.open {
     @apply visible opacity-100;
   }

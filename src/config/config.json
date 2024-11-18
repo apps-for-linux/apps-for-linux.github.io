@@ -7,18 +7,15 @@
     "favicon": "/images/favicon.png",
     "logo_text": "Apps for Linux Catalogue"
   },
-
   "settings": {
     "pagination": 5,
     "summary_length": 100
   },
-
   "metadata": {
     "meta_author": "DrSheppard01",
     "meta_image": "/images/og-image.png",
     "meta_description": "Apps for Linux Catalogue"
   },
-
   "params": {
     "contact_form_action": "#",
     "copyright": "Copyright © 2024 DrSheppard01"
