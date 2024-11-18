@@ -5,7 +5,7 @@ date: 2024-03-23T13:06:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["WerWolv"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

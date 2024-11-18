@@ -5,7 +5,7 @@ date: 2024-02-10T19:12:00Z
 image: "/images/image-placeholder.png"
 categories: ["Science"]
 authors: ["Open Chemistry"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

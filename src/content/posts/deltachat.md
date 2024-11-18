@@ -5,7 +5,7 @@ date: 2024-06-18T16:17:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Delta Chat contributors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

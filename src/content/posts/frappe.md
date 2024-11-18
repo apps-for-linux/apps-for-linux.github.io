@@ -5,7 +5,7 @@ date: 2024-09-28T14:22:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
 authors: ["Frappe Technologies"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

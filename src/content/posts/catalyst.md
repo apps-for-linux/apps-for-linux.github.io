@@ -5,7 +5,7 @@ date: 2024-09-01T19:21:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Catalyst Developers"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2024-04-24T17:16:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Ultimaker"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

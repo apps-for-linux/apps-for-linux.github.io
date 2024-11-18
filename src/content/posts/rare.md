@@ -5,7 +5,7 @@ date: 2024-09-25T22:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Rare Devs"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

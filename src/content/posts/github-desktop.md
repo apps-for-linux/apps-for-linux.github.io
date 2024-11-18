@@ -5,7 +5,7 @@ date: 2024-06-02T20:43:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Brendan Forster"]
-tags: ["community"]
+tags: ["Community"]
 draft: false
 ---
 

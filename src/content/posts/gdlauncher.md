@@ -5,7 +5,7 @@ date: 2024-03-01T14:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Gorilla Devs"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

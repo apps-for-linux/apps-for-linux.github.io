@@ -5,7 +5,7 @@ date: 2024-09-30T04:38:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["DB Browser for SQLite Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

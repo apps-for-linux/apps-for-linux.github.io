@@ -5,7 +5,7 @@ date: 2024-05-28T17:13:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
 authors: ["Klarälvdalens Datakonsult"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

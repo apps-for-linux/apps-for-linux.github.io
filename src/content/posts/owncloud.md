@@ -5,7 +5,7 @@ date: 2024-01-04T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["ownCloud"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

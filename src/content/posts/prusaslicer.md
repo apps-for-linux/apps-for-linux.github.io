@@ -5,7 +5,7 @@ date: 2024-02-29T19:02:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Prusa3D"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

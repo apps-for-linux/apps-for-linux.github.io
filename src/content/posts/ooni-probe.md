@@ -5,7 +5,7 @@ date: 2024-08-13T19:27:00Z
 image: "/images/image-placeholder.png"
 categories: ["Science"]
 authors: ["Open Observatory of Network Interference (OONI)"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

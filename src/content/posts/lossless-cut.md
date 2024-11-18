@@ -5,7 +5,7 @@ date: 2023-12-22T16:18:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Mikael Finstad"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

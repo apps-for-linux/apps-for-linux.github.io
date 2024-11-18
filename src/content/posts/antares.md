@@ -5,7 +5,7 @@ date: 2024-08-21T11:22:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Fabio Di Stasio"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

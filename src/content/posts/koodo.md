@@ -5,7 +5,7 @@ date: 2024-04-29T20:56:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["App by Troye"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

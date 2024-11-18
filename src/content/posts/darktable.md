@@ -5,7 +5,7 @@ date: 2024-07-24T23:03:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["the darktable team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

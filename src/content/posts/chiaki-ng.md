@@ -5,7 +5,7 @@ date: 2024-09-19T23:59:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Street Pea"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2023-12-06T13:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Stichting Krita Foundation"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

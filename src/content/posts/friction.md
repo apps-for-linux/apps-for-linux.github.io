@@ -5,7 +5,7 @@ date: 2024-08-21T22:16:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Friction contributors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

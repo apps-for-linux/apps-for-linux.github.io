@@ -5,7 +5,7 @@ date: 2024-07-09T02:06:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["ossia.io Contributors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

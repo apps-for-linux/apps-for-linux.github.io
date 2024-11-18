@@ -5,7 +5,7 @@ date: 2024-07-12T11:36:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Pencil2D"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

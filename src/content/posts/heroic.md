@@ -5,7 +5,7 @@ date: 2024-04-06T15:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Heroic Games Launcher Authors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

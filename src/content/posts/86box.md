@@ -5,7 +5,7 @@ date: 2024-09-01T18:48:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["86box"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

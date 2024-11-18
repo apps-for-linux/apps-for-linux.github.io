@@ -5,7 +5,7 @@ date: 2024-04-20T15:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Hendrik Erz"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

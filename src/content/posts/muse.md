@@ -5,7 +5,7 @@ date: 2024-05-06T18:02:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["The MusE development team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

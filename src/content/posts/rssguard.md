@@ -5,7 +5,7 @@ date: 2024-09-26T11:27:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Martin Rotter"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

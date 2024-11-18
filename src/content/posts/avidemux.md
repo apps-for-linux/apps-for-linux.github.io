@@ -5,7 +5,7 @@ date: 2022-10-22T16:46:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Avidemux Authors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

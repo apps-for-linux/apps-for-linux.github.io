@@ -5,7 +5,7 @@ date: 2024-03-04T16:20:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Rizin"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

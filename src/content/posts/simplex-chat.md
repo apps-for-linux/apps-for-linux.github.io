@@ -5,7 +5,7 @@ date: 2024-10-08T21:09:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["SimpleX Chat"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

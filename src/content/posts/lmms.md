@@ -5,7 +5,7 @@ date: 2021-04-26T05:07:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["LMMS"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

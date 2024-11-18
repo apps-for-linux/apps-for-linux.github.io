@@ -3,9 +3,9 @@ title: "OpenRGB"
 description: "Open source RGB lighting control that doesn't depend on manufacturer software"
 date: 2023-07-09T03:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["System"]
+categories: ["Utilities"]
 authors: ["Adam Honse"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

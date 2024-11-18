@@ -5,7 +5,7 @@ date: 2024-04-29T05:46:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
 authors: ["Feather Wallet"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

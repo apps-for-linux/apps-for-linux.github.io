@@ -5,7 +5,7 @@ date: 2024-04-20T15:53:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Jérôme Arzel"]
-tags: ["Community"]
+tags: ["Official"]
 draft: false
 ---
 

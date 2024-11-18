@@ -5,7 +5,7 @@ date: 2024-09-06T19:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Anytype"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2022-09-22T19:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Pierre de la Martinière"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

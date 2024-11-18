@@ -5,7 +5,7 @@ date: 2024-06-15T19:37:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["The Scribus Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

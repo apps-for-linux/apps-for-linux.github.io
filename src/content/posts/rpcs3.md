@@ -5,7 +5,7 @@ date: 2024-10-07T15:24:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["RPCS3 Authors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

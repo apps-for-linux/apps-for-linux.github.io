@@ -5,7 +5,7 @@ date: 2024-09-21T00:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Mochi Cards"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

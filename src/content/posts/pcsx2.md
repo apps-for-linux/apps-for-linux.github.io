@@ -5,7 +5,7 @@ date: 2024-03-11T19:26:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["PCSX2 Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

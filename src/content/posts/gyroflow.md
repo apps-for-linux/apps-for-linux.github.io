@@ -5,7 +5,7 @@ date: 2024-10-23T23:30:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Gyroflow Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

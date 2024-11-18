@@ -5,7 +5,7 @@ date: 2024-09-20T23:01:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Blueprint for Free Speech"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

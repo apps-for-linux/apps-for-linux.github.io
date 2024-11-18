@@ -5,7 +5,7 @@ date: 2023-10-15T11:24:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
 authors: ["Rafał Mikrut"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

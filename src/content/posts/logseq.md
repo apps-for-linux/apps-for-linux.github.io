@@ -5,7 +5,7 @@ date: 2024-04-23T17:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Logseq"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -23,4 +23,4 @@
 - [x] Webcord
 - [x] Vieb
 - [ ] Pokete
-- [ ] Koodo
+- [x] Koodo

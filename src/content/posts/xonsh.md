@@ -5,7 +5,7 @@ date: 2024-08-20T16:11:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
 authors: ["the xonsh developers"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

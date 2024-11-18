@@ -5,7 +5,7 @@ date: 2024-06-20T12:42:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 authors: ["KeePassXC Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

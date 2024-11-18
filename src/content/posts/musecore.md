@@ -5,7 +5,7 @@ date: 2024-05-07T13:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["MuseScore BVBA"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

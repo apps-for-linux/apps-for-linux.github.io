@@ -5,7 +5,7 @@ date: 2024-07-09T14:13:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Nextcloud"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

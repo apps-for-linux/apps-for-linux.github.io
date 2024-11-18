@@ -5,7 +5,7 @@ date: 2024-07-22T11:38:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Ascensio System"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

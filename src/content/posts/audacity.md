@@ -5,7 +5,7 @@ date: 2024-10-30T20:27:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Audacity Developer Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

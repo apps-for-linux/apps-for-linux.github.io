@@ -5,7 +5,7 @@ date: 2020-07-10T12:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["MyPaint Development Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

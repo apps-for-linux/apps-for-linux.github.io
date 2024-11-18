@@ -5,7 +5,7 @@ date: 2024-04-04T08:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 authors: ["Lukas Spies"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

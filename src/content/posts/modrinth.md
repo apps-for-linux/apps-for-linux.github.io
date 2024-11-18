@@ -6,7 +6,7 @@ date: 2023-12-17T22:01:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Rinth"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

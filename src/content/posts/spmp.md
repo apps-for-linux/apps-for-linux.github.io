@@ -5,7 +5,7 @@ date: 2024-10-06T15:09:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Talo Halton"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2024-09-22T04:04:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Michael Rosack"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

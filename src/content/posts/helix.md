@@ -5,7 +5,7 @@ date: 2024-03-30T17:06:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Blaž Hrastnik"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

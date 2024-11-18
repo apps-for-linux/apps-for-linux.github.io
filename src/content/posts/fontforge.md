@@ -5,7 +5,7 @@ date: 2023-01-01T09:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["FontForge Project contributors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2024-06-30T0:34:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
 authors: ["One Part Rain"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

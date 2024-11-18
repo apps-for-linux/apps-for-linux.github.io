@@ -5,7 +5,7 @@ date: 2024-08-24T22:13:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["The RawTherapee Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

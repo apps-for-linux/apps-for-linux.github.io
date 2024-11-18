@@ -5,7 +5,7 @@ date: 2024-04-13T10:12:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Dean Herbert"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

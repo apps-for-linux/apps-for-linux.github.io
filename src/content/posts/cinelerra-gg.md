@@ -5,7 +5,7 @@ date: 2023-11-30T20:09:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Cinelerra GG community"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

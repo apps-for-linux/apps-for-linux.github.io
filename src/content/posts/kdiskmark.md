@@ -5,7 +5,7 @@ date: 2023-06-19T10:31:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 authors: ["Dmitry Sidorov"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

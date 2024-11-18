@@ -5,7 +5,7 @@ date: 2024-10-23T12:39:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Sumbit Labs Limited"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

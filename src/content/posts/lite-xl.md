@@ -5,7 +5,7 @@ date: 2024-06-29T17:56:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Lite XL Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

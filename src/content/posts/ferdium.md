@@ -5,7 +5,7 @@ date: 2024-09-22T07:50:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Ferdium Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

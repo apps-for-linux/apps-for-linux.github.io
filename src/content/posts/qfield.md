@@ -5,7 +5,7 @@ date: 2024-10-04T07:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Science"]
 authors: ["OPENGIS.ch"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

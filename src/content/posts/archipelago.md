@@ -5,7 +5,7 @@ date: 2024-07-02T12:35:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Archipelago"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

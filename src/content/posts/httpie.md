@@ -5,7 +5,7 @@ date: 2024-01-07T00:41:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["HTTPie"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

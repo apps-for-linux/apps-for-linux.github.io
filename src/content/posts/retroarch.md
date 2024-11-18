@@ -5,7 +5,7 @@ date: 2024-06-04T21:35:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Florian Märkl"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

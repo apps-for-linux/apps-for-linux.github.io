@@ -5,7 +5,7 @@ date: 2024-09-25T13:43:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Arduino"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

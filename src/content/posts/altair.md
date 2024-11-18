@@ -5,7 +5,7 @@ date: 2024-10-12T17:37:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Samuel Imolorhe"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

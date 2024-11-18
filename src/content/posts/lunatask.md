@@ -5,7 +5,7 @@ date: 2024-04-30T20:23:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Michal Krejci"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2024-10-01T20:27:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["GitButler"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

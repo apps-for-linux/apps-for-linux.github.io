@@ -5,7 +5,7 @@ date: 2024-09-30T22:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Hendrik Erz"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

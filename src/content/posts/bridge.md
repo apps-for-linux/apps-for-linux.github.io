@@ -5,7 +5,7 @@ date: 2023-05-19T18:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Quixel"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

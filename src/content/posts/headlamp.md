@@ -5,7 +5,7 @@ date: 2024-09-21T15:53:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["The Headlamp Contributors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

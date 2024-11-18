@@ -5,7 +5,7 @@ date: 2024-09-24T16:36:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["AppFlowy"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

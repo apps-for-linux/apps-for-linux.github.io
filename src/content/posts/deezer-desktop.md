@@ -5,7 +5,7 @@ date: 2024-04-16T12:19:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Aurélien Hamy"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

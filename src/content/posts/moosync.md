@@ -5,7 +5,7 @@ date: 2024-01-31T09:34:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Sahil Gupte"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

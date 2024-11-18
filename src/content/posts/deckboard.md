@@ -5,7 +5,7 @@ date: 2024-05-12T11:54:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Riva Farabi"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

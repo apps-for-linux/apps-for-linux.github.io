@@ -5,7 +5,7 @@ date: 2024-03-21T05:20:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Outer Wilds Mods"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

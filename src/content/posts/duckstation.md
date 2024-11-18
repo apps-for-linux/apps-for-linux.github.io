@@ -5,7 +5,7 @@ date: 2024-07-13T06:09:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Connor McLaughlin"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

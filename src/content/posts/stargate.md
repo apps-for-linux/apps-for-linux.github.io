@@ -5,7 +5,7 @@ date: 2024-01-29T05:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio--Video"]
 authors: ["Stellarium contributors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

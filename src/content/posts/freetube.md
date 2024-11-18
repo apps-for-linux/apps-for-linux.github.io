@@ -5,7 +5,7 @@ date: 2024-07-11T03:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["FreeTube Authors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Ruby Mamistvalove"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

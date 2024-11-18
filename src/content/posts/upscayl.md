@@ -5,7 +5,7 @@ date: 2024-06-01T17:48:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Nayam Amarshe"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

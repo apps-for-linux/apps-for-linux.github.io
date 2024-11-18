@@ -5,7 +5,7 @@ date: 2024-10-10T10:38:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Wavebox"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

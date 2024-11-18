@@ -5,7 +5,7 @@ date: 2024-03-02T11:16:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Xournal Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

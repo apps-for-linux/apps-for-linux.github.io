@@ -5,7 +5,7 @@ date: 2024-10-05T15:54:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Patrizio Bekerle"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

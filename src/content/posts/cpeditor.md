@@ -5,7 +5,7 @@ date: 2024-02-17T07:58:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["CP Editor team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

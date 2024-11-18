@@ -5,7 +5,7 @@ date: 2024-08-01T12:18:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Wire Swiss"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

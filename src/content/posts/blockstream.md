@@ -5,7 +5,7 @@ date: 2024-05-08T19:23:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
 authors: ["Blockstream"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

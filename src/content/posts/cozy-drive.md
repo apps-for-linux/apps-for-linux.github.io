@@ -5,7 +5,7 @@ date: 2023-10-26T12:33:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 authors: ["Cozy Labs"]
-tags: ["community"]
+tags: ["Official"]
 draft: false
 ---
 
@@ -18,4 +18,4 @@ Source code: <https://github.com/cozy-labs/cozy-desktop>
 
 Translate: <https://www.transifex.com/cozy/cozy-desktop>
 Report the bug: <https://github.com/cozy-labs/cozy-desktop/issues/new>
-Download: <https://github.com/cozy-labs/cozy-desktop/releases/download/v3.40.0-beta.1/Cozy-Drive-3.40.0-beta.1-x86_64.AppImage>
+Download: <https://github.com/cozy-labs/cozy-desktop/releases/download/v3.41.0/Cozy-Drive-3.41.0-x86_64.AppImage>

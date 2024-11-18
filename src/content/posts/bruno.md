@@ -5,7 +5,7 @@ date: 2024-07-10T02:57:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Bruno Authors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

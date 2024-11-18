@@ -5,7 +5,7 @@ date: 2024-05-29T00:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["OpenLens Authors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

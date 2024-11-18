@@ -5,7 +5,7 @@ date: 2024-02-26T21:57:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["SchildiChat"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

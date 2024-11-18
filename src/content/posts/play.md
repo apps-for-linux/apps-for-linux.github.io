@@ -5,7 +5,7 @@ date: 2024-01-26T12:01:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Jean-Philip Desjardins"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

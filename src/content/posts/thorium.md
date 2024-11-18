@@ -5,7 +5,7 @@ date: 2024-09-03T10:43:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Alexander Frick"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

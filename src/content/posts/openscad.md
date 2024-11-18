@@ -5,7 +5,7 @@ date: 2024-10-06T00:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Marius Kintel"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

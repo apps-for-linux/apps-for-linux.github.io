@@ -5,7 +5,7 @@ date: 2024-09-18T00:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Mango 3D"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

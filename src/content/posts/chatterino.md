@@ -5,7 +5,7 @@ date: 2024-04-28T14:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Chatterino2 Authors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

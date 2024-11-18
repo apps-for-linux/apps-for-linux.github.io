@@ -5,7 +5,7 @@ date: 2024-09-19T04:51:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Pulsar-Edit Original work"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

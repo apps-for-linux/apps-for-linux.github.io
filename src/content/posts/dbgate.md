@@ -5,7 +5,7 @@ date: 2024-06-21T10:47:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Jan Prochazka"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

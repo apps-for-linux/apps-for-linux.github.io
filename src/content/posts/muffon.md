@@ -5,7 +5,7 @@ date: 2024-04-22T11:43:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Aleksey Shpakovsky"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

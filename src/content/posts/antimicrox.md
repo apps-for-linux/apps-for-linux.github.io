@@ -5,7 +5,7 @@ date: 2024-08-10T21:41:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["AntiMicroX Authors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

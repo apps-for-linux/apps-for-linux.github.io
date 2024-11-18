@@ -5,7 +5,7 @@ date: 2024-10-01T19:12:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["JGraph"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

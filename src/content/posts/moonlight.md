@@ -6,7 +6,7 @@ date: 2024-09-17T04:35:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Moonlight Game Streaming Project"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

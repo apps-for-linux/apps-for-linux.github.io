@@ -5,7 +5,7 @@ date: 2024-09-20T16:50:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 authors: ["RustDesk"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

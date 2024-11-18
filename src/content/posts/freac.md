@@ -5,7 +5,7 @@ date: 2024-05-10T14:46:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Robert Kausch"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

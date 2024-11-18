@@ -5,7 +5,7 @@ date: 2024-09-30T09:11:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["The Oxen Project"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

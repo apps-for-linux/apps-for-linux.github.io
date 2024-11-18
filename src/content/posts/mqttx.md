@@ -5,7 +5,7 @@ date: 2024-04-03T10:49:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["EMQX Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

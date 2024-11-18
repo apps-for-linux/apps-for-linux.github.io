@@ -5,7 +5,7 @@ date: 2024-02-12T23:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Manuel Ernesto Garcia"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

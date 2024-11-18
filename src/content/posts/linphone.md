@@ -5,7 +5,7 @@ date: 2024-04-11T15:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Belledonne Communications"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

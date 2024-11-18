@@ -5,7 +5,7 @@ date: 2024-10-23T15:22:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
 authors: ["Alephium Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

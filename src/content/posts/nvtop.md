@@ -5,7 +5,7 @@ date: 2024-02-24T17:19:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 authors: ["Maxime Schmitt"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2024-10-08T00:59:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["LizardByte"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

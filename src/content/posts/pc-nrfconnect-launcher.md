@@ -5,7 +5,7 @@ date: 2024-02-12T14:37:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["NordicSemiconductor"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

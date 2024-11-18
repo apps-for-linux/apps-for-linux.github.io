@@ -5,7 +5,7 @@ date: 2023-08-16T16:57:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Benjamin O"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

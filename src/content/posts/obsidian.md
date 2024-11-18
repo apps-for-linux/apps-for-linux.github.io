@@ -5,7 +5,7 @@ date: 2024-04-01T17:22:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Obsidian Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

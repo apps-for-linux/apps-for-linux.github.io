@@ -5,7 +5,7 @@ date: 2024-07-03T16:05:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Florian Rival"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2024-04-27T16:16:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Laurent Cozic"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

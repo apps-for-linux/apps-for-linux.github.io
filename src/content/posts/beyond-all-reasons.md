@@ -5,7 +5,7 @@ date: 2024-03-02T20:40:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Beyond-All-Reason Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

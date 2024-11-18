@@ -5,7 +5,7 @@ date: 2024-07-04T21:14:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Equicord"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

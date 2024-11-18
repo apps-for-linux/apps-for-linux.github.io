@@ -5,7 +5,7 @@ date: 2024-05-02T12:56:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["LibreWolf"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

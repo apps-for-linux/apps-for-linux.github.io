@@ -5,7 +5,7 @@ date: 2024-07-12T20:26:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["digiKam Team"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

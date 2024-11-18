@@ -5,7 +5,7 @@ date: 2024-03-06T23:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Jordan Lambert"]
-tags: ["community"]
+tags: ["Community"]
 draft: false
 ---
 

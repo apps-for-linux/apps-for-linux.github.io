@@ -5,7 +5,7 @@ date: 2024-03-12T08:11:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Neovim contributors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2024-08-05T03:24:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
 authors: ["Victor Velten"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

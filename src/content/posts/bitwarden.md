@@ -5,7 +5,7 @@ date: 2024-05-06T19:08:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 authors: ["BitWarden"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

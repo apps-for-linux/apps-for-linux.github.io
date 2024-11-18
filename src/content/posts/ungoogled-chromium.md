@@ -5,7 +5,7 @@ date: 2024-09-26T01:14:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["The ungoogled-chromium Authors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

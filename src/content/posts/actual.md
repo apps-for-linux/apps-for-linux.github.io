@@ -5,7 +5,7 @@ date: 2024-10-08T20:13:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
 authors: ["James Long"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

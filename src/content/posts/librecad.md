@@ -5,7 +5,7 @@ date: 2024-09-23T01:23:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["LibreCAD Contributors"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

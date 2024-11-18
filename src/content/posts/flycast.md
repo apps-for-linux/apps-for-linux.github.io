@@ -5,7 +5,7 @@ date: 2024-10-23T17:02:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Flyinghead"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

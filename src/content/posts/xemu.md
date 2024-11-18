@@ -5,7 +5,7 @@ date: 2024-08-21T08:48:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["xemu Project"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

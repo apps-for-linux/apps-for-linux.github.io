@@ -5,7 +5,7 @@ date: 2024-09-20T14:41:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Bambu Lab"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

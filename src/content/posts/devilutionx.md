@@ -5,7 +5,7 @@ date: 2024-08-31T17:16:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["diasurgical"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

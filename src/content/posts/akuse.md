@@ -3,9 +3,9 @@ title: "akuse"
 description: "Simple and easy to use anime streaming desktop app without ads."
 date: 2024-10-08T19:33:00Z
 image: "/images/image-placeholder.png"
-categories: ["Development"]
+categories: ["Audio & Video"]
 authors: ["Alessio Ganzarolli"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

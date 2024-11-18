@@ -5,7 +5,7 @@ date: 2024-08-01T22:41:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Filen-Cloud-Dienste"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

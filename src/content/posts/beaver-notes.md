@@ -5,7 +5,7 @@ date: 2024-09-21T15:53:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Daniele Rolli"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

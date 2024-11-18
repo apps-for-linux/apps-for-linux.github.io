@@ -5,7 +5,7 @@ date: 2024-02-16T23:11:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Jannis Petersen"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2024-07-11T21:40:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["OpenShot Studios"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 

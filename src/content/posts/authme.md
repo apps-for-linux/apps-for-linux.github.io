@@ -5,7 +5,7 @@ date: 2024-09-10T19:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Lőrik Levente"]
-tags: ["official"]
+tags: ["Official"]
 draft: false
 ---
 
