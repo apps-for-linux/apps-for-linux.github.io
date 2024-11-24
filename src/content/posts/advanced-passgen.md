@@ -1,6 +1,6 @@
 ---
 title: "Advanced PassGen"
-description: "Free and open-source application that can help you generate passwords and export them. You can export your passwords in plain text, CSV or JSON format!"
+description: "Free and open-source application that can help you generate passwords and export them.
 date: 2024-11-20T11:02:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
@@ -9,7 +9,7 @@ tags: ["Official"]
 draft: false
 ---
 
-Free and open-source application that can help you generate passwords and export them. You can export your passwords in plain text, CSV or JSON format!
+Free and open-source application that can help you generate passwords and export them
 
 License: GPL-3.0
 
