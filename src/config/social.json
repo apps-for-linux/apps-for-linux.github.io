@@ -1,22 +1,4 @@
 {
-  "facebook": "https://facebook.com/",
-  "twitter": "https://twitter.com/",
-  "instagram": "https://instagram.com/",
-  "youtube": "https://youtube.com/",
-  "linkedin": "https://linkedin.com/",
-  "github": "https://github.com/",
-  "gitlab": "https://gitlab.com",
-  "medium": "",
-  "codepen": "",
-  "bitbucket": "",
-  "reddit": "",
-  "vimeo": "",
-  "tiktok": "",
-  "foursquare": "",
-  "rss": "",
-  "email": "",
-  "phone": "",
-  "address": "",
-  "skype": "",
-  "website": ""
+  "github": "https://github.com/apps-for-linux/apps-for-linux.github.io"
+
 }
