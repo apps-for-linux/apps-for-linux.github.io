@@ -15,6 +15,6 @@ License: GPL-3.0
 
 Source code: <https://github.com/Ajaxy/telegram-tt>
 
-Translate: <https://translations.telegram.org/en/weba/>  
-Report the bug: <https://github.com/Ajaxy/telegram-tt/issues/new>  
+Translate: <https://translations.telegram.org/en/weba/>   
+Report the bug: <https://bugs.telegram.org/c/4002>  
 Download: <https://github.com/Ajaxy/telegram-tt/releases/download/v10.9.23/Telegram-A-x86_64.AppImage>
