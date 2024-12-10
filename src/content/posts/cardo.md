@@ -1,7 +1,7 @@
 ---
 title: "Cardo"
 description: "Cardo is a podcast client for desktop"
-date: 2024-10-12T17:37:00Z
+date: 2024-12-04T16:20:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["n0vella"]
@@ -19,4 +19,4 @@ Source code: <https://github.com/cardo-podcast/cardo>
 Become a sponsor: <https://www.buymeacoffee.com/n0vella>  
 Translate: <https://github.com/cardo-podcast/cardo?tab=readme-ov-file#translations>  
 Report the bug: <https://github.com/cardo-podcast/cardo/issues/new>  
-Download: <https://github.com/cardo-podcast/cardo/releases/download/1.9.0/cardo_1.9.0_amd64.AppImage>
+Download: <https://github.com/cardo-podcast/cardo/releases/download/1.9.2/cardo_1.9.2_amd64.AppImage>

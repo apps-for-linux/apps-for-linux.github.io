@@ -1,7 +1,7 @@
 ---
 title: "Antares"
 description: "A modern, fast and productivity driven SQL client with a focus in UX"
-date: 2024-08-21T11:22:00Z
+date: 2024-12-05T14:22:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Fabio Di Stasio"]
@@ -19,6 +19,6 @@ Source code: <https://github.com/antares-sql/antares>
 Become a sponsor: <https://www.paypal.com/paypalme/fabiodistasio>
 Translate: <https://github.com/antares-sql/antares/wiki/Translate-Antares>
 Report the bug: <https://github.com/antares-sql/antares/issues>
-Download:   x86_64: <https://github.com/antares-sql/antares/releases/download/v0.7.29-beta.2/Antares-0.7.29-beta.2-linux_x86_64.AppImage>
-            arm64:  <https://github.com/antares-sql/antares/releases/download/v0.7.28/Antares-0.7.28-linux_arm64.AppImage>
-            armv7l: <https://github.com/antares-sql/antares/releases/download/v0.7.29-beta.2/Antares-0.7.29-beta.2-linux_armv7l.AppImage>
+Download:   x86_64: <https://github.com/antares-sql/antares/releases/download/v0.7.30/Antares-0.7.30-linux_x86_64.AppImage>
+            arm64:  <https://github.com/antares-sql/antares/releases/download/v0.7.30/Antares-0.7.30-linux_arm64.AppImage>
+            armv7l: <https://github.com/antares-sql/antares/releases/download/v0.7.30/Antares-0.7.30-linux_armv7l.AppImage>

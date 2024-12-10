@@ -1,7 +1,7 @@
 ---
 title: "acreom"
 description: "Local-first open-source markdown knowledge base"
-date: 2024-05-02T15:24:00Z
+date: 2024-11-05T16:17:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Acreom"]
@@ -17,4 +17,4 @@ Web page: <https://acreom.com>
 Source code: <https://github.com/Acreom/app>
 
 Report the bug: <https://github.com/Acreom/app/issues>
-Download: <https://github.com/Acreom/app/releases/download/v1.20.3/acreom-1.20.3.AppImage>
+Download: <https://github.com/Acreom/app/releases/download/v1.20.4/acreom-1.20.4.AppImage>

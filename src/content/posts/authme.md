@@ -1,7 +1,7 @@
 ---
 title: "authme"
 description: "Simple cross-platform two-factor (2FA) authenticator app for desktop."
-date: 2024-09-10T19:44:00Z
+date: 2024-12-11T01:18:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Lőrik Levente"]
@@ -14,9 +14,9 @@ Simple cross-platform two-factor (2FA) authenticator app for desktop
 License: GPL-3.0
 
 Web page: <https://authme.levminer.com>  
-Source code: <https://github.com/Levminer>
+Source code: <https://github.com/Levminer/authme>
 
 Become a sponsor: <https://paypal.me/levminer>  
 Translate: <https://github.com/Levminer/authme/issues/258#issuecomment-1909792332>  
 Report the bug: <https://github.com/Levminer/authme/issues/new>  
-Download: <https://github.com/Levminer/authme/releases/download/5.3.0/authme-5.3.0-linux-x64.appimage>
+Download: <https://github.com/Levminer/authme/releases/download/6.0.0/authme-6.0.0-linux-x64.appimage>

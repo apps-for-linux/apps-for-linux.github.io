@@ -1,7 +1,7 @@
 ---
 title: "Blockstream"
 description: "Non-custodial Bitcoin wallet"
-date: 2024-05-08T19:23:00Z
+date: 2024-11-22T16:39:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
 authors: ["Blockstream"]
@@ -18,4 +18,4 @@ Source code: <https://github.com/Blockstream/green_qt>
 
 Translate: <https://www.transifex.com/blockstream/blockstream-green>
 Report the bug: <https://github.com/Blockstream/green_qt/issues/new>
-Download: <https://github.com/Blockstream/green_qt/releases/download/release_2.0.5/BlockstreamGreen-x86_64.AppImage>
+Download: <https://github.com/Blockstream/green_qt/releases/download/release_2.0.15/BlockstreamGreen-x86_64.AppImage>

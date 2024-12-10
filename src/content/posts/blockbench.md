@@ -1,7 +1,7 @@
 ---
 title: "Blockbench"
 description: "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures"
-date: 2024-02-16T23:11:00Z
+date: 2024-11-03T01:06:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Jannis Petersen"]
@@ -18,4 +18,4 @@ Source code: <https://github.com/JannisX11/blockbench>
 
 Translate: <https://blockbench.net/translations>
 Report the bug: <https://github.com/JannisX11/blockbench/issues/new>
-Download: <https://github.com/JannisX11/blockbench/releases/download/v4.9.4/Blockbench_4.9.4.AppImage>
+Download: <https://github.com/JannisX11/blockbench/releases/download/v4.11.2/Blockbench_4.11.2.AppImage>

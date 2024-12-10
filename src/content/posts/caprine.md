@@ -1,7 +1,7 @@
 ---
 title: "Caprine"
 description: "Caprine is an unofficial and privacy-focused Facebook Messenger app with many useful features"
-date: 2024-04-10T02:08:00Z
+date: 2024-12-01T22:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Sindre Sorhus"]
@@ -17,4 +17,4 @@ Source code: <https://github.com/sindresorhus/caprine>
 
 Become a sponsor: <https://opencollective.com/sindresorhus>  
 Report the bug: <https://github.com/sindresorhus/caprine/issues/new>  
-Download: <https://github.com/sindresorhus/caprine/releases/download/v2.60.1/Caprine-2.60.1.AppImage>
+Download: <https://github.com/sindresorhus/caprine/releases/download/v2.60.3/Caprine-2.60.3.AppImage>

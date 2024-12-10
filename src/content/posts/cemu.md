@@ -1,7 +1,7 @@
 ---
 title: "Cemu"
 description: "Nintendo Wii U emulator"
-date: 2024-09-08T19:38:00Z
+date: 2024-11-13T10:07:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Street Pea"]
@@ -17,4 +17,4 @@ Web page: <https://cemu.info/>
 Source code: <https://github.com/cemu-project/Cemu>
 
 Report the bug: <https://github.com/cemu-project/Cemu/issues/new>  
-Download: <https://github.com/cemu-project/Cemu/releases/download/v2.2/Cemu-2.2-x86_64.AppImage>
+Download: <https://github.com/cemu-project/Cemu/releases/download/v2.4/Cemu-2.4-x86_64.AppImage>
