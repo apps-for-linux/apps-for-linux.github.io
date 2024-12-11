@@ -1,7 +1,7 @@
 ---
 title: "Etcher"
 description: "Flash OS images to SD cards & USB drives, safely and easily."
-date: 2024-05-30T18:01:00Z
+date: 2024-10-10T13:04:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 authors: ["Balena"]
@@ -18,4 +18,4 @@ Source code: <https://github.com/balena-io/etcher>
 
 Translate: <https://github.com/balena-io/etcher/tree/master/lib/gui/app/i18n>
 Report the bug: <https://github.com/balena-io/etcher/issues/new>
-Download: <https://github.com/balena-io/etcher/releases/download/v1.19.21/balenaEtcher-1.19.21-x64.AppImage>
+Download: <https://github.com/balena-io/etcher/releases/download/v1.19.25/balenaEtcher-1.19.25-x64.AppImage>

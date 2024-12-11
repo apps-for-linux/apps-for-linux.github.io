@@ -1,7 +1,7 @@
 ---
 title: "CoolerControl"
 description: "Monitor and control your cooling and other devices"
-date: 2024-04-13T12:03:00Z
+date: 2024-11-03T03:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
 authors: ["Guy Boldon"]

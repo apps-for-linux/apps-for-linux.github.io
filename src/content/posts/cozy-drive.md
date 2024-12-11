@@ -1,7 +1,7 @@
 ---
 title: "Cozy Drive for Desktop"
 description: "File Synchronisation for Cozy on Desktop and Laptop"
-date: 2023-10-26T12:33:00Z
+date: 2023-11-07T12:56:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 authors: ["Cozy Labs"]
