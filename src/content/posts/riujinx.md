@@ -1,7 +1,7 @@
 ---
 title: "Ryujinx"
 description: "Hard-fork of the Ryujinx project"
-date: 2024-09-08T19:38:00Z
+date: 2024-10-23T02:55:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Ryujinx Team and Contributors"]

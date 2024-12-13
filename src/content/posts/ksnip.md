@@ -1,7 +1,7 @@
 ---
 title: "ksnip"
 description: "ksnip the cross-platform screenshot and annotation tool"
-date: 2024-03-15T12:43:00Z
+date: 2024-11-19T01:16:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Damir Porobić"]
@@ -18,4 +18,4 @@ Source code: <https://github.com/ksnip/ksnip>
 Become a sponsor: <https://github.com/sponsors/DamirPorobic>
 Translate: <https://hosted.weblate.org/engage/ksnip>
 Report the bug: <https://github.com/ksnip/ksnip/issues/new>
-Download: <https://github.com/ksnip/ksnip/releases/download/v1.10.1/ksnip-1.10.1-x86_64.AppImage>
+Download: <https://github.com/ksnip/ksnip/releases/download/continuous/ksnip-1.11.0-continuous-x86_64.AppImage>

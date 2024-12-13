@@ -1,7 +1,7 @@
 ---
 title: "pyfa"
 description: "Python fitting assistant, cross-platform fitting tool for EVE Online"
-date: 2024-02-27T01:38:00Z
+date: 2024-12-05T17:59:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Diego Duclos"]
@@ -17,4 +17,4 @@ Source code: <https://github.com/pyfa-org/Pyfa>
 
 Translate: <https://crowdin.com/project/pyfa>  
 Report the bug: <https://github.com/pyfa-org/Pyfa/issues/new>  
-Download: <https://github.com/pyfa-org/Pyfa/releases/download/v2.60.0/pyfa-v2.60.0-linux.AppImage>
+Download: <https://github.com/pyfa-org/Pyfa/releases/download/v2.61.3/pyfa-v2.61.3-linux.AppImage>

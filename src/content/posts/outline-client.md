@@ -1,7 +1,7 @@
 ---
 title: "Outline Client"
 description: " A cross-platform proxy client"
-date: 2024-09-21T15:53:00Z
+date: 2023-11-01T16:58:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Jigsaw"]
@@ -17,4 +17,4 @@ Web page: <https://getoutline.org>
 Source code: <https://github.com/Jigsaw-Code/outline-apps/tree/master/client>
 
 Report the bug: <https://github.com/Jigsaw-Code/outline-apps/issues/new>
-Download: <https://github.com/Jigsaw-Code/outline-apps/releases/download/v1.10.1/Outline-Client.AppImage>
+Download: <https://s3.amazonaws.com/outline-releases/client/linux/stable/Outline-Client.AppImage>

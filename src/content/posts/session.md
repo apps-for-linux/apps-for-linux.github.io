@@ -1,7 +1,7 @@
 ---
 title: "Session"
 description: "Session Desktop - Onion routing based messenger."
-date: 2024-09-30T09:11:00Z
+date: 2024-12-10T02:48:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["The Oxen Project"]
@@ -19,4 +19,4 @@ Source code: <https://github.com/oxen-io/session-desktop>
 Become a sponsor: <https://donorbox.org/optf-donation>  
 Translate: <https://crowdin.com/project/session-crossplatform-strings>  
 Report the bug: <https://github.com/oxen-io/session-desktop/issues/new>  
-Download: <https://github.com/oxen-io/session-desktop/releases/download/v1.14.2/session-desktop-linux-x86_64-1.14.2.AppImage>
+Download: <https://github.com/oxen-io/session-desktop/releases/download/v1.14.3/session-desktop-linux-x86_64-1.14.3.AppImage>

@@ -1,7 +1,7 @@
 ---
 title: "Figma-Linux"
 description: "Figma is the first interface design tool based in the browser, making it easier for teams to create software"
-date: 2024-05-26T22:08:00Z
+date: 2024-10-10T22:53:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 authors: ["Roman Chugunov"]
@@ -17,5 +17,5 @@ Source code: <https://github.com/Figma-Linux/figma-linux>
 
 Become a sponsor: <https://www.buymeacoffee.com/U5hnMuASy>  
 Report the bug: <https://github.com/Figma-Linux/figma-linux/issues/new>  
-Download:   x86_64: <https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.4/figma-linux_0.11.4_linux_x86_64.AppImage>  
-            arm64: <https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.4/figma-linux_0.11.4_linux_arm64.AppImage>
+Download:   x86_64: <https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_arm64.AppImage>  
+            arm64: <https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_arm64.AppImage>

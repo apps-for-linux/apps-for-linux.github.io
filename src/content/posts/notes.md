@@ -1,7 +1,7 @@
 ---
 title: "Notes"
 description: "Notes is an open source and cross-platform note-taking app that is both beautiful and powerful"
-date: 2023-12-07T22:52:00Z
+date: 2023-10-01T15:59:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Ruby Mamistvalove"]
@@ -18,4 +18,4 @@ Source code: <https://github.com/nuttyartist/notes>
 
 Become a sponsor: <https://github.com/sponsors/nuttyartist>  
 Report the bug: <https://github.com/nuttyartist/notes/issues>
-Download: <https://github.com/nuttyartist/notes/releases/download/v2.2.1/Notes_2.2.1-Qt6.4.3-x86_64.AppImage>
+Download: <https://github.com/nuttyartist/notes/releases/download/v2.3.1/Notes_2.3.1-Qt6.4.3-x86_64.AppImage>

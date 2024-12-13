@@ -1,7 +1,7 @@
 ---
 title: "Heroic Games Launcher"
 description: "A Native GOG, Amazon and Epic Games Launcher"
-date: 2024-04-06T15:00:00Z
+date: 2024-09-20T22:45:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Heroic Games Launcher Authors"]
@@ -19,4 +19,4 @@ Source code: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher>
 Become a sponsor: <https://patreon.com/heroicgameslauncher>
 Translate: <https://hosted.weblate.org/projects/heroic-games-launcher>
 Report the bug: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/issues/new>
-Download: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.14.1/Heroic-2.14.1.AppImage>
+Download: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.15.2/Heroic-2.15.2.AppImage>

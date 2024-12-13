@@ -1,7 +1,7 @@
 ---
 title: "muffon"
 description: "muffon is a cross-platform music streaming client for desktop, which helps you listen to, discover and organize music in an advanced way"
-date: 2024-04-22T11:43:00Z
+date: 2024-10-07T11:22:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["Aleksey Shpakovsky"]
@@ -18,4 +18,4 @@ Source code: <https://github.com/staniel359/muffon>
 
 Become a sponsor: <https://ko-fi.com/staniel359>  
 Report the bug: <https://github.com/staniel359/muffon/issues>  
-Download: <https://github.com/staniel359/muffon/releases/download/v2.0.3/muffon-2.0.3-linux-x86_64.AppImage>
+Download: <https://github.com/staniel359/muffon/releases/download/v2.1.0/muffon-2.1.0-linux-x86_64.AppImage>

@@ -1,7 +1,7 @@
 ---
 title: "MuseScore"
 description: "MuseScore is an open source and free music notation software"
-date: 2024-05-07T13:29:00Z
+date: 2024-12-11T20:02:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["MuseScore BVBA"]
@@ -18,4 +18,6 @@ Source code: <https://github.com/musescore/MuseScore>
 
 Translate: <https://musescore.org/administrative-guidelines/translation-instructions>  
 Report the bug: <https://github.com/musescore/MuseScore/issues/new>
-Download: <https://github.com/musescore/MuseScore/releases/download/v4.3.0/MuseScore-Studio-4.3.0.241231431-x86_64.AppImage>
+Download: x86_64: <https://github.com/musescore/MuseScore/releases/download/v4.4.4/MuseScore-Studio-4.4.4.243461245-x86_64.AppImage>
+arm64: <https://github.com/musescore/MuseScore/releases/download/v4.4.4/MuseScore-Studio-4.4.4.243461246-aarch64.AppImage>
+armv7l: <https://github.com/musescore/MuseScore/releases/download/v4.4.4/MuseScore-Studio-4.4.4.243461245-armv7l.AppImage>

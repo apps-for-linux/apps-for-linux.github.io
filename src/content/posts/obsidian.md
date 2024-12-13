@@ -1,7 +1,7 @@
 ---
 title: "Obsidian"
 description: "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files"
-date: 2024-04-01T17:22:00Z
+date: 2024-11-18T18:38:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 authors: ["Obsidian Team"]
@@ -16,4 +16,5 @@ License: EULA
 Web page: <https://obsidian.md>
 
 Translate: <https://github.com/obsidianmd/obsidian-translations>
-Download: <https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian-1.5.12.AppImage>
+Download:   x86_64: <https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.7/Obsidian-1.7.7.AppImage>
+            arm64: <https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.7/Obsidian-1.7.7-arm64.AppImage>

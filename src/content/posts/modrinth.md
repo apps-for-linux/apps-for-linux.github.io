@@ -1,8 +1,7 @@
 ---
 title: "Modrinth"
-
-description: "The Modrinth App is a unique, open source launcher that allows you to play your favorite mods, and keep them up to date, all in one neat little package"
-date: 2023-12-17T22:01:00Z
+description: "Open-source mod platform, built by the community, for the community."
+date: 2024-10-16T09:47:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 authors: ["Rinth"]
@@ -10,13 +9,13 @@ tags: ["Official"]
 draft: false
 ---
 
-The Modrinth App is a unique, open source launcher that allows you to play your favorite mods, and keep them up to date, all in one neat little package
+Open-source mod platform, built by the community, for the community.
 
 License: AGPL-3.0
 
 Web page: <https://modrinth.com>  
-Source code: <https://github.com/modrinth/theseus>
+Source code: <https://github.com/modrinth/code>
 
 Translate: <https://crowdin.com/project/modrinth>  
-Report the bug: <https://github.com/modrinth/theseus/issues/new>  
-Download: <https://launcher-files.modrinth.com/versions/0.7.1/linux/modrinth-app_0.7.1_amd64.AppImage>
+Report the bug: <https://github.com/modrinth/code/issues/new>  
+Download: <https://launcher-files.modrinth.com/versions/0.8.9/linux/Modrinth%20App_0.8.9_amd64.AppImage>

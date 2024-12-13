@@ -1,7 +1,7 @@
 ---
 title: "Neovim"
 description: "Vim-fork focused on extensibility and usability"
-date: 2024-03-12T08:11:00Z
+date: 2024-11-12T08:12:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Neovim contributors"]

@@ -1,7 +1,7 @@
 ---
 title: "Helix"
 description: "A post-modern modal text editor."
-date: 2024-03-30T17:06:00Z
+date: 2024-07-14T19:53:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["Blaž Hrastnik"]
@@ -18,4 +18,4 @@ Source code: <https://github.com/helix-editor/helix>
 
 Become a sponsor: <https://opencollective.com/helix-editor>
 Report the bug: <https://github.com/helix-editor/helix/issues/new>
-Download: <https://github.com/helix-editor/helix/releases/download/24.03/helix-24.03-x86_64.AppImage>
+Download: <https://github.com/helix-editor/helix/releases/download/24.07/helix-24.07-x86_64.AppImage>

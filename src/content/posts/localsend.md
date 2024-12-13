@@ -1,7 +1,7 @@
 ---
 title: "Localsend"
 description: "Open source cross-platform alternative to AirDrop"
-date: 2024-02-26T19:10:00Z
+date: 2024-11-05T03:14:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 authors: ["Tien Do Nam"]
@@ -19,4 +19,4 @@ Source code: <https://github.com/localsend/localsend>
 Become a sponsor: <https://github.com/sponsors/Tienisto>  
 Translate: <https://github.com/localsend/localsend?tab=readme-ov-file#translation>  
 Report the bug: <https://github.com/localsend/localsend/issues/new>  
-Download: <https://github.com/localsend/localsend/releases/download/v1.14.0/LocalSend-1.14.0-linux-x86-64.AppImage>
+Download: <https://github.com/localsend/localsend/releases/download/v1.16.1/LocalSend-1.16.1-linux-x86-64.AppImage>

@@ -1,7 +1,7 @@
 ---
 title: "nRF Connect for Desktop"
 description: "nRF Connect for Desktop is a cross-platform framework for desktop apps for development kits and dongles from Nordic Semiconductor"
-date: 2024-02-12T14:37:00Z
+date: 2024-11-11T19:39:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 authors: ["NordicSemiconductor"]
@@ -17,4 +17,4 @@ Web page: <https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for
 Source code: <https://github.com/NordicSemiconductor/pc-nrfconnect-launcher>
 
 Report the bug: <https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/issues/new>
-Download: <https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/releases/download/v4.4.0/nrfconnect-4.4.0-x86_64.AppImage>
+Download: <https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/releases/download/v5.1.0/nrfconnect-5.1.0-x86_64.AppImage>

@@ -1,7 +1,7 @@
 ---
 title: "Ossia Score"
 description: "ossia score is a sequencer for audio-visual artists, designed to create interactive shows."
-date: 2024-07-09T02:06:00Z
+date: 2024-11-18T02:07:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 authors: ["ossia.io Contributors"]
@@ -18,4 +18,4 @@ Source code: <https://github.com/ossia/score>
 
 Become a sponsor: <https://opencollective.com/ossia>  
 Report the bug: <https://github.com/ossia/score/issues/new>  
-Download: <https://github.com/ossia/score/releases/download/v3.2.4/ossia.score-3.2.4-linux-amd64.AppImage>
+Download: <https://github.com/ossia/score/releases/download/v3.3.2/ossia.score-3.3.2-linux-amd64.AppImage>

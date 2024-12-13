@@ -1,7 +1,7 @@
 ---
 title: "OneKey"
 description: "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions"
-date: 2024-03-28T06:59:00Z
+date: 2024-11-22T13:45:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
 authors: ["OneKey"]
@@ -17,4 +17,5 @@ Web page: <https://www.onekey.so>
 Source code: <https://github.com/OneKeyHQ/app-monorepo>
 
 Report the bug: <https://github.com/OneKeyHQ/app-monorepo/issues/new>
-Download: <https://github.com/OneKeyHQ/app-monorepo/releases/download/v4.23.0/OneKey-Wallet-4.23.0-linux-x86_64.AppImage>
+Download:   x86_64: <https://github.com/OneKeyHQ/app-monorepo/releases/download/v5.4.0/OneKey-Wallet-5.4.0-linux-x86_64.AppImage>
+            arm64: <https://github.com/OneKeyHQ/app-monorepo/releases/download/v5.4.0/OneKey-Wallet-5.4.0-linux-arm64.AppImage>
