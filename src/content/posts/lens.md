@@ -16,5 +16,5 @@ License: MIT
 Web page: <https://k8slens.dev>
 Source code: <https://github.com/lensapp/lens>
 
-Report the bug: <https://github.com/lensapp/lens/new>
+Report the bug: <https://github.com/lensapp/lens/issues/new>
 Download: <https://api.k8slens.dev/binaries/Lens-2024.11.261604-latest.x86_64.AppImage>
