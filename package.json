@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "astro dev",
-    "build": "astro build",
-    "sync": "astro sync",
-    "preview": "astro preview"
+    "start": "bunx --bun astro dev",
+    "build": "bunx --bun astro build",
+    "sync": "bunx --bun astro sync",
+    "preview": "bunx --bun astro preview"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.0.0",
