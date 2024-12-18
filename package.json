@@ -42,8 +42,10 @@
     "typescript": "5.7.2"
   },
   "trustedDependencies": [
+    "bun",
     "esbuild",
     "biome",
-    "sharp"
+    "sharp",
+    "@parcel"
   ]
 }
