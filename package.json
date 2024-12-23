@@ -42,10 +42,8 @@
     "typescript": "5.7.2"
   },
   "trustedDependencies": [
-    "bun",
-    "esbuild",
-    "biome",
+    "biomejs/biome",
     "sharp",
-    "@parcel"
+    "@parcel/watcher"
   ]
 }
