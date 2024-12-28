@@ -1,0 +1,216 @@
+# 存放经常修改的配置，一般是网站的推荐文章、分类、标签等信息
+
+[post]
+# 首页 Header 右侧推荐，建议 6 篇，填写 content 到 md 文件的相对地址
+recommend_posts = [
+    "articles/misc/Lorem Ipsum/index.md",
+    "articles/misc/Lorem Ipsum 2/index.md",
+    "articles/misc/Lorem Ipsum 3/index.md",
+    "articles/misc/Lorem Ipsum 4/index.md",
+    "articles/misc/Lorem Ipsum 5/index.md",
+    "articles/misc/Lorem Ipsum 6/index.md",
+]
+
+# 首页 header 右侧
+[post.today_recommend]
+## 1， 推荐特定文章
+# 文章地址
+post_path = "articles/docs/01 Read Me/index.md"
+## 2. 跳转指定页面
+# 跳转地址
+url = "/"
+# 大标题
+title = "Lorem Ipsum"
+# 背景图地址
+cover = "/path/to/banner.jpg"
+# 小标题
+small_title = "今日推荐"
+
+[post.tags]
+# 必须，该标签被用于网站导航中
+project = "项目"
+work = "作品"
+featured = "必看"
+hot = "热门"
+# 可选，仅用于文章分类
+tech = "技术"
+docs = "文档"
+blog = "博客"
+# 感悟
+
+[post.categories]
+theme = "主题"
+misc = "杂谈"
+
+[post.taxonomies]
+tags = "标签"
+categories = "分类"
+
+[menu]
+# 顶部菜单
+nav_menu = [
+    { name = "文库", menus = [
+        { name = "全部文章", href = "/archives", icon = "icon-book-open", target = "_self" },
+        { name = "分类列表", href = "/categories", icon = "icon-folder-open", target = "_self" },
+        { name = "标签列表", href = "/tags", icon = "icon-tags", target = "_self" },
+        { name = "随机文章", href = "javascript:toRandomPost()", icon = "icon-artstation", target = "_self" },
+    ] },
+    { name = "推荐", is_vertical = true, href = "/tags/work", menus = [
+        { name = "博客主题介绍", href = "/articles/docs/readme", icon = "icon-music", target = "_self" },
+        { name = "Lorem Ipsum", href = "/articles/misc/lorem-ipsum", icon = "icon-music", target = "_self" },
+    ] },
+    { name = "友链", menus = [
+        { name = "友链列表", href = "/friends", icon = "icon-link", target = "_self" },
+        { name = "随机发现", href = "javascript:travelling()", icon = "icon-paper-plane", target = "_self" },
+    ] },
+    { name = "我的", menus = [
+        { name = "关于本人", href = "/about", icon = "icon-rocket", target = "_self" },
+        { name = "我的装备", href = "/equipment", icon = "icon-artstation", target = "_self" },
+        { name = "我的项目", href = "/tags/project", icon = "icon-lightbulb", target = "_self" },
+    ] },
+]
+
+# 导航栏最左侧折叠菜单，只支持两级菜单
+# 优先使用icon image
+nav_left_menu = [
+    { name = "作品", menus = [
+        { name = "Lorem Ipsum", href = "/articles/misc/lorem-ipsum", icon = "icon-music", target = "_self" },
+        { name = "Lorem Ipsum", href = "/articles/misc/lorem-ipsum", icon = "icon-music", target = "_self" },
+    ] },
+]
+
+# 底部菜单
+footer_menu = [
+    { name = "文库", menus = [
+        { name = "全部文章", href = "/archives" },
+        { name = "分类列表", href = "/categories" },
+        { name = "标签列表", href = "/tags" },
+        { name = "随机文章", href = "javascript:toRandomPost()" },
+    ] },
+    { name = "作品", href = "/tags/work", menus = [
+        { name = "Lorem Ipsum", href = "/articles/misc/lorem-ipsum" },
+    ] },
+    { name = "协议", menus = [
+        { name = "隐私协议", href = "/privacy" },
+        { name = "Cookies", href = "/cookies" },
+        { name = "版权协议", href = "/copyright" },
+    ] },
+]
+
+# 友链分组
+# 采用动态加载的技术，请修改 /static/data/friends.json 文件内容
+# 修改下面内容无效
+# [friend]
+# [[friend.groups]]
+# # 分组名称
+# display_name = "推荐"
+# # 描述
+# description = "使用本主题的博客"
+# # 样式 beautify 或 default
+# display_style = "beautify"
+# # 友链列表
+# items = [
+#     { display_name = "王嘉祥", description = "专注于科技、音乐等领域跨界创新，分享经验与见解", url = "https://blog.jiaxianag.wang/", logo = "/img/friends/wangjiaxiang.webp" },
+# ]
+
+[equipment]
+[[equipment.groups]]
+name = "生产力"
+description = "提升生产效率的硬件设备"
+items = [
+    { name = "iPhone 16 Pro Max", img = "/img/equipments/iphone16pm.avif", model = "白色 / 1TB", description = "主力机", button_title = "详情", button_url = "https://www.apple.com/iphone-16-pro/" },
+]
+
+[[equipment.groups]]
+name = "智能家居"
+description = "提升生活质量的硬件设备"
+items = [
+    { name = "Apple TV 4K", img = "/img/equipments/atv.avif", model = "WiFi / Ethernet / 128GB", description = "家庭影院，动态屏保十分惊艳" },
+]
+
+# icon 无法将多种颜色的图形编程font，无法合并路径，使用起来麻烦，先将svg合并 https://svgsprit.es/
+# 可以在 https://icomoon.io/ 导入 iconfont svg 文件然后重新打包 更新自己的图标
+[skill]
+# 全局生效的 svg sprite
+svg_sprite = "/img/icons/sprite.svg"
+
+[[skill.items]]
+name = "唱歌"
+# webfont class
+#icon = "skill-icon skill-icon-sing"
+# 图片连接
+#logo = "/img/icons/sing.svg"
+bg_color = "#eb6840"
+# 当前 item 生效的 svg sprite
+#svg_sprite = "/img/icons/sprite.svg"
+svg_symbol_id = "sing"
+
+[[skill.items]]
+name = "Docker"
+bg_color = "#57b6e6"
+svg_symbol_id = "docker"
+
+[[skill.items]]
+name = "潜水"
+bg_color = "#57b6e6"
+svg_symbol_id = "divemask"
+
+[[skill.items]]
+name = "VR"
+bg_color = "#8f55ba"
+svg_symbol_id = "vr"
+
+[[skill.items]]
+name = "Python"
+bg_color = "#fff"
+svg_symbol_id = "python"
+
+[[skill.items]]
+name = "乒乓"
+bg_color = "#eb6840"
+svg_symbol_id = "pingpang"
+
+[[skill.items]]
+name = "钢琴"
+bg_color = "#57b6e6"
+svg_symbol_id = "piano"
+
+[[skill.items]]
+name = "Rust"
+bg_color = "#eb6840"
+svg_symbol_id = "rust"
+
+[[skill.items]]
+name = "吉他"
+bg_color = "#989bf8"
+svg_symbol_id = "guitar"
+
+[[skill.items]]
+name = "平衡车"
+bg_color = "#989bf8"
+svg_symbol_id = "pinghengche"
+
+[[skill.items]]
+name = "C#"
+bg_color = "#03c85c"
+svg_symbol_id = "csharp"
+
+[[skill.items]]
+name = "漂移板"
+bg_color = "#989bf8"
+svg_symbol_id = "piaoyiban" 
+
+[[skill.items]]
+name = "诗歌"
+bg_color = "#e65164"
+svg_symbol_id = "poem"
+
+[[skill.items]]
+name = "TypeScript"
+bg_color = "#fff"
+svg_symbol_id = "typescript"
+
+[[skill.items]]
+name = "智能家居"
+bg_color = "#f7cb4f"
+svg_symbol_id = "ha"

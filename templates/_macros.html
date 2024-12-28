@@ -1,0 +1,371 @@
+{% import "macro/template.html" as macro_template %}
+
+{# 生成导航栏 #}
+{% macro nav(title="") %}
+<nav class="show" id="nav">
+    <div id="nav-group">
+
+        <!-- 导航栏左侧 -->
+        {% include "partial/nav/nav-left.html" %}
+
+        {# 中间标题 #}
+        <div id="page-name-mask">
+            <div id="page-name" >
+                <a id="page-name-text" clase="nav-item" onclick="btf.scrollToDest(0,500)">
+                    {% if page.title %}{{ page.title }}{% elif section.title %}{{ section.title }}{% else %}{{ config.title }}{% endif %}
+                </a>
+            </div>
+        </div>
+
+        <!-- 导航栏中间 -->
+        {{ macro::nav_menu() }}
+
+        <!-- 导航栏右侧 -->
+        {% include "partial/nav/nav-right.html" %}
+
+    </div>
+</nav>
+{% endmacro %}
+
+{# 生成导航栏子菜单 #}
+{% macro nav_menu_recursion(menu_top) %}
+    <!-- 有子菜单则显示子菜单 -->
+    {% if menu_top.menus and menu_top.menus | length > 0 %}
+        <!-- 子菜单 -->
+        <div class="menus_item_child {% if menu_top.is_vertical %}vertical_nav{% endif %}">
+            {% for menu in menu_top.menus %}
+            <div class="recursion_menus_item">
+                <a class="site-page child nav-item"
+                   {% if menu.target %}target="{{ menu.target }}"{% endif %}
+                   {%- if menu.rel -%}rel="{{ menu.rel }}"{%- endif -%}
+                   href="{{ menu.href }}">
+                    {% if menu.icon %}
+                    <i class="{{ menu.icon }}" style="font-size:.9em"></i>
+                    {% endif %}
+                    <span>{{ menu.name }}</span>
+                </a>
+                <!--递归调用-->
+                {{ macro::nav_menu_recursion(menu_top=menu) }}
+            </div>
+            {% endfor %}
+        </div>
+    {% endif %}
+{% endmacro %}
+
+{# 生成导航栏菜单 #}
+{% macro nav_menu() %}
+<div id="menus">
+    <div class="menus_items">
+        <!-- 第一层仅展示使用，不做跳转 -->
+        {% set data = load_data(path="data.toml") %} 
+        {% for menu in data.menu.nav_menu %}
+        <div class="menus_item">
+            {% if menu.href %}
+                <a class="site-page nav-item"
+                   {% if menu.target %}target="{{ menu.target }}"{% endif %}
+                   {%- if menu.rel -%}rel="{{ menu.rel }}"{%- endif -%}
+                   href="{{ menu.href }}">
+                    <span>{{ menu.name }}</span>
+                </a>
+            {% else %}
+                <button class="site-page nav-item">
+                    <span>{{ menu.name }}</span>
+                </button>
+            {% endif %}
+            <!--递归调用-->
+            {{ macro::nav_menu_recursion(menu_top=menu) }}
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endmacro %}
+
+{# 生成导航栏左侧折叠菜单 #}
+{% macro nav_left_menu() %}
+    {% set data = load_data(path="data.toml") %} 
+    {% set menu = data.menu.nav_left_menu %}
+    <div class="back-menu-list-groups">
+        {% for top_menu in menu %}
+            <div class="back-menu-list-group">
+                {% if top_menu.menus  %}
+                    <!-- 菜单必须有子项才会展示 -->
+                    <div class="back-menu-list-title">{{ top_menu.name }}</div>
+                    <div class="back-menu-list">
+                        {% for sub_menu in top_menu.menus %}
+                            <a class="back-menu-item nav-item"
+                                {% if sub_menu.target %}target="{{ sub_menu.target }}"{% endif %}
+                                {%- if sub_menu.rel -%}rel="{{ sub_menu.rel }}"{%- endif -%}
+                                href="{{ sub_menu.href }}">
+                                <!-- icon -->
+                                {% if sub_menu.icon  %}
+                                    <i class="{{ sub_menu.icon }}" style="font-size:.9em"></i>
+                                {% elif sub_menu.icon_img %}
+                                    <img class="back-menu-item-icon" src="{{ sub_menu.icon_img }}" loading="lazy">
+                                {% endif %}
+                                <span class="back-menu-item-text">{{ sub_menu.name }}</span>
+                            </a>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+        {% endfor %}
+    </div>
+{% endmacro %}
+
+{# 第三方分享信息 #}
+{% macro open_graph(title, _permalink, cover="", excerpt, type) %}
+    {# truncate 的 length 为限制长度 -1 ，因为最后自动添加省略号 #}
+    {% set description = excerpt | default(value=config.description) | default(value=_title) %}
+    {% if cover == "" %}
+        {% set cover = config.extra.site.logo %}
+    {% endif %}
+    {% set image = macro::thumbnail_m(url=cover) | trim | safe %}
+
+    <!-- Open Graph Start -->
+    <meta property="og:site_name" content="{{ config.title }}" />
+    <meta property="og:type" content="{{ type }}" />
+    <meta property="og:title" content="{{ title | truncate(length=34) }}" />
+    <meta property="og:url" content="{{ config.base_url }}{{ _permalink }}" />
+    
+    <meta property="og:description" content="{{ description | truncate(length=64) }}" />
+    <meta property="og:image" content="{{ image }}" />
+    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ title | truncate(length=34) }}" />
+    <meta name="twitter:url" content="{{ config.base_url }}{{ _permalink }}" />
+    <meta name="twitter:description" content="{{ description | truncate(length=64) }}" />
+    <meta name="twitter:image" content="{{ image }}" />
+    <!-- Open Graph End -->
+    <meta name="description" content="{{ description | truncate(length=154) }}" />
+{% endmacro %}
+
+{# 包含 "| title" 后缀 #}
+{% macro head_meta(title, _permalink, cover="", excerpt, type) %}
+    {% set title = title | default(value=config.title) %}
+    {% set browser_title = title ~ " | " ~ config.title %}
+
+    <!-- Open Graph Start -->
+    <title>{{ browser_title | truncate(length=64) }}</title>
+    {{ macro::open_graph(title=title, _permalink=_permalink, cover=cover, excerpt=excerpt, type=type) }}
+{% endmacro %}
+
+{# 不包含 "| title" 后缀 #}
+{% macro head_meta_original_title(title, _permalink, cover="", excerpt, type) %}
+    {% set title = title | default(value=config.title) %}
+    <title>{{ title | truncate(length=64) }}</title>
+    {{ macro::open_graph(title=title, _permalink=_permalink, cover=cover, excerpt=excerpt, type=type) }}
+{% endmacro %}
+
+{# 侧边栏生成 #}
+{% macro aside(widgets) %}
+{% if config.extra.sidebar.location != 'hide-aside' and widgets %}
+<div class="aside-content" id="aside-content">
+
+    <!-- 侧栏部件，不包含 toc 则直接遍历 -->
+    {% if widgets | filter(attribute="widget", value="toc") | length == 0 %}
+        {% set index = 1 %}
+        {% for widget_data in widgets %}
+                {# 从倒数第 3 个开始固定小组件 #}
+                {% if index == widgets | length - 2 %}
+                    <div class="sticky_layout">
+                {% endif %}
+                {{ macro_template::widgets_aside(widget=widget_data.widget) }}
+            {% set_global index = index + 1 %}
+        {% endfor %}
+        </div>
+    {% endif %}
+
+    <!-- 侧栏部件，toc 之后的组件需要被 sticky_layout 包裹 -->
+    {% if widgets | filter(attribute="widget", value="toc") | length > 0 %}
+        
+        {% for widget_data in widgets %}
+                {# 从toc开始固定小组件 #}
+                {% if widget_data.widget == 'toc' %}
+                <div class="sticky_layout">
+            {% endif %}
+            {{ macro_template::widgets_aside(widget=widget_data.widget) }}
+        {% endfor %}
+        </div>
+    {% endif %}
+
+</div>
+{% endif %}
+{% endmacro %}
+
+{# 生成缩略图，跳过avif格式和webp格式 {{ macro::thumbnail(url=post.cover) }} #}
+{% macro thumbnail(url, width=800, height=500, op="fit", format="webp") %}
+{% if url is ending_with(".avif") or url is ending_with(".svg") %}
+    {{ url | trim | safe }}
+{% else %}
+    {% if url %}    
+        {% set thumbnail = resize_image(path=url | trim, width=width, height=height, op=op, format="webp", quality=75) %}
+        {% set result = thumbnail.url %}
+    {% else %}
+        {% set result = config.extra.site.default_cover %}
+    {% endif %}
+    {{ result | trim | safe }}
+{% endif %}
+{% endmacro %}
+
+{# 生成缩略图 小 {{ macro::thumbnail_s(url=post.cover) }} #}
+{% macro thumbnail_s(url, width=200, height=120, op="fit") %}
+{{-  macro::thumbnail(url=url | safe, width=width, height=height, op=op) -}}
+{% endmacro %}
+
+{# 生成缩略图 中等 {{ macro::thumbnail_m(url=post.cover) }} #}
+{% macro thumbnail_m(url, width=500, height=300, op="fit") %}
+{{-  macro::thumbnail(url=url | safe, width=width, height=height, op=op) -}}
+{% endmacro %}
+
+{# 生成缩略图 大 {{ macro::thumbnail_l(url=post.cover) }} #}
+{% macro thumbnail_l(url, width=800, height=500, op="fit") %}
+{{-  macro::thumbnail(url=url | safe, width=width, height=height, op=op) -}}
+{% endmacro %}
+
+{# 生成缩略图 大 {{ macro::thumbnail_l(url=post.cover) }} #}
+{% macro thumbnail_xl(url, width=1200, height=800, op="fit") %}
+{{-  macro::thumbnail(url=url | safe, width=width, height=height, op=op) -}}
+{% endmacro %}
+
+{# 获取阅读时间 https://www.owenyoung.com/blog/reading-time/ #}
+{% macro get_reading_time(minutes) %}
+    {% if lang=="zh" %} {{ minutes/1.88 | round }} {% else %} {{ minutes }} {% endif %}
+{% endmacro %}
+
+
+{# 让当前页的所有任务列表可以被勾选，如果全局变量 UNCHECKED_INPUT 为 0 则表示所有任务都已勾选 #}
+{% macro setup_checkbox() %}
+<script>
+    // 获取所有类型为 checkbox 的 input 元素
+    var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+
+    // 初始化全局变量，计算未勾选的 checkbox 数量
+    var UNCHECKED_INPUT = checkboxes.length;
+
+    // 遍历所有 checkbox，去掉 disabled 属性并添加点击事件
+    checkboxes.forEach(checkbox => {
+        checkbox.disabled = false;
+        checkbox.addEventListener('click', function() {
+            if (this.checked) {
+                UNCHECKED_INPUT--;
+            } else {
+                UNCHECKED_INPUT++;
+            }
+            console.log("[UNCHECKED_INPUT] Now there are " + UNCHECKED_INPUT + " unchecked inputs.");
+        });
+    });
+</script>
+{% endmacro %}
+
+{#尝试获取类型名称 {{ macro::taxonomy_name(taxonomy=taxonomy,term=term) }} #}
+{% macro taxonomy_name(taxonomy, term) %}
+    {% set data = load_data(path="data.toml") %}
+    {% if data.post[taxonomy][term] %}
+        {{ data.post[taxonomy][term] }}
+    {% else %}
+        {{ term }}
+    {% endif %}
+{% endmacro %}
+
+{#尝试获取标签名称 {{ macro::tag_name(tag=tag) }} #}
+{% macro tag_name(tag) %}
+{{- macro::taxonomy_name(taxonomy="tags",term=tag) | trim -}}
+{% endmacro %}
+
+{#尝试获取分类名称 {{ macro::category_name(category=category) }} #}
+{% macro category_name(category) %}
+{{- macro::taxonomy_name(taxonomy="categories",term=category) | trim -}}
+{% endmacro %}
+
+{#尝试获取分类名称 {{ macro::category_name(category=category) }} #}
+{% macro taxonomy_map(taxonomy) %}
+{% set data = load_data(path="data.toml") %}
+{% if data.post['taxonomies'][taxonomy] %}
+    {{ data.post['taxonomies'][taxonomy] }}
+{% else %}
+    {{ taxonomy }}
+{% endif %}
+{% endmacro %}
+
+{# todo 递归获取所有文章 #}
+{% macro tree() %}
+    {% for subsection in section.subsections | sort %}
+        {% set subsection_item = get_section(path=subsection) %}  
+        {{ subsection_item.title  }}
+    {% endfor %}
+{% endmacro tree %}
+
+
+{# 获取文章封面 url {{ macro::post_cover(post=post, local_url=local_url) }} #}
+{% macro post_cover(post, local_url=true) %}
+{{- macro::post_cover_internal(post=post, local_url=local_url) | trim -}}
+{% endmacro %}
+
+{# 内部使用 去除空格 #}
+{% macro post_cover_internal(post, local_url=true) %}
+    {% if local_url %}
+        {# 从 content 文件夹提取封面 #}
+        {% set path_prefix = post.colocated_path %}
+    {% else %}
+        {# 从 运行时的 url 获取封面 #}
+        {% set path_prefix = post.path %}
+    {% endif %}
+    {% if post.extra.cover %}
+        {# 使用绝对地址的封面 #}
+        {%- set cover = path_prefix ~ post.extra.cover %}
+    {% elif post.extra.global_cover %}
+        {# 使用相对地址的封面 #}
+        {%- set cover = post.extra.global_cover %}
+    {% else %}
+        {# 默认封面 #}
+        {%- set cover = config.extra.site.default_cover %}
+    {% endif %}
+    {{- cover -}}
+{% endmacro %}
+
+{# 渐进式加载图片 src 本地路径 web_url 为了临时解决手动加载avif的问题 #}
+{% macro img_progressive_loading(src, web_url="", alt="", id="", class="") %}
+{% set thumb_src = macro::get_webp_of_webp(src=src) %}
+{% if web_url != "" %}
+    {% set src = web_url %}
+{% endif %}
+<picture {% if id != "" %}id="{{ id }}" {% endif %} class="{% if class != "" %}{{ class }} {% endif %}progressive-picture">
+    {#- the small image that will be blurred -#}
+    <img class="progressive-thumbnail" src="{{ macro::thumbnail(url=thumb_src, width=16, height=9, op="fill", format="webp", quality=1) | trim | safe }}" loading="lazy">
+    {#- a lazy responsive image with data-srcset -#}
+    <source media="(min-width: 45em)" srcset="{{ macro::thumbnail(url=src, width=500, height=300,) | trim | safe }}?w=45em" />
+    <source src="{{ macro::thumbnail(url=src, width=500, height=300,) | trim | safe }}?w=18em" />
+    <img class="progressive-content"{% if alt != "" %} alt="{{ alt }}"{% endif %}
+      onload="progressiveLoad(this)" loading="lazy"
+      src="{{ macro::thumbnail(url=src, width=500, height=300,) | trim | safe }}"/>
+    {#- a noscript fallback -#}
+    <noscript>
+      <img loading="lazy"{% if alt != "" %} alt="{{ alt }}"{% endif %}
+        src="{{ macro::thumbnail(url=src, width=500, height=300,) | trim | safe }}">
+    </noscript>
+</picture>
+{% endmacro %}
+
+{% macro img_progressive_loading_post_cover(post, alt="", id="", class="") %}
+{% set cover = macro::post_cover(post=post, local_url=true) %}
+{# 只有 avif 避免处理路径 #}
+{% if cover is ending_with(".avif") %}
+{% set cover_url = macro::post_cover(post=post, local_url=false) %}
+{% else %}
+{% set cover_url = "" %}
+{% endif %}
+{% if alt != "" %}
+    {% set alt = alt %}
+{% endif %}
+{{ macro::img_progressive_loading(src=cover, web_url=cover_url, alt=alt, id=id, class=class) }}
+{% endmacro %}
+
+
+{# 渐进式加载图片，因为现在还不支持转换 avif 图片，需要从 avif 转换成 webp 文件路径 #}
+{% macro get_webp_of_webp(src) %}
+{%- if src is ending_with(".avif") -%}
+{{- src | replace(from=".avif", to=".webp") -}}
+{%- else -%}
+{{- src -}}
+{%- endif -%}
+{% endmacro %}

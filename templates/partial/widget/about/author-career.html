@@ -1,0 +1,82 @@
+<!-- 技能&职业生涯 -->
+<div class="author-content">
+    <div class="author-content-item skills">
+        <div class="card-content">
+            <div class="author-content-item-tips">专业技能</div>
+            <span class="author-content-item-title">开启生产力与创造力</span>
+            <div class="skills-style-group">
+                <div class="tags-group-all">
+                    <div class="tags-group-wrapper">
+                        {% set odd = true %}
+                        {% set data = load_data(path="data.toml") %}
+                        {% for tech in data.skill.items %}
+                            {% if odd %}
+                                <div class="tags-group-icon-pair">
+                            {% endif %}
+                                    <div class="tags-group-icon" style="background:{{ tech.bg_color }}">
+                                        {% if tech.logo %}
+                                        <img src="{{ tech.logo | safe }}" title="{{ tech.name }}">
+                                        {% elif tech.icon %}
+                                        <i class="{{ tech.icon }}"></i>
+                                        {% elif tech.svg_symbol_id %}
+                                        <svg><use href="{{ tech.svg_sprite | default(value=data.skill.svg_sprite) | safe }}#{{ tech.svg_symbol_id | safe }}"/></svg>
+                                        {% endif %}
+                                    </div>
+                            {% if not odd %}
+                                </div>
+                            {% endif %}
+                            {% set_global odd = not odd %}
+                        {% endfor %}
+                        {# 如果最后一个不是成对，则关闭成对 #}                            
+                        {% if not odd %}
+                                </div>
+                        {% endif %}
+                    </div>
+                </div>
+
+                <div class="skills-list">
+                    {% set odd = true %}
+                    {% for tech in data.skill.items %}
+                    <div class="skill-info">
+                        <div class="skill-icon" style="background:{{ tech.bg_color }}">
+                            {% if tech.logo %}
+                            <img src="{{ tech.logo | safe }}" title="{{ tech.name }}">
+                            {% elif tech.icon %}
+                            <i class="{{ tech.icon }}"></i>
+                            {% elif tech.svg_symbol_id %}
+                            <svg><use href="{{ tech.svg_sprite | default(value=data.skill.svg_sprite) | safe }}#{{ tech.svg_symbol_id | safe }}"/></svg>
+                            {% endif %}
+                        </div>
+                        <div class="skill-name">
+                            <span>{{ tech.name }}</span>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="author-content-item careers">
+        <div class="card-content">
+            <div class="author-content-item-tips">职业生涯</div>
+            <span class="author-content-item-title">
+                {{ config.extra.about.careers.title }}
+            </span>
+            {% if config.extra.about.careers.tags %}
+            <div class="careers-group">
+                {% for tag in config.extra.about.careers.tags %}
+                <div class="careers-item">
+                    <div class="circle" style="background:{{ tag.background }}"></div>
+                    <div class="name">{{ tag.occupation }}</div>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %}
+            {% if config.extra.about.careers.bg %}
+            <img alt="生涯" class="author-content-img" 
+                src="{{ config.extra.about.careers.bg }}">
+            {% endif %}
+        </div>
+    </div>
+</div>

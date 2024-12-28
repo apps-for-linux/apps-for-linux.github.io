@@ -1,0 +1,16 @@
+<!-- 标签条 -->
+<div id="tag-bar">
+    <div class="tag-bar-items" id="tag-bar-items">
+        <div class="tag-bar-item select" id="tag-bar-home">
+            <a href="/">首页</a>
+        </div>
+
+        {% set tags = config.extra.tags %}
+        {% for tag in tags %}
+            <div class="tag-bar-item" id="{{ tag.name }}">
+                <a href="{{ tag.permalink }}">{{ macro::tag_name(tag=tag.name) }}</a>
+            </div>
+        {% endfor %}
+    </div>
+    <a class="tag-bar-more" href="/tags">更多</a>
+</div>

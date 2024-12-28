@@ -1,0 +1,120 @@
+{% macro content_links() %}
+    {% set data = load_data(path="data.toml") %} 
+    {% set groups = data.friend.groups %}
+    <div class="flink" id="banners">
+        <div class="banners-title">
+            <div class="banners-title-small">{{ config.extra.friend.small_title }}</div>
+            <div class="banners-title-big">{{ config.extra.friend.big_title }}</div>
+        </div>
+        <div class="banner-button-group">
+            <a class="banner-button secondary"  onclick="travelling()"  rel="external nofollow noopener noreferrer">
+                <i class="icon-paper-plane1"></i>
+                <span class="banner-button-text">随机访问</span>
+            </a>
+            <a class="banner-button" href="#post-comment">
+                <i class="icon-link"></i>
+                <span class="banner-button-text">申请友链</span>
+            </a>
+        </div>
+        <div class="tags-group-all nowrapMove">
+            <div class="tags-group-wrapper">
+                {% set odd = true %}{# {% for link in group.items | slice(end=group.items | length) | step(2) %} #}
+                {% for group in groups %}
+                    {% for link in group.items %}
+                        {% if odd %}
+                            <div class="tags-group-icon-pair">
+                        {% endif %}
+                            <a class="tags-group-icon" target="_blank" href="{{ link.url }}"
+                               title="{{ link.display_name }}">
+                                {% if config.extra.link.prefer_local_logo %}    
+                                    {% set img = link.local_logo | default(value=link.logo) %}
+                                {% else %}
+                                    {% set img = link.logo %}
+                                {% endif %}
+                                <img title="{{ link.display_name }}" loading="lazy" src="{{ img | trim | safe }}">
+                            </a>
+                        {% if not odd %}
+                            </div>
+                        {% endif %}
+                        {% set_global odd = not odd %}
+                    {% endfor %}
+                {% endfor %}
+                {# 如果最后一个不是成对，则关闭成对 #}                            
+                {% if not odd %}
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <div class="flink" id="article-container">
+        {% for group in groups %}
+            {% if group.display_name %}
+                <h2>
+                    <a class="headerlink" href="#{{ group.display_name }}-{{ group.items | length }}"
+                       title="{{ group.display_name }}({{ group.items | length }})"></a>
+                    {{ group.display_name }} ({{ group.items | length }})
+                </h2>
+            {% endif %}
+
+            {% if group.description %}
+                <div class="flink-desc">{{ group.description }}</div>
+            {% endif %}
+
+            {% if group.display_style == "beautify" and group.items %}
+                <div class="site-card-group">
+                    {% for link in group.items %}
+                        <div class="site-card">
+                            {% if link.label %}
+                                <span style="background-color:{{ link.label_color }}"
+                                      class="site-card-tag">{{ link.label }}</span>
+                            {% endif %}
+
+                            <a class="img" target="_blank" href="{{ link.url }}" title="{{ link.display_name }}" rel="external nofollow noopener" >
+                                {% set img = link.siteshot | default(value=link.logo) %}
+                                <img class="flink-avatar" style="pointer-events: none;" alt="{{ link.display_name }}"
+                                    loading="lazy" src="{{ img | trim | safe }}">
+                            </a>
+
+                            <a class="info cf-friends-link" target="_blank" href="{{ link.url }}"
+                               title="{{ link.display_name }}" rel="external nofollow noopener">
+                                <div class="site-card-avatar no-lightbox">
+                                    <img class="flink-avatar cf-friends-avatar" alt="{{ link.display_name }}"
+                                        loading="lazy" src="{{ link.logo | trim | safe }}">                             
+                                </div>
+                                <div class="site-card-text">
+                                    <span class="title cf-friends-name">{{ link.display_name }}</span>
+                                    <span class="desc" title="{{ link.description }}">{{ link.description }}</span>
+                                </div>
+                            </a>
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+
+            {% if group.display_style == "default" and group.items %}
+                <div class="flink-list">
+                    {% for link in group.items %}
+                        <div class="flink-list-item">
+                            {% if link.label %}
+                                <span style="background-color:{{ link.label_color }}"
+                                      class="site-card-tag">{{ link.label }}</span>
+                            {% endif %}
+                            <a class="cf-friends-link friend-link" rel="external nofollow noopener" target="_blank" href="{{ link.url }}"
+                               title="{{ link.display_name }}">
+                                <img class="flink-avatar cf-friends-avatar" alt="{{ link.display_name }}"
+                                    loading="lazy" src="{{ link.logo | trim | safe }}">
+                                <div class="flink-item-info no-lightbox">
+                                    <span class="flink-item-name cf-friends-name">{{ link.display_name }}</span>
+                                    <span class="flink-item-desc" title="{{ link.description }}">{{ link.description }}</span>
+                                    <img loading="lazy" src="{{ link.logo | trim | safe }}">
+                                </div>
+                            </a>
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+
+        {% endfor %}
+    </div>
+{% endmacro %}

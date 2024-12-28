@@ -1,0 +1,41 @@
+{% if config.extra.comments.enable %}
+    <!-- 已知问题 PJAX 下，comment 首次请求会出错。当前的临时解决办法是使用 js 重试 -->
+    <div id="post-comment">
+        <div class="comment-head">
+            <div class="comment-headline"><i class="icon-chat--fill" style="font-size: 20px;"></i> <span>评论</span></div>
+            <div class="comment-randomInfo">
+                {% if config.extra.comments.visitor_mail.enable %}
+                    <a onclick="wjx.addRandomCommentInfo()" href="javascript:void(0)">匿名评论</a>
+                {% endif %}
+                <a href="/privacy">隐私政策</a>
+            </div>
+            <div class="comment-tips" id="comment-tips">
+                <span>你无需删除空行，直接评论以获取最佳展示效果</span>
+            </div>
+        </div>
+
+        {% if config.extra.comments.system == "twikoo" and config.extra.comments.twikoo.env_id %}
+            <div id="twikoo-wrap"></div>
+            <style>
+                #twikoo .tk-tag-green {
+                    background-color: #3b70fc;
+                    border: none;
+                    border-radius: 4px;
+                    color: #fff;
+                }
+            </style>
+        {% endif %}
+
+        {% if config.extra.comments.system == "artalk" and config.extra.comments.artalk.server %}
+            <div id="artalk-wrap"></div>
+        {% endif %}
+
+        {% if config.extra.comments.system == "waline" and config.extra.comments.waline.server_url %}
+            <div id="waline-wrap"></div>
+        {% endif %}
+
+        {% if config.extra.comments.system == "commentWidget" %}
+            {{ macro_template::comment(widget=config.extra.comments.system) }}
+        {% endif %}
+    </div>
+{% endif %}

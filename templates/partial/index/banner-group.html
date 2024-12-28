@@ -1,0 +1,127 @@
+<div id="bannerGroup">
+    <!-- banners -->
+    <div id="banners">
+        <div class="tags-group-all">
+            <!--  banners 使用技术栈-->            
+            <div class="tags-group-wrapper">                 
+                {% set odd = true %}
+                {% set data = load_data(path="data.toml") %}
+                {% for tech in data.skill.items %}
+                    {% if odd %}
+                        <div class="tags-group-icon-pair">
+                    {% endif %}
+                            <div class="tags-group-icon" style="background:{{ tech.bg_color }}">
+                                {% if tech.logo %}
+                                <img src="{{ tech.logo | safe }}" title="{{ tech.name }}" loading="lazy">
+                                {% elif tech.icon %}
+                                <i class="{{ tech.icon }}"></i>
+                                {% elif tech.svg_symbol_id %}
+                                <svg><use href="{{ tech.svg_sprite | default(value=data.skill.svg_sprite) | safe }}#{{ tech.svg_symbol_id | safe }}"/></svg>
+                                {% endif %}
+                            </div>
+                    {% if not odd %}
+                        </div>
+                    {% endif %}
+                    {% set_global odd = not odd %}
+                {% endfor %}
+                {# 如果最后一个不是成对，则关闭成对 #}                            
+                {% if not odd %}
+                        </div>
+                {% endif %}
+            </div>
+        </div>
+        <div class="banners-title">
+            {% if config.extra.top.banner_left.title_big %}
+                {{ config.extra.top.banner_left.title_big | safe }}
+            {% endif %}
+            {% if config.extra.top.banner_left.title_small %}
+                <div class="banners-title-small">{{ config.extra.top.banner_left.title_small | safe }}</div>
+            {% endif %}
+        </div>
+        {% if config.extra.top.banner_left.category_groups %}
+            <div class="banners-link">
+                <a class="banners-link-btn blb-hot" href="{{ config.extra.top.banner_left.category_groups[0].url }}">
+                    {% if not config.extra.top.banner_left.category_groups[0].icon is starting_with("http") %}
+                        <i class="{{ config.extra.top.banner_left.category_groups[0].icon }}"></i>
+                    {% else %}
+                        <img src="{{ config.extra.top.banner_left.category_groups[0].icon }}" alt="icon" loading="lazy"/>
+                    {% endif %}
+                    <div class="banners-link-title">{{ config.extra.top.banner_left.category_groups[0].title }}</div>
+                </a>
+                <a class="banners-link-btn blb-top" href="{{ config.extra.top.banner_left.category_groups[1].url }}">
+                    {% if not config.extra.top.banner_left.category_groups[1].icon is starting_with("http") %}
+                        <i class="{{ config.extra.top.banner_left.category_groups[1].icon }}"></i>
+                    {% else %}
+                        <img src="{{ config.extra.top.banner_left.category_groups[1].icon }}" alt="icon" loading="lazy"/>
+                    {% endif %}
+                    <div class="banners-link-title">{{ config.extra.top.banner_left.category_groups[1].title }}</div>
+                </a>
+            </div>
+        {% endif %}
+    </div>
+
+    <!-- category -->
+    {% if config.extra.top.banner_left.category_groups %}
+    <div class="categoryGroup">   
+            <div class="categoryItem">
+                <a class="categoryButton CB1 bikan" href="{{ config.extra.top.banner_left.category_groups[0].url }}">
+                    <span class="categoryButtonText">{{ config.extra.top.banner_left.category_groups[0].title }}</span>
+                    {% if not config.extra.top.banner_left.category_groups[0].icon is starting_with("http") %}
+                        <i class="{{ config.extra.top.banner_left.category_groups[0].icon }}"></i>
+                    {% else %}
+                        <img src="{{ config.extra.top.banner_left.category_groups[0].icon }}" alt="icon" loading="lazy"/>
+                    {% endif %}
+                </a>
+            </div>
+            <div class="categoryItem">
+                <a class="categoryButton remen" href="{{ config.extra.top.banner_left.category_groups[1].url }}">
+                    <span class="categoryButtonText">{{ config.extra.top.banner_left.category_groups[1].title }}</span>
+                    {% if not config.extra.top.banner_left.category_groups[1].icon is starting_with("http") %}
+                        <i class="{{ config.extra.top.banner_left.category_groups[1].icon }}"></i>
+                    {% else %}
+                        <img src="{{ config.extra.top.banner_left.category_groups[1].icon }}" alt="icon" loading="lazy"/>
+                    {% endif %}
+                </a>
+            </div>        
+    </div>
+    {% endif %}
+    {% if config.extra.top.banner_left.category_groups %}
+        <style>
+            a.categoryButton.bikan {
+                background: linear-gradient(to right, {{ config.extra.top.banner_left.category_groups[0].colors.light_one }}, {{ config.extra.top.banner_left.category_groups[0].colors.light_two }});
+                background-size: 200%;
+            }
+
+            a.categoryButton.remen {
+                background: linear-gradient(to right, {{ config.extra.top.banner_left.category_groups[1].colors.light_one }}, {{ config.extra.top.banner_left.category_groups[1].colors.light_two }});
+                background-size: 200%;
+            }
+            [data-theme=dark] a.categoryButton.bikan {
+                background: linear-gradient(to right, {{ config.extra.top.banner_left.category_groups[0].colors.dark_one }}, {{ config.extra.top.banner_left.category_groups[0].colors.dark_two }});
+                background-size: 200%;
+            }
+
+            [data-theme=dark] a.categoryButton.remen {
+                background: linear-gradient(to right, {{ config.extra.top.banner_left.category_groups[1].colors.dark_one }}, {{ config.extra.top.banner_left.category_groups[1].colors.dark_two }});
+                background-size: 200%;
+            }
+
+            .banners-link-btn.blb-hot {
+                background: linear-gradient(to right, {{ config.extra.top.banner_left.category_groups[0].colors.light_one }}, {{ config.extra.top.banner_left.category_groups[0].colors.light_two }});
+                background-size: 200%
+            }
+
+            .banners-link-btn.blb-hot:hover,
+            .banners-link-btn.blb-top:hover {
+                background-position: 100% 0;
+                cursor: pointer;
+                background-color: var(--wjx-white)
+            }
+
+            .banners-link-btn.blb-top {
+                background: linear-gradient(to right, {{ config.extra.top.banner_left.category_groups[1].colors.light_one }}, {{ config.extra.top.banner_left.category_groups[1].colors.light_two }});
+                background-size: 200%
+            }
+        </style>
+    {% endif %}
+</div>

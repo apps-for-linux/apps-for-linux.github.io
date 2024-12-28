@@ -1,0 +1,40 @@
+<!-- 爱好 -->
+<div class="author-content">
+    {% for hobby in config.extra.about.hobbies %}
+    <div class="author-content-item {{ hobby.class }}" {% if hobby.bg_url %}style="background: url({{ macro::thumbnail_m(url=hobby.bg_url) | safe }}) top / cover no-repeat"{% endif %}>
+        <div class="card-content">
+            <div class="author-content-item-tips">{{ hobby.tips }}</div>
+            <span class="author-content-item-title">{{ hobby.title }}</span>
+            <div class="content-bottom">
+                <div class="icon-group">
+                    <div class="loading-bar" role="presentation" aria-hidden="true"></div>
+                </div>
+                <div class="tips">{{ hobby.uid }}</div>
+            </div>
+            {% if hobby.url %}
+            <div class="banner-button-group">
+                <a class="banner-button" href="{{ hobby.url | safe }}" target="_blank" rel="noopener nofollow">
+                    <i class="icon-circle-arrow-up-right-1"></i>
+                    <span class="banner-button-text">更多信息</span></a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+    {% if config.extra.about.hobby.loading_bar %}
+    <style>
+        .loading-bar::after {
+            content: "";
+            position: absolute;
+            top: 500px;
+            left: 0;
+            filter: drop-shadow(0 -500px 0 #ece5d8);
+            width: 500px;
+            height: 62.5px;
+            background: url({{ macro::thumbnail_m(url=config.extra.about.hobby.loading_bar) | safe }}) no-repeat left 100%;
+            background-size: 500px 62.5px;
+            background-position-x: 0;
+        }
+    </style>
+    {% endif %}
+</div>

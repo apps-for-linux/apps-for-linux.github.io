@@ -1,0 +1,108 @@
+{% import "macro/pagination.html" as macro_page %}
+{% import "_macros.html" as macro %}
+{% set document = page | default(value=section) -%} {% set lang = document.lang -%} 
+{% set section = get_section(path="articles/_index.md", lang=lang) %}
+{% set posts = section.pages %}
+
+<!-- card，需要添加在没有图片时使用随机图片 -->
+{% for post in paginator.pages%}
+    {% set isEven = loop.index is even %}
+    <div class="recent-post-item {{ config.extra.layout.post.columns }} {{ config.extra.layout.post.cover_position }} 
+        {% if isEven %}even{% else %}odd{% endif %} {% if post.pinned %}pinned-post-item{% endif %}"
+        onclick="pjax.loadUrl('{{ post.permalink }}')">
+        <div class="post_cover left_radius">
+            <a title="{{ post.title }}" href="{{ post.permalink }}">
+                {{ macro::img_progressive_loading_post_cover(post=post, class="post_bg") }}
+            </a>
+        </div>
+        <div class="recent-post-info">
+            <div class="recent-post-info-top">
+                <div class="recent-post-info-top-tips">
+                    {% if post.extra.pinned %}
+                        <span class="sticky-warp sticky">置顶</span>
+                    {% endif %}
+                    {% set categories = post.taxonomies | get(key="categories") %}
+                    {% for category in categories %}
+                        <a href="{{ get_taxonomy_url(kind="categories", name=category, lang=lang) }}"
+                              title="{{ category }}"
+                              class="original">{{ macro::category_name(category=category) }}</a>
+                    {% endfor %}
+                    <span class="original"> | </span>
+                    {% set tags = post.taxonomies | get(key="tags") %}
+                    {% for tag in tags %}
+                        <a href="{{ get_taxonomy_url(kind="tags", name=tag, lang=lang) }}"
+                              title="{{ tag }}"
+                              class="original">{{ macro::tag_name(tag=tag) }}</a>
+                    {% endfor %}     
+                    {# <a class="unvisited-post" href="{{ post.permalink }}" title="{{ post.title }}" >未读</a> #}
+                </div>
+                <a class="article-title"
+                   title="{{ post.title }}"
+                   href="{{ post.permalink }}">
+                    {{ post.title }}
+                </a>
+                <div class="content">{{ post.summary  }}</div>
+            </div>
+            
+            <div class="article-meta-wrap">
+                {% if post.taxonomies %}
+                    <span class="article-meta tags">
+                        {% for tag in post.taxonomies | get(key="tags") | default(value=[]) %}
+                            {% if tag.name %}
+                                <a class="article-meta__tags" event.cancelbubble
+                                   onclick="window.event.cancelBubble=!0"
+                                   href="{{ get_taxonomy_url(kind="tags", name=tag.name, lang=lang) }}"
+                                   title="{{ macro::tag_name(tag=tag.name) }}">
+                                    <span class="tags-punctuation">{{ macro::tag_name(tag=tag.name) |trim }}</span>
+                                </a>
+                            {% endif %}
+                        {% endfor %}
+                    </span>
+                {% endif %}
+                
+                {% set now = now() | date(format="%s") | int %}
+                {% set publish_before = post.date | date(format="%s") | int %}
+                {% set publish_date = post.date | date(format='%Y-%m-%d') %}
+                {% set days = (now - publish_before) / 86400 | round %}
+                <span class="post-meta-date">
+                    <i class="far fa-calendar-alt"></i>
+                    <time style="display: inline;"
+                          datetime="{{ post.date }}"
+                          title="{{ publish_date }}创建">
+                        {% if days > 30 %}
+                            {{ publish_date }}
+                        {% elif days > 0 %}
+                            {{ days | round }}天前
+                        {% else %}
+                            今天
+                        {% endif %}
+                    </time>
+                </span>
+            </div>
+        </div>
+        
+        {% if config.extra.layout.card.polish_effect %}
+            <style>
+                #recent-posts > .recent-post-item:not(a)::before {
+                    content: "";
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 200%;
+                    background: linear-gradient(to right, transparent, white, transparent);
+                    transform: translateX(-200%);
+                    transition: transform 0.5s linear;
+                    z-index: 1;
+                }
+                
+                #recent-posts > .recent-post-item:not(a):hover::before {
+                    transform: translateX(100%) skewX(-60deg);
+                }
+            </style>
+        {% endif %}
+    </div>
+{% endfor %}
+
+<!-- 分页 -->
+{{ macro_page::pagination(path='', section_target=section, is_index=true, _param='') }}

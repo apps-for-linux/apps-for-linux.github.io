@@ -1,0 +1,162 @@
+<!-- 数据统计&作者相关信息 -->
+<div class="author-content">
+    <div class="about-statistic author-content-item"
+         style="background-color: #D9AFD9;background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);">
+         {# style="background: url(https://bu.dusays.com/2023/03/12/640dc8c72f623.webp);"> #}
+        <div class="card-content">
+            <div class="author-content-item-tips">数据</div>
+            <span class="author-content-item-title">访问统计</span>
+            <div id="statistic"></div>
+            <div class="post-tips">更新延迟10分钟 统计信息来自 <a href="https://umami.is/"
+                                                   rel="noopener nofollow external"
+                                                   target="_blank">Umami</a></div>
+            <div class="banner-button-group">
+                <a class="banner-button" onclick="pjax.loadUrl('/archives')" >
+                    <i class="icon-circle-arrow-up-right-1"></i>
+                    <span class="banner-button-text">文章隧道</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="author-content-item-group column mapAndInfo">
+        <div class="author-content-item map single">
+            <span class="map-title">我现在住在
+                <b>{{ config.extra.about.map.StrengthenTitle }}</b>
+            </span>
+        </div>
+        {% if config.extra.about.map.authorInfo %}
+        {% set texts = config.extra.about.map.authorInfo %}
+        <div class="author-content-item selfInfo single">
+            {% for text in texts %}
+            <div>
+                <span class="selfInfo-title">{{ text.authorInfoTitle }}</span>
+                <span class="selfInfo-content"
+                    id="selfInfo-content-year" style="color:{{ text.authorInfoColor }}">
+                    {{ text.authorInfoContent }}
+                </span>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+
+    <style>
+        .author-content-item.map {
+            background: url({{ macro::thumbnail_m(url=config.extra.about.map.background) | safe | safe  }}) no-repeat center;
+            min-height: 160px;
+            max-height: 400px;
+            position: relative;
+            overflow: hidden;
+            margin-bottom: 0.5rem;
+            height: 60%;
+            background-size: 100%;
+            transition: 1s ease-in-out;
+        }
+        
+        [data-theme=dark] .author-content-item.map {
+            background: url({{ macro::thumbnail_m(url=config.extra.about.map.backgroundDark) | safe | safe }}) no-repeat center;
+            background-size: 100%;
+        }
+        
+        .author-content-item.map:hover {
+            background-size: 120%;
+            transition: 4s ease-in-out;
+            background-position-x: 0;
+            background-position-y: 36%;
+        }
+        
+        .author-content-item.map .map-title {
+            position: absolute;
+            bottom: 0px;
+            left: 0px;
+            width: 100%;
+            background: var(--wjx-maskbg);
+            padding: 0.5rem 2rem;
+            backdrop-filter: saturate(180%) blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            transition: 1s ease-in-out;
+            font-size: 20px;
+            border-radius: 0 0 1rem 1rem;
+        }
+        
+        .author-content-item.map:hover .map-title {
+            bottom: -100%;
+            border-radius: 0 0 1rem 1rem;
+        }
+        
+        .author-content-item.map .map-title b {
+            color: var(--wjx-fontcolor);
+        }
+        
+        @media screen and (max-width: 768px) {
+            .author-content-item.map.myphoto {
+                background-size: cover !important;
+            }
+            
+            .author-content-item.map .map-title {
+                padding: 1rem;
+            }
+        }
+    </style>
+
+    <script defer>
+        function initAboutPage() {
+            const statisticEl = document.getElementById("statistic");
+            if (!statisticEl) return;
+            fetch("{{ config.extra.site.analytics.stat_api | safe }}")
+                .then(res => res.text())
+                .then(data => {
+                    const result = JSON.parse(data)
+                    let titleMap = {
+                        "today_uv": "今日人数",
+                        "today_pv": "今日访问", 
+                        "yesterday_uv": "昨日人数",
+                        "yesterday_pv": "昨日访问",
+                        "last_month_pv": "本月访问",
+                        "last_year_pv": "今年访问"
+                    };
+
+                    const statistic = [];
+                    var innerHtml = ""
+                    for (var key in result) {
+                        var value = result[key];
+                        var title = titleMap[key];
+
+                        innerHtml += "<div><span>" + title + "</span><span id=" + title + ">" + value + "</span></div>";
+                        var countUp = new CountUp(title, 0, value, 0, 2, {
+                            useEasing: true,
+                            useGrouping: true,
+                            separator: ",",
+                            decimal: ".",
+                            prefix: "",
+                            suffix: "",
+                        });
+                        statistic.push(countUp);
+                    }
+                    statisticEl.innerHTML = innerHtml
+                    
+                    let statisticElement = document.querySelector(".about-statistic.author-content-item");
+                    
+                    if (!statisticElement) return;
+
+                    const observer = new IntersectionObserver((entries) => {
+                        const entry = entries[0];
+                        if (entry.isIntersecting) {
+                            statistic.forEach(countUp => {
+                                countUp.start();
+                            });
+                            observer.disconnect();
+                        }}, {
+                        root: null,
+                        rootMargin: "0px",
+                        threshold: 0
+                    });                
+                    observer.observe(statisticElement);
+                });
+        }
+        
+        initAboutPage();
+    </script>
+
+</div>

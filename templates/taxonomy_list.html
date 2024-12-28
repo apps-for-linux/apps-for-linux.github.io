@@ -1,0 +1,47 @@
+{% import "_macros.html" as macro %}
+{% import "macro/template.html" as macro_template %}
+{% import "macro/pagination.html" as macro_page %}
+{% import "macro/post-list.html" as macro_post_list %}
+
+{% extends "page/base.html" %}
+
+{% set doc = page | default(value=section) %}
+
+{% block head %}
+    {% set title = macro::taxonomy_map(taxonomy=taxonomy.name) %}
+    {{ macro::head_meta(title = title, _permalink = current_path, excerpt = title, type = title) }}
+    <script id="ld-json" type="application/ld+json"></script>
+{% endblock %}
+
+{% block content %}
+    <div class="page" id="body-wrap">
+        <!-- 头部导航栏 -->
+        <header class="{% if config.extra.top.above.enable_above %}full_page{% else %}not-top-img{% endif %}" id="page-header">
+            {{ macro::nav(title = config.title) }}
+        </header>
+
+        
+        <main class="layout hide-aside" id="content-inner">
+        <div id="page">
+            <h1 class="page-title" style="display: inline;">{{ macro::taxonomy_map(taxonomy=taxonomy.name) }}</h1>
+            <div class="category-lists">
+                <!-- <div class="category-title is-center">分类 - <span class="category-amount">11</span></div> -->
+                <div class="tag-cloud-list is-center">
+                    {% set taxonomies = get_taxonomy(kind=taxonomy.name) %}
+                    {% for term in taxonomies.items %}
+                        <a style="font-size: 1em;" href="{{ term.permalink }}" id="{{ term.name }}">
+                            <span style="font-size: 22px;" class="tags-punctuation">{{ macro::taxonomy_name(taxonomy=taxonomy.name, term=term.name) }}</span>
+                            <span class="tagsPageCount">{{ term.page_count }}</span>
+                        </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </main>
+
+        {% include "partial/common/footer.html" %}
+    </div>
+{% endblock %}
+
+
+

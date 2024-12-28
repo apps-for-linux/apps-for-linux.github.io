@@ -1,0 +1,20 @@
+<!-- 归档 -->
+<div class="card-widget card-archives">
+    <div class="item-headline">
+        <i class="icon-archive"></i>
+        <span>文章归档</span>
+    </div>
+    <div class="archives-content">
+        {% if archives %}
+            <ul>
+                {% for archive in archives %}
+                    <li>
+                        <a href="{{ archive.permalink }}">{{ archive.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>暂无归档信息</p>
+        {% endif %}
+    </div>
+</div>

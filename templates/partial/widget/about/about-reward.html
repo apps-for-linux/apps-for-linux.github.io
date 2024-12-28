@@ -1,0 +1,93 @@
+{% if config.extra.about_reward.enable %}
+<div class="author-content">
+    <div class="author-content-item single reward" id="about-reward">
+        <div class="author-content-item-tips">致谢</div>
+        <span class="author-content-item-title">{{ config.extra.about_reward.title }}</span>
+        <div class="author-content-item-description">
+            {{ config.extra.about_reward.content }}
+        </div>
+        
+        {% if config.extra.about_reward.reward.enable %}
+        <div class="about-reward">
+            <div id="con"></div>
+            <div id="TA-con" onclick="wjx.rewardShowConsole()">
+                <div id="text-con">
+                    <div id="linght"></div>
+                    <div id="TA">{{ config.extra.about_reward.reward.name }}</div>
+                </div>
+            </div>
+            <div id="tube-con">
+                <svg viewBox="0 0 1028 385" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M1 77H234.226L307.006 24H790" stroke="#e5e9ef" stroke-width="20"></path>
+                    <path d="M0 140H233.035L329.72 71H1028" stroke="#e5e9ef" stroke-width="20"></path>
+                    <path d="M1 255H234.226L307.006 307H790" stroke="#e5e9ef" stroke-width="20"></path>
+                    <path d="M0 305H233.035L329.72 375H1028" stroke="#e5e9ef" stroke-width="20"></path>
+                    <rect y="186" width="236" height="24" fill="#e5e9ef"></rect>
+                    <ellipse cx="790" cy="25.5" rx="25" ry="25.5" fill="#e5e9ef"></ellipse>
+                    <circle r="14" transform="matrix(1 0 0 -1 790 25)" fill="white"></circle>
+                    <ellipse cx="790" cy="307.5" rx="25" ry="25.5" fill="#e5e9ef"></ellipse>
+                    <circle r="14" transform="matrix(1 0 0 -1 790 308)" fill="white"></circle>
+                </svg>
+                <div id="mask">
+                    <svg viewBox="0 0 1028 385" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 77H234.226L307.006 24H790" stroke="#f25d8e" stroke-width="20"></path>
+                        <path d="M0 140H233.035L329.72 71H1028" stroke="#f25d8e" stroke-width="20"></path>
+                        <path d="M1 255H234.226L307.006 307H790" stroke="#f25d8e" stroke-width="20"></path>
+                        <path d="M0 305H233.035L329.72 375H1028" stroke="#f25d8e" stroke-width="20"></path>
+                        <rect y="186" width="236" height="24" fill="#f25d8e"></rect>
+                        <ellipse cx="790" cy="25.5" rx="25" ry="25.5" fill="#f25d8e"></ellipse>
+                        <circle r="14" transform="matrix(1 0 0 -1 790 25)" fill="white"></circle>
+                        <ellipse cx="790" cy="307.5" rx="25" ry="25.5" fill="#f25d8e"></ellipse>
+                        <circle r="14" transform="matrix(1 0 0 -1 790 308)" fill="white"></circle>
+                    </svg>
+                </div>
+                <div id="orange-mask">
+                    <svg viewBox="0 0 1028 385" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 77H234.226L307.006 24H790" stroke="#ffd52b" stroke-width="20"></path>
+                        <path d="M0 140H233.035L329.72 71H1028" stroke="#ffd52b" stroke-width="20"></path>
+                        <path d="M1 255H234.226L307.006 307H790" stroke="#ffd52b" stroke-width="20"></path>
+                        <path d="M0 305H233.035L329.72 375H1028" stroke="#ffd52b" stroke-width="20"></path>
+                        <rect y="186" width="236" height="24" fill="#ffd52b"></rect>
+                        <ellipse cx="790" cy="25.5" rx="25" ry="25.5" fill="#ffd52b"></ellipse>
+                        <circle r="14" transform="matrix(1 0 0 -1 790 25)" fill="white"></circle>
+                        <ellipse cx="790" cy="307.5" rx="25" ry="25.5" fill="#ffd52b"></ellipse>
+                        <circle r="14" transform="matrix(1 0 0 -1 790 308)" fill="white"></circle>
+                    </svg>
+                </div>
+                {% if config.extra.about_reward.sponsors %}
+                    <p id="people">共<b>{{ config.extra.about_reward.sponsors | length }}</b>人</p>
+                {% endif %}
+            </div>
+        </div>
+        {% endif %}
+
+        {% if config.extra.about_reward.sponsors %}
+        <div class="reward-list-all">
+            {% for authorReward in config.extra.about_reward.sponsors %}
+            <div class="reward-list-item">
+                <div>
+                    {% if authorReward.avatar %}
+                    <div>
+                        <div class="reward-list-item-avatar">
+                            <img src="{{ authorReward.avatar | safe }}" alt="{{ authorReward.name}}">
+                        </div>
+                        <div style="z-index:20;float: left;" class="reward-list-item-avatar-group">
+                            <div class="reward-list-item-name">{{ authorReward.name }}</div>
+                        </div>
+                    </div>
+                    {% else %}
+                        <div class="reward-list-item-name">{{ authorReward.name }}</div>
+                    {% endif %}                    
+                    <div class="reward-list-bottom-group">
+                        <div class="reward-list-item-money"{% if authorReward.amount >= config.extra.about_reward.reward_number %} style="background: var(--wjx-vip);"{% endif %}>¥ {{ authorReward.amount }}</div>
+                        <time class="datatime reward-list-item-time">{{ authorReward.date }}</time>
+                    </div>
+                </div>
+                
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endif %}

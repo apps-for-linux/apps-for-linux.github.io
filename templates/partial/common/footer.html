@@ -1,0 +1,207 @@
+{% import "macro/template.html" as macro_template %}
+{% import "_macros.html" as macro %}
+
+{% set data = load_data(path="data.toml") %}
+
+<!-- 页脚模块 -->
+<footer id="footer">
+
+    {% if config.extra.footer.footer_bar.enable %}
+    <div id="wjx-footer-bar">
+        <div class="footer-logo">{{ config.author | safe }}</div>
+        <div class="footer-bar-description">{{ config.description | safe }}</div>
+        <a class="footer-bar-link" href="/about" >了解更多</a>
+    </div>
+    {% endif %}
+
+    <!-- 社交链接，需要填入 href class title -->
+    <div id="footer_deal">
+        {% for socialMedia in config.extra.footer.social_media.left %}
+            <a class="{% if socialMedia.option_social_data == 'custom' %}custom_socials{% else %}deal_link{% endif %}" rel="external nofollow noopener noreferrer" target="_blank"
+               href="{{ socialMedia.url }}" title="{{ socialMedia.name }}">
+                {% if socialMedia.option_social_data == 'icon' or not socialMedia.option_social_data %}
+                    <i class="{{ socialMedia.icon }}"></i>
+                {% endif %}
+                {% if socialMedia.option_social_data == 'custom' %}
+                    {{ socialMedia.icon | safe }}
+                {% endif %}
+            </a>
+        {% endfor %}
+
+        {% if config.extra.footer.social_media.img_enable %}
+            {% set logo = macro::thumbnail(url=config.extra.site.logo, width=118, height=118) | trim | safe %}
+            <img class="footer_mini_logo" style="border-radius: 500px;"
+                 src="{{ logo }}"
+                 loading="lazy"
+                 title="返回顶部" onclick="btf.scrollToDest(0, 500)">
+        {% endif %}
+
+        {% for socialMedia in config.extra.footer.social_media.right %}
+            <a class="{% if socialMedia.option_social_data == 'custom' %}custom_socials{% else %}deal_link{% endif %}" rel="external nofollow noopener noreferrer" target="_blank"
+               href="{{ socialMedia.url }}" title="{{ socialMedia.name }}">
+                {% if socialMedia.option_social_data == 'icon' or not socialMedia.option_social_data %}
+                    <i class="{{ socialMedia.icon }}"></i>
+                {% endif %}
+                {% if socialMedia.option_social_data == 'custom' %}
+                    {{ socialMedia.icon | safe }}
+                {% endif %}
+            </a>
+        {% endfor %}
+    </div>
+
+    <!-- 相关地址  -->
+    {% if data.menu.footer_menu %}
+        <div id="wjx-footer">
+            {% for menu in data.menu.footer_menu %}
+            <div class="footer-group">
+                <h3 class="footer-title">{{ menu.name }}</h3>
+                <div class="footer-links">
+                    {% if menu.menus %}
+                        {% for childMenu in menu.menus %}
+                        <a class="footer-item" data-pjax
+                           href="{{ childMenu.href }}" 
+                           target="{{ childMenu.target | default(value='_blank') }}"
+                           {%- if childMenu.rel -%}rel="{{ childMenu.rel }}"{%- endif -%}
+                           >{{ childMenu.name }}</a>
+                        {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+
+            {% if config.extra.footer.footer_group.enable %}
+            <div class="footer-group">
+                <div class="footer-title-group">
+                    <h3 class="footer-title">友链</h3>
+                    <button class="random-friends-btn" id="footer-random-friends-btn"
+                       onclick="javascript:wjx.addFriendLinksInFooter();" title="换一批友情链接">
+                       <i class="icon-arrow-rotate-right" style="font-size: 16px;"></i>
+                    </button>
+                </div>
+                <div class="footer-links" id="friend-links-in-footer"></div>
+            </div>
+            {% endif %}
+        </div>
+    {% endif %}
+
+    <!-- 底部 banner -->
+    {% block footer %}
+    {% endblock footer %}
+
+    {% if config.extra.footer.enable %}
+    <div id="footer-bar" style="padding:{{ config.extra.footer.footer_banner_padding }}rem">
+        <div class="footer-bar-links">
+            <div class="footer-bar-left">
+                <div id="footer-bar-tips">
+                    <div>
+                        {% set start = config.extra.site.start_year | default(value=now() | date(format="%Y")) | int %}
+                        {% set current = now() | date(format="%Y") | int %}
+                        Copyright © <span class="inline-word" id="copyright-info">{% if start != current %}{{ start }} - {% endif %}{{ current }}</span>
+                        By <a class="footer-bar-link" href="/"  target="_blank">{{ config.title }}</a>
+                    </div>
+                </div>
+                <a class="footer-bar-link" href="https://www.getzola.org/"
+                    rel="noopener external nofollow noreferrer">
+                    本网站由 Zola 构建
+                </a>
+                {# 动态调整 #}
+                <script defer>
+                    var startYear = {{ config.extra.site.start_year }};
+                    var currentYear = new Date().getFullYear();
+                    var copyrightInfo = `${startYear !== currentYear ? startYear + ' - ' : ''}${currentYear}`;
+                    document.getElementById('copyright-info').innerHTML = copyrightInfo;
+                </script>
+            </div>
+            <div class="footer-bar-right">
+                <a class="footer-bar-link" href="/subscribe" target="_blank">订阅</a>
+
+                {% if config.extra.footer.theme %}
+                <a class="footer-bar-link" target="_blank" href="https://github.com/iWangJiaxiang/zola-theme-jiaxiang.wang">主题</a>
+                {% endif %}
+
+                {% if config.extra.footer.about %}
+                <a class="footer-bar-link" href="/about" >关于</a>
+                {% endif %}
+
+                {% if config.extra.site.icp and config.extra.footer.icp_icon %}
+                <a class="footer-bar-link" href="https://beian.miit.gov.cn/#/Integrated/index"
+                   rel="noopener external nofollow noreferrer"
+                   target="_blank">
+                   {{ config.extra.site.icp }}
+                </a>
+                {% endif %}
+
+                {% if config.extra.site.gongan and config.extra.footer.gongwangan %}
+                <a class="footer-bar-link" href="http://www.beian.gov.cn/portal/registerSystemInfo"
+                   rel="noopener external nofollow noreferrer"
+                   target="_blank">
+                    {% if not config.extra.site.gongan | starts_with(pat="http") %}
+                        {{ config.extra.site.gongan }}
+                    {% else %}
+                        <img src="{{ config.extra.site.gongan }}" alt="gongan" loading="lazy"/>
+                    {% endif %}
+                </a>
+                {% endif %}
+
+                {% if config.extra.footer.copyright %}
+                <a class="footer-bar-link cc" rel="license" href="/copyright" title="CC版权协议" target="_blank">
+                    <i class="icon-copyright-line"></i>
+                    <i class="icon-creative-commons-by-line"></i>
+                    <i class="icon-creative-commons-nc-line"></i>
+                    <i class="icon-creative-commons-nd-line"></i>
+                </a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- 右下角 snackbar 弹窗 -->
+    {% if config.extra.tool.snackbar.switch %}
+    <div class="needEndHide" id="cookies-window">
+        <div class="cookies-window-title">{{ config.extra.tool.snackbar.introduction_title }}</div>
+        <div class="cookies-window-content"><span class="cookies-tip">{{ config.extra.tool.snackbar.introduction_tip }}</span>
+            <a class="cookies-link" href="{{ config.extra.tool.snackbar.introduction_url }}"
+               title="{{ config.extra.tool.snackbar.introduction_name }}" >
+               <i class="bber-gotobb icon-circle-arrow-right"></i>
+            </a>
+        </div>
+    </div>
+    {% endif %}
+
+    <div id="quit-box" onclick="RemoveRewardMask()"></div>
+
+    <!--评论弹幕弹窗 -->
+    <div class="comment-barrage needEndHide" style="display: none;"></div>
+
+    <style>
+        a.footer-bar-link.cloud {
+            display: flex;
+            align-items: center;
+        }
+        img.entered.loading.cloud {
+            height: 32px;
+        }
+    </style>
+    
+    {% if config.extra.top.global_background.enable %}
+    <style>
+        @media screen and (min-width: 1300px) {
+            #footer {
+                background: linear-gradient(180deg, var(--wjx-card-bg-none) 0%, #fff0 25%);
+                margin-top: 0.5rem;
+                display: flex;
+                flex-direction: column;
+            }
+        }
+        
+        @media screen and (max-width: 1300px) {
+            #footer {
+                background: linear-gradient(180deg, var(--wjx-background) 0%, #fff0 25%);
+                margin-top: 0;
+                z-index: 3;
+            }
+        }    
+    </style>
+    {% endif %}    
+</footer>

@@ -1,0 +1,14 @@
+{% import "macro/template.html" as macro_template %}
+<!-- 最新评论 -->
+<div class="card-widget card-recent-post">
+    {% if config.extra.sidebar.c.newcommentUrl %}
+        <a onclick="pjax.loadUrl('{{ config.extra.sidebar.newcomment.newcommentUrl }}')"
+           title="查看更多"
+           class="card-more-btn"
+           style="cursor:pointer" draggable="false"><i class="icon-chevron-right"></i></a>
+    {% endif %}
+    <div class="item-headline"><i class="icon-chat--fill" style="font-size: 19px;"></i><span>最新评论</span></div>
+    <div class="aside-list" id="newcomm">        
+        {# {{ macro_template::comment(widget=config.extra.comments.system) }} #}
+    </div>
+</div>

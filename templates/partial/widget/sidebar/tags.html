@@ -1,0 +1,25 @@
+<!-- 标签 -->
+<div class="card-widget card-tags">
+    <div class="item-headline">
+        <i class="icon-tags"></i>
+        <span>标签</span>
+    </div>
+    <div class="item-headline"></div>
+    <div class="card-tag-cloud">
+        {% set tags = get_taxonomy(kind="tags") %}
+        {% for tag in tags | get(key="items") %}
+            {% set tag_name = macro::tag_name(tag=tag.name) %}
+            <a class="tag-item" style="font-size:1em" data-pjax
+               href="{{ tag.permalink }}" rel="tag"
+               title="{{ tag_name }}">
+                <!-- 角标 -->
+                {{ tag_name }}<sup>{{ tag.page_count }}</sup>
+            </a>
+        {% endfor %}
+    </div>
+    {% if config.extra.other.tag_random_color_enable %}
+    <script>
+        var isTagsRandomColor = {{ config.extra.other.tag_random_color_enable }};
+    </script>
+    {% endif %}
+</div>

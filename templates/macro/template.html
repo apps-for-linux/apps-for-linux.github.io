@@ -1,0 +1,156 @@
+{# 动态加载侧边小组件 #}
+{% macro widgets_aside(widget) %}
+
+{% if widget == "adbox" %}
+    {% include "partial/widget/sidebar/adbox.html" %}
+{% endif %}
+
+{% if widget == "archives" %}
+    {% include "partial/widget/sidebar/archives.html" %}
+{% endif %}
+
+{% if widget == "categories" %}
+    {% include "partial/widget/sidebar/categories.html" %}
+{% endif %}
+
+{% if widget == "comments" %}
+    {% include "partial/widget/sidebar/comments.html" %}
+{% endif %}
+
+{% if widget == "custom_html" %}
+    {% include "partial/widget/sidebar/custom_html.html" %}
+{% endif %}
+
+{% if widget == "friend-link" %}
+    {% include "partial/widget/sidebar/friend-link.html" %}
+{% endif %}
+
+{% if widget == "music" %}
+    {% include "partial/widget/sidebar/music.html" %}
+{% endif %}
+
+{% if widget == "power" %}
+    {% include "partial/widget/sidebar/power.html" %}
+{% endif %}
+
+{% if widget == "profile" %}
+    {% include "partial/widget/sidebar/profile.html" %}
+{% endif %}
+
+{% if widget == "recent-posts" %}
+    {% include "partial/widget/sidebar/recent-posts.html" %}
+{% endif %}
+
+{% if widget == "stat" %}
+    {% include "partial/widget/sidebar/stat.html" %}
+{% endif %}
+
+{% if widget == "steam" %}
+    {% include "partial/widget/sidebar/steam.html" %}
+{% endif %}
+
+{% if widget == "tags-stat" %}
+    {% include "partial/widget/sidebar/tags-stat.html" %}
+{% endif %}
+
+{% if widget == "tags" %}
+    {% include "partial/widget/sidebar/tags.html" %}
+{% endif %}
+
+{% if widget == "toc" %}
+    {% include "partial/widget/sidebar/toc.html" %}
+{% endif %}
+
+{% if widget == "visit-posts" %}
+    {% include "partial/widget/sidebar/visit-posts.html" %}
+{% endif %}
+
+{% if widget == "wechat" %}
+    {% include "partial/widget/sidebar/wechat.html" %}
+{% endif %}
+
+{% endmacro %}
+
+{# 动态加载导航栏 #}
+{% macro nav_bar(widget) %}
+
+{% if widget == "category" %}
+    {% include "partial/widget/bar/category.html" %}
+{% endif %}
+
+{% if widget == "custom-category" %}
+    {% include "partial/widget/bar/custom-category.html" %}
+{% endif %}
+
+{% if widget == "custom-tag" %}
+    {% include "partial/widget/bar/custom-tag.html" %}
+{% endif %}
+
+{% if widget == "custom-url" %}
+    {% include "partial/widget/bar/custom-url.html" %}
+{% endif %}
+
+{% if widget == "more" %}
+    {% include "partial/widget/bar/more.html" %}
+{% endif %}
+
+{% if widget == "tag" %}
+    {% include "partial/widget/bar/tag.html" %}
+{% endif %}
+
+{% endmacro %}
+
+
+{# 动态加载评论 #}
+{% macro comment(widget) %}
+
+{% if widget == "artalk" %}
+    {% include "partial/third-party/comment/artalk.html" %}
+{% endif %}
+
+{% if widget == "twikoo" %}
+    {% include "partial/third-party/comment/twikoo.html" %}
+{% endif %}
+
+{% if widget == "waline" %}
+    {% include "partial/third-party/comment/waline.html" %}
+{% endif %}
+
+{% endmacro %}
+
+{# 动态加载关于页面小组件 #}
+{% macro about(widgets) %}
+
+{% if widgets %}
+    {% for widget in widgets %}
+        {% if widget == "about-reward" %}
+            {% include "partial/widget/about/about-reward.html" %}
+        {% endif %}
+        {% if widget == "author-career" %}
+            {% include "partial/widget/about/author-career.html" %}
+        {% endif %}
+        {% if widget == "content-idea" %}
+            {% include "partial/widget/about/content-idea.html" %}
+        {% endif %}
+        {% if widget == "hobby" %}
+            {% include "partial/widget/about/hobby.html" %}
+        {% endif %}
+        {% if widget == "hello-about" %}
+            {% include "partial/widget/about/hello-about.html" %}
+        {% endif %}
+        {% if widget == "like-music" %}
+            {% include "partial/widget/about/like-music.html" %}
+        {% endif %}
+        {% if widget == "personalities-photo" %}
+            {% include "partial/widget/about/personalities-photo.html" %}
+        {% endif %}
+        {% if widget == "statistics-map" %}
+            {% include "partial/widget/about/statistics-map.html" %}
+        {% endif %}
+        {% if widget == "textarea" %}
+            {% include "partial/widget/about/textarea.html" %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
+{% endmacro %}

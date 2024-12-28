@@ -1,0 +1,124 @@
+<!-- 右键菜单 -->
+{% if config.extra.tool.right_menu.enable %}
+<div class="js-pjax">
+    <div id="rightMenu">
+        <div class="rightMenu-group rightMenu-small">
+            <div class="rightMenu-item" id="menu-backward"><i class="icon-arrow-left"></i></div>
+            <div class="rightMenu-item" id="menu-forward"><i class="icon-arrow-right"></i></div>
+            <div class="rightMenu-item" id="menu-refresh"><i class="icon-arrow-rotate-right"></i></div>
+            <div class="rightMenu-item" id="menu-top"><i class="icon-arrow-up"></i></div>
+        </div>
+        <div class="rightMenu-group rightMenu-line rightMenuPlugin">
+            <div class="rightMenu-item" id="menu-copytext">
+                <i class="icon-copy"></i>
+                <span>复制选中文本</span>
+            </div>
+            <div class="rightMenu-item" id="menu-pastetext">
+                <i class="icon-paste"></i>
+                <span>粘贴文本</span>
+            </div>
+            <a class="rightMenu-item" id="menu-commenttext">
+                <i class="icon-comment-medical"></i>
+                <span>引用到评论</span>
+            </a>
+            <div class="rightMenu-item" id="menu-newwindow">
+                <i class="icon-window-restore"></i>
+                <span>新窗口打开</span>
+            </div>
+            <div class="rightMenu-item" id="menu-copylink">
+                <i class="icon-link"></i>
+                <span>复制链接地址</span>
+            </div>
+            <div class="rightMenu-item" id="menu-copyimg">
+                <i class="icon-images"></i>
+                <span>复制此图片</span>
+            </div>
+            <div class="rightMenu-item" id="menu-downloadimg">
+                <i class="icon-download"></i>
+                <span>下载此图片</span>
+            </div>
+            <div class="rightMenu-item" id="menu-newwindowimg" >
+                <i class="icon-window-restore"></i>
+                <span>新窗口打开图片</span>
+            </div>
+            <div class="rightMenu-item" id="menu-search">
+                <i class="icon-search--line"></i>
+                <span>站内搜索</span>
+            </div>
+            <div class="rightMenu-item" id="menu-searchBaidu">
+                <i class="icon-baidu"></i>
+                <span>百度搜索</span>
+            </div>
+            <div class="rightMenu-item" id="menu-music-toggle">
+                <i class="icon-play"></i>
+                <span>播放音乐</span>
+            </div>
+            <div class="rightMenu-item" id="menu-music-back">
+                <i class="icon-backward"></i>
+                <span>切换到上一首</span>
+            </div>
+            <div class="rightMenu-item" id="menu-music-forward">
+                <i class="icon-forward"></i>
+                <span>切换到下一首</span>
+            </div>
+            <div class="rightMenu-item" id="menu-music-playlist" 
+                 onclick="javascript:window.open('{{ config.extra.tool.nav_music.all_playlist }}')">
+                <i class="icon-radio"></i>
+                <span>查看所有歌曲</span>
+            </div>
+            <div class="rightMenu-item" id="menu-music-copyMusicName">
+                <i class="icon-copy"></i>
+                <span>复制歌名</span>
+            </div>
+        </div>
+        <div class="rightMenu-group rightMenu-line rightMenuOther">
+            <a class="rightMenu-item menu-link" id="menu-randomPost" onclick="toRandomPost()">
+                <i class="icon-shuffle"></i>
+                <span>随便逛逛</span>
+            </a>
+            <a class="rightMenu-item menu-link" href="../categories">
+                <i class="icon-cube"></i>
+                <span>博客分类</span>
+            </a>
+            <a class="rightMenu-item menu-link" href="../tags">
+                <i class="icon-tags"></i>
+                <span>文章标签</span>
+            </a>
+        </div>
+        <!-- <div class="rightMenu-group rightMenu-line">
+            <a class="rightMenu-item menu-link" href="cc/index.html">
+                <i class="icon-hand-holding"></i>
+                <span>隐私协议</span>
+            </a>
+            <a class="rightMenu-item menu-link" href="cc/index.html">
+                <i class="icon-closed-captioning"></i>
+                <span>版权协议</span>
+            </a>
+        </div> -->
+        <div class="rightMenu-group rightMenu-line rightMenuOther">
+            <div class="rightMenu-item" id="menu-copy">
+                <i class="icon-copy"></i>
+                <span>复制地址</span>
+            </div>
+            {% if config.extra.comments.barrage.enable %}
+            <div class="rightMenu-item" id="menu-commentBarrage"
+                 draggable="false" style="display: flex;">
+                <i class="icon-chat--fill" style="font-size: 19px;"></i>
+                <span class="menu-commentBarrage-text">显示热评</span>
+            </div>
+            {% endif %}
+            <div class="rightMenu-item" id="menu-darkmode">
+                <i class="icon-moon-clear-fill" style="font-size: 19px;"></i>
+                <span class="menu-darkmode-text">深色模式</span>
+            </div>
+            {% if config.extra.style.translate.enable %}
+            <div class="rightMenu-item" id="menu-translate">
+                <i class="icon-fanti" style="font-size: 19px;"></i>
+                <span>轉為繁體</span>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+    <div id="rightmenu-mask"></div>
+</div>
+{% endif %}

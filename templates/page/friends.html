@@ -1,0 +1,51 @@
+{% import "_macros.html" as macro %}
+{% import "macro/template.html" as macro_template %}
+{% import "macro/pagination.html" as macro_page %}
+{% import "macro/content-links.html" as macro_content_links %}
+{% import "macro/content-links-dynamic.html" as macro_content_links_dynamic %}
+
+{% extends "page/base.html" %}
+
+{% set doc = page | default(value=section) %}
+
+{% block head %}
+    {{ macro::head_meta(title = page.title, _permalink = page.path, excerpt = page.description | default(value= page.title ~ " | " ~ config.description), type = 'infomation') }}
+    <script id="ld-json" type="application/ld+json"></script>
+    <meta name="robots" content="none">
+{% endblock %}
+
+{% block content %}
+    <script>
+        GLOBAL_CONFIG.htmlType = 'links';
+    </script>
+    <!-- 头部导航栏 -->
+    <header class="not-top-img" id="page-header">
+        {{ macro::nav(title = "友链") }}
+    </header>
+
+    <main class="layout hide-aside" id="content-inner">
+        <div id="page">
+            {% if config.extra.friend.dynamic_render %}
+                {{ macro_content_links_dynamic::content_links() }}
+            {% else %}
+                {{ macro_content_links::content_links() }}
+            {% endif %}
+
+            {{ page.content | safe }}
+
+            {# 评论组件 #}
+            {% include "partial/common/comment.html" %}
+
+            <style>
+                /*修复友链页面表情选择器无法显示完全的bug*/
+                .tk-submit {
+                    overflow: inherit !important;
+                }
+            </style>
+        </div>
+    </main>
+    
+    {{ macro::setup_checkbox() }}
+
+    {% include "partial/common/footer.html" %}
+{% endblock %}

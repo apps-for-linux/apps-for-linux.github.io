@@ -1,0 +1,45 @@
+<!-- 关注偏好&音乐偏好 -->
+<div class="author-content" >
+
+    <div class="author-content-item like-technology"
+         {% if config.extra.about.like.bg %}style="background: url({{ macro::thumbnail_m(url=config.extra.about.like.bg) | safe }}) top / cover no-repeat;"{% endif %}>
+        <div class="card-content">
+            <div class="author-content-item-tips">
+                {{ config.extra.about.like.tips }}
+            </div>
+            <span class="author-content-item-title">
+                {{ config.extra.about.like.title }}
+            </span>
+            <div class="content-bottom">
+                <div class="tips">{{ config.extra.about.like.bottom }}</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="author-content-item like-music"
+         {% if config.extra.about.music.bg %}style="background: url({{ macro::thumbnail_m(url=config.extra.about.music.bg) | safe }}) top / cover no-repeat;"{% endif %}>
+        <div class="card-content">
+            <div class="author-content-item-tips">
+                {{ config.extra.about.music.tips }}
+            </div>
+            <span class="author-content-item-title">
+                {{ config.extra.about.music.title }}
+            </span>
+            <div class="content-bottom">
+                <div class="tips">跟 {{ config.title }} 一起欣赏更多音乐</div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+{% if config.extra.about.music.link %}
+<div class="banner-button-group">
+    <a class="banner-button"
+       href="{{ config.extra.about.music.link }}"
+       target="_blank"
+       rel="noopener nofollow external">
+        <i class="icon-circle-arrow-up-right-1"></i>
+        <span class="banner-button-text">更多推荐</span></a>
+</div>
+{% endif %}

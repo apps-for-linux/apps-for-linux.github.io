@@ -1,0 +1,20 @@
+{% macro author_content(background, smallTitle, bigTitle, detail, button_url, button_title) %}
+<div class="author-content author-content-item essayPage single">
+    {{ macro::img_progressive_loading(src=background, class="card-background-img") }}
+    <div class="card-content">
+        <div class="author-content-item-tips">{{ smallTitle }}</div>
+        <span class="author-content-item-title">{{ bigTitle }}</span>
+        <div class="content-bottom">
+            <div class="tips">{{ detail }}</div>
+        </div>
+        {% if button_url %}
+        <div class="banner-button-group">
+            <a class="banner-button" target="_self" href="{{ button_url | safe }}">
+                <i class="icon-circle-arrow-right"></i>
+                <span class="banner-button-text">{{ button_title | safe }}</span>
+            </a>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endmacro %}

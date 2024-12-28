@@ -1,0 +1,73 @@
+{% extends "page/base.html" %}
+
+{% set data = load_data(path="data.toml") %} 
+{% set post = page %}
+
+{% block head %}
+    {{ macro::head_meta(title = page.title, _permalink = page.path, excerpt = page.description | default(value= page.title ~ " | " ~ config.description), type = 'archives') }}
+    <script id="ld-json" type="application/ld+json"></script>
+{% endblock %}
+
+{% block content %}
+    {% set section = get_section(path="articles/_index.md", lang=lang) %}
+    {% set posts = section.pages %}
+    <!-- 头部导航栏 -->
+    <header class="{% if config.extra.top.above.enable_above %}full_page{% else %}not-top-img{% endif %}" id="page-header">
+        {{ macro::nav(title = config.title) }}
+    </header>
+
+    <main class="layout" id="content-inner">
+        <!-- archive -->
+        <div id="archive">
+            <div class="article-sort-title">文章<sup>{{ posts | length }}</sup></div>
+
+            {# Group posts by year. #}
+            {% set posts_by_year = posts | group_by(attribute="year") %}
+            {% set years = [] %}
+            {% for year, ignored in posts_by_year %}
+                {% set_global years = years | concat(with=[year]) %}
+            {% endfor %}
+            {# 由近到远 #}
+            {% set years = years %}
+            {% for year in years %}
+                {% set archive = posts_by_year[year] %}
+                <div class="article-sort">
+                    <div class="article-sort-item year">{{ year }}</div>
+                    {% for post in archive | sort(attribute="date") | reverse %}
+                        <div class="article-sort-item">
+                            <a class="article-sort-item-img" href="{{ post.permalink }}" title="{{ post.title }}">
+                                {{ macro::img_progressive_loading_post_cover(post=post) }}
+                            </a>
+                            <div class="article-sort-item-info">
+                                <!--
+                                <div class="article-sort-item-time">
+                                    <i class="far fa-calendar-alt"></i>
+                                    <time class="post-meta-date-created" datetime="{{ post.date }}" title="创建于{{ post.date }}">
+                                        {{ post.date | date(format="%Y-%m-%d") }}
+                                    </time>
+                                </div>
+                                -->
+                                <a class="article-sort-item-title" onclick="window.event.cancelBubble=!0" 
+                                   href="{{ post.permalink }}" title="{{ post.title }}">{{ post.title }}</a>
+                                <div class="article-sort-item-tags">
+                                    {% for tag in post.taxonomies.tags %}
+                                        <a class="article-meta__tags" href="/tags/{{ tag }}">
+                                            <span class="tags-punctuation">{{ macro::tag_name(tag=tag) }}</span>
+                                        </a>
+                                    {% endfor %}
+                                    <span class="article-meta__link">•</span>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endfor %}
+            {# todo 分页 #}
+            {# {{ macro_page::pagination(path="/archives", is_home=false, prefix="") }} #}
+        </div>
+        <!-- sidebar -->
+        {{ macro::aside(widgets=config.extra.sidebar.widgets.indexWidget) }}
+    </main>
+
+    {% include "partial/common/footer.html" %}
+{% endblock %}

@@ -1,0 +1,21 @@
+<!-- 分类 -->
+<div class="card-widget card-categories">
+    <div class="item-headline">
+        <i class="icon-folder-open"></i>
+        <span>分类</span>
+    </div>
+    <div class="aside-list">
+        <ul class="card-category-list">
+            {% set categories = get_taxonomy(kind="categories") %}
+            {% for category in categories | get(key="items") %}
+                {% set term = get_taxonomy_term(kind="categories", term=category.name) %}
+                <li class="card-category-list-item">
+                    <a class="card-category-list-link" href="{{ term.permalink }}" rel="tag" >
+                        <span class="card-category-list-name">{{ macro::category_name(category=term.name) }}</span>
+                        <span class="card-category-list-count">{{ term.page_count }}</span>
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>

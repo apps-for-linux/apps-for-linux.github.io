@@ -1,0 +1,102 @@
+{# 分页模块 #}
+{# @param  path       '/path/page/n' 中的 `/path` 需要保留 `/` #}
+{# @param  section    部分 不再需要，可以去掉 #}
+{# @param  isIndex    是否主页 #}
+{# @param  _param     参数 #}
+{% macro pagination(path, is_index, _param) %}
+
+{% set total_pagination = paginator.number_pagers %}
+{% set current_pagination = paginator.current_index %}
+
+{% if is_index %}
+    {% set paths = path ~ '/' %}
+{% else %}
+    {% set paths = paginator.base_url %}
+{% endif %}
+
+<nav id="pagination">
+    <div class="pagination">
+        {# 页码按钮 #}
+        {# 第1页和省略号 #}
+        {% if total_pagination > 3 %}
+            <a class="page-number" href="{{ paginator.first }}" onclick="scrollToPost()">1</a>
+            {% if total_pagination != 4 %}
+                <span class="space">…</span>
+            {% endif %}
+        {% endif %}
+
+        {# 当前页和前后2页 #}
+        {% if current_pagination < 3 %}
+            {% set start=1%}
+        {% else %}
+            {% set start=current_pagination-2 %}
+        {% endif %}
+        {% for index in range(start=start, end=current_pagination+2) %}
+            {% if current_pagination == index %}
+                <span class="page-number current">{{ current_pagination }}</span>
+            {% else %}
+                {% if index > 0 and index <= total_pagination %}
+                    <a class="page-number" 
+                       href="{% if index == 1 %}{{ paginator.first }}{% else %}{{ paginator.base_url }}{{ index }}{% endif %}"
+                       onclick="scrollToPost()">{{ index }}</a>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+
+        {# 最后1页和省略号 #}
+        {% if total_pagination - current_pagination > 2 %}
+            {% if total_pagination - current_pagination != 3 %}
+                <span class="space">…</span>
+            {% endif %}
+            <a class="page-number"
+               href="{{ path }}/page/{{ paginator.last }}{{ _param }}"
+               onclick="scrollToPost()">{{ paginator.last }}</a>
+        {% endif %}
+
+        {# 翻页按钮 #}
+        {% if paginator.previous %}
+            <a class="extend prev" rel="prev"
+               href="{{ paginator.previous }}"
+               onclick="scrollToPost()">
+                <i class="icon-chevron-left fa-fw"></i>
+                <div class="pagination_tips_prev">上页</div>
+            </a>
+        {% endif %}
+
+        {% if paginator.next %}
+            <a class="extend next" rel="next"
+               href="{{ paginator.next }}"
+               onclick="scrollToPost()">
+                <div class="pagination_tips_next">下页</div>
+                <i class="icon-chevron-right fa-fw"></i>
+            </a>
+        {% endif %}
+
+        {% if paginator.number_pagers > 1 %}
+            <div class="toPageGroup">
+                <input id="toPageText" maxlength="3" title="跳转到指定页面"
+                       oninput="value=value.replace(/[^0-9]/g,'')"
+                       onkeyup="if (this.value === '0') this.value = ''">
+                <a id="toPageButton" onclick="wjx.toPage();"><i class="icon-angles-right"></i></a>
+            </div>
+        {% endif %}
+        <script>
+        {% if config.extra.top.above.enable %}
+                function scrollToPost() {
+                    if (document.querySelector(".pl-container")) {
+                        setTimeout(() => {
+                            btf.scrollToDest(window.innerHeight, 500);
+                        }, 1000)
+                    }
+                }
+        {% else %}
+                function scrollToPost() {
+                }
+        {% endif %}
+        {# 当前往首页时使用该地址 #}
+        var paginatorFirstUrl = "{{ paginator.first | safe }}"
+        var paginatorBaseUrl = "{{ paginator.base_url | safe }}"
+        </script>
+    </div>
+</nav>
+{% endmacro %}

@@ -1,0 +1,265 @@
+{% import "_macros.html" as macro %}
+{% import "macro/template.html" as macro_template %}
+{% import "macro/pagination.html" as macro_page %}
+
+{% extends "page/base.html" %}
+
+{% block head %}
+    {{ macro::head_meta(title = page.title, _permalink = page.path, cover = macro::post_cover(post=page), excerpt = page.description | default(value= page.title ~ " | " ~ config.description), type = 'article') }}
+    <script id="ld-json" type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "Article",
+          "headline": "{{ page.title }}",
+          "author": {
+            "@type": "Person",
+            "name": "{{ config.author }}",
+            "url": "/about"
+          },
+          "image": "{{ macro::thumbnail_s(url=macro::post_cover(post=page, local_url=false)) | trim | safe }}",
+          "datePublished": "{{ page.date | date(format="%+", timezone="Asia/Shanghai") }}",
+          {% if page.updated %}
+          "dateModified": "{{ page.updated | date(format="%+", timezone="Asia/Shanghai") }}",
+          {% endif %}
+          "description": "{{ page.description | default(value=page.title) }}"
+        }
+    </script>
+{% endblock %}
+
+{% block content %}
+    {% set data = load_data(path="data.toml") %} 
+    {% set post = page %}
+
+    <header class="post-bg" id="page-header">
+        {{ macro::nav(title = config.title) }}
+        {% set img = macro::thumbnail_s(url=macro::post_cover(post=post, local_url=false)) %}
+        <div class="coverdiv loaded" id="coverdiv">
+            <img alt="cover" class="nolazyload" id="post-cover"
+                 src="{{ img | safe }}" loading="lazy">
+        </div>
+        <div id="post-info">
+            <div id="post-firstinfo">
+                <div class="meta-firstline">
+                    {% if config.extra.post.copyrights.enable %}
+                        {% if post.extra.reprint_url %}
+                            {% set is_original = false %}
+                        {% else %}
+                            {% set is_original = true %}
+                        {% endif %}
+                        {% set copyrightUrl = post.extra.copyright_url | default(value='/copyright') %}
+                        
+                        {% if is_original %}
+                            <a class="post-meta-original"
+                               title="该文章为原创文章，注意版权协议"
+                               href="{{ copyrightUrl | safe }}">原创</a>
+                        {% endif %}
+                        
+                        {% if not is_original %}
+                            <a class="post-meta-original"
+                               title="该文章为转载文章，版权归原作者所有"
+                               href="{{ copyrightUrl | safe }}">转载</a>
+                        {% endif %}
+                    {% endif %}
+                    
+                    {% set post_categories = page.taxonomies.categories %}
+                    {% if post_categories %}
+                        {% for category in post_categories %}
+                        {% set category_url = get_taxonomy_url(kind="categories", name=category, lang=lang) %}
+                            <span class="post-meta-categories">
+                                <a class="post-meta-categories" href="{{ category_url }}"
+                                   title="{{ macro::category_name(category=category) }}">
+                                   {{ macro::category_name(category=category) }}
+                                </a>
+                            </span>
+                        {% endfor %}
+                    {% endif %}
+                    {% set post_tags = page.taxonomies.tags %}
+                    {% if post_tags %}
+                        <div class="tag_share">
+                            <div class="post-meta__tag-list">
+                                {% for tag in post_tags %}
+                                {% set tag_url = get_taxonomy_url(kind="tags", name=tag, lang=lang) %}
+                                <a class="post-meta__tags" href="{{ tag_url }}"
+                                       title="{{ macro::tag_name(tag=tag) }}">
+                                        <span class="tags-name tags-punctuation">{{ macro::tag_name(tag=tag) }}</span>
+                                    </a>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+            <h1 class="post-title">{{ page.title }}</h1>
+            <div id="post-meta">
+                <div class="meta-secondline">
+                    {% if is_original %}
+                    <span class="post-meta-author" data-flag-title="文章作者" title="文章作者">
+                        <i class="icon-zuozhe post-meta-icon"></i>{{ config.author }}
+                    </span>
+                    {% endif %}
+                    {% set wordCount = page.word_count %}
+                    <span class="post-meta-wordcount">
+                        <i class="icon-file-word post-meta-icon" title="字数"></i>
+                        <span class="post-meta-label">字数:</span>
+                        <span class="word-count">{{ wordCount }}</span>
+                        <span class="post-meta-separator"></span>
+                        <i class="icon-clock post-meta-icon" title="阅读耗时"></i>
+                        <span class="post-meta-label">阅读耗时:</span>
+                        {# <span>{{ wordCount / 400 | round + 1 }} 分钟</span> #}
+                        <span>{{ macro::get_reading_time(minutes=page.reading_time) }} 分钟</span>
+                        
+                    </span>
+                    <span class="post-meta-date">
+                        <i class="icon-calendar-days post-meta-icon"></i>
+                        <time datetime="{{ page.date | date(format='%Y-%m-%d') }}"
+                              title="{{ page.date | date(format='%Y-%m-%d %H:%M:%S') }}">
+                            {{ page.date | date(format='%Y/%m/%d') }}
+                        </time>
+                    </span>
+                    {% if config.extra.post.update_time and post.updated %}
+                        <span class="post-meta-date">
+                            <i class="icon-pencil post-meta-icon" title="最后更新时间"></i>
+                            <time datetime="{{ post.updated | date(format='%Y-%m-%d') }}"
+                                  title="{{ post.updated | date(format='%Y-%m-%d %H:%M:%S') }}">
+                                {{ post.updated | date(format='%Y/%m/%d') }}
+                            </time>
+                        </span>
+                    {% endif %}
+                    {% if post.extra.wechat_url %}
+                    <a class="post-meta-pv" data-flag-title="打开公众号文章" title="打开公众号文章" target="_blank" href="{{ post.extra.wechat_url }}">
+                        <i class="icon-weixin1 post-meta-icon"></i>公众号同步
+                    </a>
+                    {% else %}
+                    <span class="post-meta-wechat" title="{% if post.extra.wechat_url %}该文章已在公众号中更新{% else %}该文章在博客首发{% endif %}">
+                        <i class="icon-rss post-meta-icon"></i>博客独享
+                    </span>
+                    {% endif %}
+                    <a class="post-meta-pv" data-flag-title="热度" title="热度">
+                        <i class="icon-fire post-meta-icon"></i>
+                        <span class="post-meta-label">热度:</span>
+                        {# 使用自定义的访问量或者twikoo的访问量 #}
+                        {% if page.visit %}
+                            <span id="visit">{{ page.visit }}</span>
+                        {% else %}
+                            <span id="twikoo_visitors">
+                                <i class="icon-spinner fa-spin"></i>
+                            </span>
+                        {% endif %}
+                    </a>
+                    {% if not post.extra.disable_comment and config.extra.comments.system == "twikoo" or config.extra.comments.system == "artalk" %}
+                        <a class="post-meta-commentcount" data-flag-title="评论数"
+                           title="评论数" href="#post-comment">
+                            <i class="icon-chat--fill post-meta-icon" style="font-size: 17px;"></i>
+                            <span class="post-meta-label">评论:</span>
+                            {% if config.extra.comments.system == "twikoo" %}
+                                <span id="twikoo-count">
+                                    <i class="icon-spinner fa-spin"></i>
+                                </span>
+                            {% endif %}
+                            {% if config.extra.comments.system == "artalk" %}
+                                <span id="ArtalkCount">
+                                    <i class="icon-spinner fa-spin"></i>
+                                </span>
+                            {% endif %}
+                        </a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        <section class="main-hero-waves-area waves-area">
+            <svg class="waves-svg" preserveAspectRatio="none" shape-rendering="auto" viewBox="0 24 150 28"
+                 xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <path d="M -160 44 c 30 0 58 -18 88 -18 s 58 18 88 18 s 58 -18 88 -18 s 58 18 88 18 v 44 h -352 Z"
+                          id="gentle-wave"></path>
+                </defs>
+                <g class="parallax">
+                    <use href="#gentle-wave" x="48" y="0"></use>
+                    <use href="#gentle-wave" x="48" y="3"></use>
+                    <use href="#gentle-wave" x="48" y="5"></use>
+                    <use href="#gentle-wave" x="48" y="7"></use>
+                </g>
+            </svg>
+        </section>
+    </header>
+    <main class="layout {{ config.extra.sidebar.location }}" id="content-inner">
+        <div id="post">
+            {% if post.extra.ai | default(value=config.extra.post.aiDescription.aiDescriptionEnable) %}
+                <div class="post-ai">
+                    <div class="ai-title"><i class="icon-bilibili"></i>
+                        <div class="ai-title-text">AI-摘要</div>
+                        {% if config.extra.post.aiDescription.switchBtn %}
+                            <div id="ai-Toggle">切换</div>
+                        {% endif %}
+                        <i class="icon-arrow-rotate-right"></i>
+                        {% if config.extra.post.aiDescription.mode == "local" %}
+                            <div class="ai-tag" id="ai-tag">{{ config.extra.post.aiDescription.gptName }} GPT</div>
+                        {% endif %}
+                        {% if config.extra.post.aiDescription.mode == "tianli" %}
+                            <div class="ai-tag" id="ai-tag">Tianli GPT</div>
+                        {% endif %}
+                    </div>
+                    <div class="ai-explanation" style="display: block;">AI初始化中...</div>
+                    <div class="ai-btn-box">
+                        <div class="ai-btn-item">介绍自己</div>
+                        <div class="ai-btn-item">生成本文简介</div>
+                        <div class="ai-btn-item">推荐相关文章</div>
+                        <div class="ai-btn-item">前往主页</div>
+                        <div class="ai-btn-item" id="go-tianli-blog">前往tianli博客</div>
+                    </div>
+                </div>
+            {% endif %}
+            <article class="post-content {% if config.extra.code.enable_line %}line-numbers{% endif %}" id="article-container">
+                {% if config.extra.post.passage_tips.enable and post.extra.updated_tip %}
+                    {% set now = now() | date(format="%s") | int %}
+                    {% set publish_before = page.date | date(format="%s") | int %}
+                    {% set publish_date = page.date | date(format='%Y-%m-%d') %}
+                    {% set days = (now - publish_before) / 86400 %}
+                    {% if days > config.extra.post.passage_tips.day %}
+                        <div class="note simple warning">
+                            <p>
+                                本文最后更新于 {{ page.updated | default(value=page.date) | date(format='%Y-%m-%d') }}，{{ config.extra.post.passage_tips.content | safe }}
+                            </p>
+                        </div>
+                    {% endif %}
+                {% endif %}
+                {{ page.content | safe }}
+            </article>
+            {% if post.extra.ai | default(value=config.extra.post.aiDescription.aiDescriptionEnable) %}
+                <script data-pjax src="/libs/gpt/post-ai.js"></script>
+            {% endif %}
+            {% include "partial/post/copyright.html" %}
+            {% set previous_post = page.lower %}
+            {% set next_post = page.higher %}
+            <nav class="pagination-post needEndHide" id="pagination">
+                {% if previous_post %}
+                    <div class="prev-post {% if next_post %}pull-left{% else %}pull-full{% endif %}">
+                        <a href="{{ previous_post.permalink }}">
+                            <div class="pagination-info">
+                                <div class="label">上一篇</div>
+                                <div class="prev_info">{{ previous_post.title }}</div>
+                            </div>
+                        </a>
+                    </div>
+                {% endif %}
+                {% if next_post %}
+                    <div class="next-post {% if previous_post %}pull-right{% else %}pull-full{% endif %}">
+                        <a href="{{ next_post.permalink }}">
+                            <div class="pagination-info">
+                                <div class="label">下一篇</div>
+                                <div class="next_info">{{ next_post.title }}</div>
+                            </div>
+                        </a>
+                    </div>
+                {% endif %}
+            </nav>
+            {% include "partial/post/related-posts.html" %}
+            <hr>
+            {% include "partial/common/comment.html" %}
+        </div>
+        {# 侧边栏生成 #}
+        {{ macro::aside(widgets=config.extra.sidebar.widgets.postWidget) }}
+    </main>
+    {% include "partial/common/footer.html" %}
+{% endblock %}
+

@@ -1,0 +1,124 @@
+<!-- 版权样式默认 -->
+{% if config.extra.post.copyrightsStyle == 'default' %}
+    {% set post=page %}
+    {% set document = page | default(value=section) -%} {% set lang = document.lang -%} 
+    <div class="post-tools" id="post-tools">
+        <div class="post-tools-left">
+            <!-- 打赏 -->
+            {% if config.extra.about_reward.reward.enable_reward_wz %}
+                <div class="post-reward" onclick="AddRewardMask()">
+                    <div class="reward-button button--animated" title="赞赏作者">
+                        <i class="icon-hand-heart-fill"></i> 打赏作者
+                    </div>
+                    <div class="reward-main">
+                        <ul class="reward-all">
+                            <span class="reward-title">感谢你赐予我前进的力量</span>
+                            <ul class="reward-group">
+                                <li class="reward-item">
+                                    <a href="{{ config.extra.about_reward.reward.wxPay }}" target="_blank">
+                                        <img alt="微信" class="post-qr-code-img" src="{{ config.extra.about_reward.reward.wxPay }}" loading="lazy">
+                                    </a>
+                                    <div class="post-qr-code-desc">微信</div>
+                                </li>
+                                <li class="reward-item">
+                                    <a href="{{ config.extra.about_reward.reward.alipay }}" target="_blank">
+                                        <img alt="支付宝" class="post-qr-code-img" src="{{ config.extra.about_reward.reward.alipay }}" loading="lazy">
+                                    </a>
+                                    <div class="post-qr-code-desc">支付宝</div>
+                                </li>
+                            </ul>
+                            <a class="reward-main-btn" href="{{ config.extra.about_reward.reward.reward_md_url }}" target="_blank">
+                                <div class="reward-text">赞赏者名单</div>
+                                <div class="reward-dec">因为你们的支持让我意识到写文章的价值🙏</div>
+                            </a>
+                        </ul>
+                    </div>
+                </div>
+            {% endif %}
+            <!-- 说明 -->
+            {% if config.extra.post.post_edit.enable_post_edit %}
+                <div class="reward-link mode">
+                    <a class="reward-link-button" href="{{ config.extra.post.post_edit.post_edit_url }}">
+                        <i class="icon-plant-fill"></i>运营模式与责任
+                    </a>
+                </div>
+            {% endif %}
+            <!-- 分享 -->
+            {% if config.extra.post.share_right.mobile_edit %}
+                <div class="copyright-link mobile">
+                    <div class="copyright-qrcode">
+                        <div class="copyright-button" title="使用手机访问这篇文章">
+                            <i class="icon-qrcode"></i>
+                        </div>
+                        <div class="copyright-main">
+                            <div class="copyright-main-all">
+                                <div id="qrcode"></div>
+                                <div class="reward-dec">使用手机访问这篇文章</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
+            {% if config.extra.post.share_right.weibo_edit %}
+                <div class="copyright-link weibo">
+                    <a class="copyright-button" rel="noopener external nofollow noreferrer noopener" target="_blank"
+                       href="https://service.weibo.com/share/share.php?title={{ post.title }}" title="分享到微博">
+                        <i class="icon-weibo" style="font-size:22px"></i>
+                    </a>
+                </div>
+            {% endif %}
+            {% if config.extra.post.share_right.copyurl_edit %}
+                <div class="copyright-link copyurl">
+                    <div class="copyright-button" id="post-share-url" onclick="rm.copyPageUrl()" title="复制链接">
+                        <i class="icon-link"></i>
+                    </div>
+                </div>
+            {% endif %}
+        </div>
+        <div class="post-tools-right">
+            <div class="tag_share">
+                <div class="post-meta__tag-list">
+                    {% for tag_name in post.taxonomies | get(key='tags') %}
+                        {% set tag = get_taxonomy_term(kind='tags',term=tag_name,lang=lang) %}
+                        <a class="post-meta__tags" href="{{ tag.permalink }}">
+                            <span class="tags-punctuation">{{ macro::tag_name(tag=tag.name) }}</span>
+                            <span class="tagsPageCount">{{ tag.page_count }}</span>
+                        </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 版权声明 -->
+    <div class="post-copyright">
+        <div class="post-copyright__author">
+            {% if post.extra.reprint_url %}
+                {% set is_original = false %}
+            {% else %}
+                {% set is_original = true %}
+            {% endif %}
+            {% set copyrightUrl = post.extra.copyright_url | default(value='/copyright') %}
+            {% set copyright_enable = config.extra.post.copyrights.enable | default(value=true) %}
+            {% if is_original and copyright_enable %}
+                <a class="post-copyright__original" href="{{ copyrightUrl }}" title="该文章为原创文章，注意版权协议">原创</a>
+            {% endif %}
+            {% if not is_original and copyright_enable %}
+                <a class="post-copyright__original" href="{{ post.extra.reprint_url }}" title="该文章为转载文章，版权归原作者所有">转载</a>
+            {% endif %}
+            <a class="post-copyright-title" href="#"><span>{{ post.title }}</span></a>
+        </div>
+        <div class="post-copyright__type">
+            <button class="post-copyright-copybtn" onclick="rm.copyPageUrl()">
+                <i class="icon-paste"></i>
+            </button>
+        </div>
+        {% if copyright_enable %}
+            <div class="post-copyright__notice">
+                <span class="post-copyright-info">
+                    {% if not is_original %}{{ config.extra.post.copyrights.reprintContent | safe }}{% else %}{{ config.extra.post.copyrights.content | safe }}{% endif %}
+                </span>
+            </div>
+        {% endif %}
+    </div>
+    <link rel="stylesheet" href="/css/post-copyright.css">
+{% endif %}

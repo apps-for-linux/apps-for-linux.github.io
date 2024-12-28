@@ -1,0 +1,12 @@
+<!-- 广告位 -->
+{% if config.extra.aside.card_adbox.enable %}
+    <div class="card-widget card-adbox">
+        <div class="item-headline">
+            <i class="icon-ad"></i>
+            <span>{{ config.extra.aside.card_adbox.title }}</span>
+        </div>
+        <div class="adbox-content">
+            {{ config.extra.aside.card_adbox.content | safe }}
+        </div>
+    </div>
+{% endif %}

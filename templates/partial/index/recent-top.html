@@ -1,0 +1,11 @@
+<!-- 置顶的文章-->
+{% if config.extra.top.recent_top %}
+<div class="recent-top-post-group{% if paginator.current_index != 1 %} more-page{% endif %}" id="recent-top-post-group">
+    <div class="recent-post-top" id="recent-post-top">
+        <!-- banner -->
+        {% include "partial/index/banner-group.html" %}
+        <!-- top -->
+        {% include "partial/index/top-group.html" %}
+    </div>
+</div>
+{% endif %}

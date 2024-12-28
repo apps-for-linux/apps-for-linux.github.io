@@ -1,0 +1,18 @@
+<!-- 目录条，这里使用和 category-bar 同样的 css -->
+<div id="category-bar">
+    <div class="category-bar-items" id="category-bar-items">
+        <div class="category-bar-item select" id="category-bar-home">
+            <a href="/">首页</a>
+        </div>
+
+        {% for navTag in config.extra.layout.navs.navTag %}
+            {% for tag in config.extra.tags | filter(value="nav_tag") %}
+                {% set term = get_taxonomy_term(kind="tags", name=tag) %}
+                <div class="category-bar-item" id="{{ term.name }}">
+                    <a href="{{ term.permalink }}">{{ macro::tag_name(tag=term.name) }}</a>
+                </div>
+            {% endfor %}
+        {% endfor %}
+    </div>
+    <a class="category-bar-more" href="/tags">更多</a>
+</div>

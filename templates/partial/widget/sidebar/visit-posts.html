@@ -1,0 +1,20 @@
+<!-- 访问最多的文章 -->
+<div class="card-widget card-visit-posts">
+    <div class="item-headline">
+        <i class="icon-eye"></i>
+        <span>访问最多的文章</span>
+    </div>
+    <div class="visit-posts-content">
+        {% if visit_posts %}
+            <ul>
+                {% for post in visit_posts %}
+                    <li>
+                        <a href="{{ post.permalink }}">{{ post.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>暂无访问最多的文章</p>
+        {% endif %}
+    </div>
+</div>

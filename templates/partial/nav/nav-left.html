@@ -1,0 +1,18 @@
+<!-- 导航栏左侧 -->
+<div id="blog_name">
+    {% if config.extra.nav.phone_left_menu and config.extra.nav.pc_left_menu %}
+        {% set data = load_data(path="data.toml") %} 
+        {% set left_menu = data.menu.nav_left_menu %}
+        <!-- 菜单栏左侧按钮，没有配置时，则不展示-->
+        <div class="back-home-button" tabindex="-1">
+            <i class="nav-icon back-home-button-icon icon-apps-fill" style="font-size: 1rem"></i>
+            {{ macro::nav_left_menu() }}
+        </div>
+    {% endif %}
+
+    <!-- 返回主页 -->
+    <!-- 这里可以指定使用什么作为图标，默认使用站点名称 -->
+    <a href="/" id="site-name" class="nav-item icon-home" title="返回博客主页" data-pjax>
+        <span>{% if config.title %}{{ config.title }}{% else %}{{ page.title }}{% endif %}</span>
+    </a>
+</div>

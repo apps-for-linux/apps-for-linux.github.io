@@ -1,0 +1,70 @@
+{% import "_macros.html" as macro %}
+{% import "macro/template.html" as macro_template %}
+{% import "macro/pagination.html" as macro_page %}
+
+{% extends "page/base.html" %}
+
+{% block head %}
+    {{ macro::head_meta(title = page.title, _permalink = page.path, excerpt = page.description | default(value= page.title ~ " | " ~ config.description), type = 'about') }}
+    <script id="ld-json" type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "ProfilePage",
+          "dateCreated": "2024-12-10T21:34:00+08:00",
+          "dateModified": "2024-12-10T21:53:00+08:00",
+          "mainEntity": {
+            "@type": "Person",
+            "name": "{{ config.author }}",
+            "description": "{{ config.description }}",
+            "image": "{{ config.extra.site.author.avatar }}",
+            "sameAs": [
+              "https://blog.jiaxiang.wang/about"
+            ]
+          }
+        }
+    </script>
+{% endblock %}
+
+{% block content %}
+    {% set doc = page | default(value=section) %}
+    <!-- 头部导航栏 -->
+    <header class="{% if config.extra.top.above.enable_above %}full_page{% else %}not-top-img{% endif %}" id="page-header">
+        {{ macro::nav(title = config.title) }}
+    </header>
+
+    <main class="layout hide-aside" id="content-inner">
+        <div id="page">
+            <div id="about-page">
+                <div class="author-info">
+                    {% if config.extra.about.author_info_left_tags | length > 0 %}
+                        <div class="author-tag-left">
+                            {% for authorTag in config.extra.about.author_info_left_tags %}
+                                <span class="author-tag">{{ authorTag }}</span>
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+                    <div class="author-img">
+                        <img src="{{ macro::thumbnail_m(url=config.extra.site.logo) }}" loading="lazy">
+                    </div>
+                    {% if config.extra.about.author_info_right_tags | length > 0 %}
+                        <div class="author-tag-right">
+                            {% for authorTag in config.extra.about.author_info_right_tags %}
+                                <span class="author-tag">{{ authorTag }}</span>
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+                </div>
+                <div class="author-title">{{ config.author }}</div>
+                {{ macro_template::about(widgets=config.extra.about.widget_list) }}
+                <div class="author-content">
+                    <div class="create-site-post author-content-item single">{{ doc.content | safe }}</div>
+                </div>
+                {% include "partial/widget/about/about-reward.html" %}
+            </div>
+        </div>
+    </main>
+
+
+    {% include "partial/common/footer.html" %}
+{% endblock %}
+

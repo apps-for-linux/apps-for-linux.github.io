@@ -1,0 +1,34 @@
+<div class="card-widget wjx-right-widget" id="card-wechat" 
+     onclick="javascript:window.open('{{ config.extra.sidebar.wechat.url | safe }}')">
+    <div id="flip-wrapper">
+        <div id="flip-content">
+            <div class="face"
+                 style="background: url({{ config.extra.sidebar.wechat.wechatImgFace | safe }}) center center / 100% no-repeat;"></div>
+            <div class="back face"
+                 style="background: url({{ config.extra.sidebar.wechat.wechatImgBack | safe }}) center center / 100% no-repeat;"></div>
+        </div>
+    </div>
+
+    <style>
+        #aside-content .card-widget#card-wechat {
+            background: {{ config.extra.sidebar.wechat.color }};
+        }
+        #aside-content .card-widget#card-wechat::before {
+            position: absolute;
+            width: 100%;
+            height: 90%;
+            left: 0;
+            top: 0;
+            background: url({{ config.extra.sidebar.wechat.wechatImg | safe }}) center center no-repeat;
+            content: '';
+            background-size: cover;
+            transition: .2s cubic-bezier(.45,.04,.43,1.21)
+        }
+        #aside-content .card-widget#card-wechat:hover:before {
+            top: 100%;
+            opacity: 0;
+            transition: .3s ease-out
+        }
+
+    </style>
+</div>

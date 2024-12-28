@@ -1,0 +1,2 @@
+{# 插入网站联系邮箱 usage: {{ contact_email(href=false) }} #}
+{% if href %}<a href="mailto:{{ config.extra.site.email }}"><strong>{{ config.extra.site.email }}</strong></a>{% else %}<code>{{ config.extra.site.email }}</code>{% endif %}

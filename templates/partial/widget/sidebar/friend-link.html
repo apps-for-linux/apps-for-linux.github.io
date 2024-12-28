@@ -1,0 +1,22 @@
+<!-- 友情链接 -->
+{% if config.extra.aside.card_friend_link.enable %}
+    <div class="card-widget card-friend-link">
+        <div class="item-headline">
+            <i class="icon-link"></i>
+            <span>{{ config.extra.aside.card_friend_link.title }}</span>
+        </div>
+        <div class="friend-link-content">
+            {% if config.extra.aside.card_friend_link.list %}
+                <ul>
+                    {% for link in config.extra.aside.card_friend_link.list %}
+                        <li>
+                            <a href="{{ link.url }}" target="_blank" rel="noopener nofollow">{{ link.name }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <div class="friend-link-none">暂无友情链接</div>
+            {% endif %}
+        </div>
+    </div>
+{% endif %}

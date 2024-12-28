@@ -1,0 +1,77 @@
+{% import "_macros.html" as macro %}
+{% import "macro/template.html" as macro_template %}
+{% import "macro/pagination.html" as macro_page %}
+{% import "macro/content-links.html" as macro_content_links %}
+{% import "macro/author-content.html" as macro_author_content %}
+
+{% extends "page/base.html" %}
+
+{% block head %}
+    {{ macro::head_meta(title = page.title, _permalink = page.path, excerpt = page.description | default(value= page.title ~ " | " ~ config.description), type = 'equipment') }}
+    <script id="ld-json" type="application/ld+json"></script>
+{% endblock %}
+
+{% block content %}
+    {% set doc = page | default(value=section) %}
+    {% set data = load_data(path="data.toml") %}
+    <!-- 头部导航栏 -->
+    <header class="not-top-img" id="page-header">
+        {{ macro::nav(title = "装备") }}
+    </header>
+
+
+    <main class="layout hide-aside" id="content-inner">
+            <div id="page">
+            {{ macro_author_content::author_content(background = config.extra.equipment.background_img , smallTitle = config.extra.equipment.small_title, bigTitle = config.extra.equipment.big_title, detail = config.extra.equipment.detail, button_url = config.extra.equipment.btn_url, button_title = config.extra.equipment.btn_title) }}
+            {% if data.equipment.groups %}
+            <div id="equipment">
+                {% for group in data.equipment.groups %}
+                <div class="equipment-item">
+                    <h2 class="equipment-item-title">{{ group.name }}</h2>
+                    <div class="equipment-item-description">{{ group.description }}</div>
+                    <div class="equipment-item-content">
+                        {% for equipment in group.items %}
+                        <div class="equipment-item-content-item">
+                            <div class="equipment-item-content-item-cover">       
+                                {{ macro::img_progressive_loading(src=equipment.img, web_url=equipment.img, alt=equipment.name, class="equipment-item-content-item-image") }}                   
+                            </div>
+                            <div class="equipment-item-content-item-info">
+                                <div class="equipment-item-content-item-name"
+                                     onclick="rm.rightmenuCopyText('{{ equipment.name }}');btf.snackbarShow('已复制装备名称');">
+                                    {{ equipment.name }}
+                                </div>
+                                <div class="equipment-item-content-item-specification">{{ equipment.model }}</div>
+                                <div class="equipment-item-content-item-description">
+                                    {{ equipment.description }}
+                                </div>
+                                <div class="equipment-item-content-item-toolbar">
+                                    <a class="bber-reply"
+                                        onclick="rm.rightMenuCommentText('&quot;{{ equipment.name }} {{ equipment.model }} {{ equipment.description }}&quot;');"
+                                        >
+                                        <i class="icon-chat--fill" style="font-size: 22px;"></i>
+                                    </a>
+                                    {% if equipment.button_url %}
+                                        <a class="equipment-item-content-item-link" href="{{ equipment.button_url }}" rel="noopener noreferrer external nofollow"
+                                            target="_blank">{{ equipment.button_title }}</a>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %}
+            
+            {# 评论组件 #}
+            {% include "partial/common/comment.html" %}
+        </div>
+    </main>
+
+    {% include "partial/common/footer.html" %}
+    <!-- 卡片顶部气泡效果 -->
+    {% if theme.config.other.bubble_enable %}
+        <script async data-pjax src="/libs/canvas/bubble.js"></script>
+    {% endif %}
+{% endblock %}

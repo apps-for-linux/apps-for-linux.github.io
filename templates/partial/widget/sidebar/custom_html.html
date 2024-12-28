@@ -1,0 +1,12 @@
+<!-- 自定义HTML -->
+{% if config.extra.aside.card_custom_html.enable %}
+    <div class="card-widget card-custom-html">
+        <div class="item-headline">
+            <i class="icon-code"></i>
+            <span>{{ config.extra.aside.card_custom_html.title }}</span>
+        </div>
+        <div class="custom-html-content">
+            {{ config.extra.aside.card_custom_html.content | safe }}
+        </div>
+    </div>
+{% endif %}

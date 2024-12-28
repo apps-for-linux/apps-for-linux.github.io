@@ -1,0 +1,23 @@
+<!-- 自动识别语言 -->
+{% if config.extra.code.enable %}
+    <link rel="preload" as="style" onload="this.rel='stylesheet'"
+          href="/libs/prism/prism.min.css">
+    <noscript><link rel="stylesheet" href="/libs/prism/prism.min.css"></noscript>
+    <link rel="preload" as="style" onload="this.rel='stylesheet'"
+          href="/libs/prism/code.css">
+    <noscript><link rel="stylesheet" href="/libs/prism/code.css"></noscript>
+    <link rel="preload" as="style" onload="this.rel='stylesheet'" data-code-theme="light"
+          href="/libs/prism/themes/prism-{{ config.extra.code.theme_light }}.css">
+    <noscript><link rel="stylesheet" href="/libs/prism/themes/prism-{{ config.extra.code.theme_light }}.css"></noscript>
+    <link rel="preload" as="style" onload="this.rel='stylesheet'" data-code-theme="dark"
+          href="/libs/prism/themes/prism-{{ config.extra.code.theme_dark }}.css">
+    <noscript><link rel="stylesheet" href="/libs/prism/themes/prism-{{ config.extra.code.theme_dark }}.css"></noscript>
+    <script defer type="text/javascript" src="/libs/prism/prism.min.js"></script>
+
+    <style>
+        #article-container .code-toolbar pre.close{
+            overflow: hidden;
+            height: {{ config.extra.code.height_limit }}px;
+        }
+    </style>
+{% endif %}

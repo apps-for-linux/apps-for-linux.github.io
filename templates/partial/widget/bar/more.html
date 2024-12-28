@@ -1,0 +1,10 @@
+<!-- 目录条，这里使用和 category-bar 同样的 css -->
+{% if config.extra.layout.navs.navMore == 'categories' %}
+    <a class="category-bar-more" href="/categories">更多</a>
+{% endif %}
+{% if config.extra.layout.navs.navMore == 'tags' %}
+    <a class="category-bar-more" href="/tags">更多</a>
+{% endif %}
+{% if config.extra.layout.navs.navMore == 'customUrl' %}
+    <a class="category-bar-more" href="{{ config.extra.layout.navs.navMoreCustomUrl }}">更多</a>
+{% endif %}

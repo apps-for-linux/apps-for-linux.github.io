@@ -1,0 +1,74 @@
+{% set data = load_data(path="data.toml") %} 
+
+<!-- 侧栏，主要是手机端时会使用 -->
+<div id="sidebar">
+    <div id="menu-mask"></div>
+    <div id="sidebar-menus">
+        <span class="sidebar-menu-item-title">功能</span>
+        <div class="sidebar-menu-item">
+            <button class="darkmode_switchbutton menu-child" href="javascript:void(0);" onclick="rm.switchDarkMode()"
+               title="显示模式切换">
+                <i class="icon-moon" style="font-size: 0.9rem;line-height: 2;"></i>
+                <span>显示模式</span>
+            </button>
+        </div>
+        {% if config.extra.nav.pc_left_menu and config.extra.nav.phone_left_menu %}
+            {{ macro::nav_left_menu() }}
+        {% endif %}
+       
+        {% if config.extra.nav.phone_menu %}
+            <div class="menus_items">
+                <!-- 第一层仅展示使用，不做跳转 -->
+                {% for menu in data.menu.nav_menu %}
+                <div class="menus_item">
+                    {% if menu.href %}
+                        <a class="site-page"
+                           {% if menu.target %}target="{{ menu.target }}"{% endif %}
+                           href="{{ menu.href }}">
+                            <span>{{ menu.name }}</span>
+                        </a>
+                    {% else %}
+                        <button class="site-page">
+                            <span>{{ menu.name }}</span>
+                        </button>
+                    {% endif %}
+                    <!--递归调用-->
+                    {% if menu.menus %}
+                        <!-- 子菜单 -->
+                        <ul class="menus_item_child">
+                            {% for menu in menu.menus %}
+                            <li>
+                                <a class="site-page child faa-parent animated-hover" draggable="false"
+                                   {% if menu.target %}target="{{ menu.target }}"{% endif %}
+                                   href="{{ menu.href }}">
+                                    {% if menu.icon %}
+                                    <i class="{{ menu.icon }} faa-tada" style="font-size:.9em"></i>
+                                    {% endif %}
+                                    <span>{{ menu.name }}</span>
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+        <span class="sidebar-menu-item-title">标签</span>        
+        <div class="card-widget card-tags card-archives card-webinfo card-allinfo">
+            <div class="item-headline"></div>
+            <div class="card-tag-cloud">
+                {% set tags = get_taxonomy(kind="tags") | get(key="items") | slice(end=config.extra.sidebar.tag_quantity) %}
+                {% for tag in tags %}
+                    {% set url = get_taxonomy_url(kind="tags", name=tag.name, lang=lang) %}
+                    <a class="tag-item" style="font-size:1em" href="{{ url }}"
+                       title="{{ macro::tag_name(tag=tag.name) }}">
+                        <!-- 角标 -->
+                        {{ macro::tag_name(tag=tag.name) }}<sup>{{ tag.page_count }}</sup>
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

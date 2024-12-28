@@ -1,0 +1,63 @@
+{% import "_macros.html" as macro %}
+{% import "macro/template.html" as macro_template %}
+{% import "macro/pagination.html" as macro_page %}
+
+{% extends "page/base.html" %}
+
+
+{% block head %}
+    {{ macro::head_meta(title = "404 未找到页面", _permalink = '/404', excerpt = "404 - 未找到页面", type = '404') }}
+    <script id="ld-json" type="application/ld+json"></script>
+{% endblock %}
+
+{% block content %}
+    <div class="errors">            
+        <!-- 头部导航栏 -->
+        <div>
+            <header class="{% if config.extra.top.above.enable_above %}full_page{% else %}not-top-img{% endif %}" id="page-header">
+                {{ macro::nav(title = config.title) }}
+            </header>
+        </div>
+        <div id="error-wrap">
+            <div class="error-content">
+                <div class="error-img"
+                     style="background-image: url({{ config.extra.other.error_404.background | safe }})">
+                </div>
+                <div class="error-info">
+                    <h1 class="error_title">404</h1>
+                    <div class="error_subtitle">{{ config.extra.other.error_404.subtitle }}</div>
+                    <a class="button--animated" href="/"
+                       ><i class="fas fa-rocket"></i>回到主页</a>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 默认设置前 6 篇文章 -->
+        <div class="aside-list">
+            {% set section = get_section(path="articles/_index.md", metadata_only=false) %}
+            {% set posts = section.pages  | slice(start=0, end=6) %}
+            <div class="aside-list-group">
+                {% for post in posts %}
+                    <div class="aside-list-item">
+                        <a class="thumbnail div_border"
+                           href="{{ post.permalink }}"
+                           title="{{ post.title }}">
+                           {{ macro::img_progressive_loading_post_cover(post=post) }}
+                        </a>
+                        <div class="content">
+                            <a class="title" href="{{ post.permalink }}"
+                               title="{{ post.title }}"
+                               >{{ post.title }}</a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>        
+    </div>
+    {% include "partial/common/footer.html" %}
+    <style>
+        .div_border{
+            border-radius: 0.5rem;
+        }
+    </style>
+{% endblock %}

@@ -1,0 +1,25 @@
+<!-- 座右铭 -->
+{% if config.extra.about.textarea_left.tittle and config.extra.about.textarea_right.tittle %}
+<div class="author-content">
+    <div class="author-content-item maxim">
+        <div class="author-content-item-tips">{{ config.extra.about.textarea_left.tittle }}</div>
+        <span class="maxim-title">
+            <span style="opacity: 0.6;margin-bottom:8px;">{{ config.extra.about.textarea_left.textarea_up }}</span>
+            <span>{{ config.extra.about.textarea_left.textarea_down }}</span>
+        </span>
+    </div>
+
+    <div class="author-content-item buff">
+        <div class="card-content">
+            <div class="author-content-item-tips">{{ config.extra.about.textarea_right.tittle }}</div>
+            <span class="buff-title">
+                <span style="opacity: 0.6;margin-bottom:8px;">
+                    {{ config.extra.about.textarea_right.textarea_up }}
+                    {# <span class="inline-word">专家</span> #}
+                </span>
+                <span>{{ config.extra.about.textarea_right.textarea_down }}</span>
+            </span>
+        </div>
+    </div>
+</div>
+{% endif %}

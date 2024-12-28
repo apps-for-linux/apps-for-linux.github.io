@@ -1,0 +1,27 @@
+{% import "_macros.html" as macro %}
+{% import "macro/template.html" as macro_template %}
+{% import "macro/pagination.html" as macro_page %}
+
+{% extends "page/base.html" %}
+
+{% block head %}
+    {{ macro::head_meta(title = page.title, _permalink = page.path, excerpt = page.description | default(value= page.title ~ " | " ~ config.description), type = 'infomation') }}
+    <script id="ld-json" type="application/ld+json"></script>
+{% endblock %}
+
+{% block content %}
+    {% set doc = page | default(value=section) %}
+    <!-- 头部导航栏 -->
+    <header class="{% if config.extra.top.above.enable_above %}full_page{% else %}not-top-img{% endif %}" id="page-header">
+        {{ macro::nav(title = config.title) }}
+    </header>
+
+    <main class="layout {{ config.extra.sidebar.location }}" id="content-inner">
+        <article class="post-content {% if config.extra.code.enable_line %}line-numbers{% endif %}" id="article-container">
+            {{ doc.content | safe }}
+        </article>
+    </main>
+
+    {% include "partial/common/footer.html" %}
+{% endblock %}
+

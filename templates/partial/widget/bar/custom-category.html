@@ -1,0 +1,18 @@
+<!-- 目录条 -->
+<div id="category-bar">
+    <div class="category-bar-items" id="category-bar-items">
+        <div class="category-bar-item select" id="category-bar-home">
+            <a href="/">首页</a>
+        </div>
+
+        {% for navCategory in config.extra.layout.navs.nav_category %}
+            {% set categoryItems = config.extra.categories | filter(value="navCategory") %}
+            {% for categoryItem in categoryItems %}
+                <div class="category-bar-item" id="{{ categoryItem.name }}">
+                    <a href="{{ categoryItem.permalink }}">{{ macro::category_name(category=categoryItem.name) }}</a>
+                </div>
+            {% endfor %}
+        {% endfor %}
+    </div>
+    <a class="category-bar-more" href="/categories">更多</a>
+</div>

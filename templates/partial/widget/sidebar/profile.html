@@ -1,0 +1,454 @@
+<!-- 侧边栏自我介绍 -->
+
+<div class="card-widget card-info">
+
+    <!-- 默认 -->
+    {% if config.extra.sidebar.profile.profile_style == "default" %}
+        <!-- 描述信息 -->
+        <div class="card-content" style="background-image: url({{ macro::thumbnail_m(url=config.extra.sidebar.profile.background_img) | safe }});">
+            <div class="card-info-avatar is-center">
+                <div class="author-info__top-group">
+                    <div class="author-info__sayhi" id="author-info__sayhi" onclick="wjx.changeSayHelloText()">好久不见，你终于来了
+                    </div>
+                    {% set img = macro::thumbnail(url=config.extra.site.logo, width=118, height=118, format="webp") | trim %}
+                    <img class="avatar-img" loading="lazy" src="{{ img | trim | safe }}">
+                </div>
+                {% if config.author %}
+                    <div class="author-info__name">{{ config.author }}</div>
+                {% else %}
+                    <div class="author-info__name">{{ config.title }}</div>
+                {% endif %}
+                <div class="author-info__description">
+                    {{ config.extra.sidebar.profile.profile_desc | safe }}
+                </div>
+            </div>
+        </div>
+
+        <!-- 跳转信息 -->
+        <div class="banner-button-group">
+            <a class="banner-button" href="/about">
+                <i class="icon-circle-arrow-right"></i>
+                <span class="banner-button-text">了解更多</span>
+            </a>
+        </div>
+
+        {% if config.extra.sidebar.profile.socialMedia %}
+            <div class="card-info-social-icons is-center">
+                {% for socialMedia in config.extra.sidebar.profile.socialMedia %}
+                    <a class="social-icon" rel="external nofollow" target="_blank" 
+                       href="{{ socialMedia.url }}" title="{{ socialMedia.name }}">
+                        <i class="{{ socialMedia.icon }}"></i>
+                    </a>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+        <style>
+            /* 社交按钮 */
+            #aside-content .card-info #card-info-btn {
+                display: none;
+            }
+
+            #aside-content .card-info .card-info-social-icons {
+                margin: 0;
+                padding-top: 10px;
+                display: flex;
+                justify-content: flex-start;
+                flex-direction: row;
+                flex-wrap: wrap;
+                cursor: pointer;
+                position: absolute;
+                bottom: 1rem;
+                left: 1rem;
+            }
+
+            #aside-content .card-info .card-info-social-icons .social-icon {
+                margin: 0;
+                margin-right: 8px;
+            }
+
+            #aside-content .card-info .card-info-social-icons i {
+                background: var(--wjx-white-op);
+                color: var(--wjx-white);
+                font-size: 1.2rem;
+                width: 40px;
+                height: 40px;
+                display: flex;
+                align-items: center;
+            }
+
+            #aside-content .card-info .card-info-social-icons i:hover {
+                background: var(--wjx-white-op);
+                transform: scale(1.1);
+                color: var(--wjx-white);
+                box-shadow: none;
+            }
+
+            #aside-content .card-info .banner-button {
+                height: 40px;
+                width: 124px;
+                border-radius: 20px;
+                justify-content: center;
+            }
+
+            @media screen and (min-width: 1300px) {
+                #aside-content .card-info .card-info-social-icons i {
+                    color: var(--wjx-white);
+                }
+
+                [data-theme=dark] #aside-content .card-info .card-info-social-icons i {
+                    color: var(--wjx-white);
+                }
+            }
+
+            #aside-content .card-info img {
+                width: 28px;
+                right: 24px;
+                top: 20px;
+                border-radius: 500px;
+                transition: all 0.5s ease 0s;
+                position: absolute;
+            }
+
+            #aside-content .card-info .author-info__name {
+                font-weight: 500;
+                font-size: 1.57em;
+            }
+
+            #aside-content .card-info .author-info__name {
+                text-align: left;
+                font-weight: bold;
+                color: var(--wjx-white);
+                font-size: 28px;
+                line-height: 1.1;
+                margin-top: 0.8rem;
+                margin-bottom: 0.4rem;
+            }
+        </style>
+
+    {% endif %}
+
+
+    <!-- 样式一 -->
+    {% if config.extra.sidebar.profile.profile_style == "one" %}
+
+        <div class="card-content">
+            <div class="card-info-avatar is-center">
+                <div class="author-info__top-group">
+                    <div class="author-info__sayhi" id="author-info__sayhi" onclick="wjx.changeSayHelloText()">好久不见，你终于来了
+                    </div>
+                </div>
+            </div>
+            <div class="avatar-img-group">
+                {% set img = macro::thumbnail_m(url=config.extra.site.logo) %}
+                <img class="avatar-img" alt="avatar" loading="lazy" src="{{ img | trim | safe }}">
+            </div>
+            <div class="author-info__description_group">
+                {{ config.extra.sidebar.profile.profile_desc | safe }}
+            </div>
+            <div class="author-info__bottom-group">
+                {% if config.author %}
+                    <a class="author-info__bottom-group-left" href="/about" >
+                        <div class="author-info__name">{{ config.author }}</div>
+                        <div class="author-info__desc">{{ config.description }}</div>
+                    </a>
+                {% endif %}
+                {% if config.extra.sidebar.profile.socialMedia %}
+                    <div class="card-info-social-icons is-center">
+                        {% for socialMedia in config.extra.sidebar.profile.socialMedia %}
+                            <a class="social-icon" rel="external nofollow" target="_blank"
+                               href="{{ socialMedia.url }}" title="{{ socialMedia.name }}">
+                                <i class="{{ socialMedia.icon }}"></i>
+                            </a>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+
+        <style>
+            .avatar-img-group::before {
+                content: '';
+                -webkit-transition: 1s;
+                -moz-transition: 1s;
+                -o-transition: 1s;
+                -ms-transition: 1s;
+                transition: 1s;
+                width: 26px;
+                height: 26px;
+                background: var(--wjx-green);
+                position: absolute;
+                border-radius: 50%;
+                border: 5px solid var(--wjx-background);
+                bottom: 2px;
+                right: 2px;
+                z-index: 2;
+            }
+
+            .card-info-avatar.is-center {
+                flex-direction: column;
+                display: flex;
+                align-items: flex-start
+            }
+
+            #aside-content .card-info img.avatar-img {
+                width: 118px;
+                right: 0;
+                top: 0;
+                border-radius: 500px;
+                position: absolute;
+                opacity: 1;
+                transition: .3s;
+                border: 5px solid var(--wjx-white);
+                overflow: hidden
+            }
+
+            .page #aside-content .card-info img.avatar-img {
+                border-color: var(--wjx-card-bg)
+            }
+
+            .author-info__top-group {
+                display: flex;
+                height: 28px;
+                width: 100%
+            }
+
+            .author-info__desc {
+                font-size: 12px;
+                color: var(--wjx-white);
+                opacity: .6;
+                line-height: 1
+            }
+
+            .avatar-img-group {
+                width: 118px;
+                height: 118px;
+                right: calc(50% - 59px);
+                top: 90px;
+                border-radius: 500px;
+                position: absolute;
+                transition: cubic-bezier(.69, .39, 0, 1.21) .3s;
+                transform-origin: bottom
+            }
+
+            #aside-content .card-info:hover .avatar-img-group {
+                opacity: 0;
+                transform: scale(0)
+            }
+
+            .author-info__bottom-group {
+                display: flex;
+                justify-content: space-between;
+                position: absolute;
+                padding: 1.2rem;
+                width: 100%;
+                left: 0;
+                bottom: 0;
+                align-items: center
+            }
+
+            a.author-info__bottom-group-left:hover {
+                opacity: .8
+            }
+
+            #aside-content .card-info .card-info-social-icons {
+                margin: 0;
+                display: flex;
+                justify-content: flex-start;
+                flex-direction: row;
+                flex-wrap: wrap;
+                cursor: pointer
+            }
+
+
+            #aside-content .card-info .card-info-social-icons i:hover {
+                transform: rotate(540deg);
+                background-color: #000;
+                cursor: pointer
+            }
+
+            #aside-content .card-info .card-info-social-icons .social-icon {
+                margin: 0;
+                margin-left: 8px
+            }
+
+            #aside-content .card-info .card-info-social-icons i {
+                background: var(--wjx-white-op);
+                color: var(--wjx-white);
+                font-size: 1rem;
+                width: 40px;
+                height: 40px;
+                display: flex;
+                align-items: center;
+                justify-content: center
+            }
+
+            #aside-content .card-info .card-info-social-icons i:hover {
+                background: var(--wjx-white);
+                transform: scale(1.1);
+                color: var(--wjx-main);
+                box-shadow: none
+            }
+
+            [data-theme=dark] .page #aside-content .card-info .card-info-social-icons i {
+                background: var(--wjx-black-op);
+                color: var(--wjx-card-bg)
+            }
+
+            [data-theme=dark] .page #aside-content .card-info .card-info-social-icons i:hover {
+                background: var(--wjx-card-bg);
+                color: var(--wjx-fontcolor)
+            }
+
+            #aside-content .card-info .banner-button {
+                height: 40px;
+                width: 118px;
+                border-radius: 20px;
+                justify-content: center
+            }
+
+            @media screen and (min-width: 1300px) {
+                #aside-content .card-info .card-info-social-icons i {
+                    color: var(--wjx-white)
+                }
+
+                [data-theme=dark] .page #aside-content .card-info .card-info-social-icons i {
+                    color: var(--wjx-card-bg)
+                }
+            }
+
+            #aside-content .card-info .card-info-data>.card-info-data-item:hover {
+                background: var(--wjx-post-blockquote-bg);
+                transform: scale(.97)
+            }
+
+            #aside-content>div.card-widget.card-info>div.card-content>div.card-info-data>.card-info-data-item:hover>a>div.headline,#aside-content>div.card-widget.card-info>div.card-content>div.card-info-data>.card-info-data-item:hover>a>div.length-num {
+                color: var(--wjx-blue)
+            }
+
+            .author-info__description_group {
+                position: absolute;
+                color: var(--wjx-white);
+                top: 50px;
+                width: 100%;
+                left: 0;
+                padding: 1.2rem;
+                opacity: 0;
+                transition: .3s
+            }
+
+            .card-widget:hover .author-info__description_group {
+                opacity: 1
+            }
+
+            .author-info__description2 {
+                line-height: 1.38;
+                margin: .3rem 0;
+                text-align: justify;
+                width: 100%;
+                z-index: 2;
+                color: rgba(255, 255, 255, .8)
+            }
+
+            .author-info__description2 b {
+                color: var(--wjx-white)
+            }
+
+            [data-theme=dark] .page div#author-info__sayhi {
+                background: var(--wjx-black-op);
+                color: var(--wjx-black)
+            }
+
+            #aside-content .card-info .author-info__name {
+                text-align: left;
+                font-weight: 700;
+                color: var(--wjx-white);
+                font-size: 20px;
+                line-height: 1;
+                margin-bottom: 5px
+            }
+
+            .page #aside-content .card-info .author-info__name,.page .author-info__desc {
+                color: var(--wjx-white);
+            }
+
+            .author-info__desc {
+                font-size: 12px;
+                color: var(--wjx-white);
+                opacity: .6;
+                line-height: 1
+            }
+
+            .author-info__description {
+                line-height: 1.38;
+                margin: .3rem 0;
+                text-align: justify;
+                color: var(--wjx-white);
+                opacity: 1
+            }
+
+            .page .author-info__description {
+                color: var(--wjx-card-bg)
+            }
+
+            .author-info__description b {
+                color: var(--wjx-white);
+                opacity: 1
+            }
+
+            .page .author-info__description b {
+                color: var(--wjx-card-bg);
+                opacity: 1
+            }
+
+            .avatar-sticker {
+                position: absolute;
+                bottom: 2px;
+                right: 2px;
+                width: 33px;
+                height: 33px;
+                line-height: 34px;
+                z-index: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                transition: .3s ease-out .2s;
+                transform: scale(1);
+                background: var(--wjx-white);
+                border-radius: 50%
+            }
+
+            .page .avatar-sticker {
+                background: var(--wjx-card-bg)
+            }
+
+            .avatar-sticker img {
+                width: 26px;
+                height: 26px
+            }
+
+            .card-widget:hover .avatar-sticker {
+                opacity: 0;
+                transform: scale(0)
+            }
+
+            .author-info__description b {
+                color: var(--wjx-white);
+            }
+
+            #aside-content>.card-widget.card-info::before {
+                background: linear-gradient(-25deg, var(--wjx-main), var(--wjx-main-op-deep), var(--wjx-main), var(--wjx-main-op-deep));
+                background-size: 400%;
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                top: 0;
+                content: '';
+                animation: gradient 15s ease infinite;
+            }
+        </style>
+
+    {% endif %}
+
+</div>

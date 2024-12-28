@@ -1,0 +1,39 @@
+
+{% if config.extra.top.global_background.enable %}
+<div id="web_bg">
+    <div>
+        {% if not config.extra.top.global_background.enable_above_video %}
+        <img class="img"
+             src="{{ config.extra.top.global_background.img | safe }}" />
+        {% else %}
+        <video class="index-video" id="index-video" autoplay loop muted playsinline webkit-playsinline
+               style="display:block;object-fit:cover;width:100%;height:100%;pointer-events:none;"
+               src="{{ config.extra.top.global_background.video }}"></video>
+        {% endif %}
+    </div>
+</div>
+
+<style>
+    @media screen and (min-width: 1300px) {
+        .img {
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            opacity: 1;
+            position: fixed;
+            z-index: -999;
+            background: var(--wjx-background);
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    }
+    
+    @media screen and (max-width: 1300px) {
+        .img {
+            display: none;
+        }
+    }
+</style>
+{% endif %}

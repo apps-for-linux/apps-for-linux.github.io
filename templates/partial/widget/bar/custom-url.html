@@ -1,0 +1,15 @@
+<!-- 目录条，这里使用和 category-bar 同样的 css -->
+<div id="category-bar">
+    <div class="category-bar-items" id="category-bar-items">
+        <div class="category-bar-item select" id="category-bar-home">
+            <a href="/">首页</a>
+        </div>
+
+        {% for customUrlItem in config.extra.layout.navs.nav_custom_url %}
+            <div class="category-bar-item" id="{{ customUrlItem.title }}">
+                <a href="{{ customUrlItem.url }}">{{ customUrlItem.title }}</a>
+            </div>
+        {% endfor %}
+    </div>
+    <a class="category-bar-more" href="/custom">更多</a>
+</div>

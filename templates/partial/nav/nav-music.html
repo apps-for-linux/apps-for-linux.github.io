@@ -1,0 +1,16 @@
+<!-- 音乐 -->
+{% if config.extra.tool.nav_music.enable %}
+<div class="needEndHide" id="nav-music">
+    <a id="nav-music-hoverTips" onclick="wjx.musicToggle()" accesskey="m">播放音乐</a>
+    <div id="console-music-bg"></div>
+    <meting-js id="{{ config.extra.tool.nav_music.id }}" server="{{ config.extra.tool.nav_music.server }}" type="playlist" mutex="true"
+               preload="none" theme="var(--wjx-main)" data-lrctype="0" order="random"></meting-js>
+</div>
+
+<link rel="preload" as="style" media="all" href="/libs/aplayer/APlayer.min.css" onload="this.onload=null;this.rel='stylesheet';this.media='all'"/>
+<noscript><link rel="stylesheet" media="all" onload="this.media='all'" href="/libs/aplayer/APlayer.min.css"></noscript>
+<script defer src='/libs/aplayer/APlayer.min.js'></script>
+
+<script defersrc='/libs/aplayer/Meting2.min.js'></script>
+
+{% endif %}

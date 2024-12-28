@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>{{ config.title }}
+    {%- if term %} - {{ term.name }}
+    {%- elif section.title %} - {{ section.title }}
+    {%- endif -%}
+    </title>
+    {%- if config.description %}
+    <subtitle>{{ config.description }}</subtitle>
+    {%- endif %}
+    {%- if config.extra.site.logo %}
+    <icon>{{ config.base_url }}{{ config.extra.site.logo }}</icon>
+    {%- endif -%}
+    <link rel="self" type="application/atom+xml" href="{{ feed_url | safe }}"/>
+    <link rel="alternate" type="text/html" href="
+      {%- if section -%}
+        {{ section.permalink | escape_xml | safe }}
+      {%- else -%}
+        {{ config.base_url | escape_xml | safe }}
+      {%- endif -%}
+    "/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>{{ last_updated | date(format="%+") }}</updated>
+    <id>{{ feed_url | safe }}</id>
+    {%- if config.author -%}
+    <author>
+        <name>{{ config.author }}</name>
+    </author>
+    {%- endif -%}
+     {%- if config.extra.feed.follow.feed_id -%}
+    <follow_challenge>
+        <feedId>{{ config.extra.feed.follow.feed_id }}</feedId>
+        <userId>{{ config.extra.feed.follow.user_id }}</userId>
+    </follow_challenge>    {%- endif -%}   
+    {%- for page in pages %}
+    <entry>
+        <title>{{ page.title }}</title>
+        <published>{{ page.date | date(format="%+") }}</published>
+        <updated>{{ page.updated | default(value=page.date) | date(format="%+") }}</updated>
+        {% for author in page.authors %}
+        <author>
+          <name>{{ author }}</name>
+        </author>
+        {% else %}
+        <author>
+          <name>{{ config.author | default(value="Unknown") }}</name>
+        </author>
+        {% endfor %}
+        <link rel="alternate" type="text/html" href="{{ page.permalink | safe }}"/>
+        <id>{{ page.permalink | safe }}</id>
+        {% if page.summary -%}
+        <summary type="html">{{ page.summary | striptags | trim_end_matches(pat=".") | safe }}…</summary>
+        {% elif page.description -%}
+        <summary type="html">{{ page.description }}</summary>
+        {% endif -%}
+        {% if config.extra.feed.full_content_in_feed %}
+        <content type="html">{{ page.content }}</content>
+        {% endif -%}
+    </entry>
+    {%- endfor %}
+</feed>

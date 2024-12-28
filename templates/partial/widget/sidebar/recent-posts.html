@@ -1,0 +1,19 @@
+{% set section = get_section(path="articles/_index.md", lang=lang) %}
+{% set recent_posts = section.pages | sort(attribute="date") | reverse | slice(end=config.extra.sidebar.recent_posts_count) %}
+
+<div class="card-widget card-recent-post">
+    <div class="item-headline"><i class="icon-eicon_map-2-line1"></i><span>最近发布</span></div>
+    <div class="aside-list">
+        <!-- 最新文章，用户可以自定义展示数量 -->
+        {% for post in recent_posts %}
+            <div class="aside-list-item">
+                <a class="thumbnail" href="{{ post.permalink }}" title="{{ post.title }}">
+                    {{ macro::img_progressive_loading_post_cover(post=post, class="post_bg") }}
+                </a>
+                <div class="content">
+                    <a class="title" href="{{ post.permalink }}" title="{{ post.title }}">{{ post.title }}</a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>

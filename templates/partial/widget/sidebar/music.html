@@ -1,0 +1,23 @@
+<!-- 音乐卡片 -->
+<div class="card-widget card-music">
+    <div class="item-headline">
+        <i class="icon-music"></i>
+        <span>音乐天地</span>
+    </div>
+    <div class="music-content" onclick="javascript:window.open('{{ config.extra.sidebar.music.musicUrl | safe }}')">
+        <div id="flip-wrapper-card">
+            <div id="flip-music">
+                <div class="msimg" style="background:url('{{ macro::thumbnail_m(url=config.extra.sidebar.music.lightMsimg) | safe }}') center center/100% no-repeat"></div>
+                <div class="back msimg" style="background:url('{{ macro::thumbnail_m(url=config.extra.sidebar.music.lightBackMsimg) | safe }}') center center/100% no-repeat"></div>
+            </div>
+        </div>
+    </div>
+    <style>
+        [data-theme=dark] #aside-content #flip-wrapper-card #flip-music .msimg {
+            background: url("{{ config.extra.sidebar.music.darkMsimg | safe }}") center center/100% no-repeat !important;
+        }
+        [data-theme=dark] #aside-content #flip-wrapper-card #flip-music .back.msimg {
+            background: url("{{ config.extra.sidebar.music.darkBackMsimg | safe }}") center center/100% no-repeat !important;
+        }
+    </style>
+</div>
