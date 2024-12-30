@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Newsroom</title>
+    <link>http://localhost:1313/categories/games/</link>
+    <description>Recent content in Games on Newsroom</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Dec 2024 19:35:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RPCS3</title>
+      <link>http://localhost:1313/posts/rpcs3/</link>
+      <pubDate>Thu, 12 Dec 2024 19:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rpcs3/</guid>
+      <description>&lt;p&gt;Free and Open-source PlayStation 3 emulator/debugger&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-2.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://rpcs3.net&#34;&gt;https://rpcs3.net&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/RPCS3/rpcs3&#34;&gt;https://github.com/RPCS3/rpcs3&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://www.patreon.com/Nekotekina&#34;&gt;https://www.patreon.com/Nekotekina&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/RPCS3/rpcs3/issues/new&#34;&gt;https://github.com/RPCS3/rpcs3/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-56a254ba9ca037de9a9aa9a97c09d5e79f1dfa89/rpcs3-v0.0.34-17180-56a254ba_linux64.AppImage&#34;&gt;https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-56a254ba9ca037de9a9aa9a97c09d5e79f1dfa89/rpcs3-v0.0.34-17180-56a254ba_linux64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PCSX2</title>
+      <link>http://localhost:1313/posts/pcsx2/</link>
+      <pubDate>Thu, 12 Dec 2024 16:54:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pcsx2/</guid>
+      <description>&lt;p&gt;Free and open-source PlayStation 2 (PS2) emulator&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://pcsx2.net&#34;&gt;https://pcsx2.net&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/PCSX2/pcsx2&#34;&gt;https://github.com/PCSX2/pcsx2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://github.com/sponsors/PCSX2&#34;&gt;https://github.com/sponsors/PCSX2&lt;/a&gt;&#xA;Translate: &lt;a href=&#34;https://crowdin.com/project/pcsx2-emulator&#34;&gt;https://crowdin.com/project/pcsx2-emulator&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/PCSX2/pcsx2/issues/new&#34;&gt;https://github.com/PCSX2/pcsx2/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/PCSX2/pcsx2/releases/download/v2.3.56/pcsx2-v2.3.56-linux-appimage-x64-Qt.AppImage&#34;&gt;https://github.com/PCSX2/pcsx2/releases/download/v2.3.56/pcsx2-v2.3.56-linux-appimage-x64-Qt.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Naev</title>
+      <link>http://localhost:1313/posts/naev/</link>
+      <pubDate>Wed, 11 Dec 2024 14:09:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/naev/</guid>
+      <description>&lt;p&gt;Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres.&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://naev.org&#34;&gt;https://naev.org&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/naev/naev&#34;&gt;https://github.com/naev/naev&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://www.libreoffice.org/donate&#34;&gt;https://www.libreoffice.org/donate&lt;/a&gt;&lt;br&gt;&#xA;Translate: &lt;a href=&#34;https://hosted.weblate.org/projects/naev/naev&#34;&gt;https://hosted.weblate.org/projects/naev/naev&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/naev/naev/issues/new&#34;&gt;https://github.com/naev/naev/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/naev/naev/releases/download/v0.12.0-beta.3/naev-0.12.0-beta.3+-linux-x86-64.AppImage&#34;&gt;https://github.com/naev/naev/releases/download/v0.12.0-beta.3/naev-0.12.0-beta.3+-linux-x86-64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>osu!</title>
+      <link>http://localhost:1313/posts/osu/</link>
+      <pubDate>Mon, 09 Dec 2024 05:06:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/osu/</guid>
+      <description>&lt;p&gt;Free-to-win rhythm game&lt;/p&gt;&#xA;&lt;p&gt;License: MIT&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://osu.ppy.sh&#34;&gt;https://osu.ppy.sh&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/ppy/osu&#34;&gt;https://github.com/ppy/osu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://github.com/sponsors/ppy&#34;&gt;https://github.com/sponsors/ppy&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/ppy/osu/issues/new&#34;&gt;https://github.com/ppy/osu/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/ppy/osu/releases/download/2024.1208.0/osu.AppImage&#34;&gt;https://github.com/ppy/osu/releases/download/2024.1208.0/osu.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>pyfa</title>
+      <link>http://localhost:1313/posts/pyfa/</link>
+      <pubDate>Thu, 05 Dec 2024 17:59:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pyfa/</guid>
+      <description>&lt;p&gt;Python fitting assistant, cross-platform fitting tool for EVE Online&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Source code: &lt;a href=&#34;https://github.com/pyfa-org/Pyfa&#34;&gt;https://github.com/pyfa-org/Pyfa&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Translate: &lt;a href=&#34;https://crowdin.com/project/pyfa&#34;&gt;https://crowdin.com/project/pyfa&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/pyfa-org/Pyfa/issues/new&#34;&gt;https://github.com/pyfa-org/Pyfa/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/pyfa-org/Pyfa/releases/download/v2.61.3/pyfa-v2.61.3-linux.AppImage&#34;&gt;https://github.com/pyfa-org/Pyfa/releases/download/v2.61.3/pyfa-v2.61.3-linux.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>chiaki-ng</title>
+      <link>http://localhost:1313/posts/chiaki-ng/</link>
+      <pubDate>Wed, 04 Dec 2024 12:39:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chiaki-ng/</guid>
+      <description>&lt;p&gt;Open-source remote play client for PlayStation&lt;/p&gt;&#xA;&lt;p&gt;License: AGPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://streetpea.github.io/chiaki-ng&#34;&gt;https://streetpea.github.io/chiaki-ng&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/streetpea/chiaki-ng&#34;&gt;https://github.com/streetpea/chiaki-ng&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://buymeacoffee.com/streetpea&#34;&gt;https://buymeacoffee.com/streetpea&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/streetpea/chiaki-ng/issues/new&#34;&gt;https://github.com/streetpea/chiaki-ng/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/streetpea/chiaki-ng/releases/download/v1.9.2/chiaki-ng.AppImage&#34;&gt;https://github.com/streetpea/chiaki-ng/releases/download/v1.9.2/chiaki-ng.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Play!</title>
+      <link>http://localhost:1313/posts/play/</link>
+      <pubDate>Tue, 03 Dec 2024 06:03:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/play/</guid>
+      <description>&lt;p&gt;Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms&lt;/p&gt;&#xA;&lt;p&gt;License: BSD-2-Clause&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://purei.org&#34;&gt;https://purei.org&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/jpd002/Play-&#34;&gt;https://github.com/jpd002/Play-&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://github.com/sponsors/jpd002&#34;&gt;https://github.com/sponsors/jpd002&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/jpd002/Play-/issues/new&#34;&gt;https://github.com/jpd002/Play-/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://purei.org/downloads/play/stable/0.68/Play!-69ce62f6-x86_64.AppImage&#34;&gt;https://purei.org/downloads/play/stable/0.68/Play!-69ce62f6-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archipelago</title>
+      <link>http://localhost:1313/posts/archipelago/</link>
+      <pubDate>Fri, 29 Nov 2024 21:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/archipelago/</guid>
+      <description>&lt;p&gt;Archipelago provides a generic framework for developing multiworld capability for game randomizers&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://archipelago.gg&#34;&gt;https://archipelago.gg&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/ArchipelagoMW/Archipelago&#34;&gt;https://github.com/ArchipelagoMW/Archipelago&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Report the bug: &lt;a href=&#34;https://github.com/ArchipelagoMW/Archipelago/issues/new&#34;&gt;https://github.com/ArchipelagoMW/Archipelago/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/ArchipelagoMW/Archipelago/releases/download/0.5.1/Archipelago_0.5.1.Hotfix1_linux-x86_64.AppImage&#34;&gt;https://github.com/ArchipelagoMW/Archipelago/releases/download/0.5.1/Archipelago_0.5.1.Hotfix1_linux-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Nexus Mods app</title>
+      <link>http://localhost:1313/posts/nexusmods/</link>
+      <pubDate>Wed, 27 Nov 2024 18:39:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nexusmods/</guid>
+      <description>&lt;p&gt;Mod installer, creator and manager for all your popular games.&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://nexus-mods.github.io/NexusMods.App/&#34;&gt;https://nexus-mods.github.io/NexusMods.App/&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/Nexus-Mods/NexusMods.App&#34;&gt;https://github.com/Nexus-Mods/NexusMods.App&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Report the bug: &lt;a href=&#34;https://github.com/Nexus-Mods/NexusMods.App/issues/new&#34;&gt;https://github.com/Nexus-Mods/NexusMods.App/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/Nexus-Mods/NexusMods.App/releases/download/v0.7.0/NexusMods.App.x86_64.AppImage&#34;&gt;https://github.com/Nexus-Mods/NexusMods.App/releases/download/v0.7.0/NexusMods.App.x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>xemu</title>
+      <link>http://localhost:1313/posts/xemu/</link>
+      <pubDate>Sat, 23 Nov 2024 01:57:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/xemu/</guid>
+      <description>&lt;p&gt;Free and open-source original Xbox game console emulation&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-2.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://xemu.app&#34;&gt;https://xemu.app&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/xemu-project/xemu&#34;&gt;https://github.com/xemu-project/xemu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://www.patreon.com/mborgerson&#34;&gt;https://www.patreon.com/mborgerson&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/xemu-project/xemu/issues/new&#34;&gt;https://github.com/xemu-project/xemu/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/xemu-project/xemu/releases/download/v0.7.134/xemu-v0.7.134-x86_64.AppImage&#34;&gt;https://github.com/xemu-project/xemu/releases/download/v0.7.134/xemu-v0.7.134-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DuckStation</title>
+      <link>http://localhost:1313/posts/duckstation/</link>
+      <pubDate>Thu, 21 Nov 2024 05:41:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/duckstation/</guid>
+      <description>&lt;p&gt;Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://www.duckstation.org&#34;&gt;https://www.duckstation.org&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/stenzek/duckstation&#34;&gt;https://github.com/stenzek/duckstation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Download: &lt;a href=&#34;https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage&#34;&gt;https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cemu</title>
+      <link>http://localhost:1313/posts/cemu/</link>
+      <pubDate>Wed, 13 Nov 2024 10:07:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cemu/</guid>
+      <description>&lt;p&gt;Nintendo Wii U emulator&lt;/p&gt;&#xA;&lt;p&gt;License: MPL-2.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://cemu.info/&#34;&gt;https://cemu.info/&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/cemu-project/Cemu&#34;&gt;https://github.com/cemu-project/Cemu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Report the bug: &lt;a href=&#34;https://github.com/cemu-project/Cemu/issues/new&#34;&gt;https://github.com/cemu-project/Cemu/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/cemu-project/Cemu/releases/download/v2.4/Cemu-2.4-x86_64.AppImage&#34;&gt;https://github.com/cemu-project/Cemu/releases/download/v2.4/Cemu-2.4-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AntimicroX</title>
+      <link>http://localhost:1313/posts/antimicrox/</link>
+      <pubDate>Fri, 01 Nov 2024 01:06:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/antimicrox/</guid>
+      <description>&lt;p&gt;Graphical program used to map gamepad keys to keyboard, mouse, scripts and macros&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://antimicrox.github.io&#34;&gt;https://antimicrox.github.io&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/AntiMicroX/antimicrox&#34;&gt;https://github.com/AntiMicroX/antimicrox&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://polar.sh/AntiMicroX&#34;&gt;https://polar.sh/AntiMicroX&lt;/a&gt;&#xA;Translate: &lt;a href=&#34;https://hosted.weblate.org/engage/antimicrox&#34;&gt;https://hosted.weblate.org/engage/antimicrox&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/AntiMicroX/antimicrox/issues/new&#34;&gt;https://github.com/AntiMicroX/antimicrox/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/AntiMicroX/antimicrox/releases/download/3.5.0/AntiMicroX-x86_64.AppImage&#34;&gt;https://github.com/AntiMicroX/antimicrox/releases/download/3.5.0/AntiMicroX-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prism Launcher</title>
+      <link>http://localhost:1313/posts/prismlauncher/</link>
+      <pubDate>Thu, 24 Oct 2024 16:27:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/prismlauncher/</guid>
+      <description>&lt;p&gt;A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://prismlauncher.org/&#34;&gt;https://prismlauncher.org/&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/PrismLauncher/PrismLauncher&#34;&gt;https://github.com/PrismLauncher/PrismLauncher&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://opencollective.com/prismlauncher&#34;&gt;https://opencollective.com/prismlauncher&lt;/a&gt;&#xA;Translate: &lt;a href=&#34;https://hosted.weblate.org/projects/prismlauncher/launcher/&#34;&gt;https://hosted.weblate.org/projects/prismlauncher/launcher/&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/PrismLauncher/PrismLauncher/issues/new&#34;&gt;https://github.com/PrismLauncher/PrismLauncher/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/PrismLauncher/PrismLauncher/releases/download/9.1/PrismLauncher-Linux-x86_64.AppImage&#34;&gt;https://github.com/PrismLauncher/PrismLauncher/releases/download/9.1/PrismLauncher-Linux-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flycast</title>
+      <link>http://localhost:1313/posts/flycast/</link>
+      <pubDate>Wed, 23 Oct 2024 17:02:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/flycast/</guid>
+      <description>&lt;p&gt;Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-2.0&lt;/p&gt;&#xA;&lt;p&gt;Source code: &lt;a href=&#34;https://github.com/flyinghead/flycast&#34;&gt;https://github.com/flyinghead/flycast&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://www.paypal.com/paypalme/FlycastEmu&#34;&gt;https://www.paypal.com/paypalme/FlycastEmu&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/flyinghead/flycast/issues/new&#34;&gt;https://github.com/flyinghead/flycast/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/flyinghead/flycast/releases/download/v2.4/flycast-x86_64.AppImage&#34;&gt;https://github.com/flyinghead/flycast/releases/download/v2.4/flycast-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ryujinx</title>
+      <link>http://localhost:1313/posts/riujinx/</link>
+      <pubDate>Wed, 23 Oct 2024 02:55:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/riujinx/</guid>
+      <description>&lt;p&gt;Hard-fork of the Ryujinx project&lt;/p&gt;&#xA;&lt;p&gt;License: MIT&lt;/p&gt;&#xA;&lt;p&gt;Source code: &lt;a href=&#34;https://github.com/ryujinx-mirror/ryujinx&#34;&gt;https://github.com/ryujinx-mirror/ryujinx&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Translate: &lt;a href=&#34;https://crowdin.com/project/ryujinx&#34;&gt;https://crowdin.com/project/ryujinx&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/ryujinx-mirror/ryujinx/issues/new&#34;&gt;https://github.com/ryujinx-mirror/ryujinx/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/ryujinx-mirror/ryujinx/releases/download/r.49574a9/ryujinx-r.49574a9-x64.AppImage&#34;&gt;https://github.com/ryujinx-mirror/ryujinx/releases/download/r.49574a9/ryujinx-r.49574a9-x64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modrinth</title>
+      <link>http://localhost:1313/posts/modrinth/</link>
+      <pubDate>Wed, 16 Oct 2024 09:47:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/modrinth/</guid>
+      <description>&lt;p&gt;Open-source mod platform, built by the community, for the community.&lt;/p&gt;&#xA;&lt;p&gt;License: AGPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://modrinth.com&#34;&gt;https://modrinth.com&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/modrinth/code&#34;&gt;https://github.com/modrinth/code&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Translate: &lt;a href=&#34;https://crowdin.com/project/modrinth&#34;&gt;https://crowdin.com/project/modrinth&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/modrinth/code/issues/new&#34;&gt;https://github.com/modrinth/code/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://launcher-files.modrinth.com/versions/0.8.9/linux/Modrinth%20App_0.8.9_amd64.AppImage&#34;&gt;https://launcher-files.modrinth.com/versions/0.8.9/linux/Modrinth%20App_0.8.9_amd64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rare</title>
+      <link>http://localhost:1313/posts/rare/</link>
+      <pubDate>Sat, 12 Oct 2024 21:04:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rare/</guid>
+      <description>&lt;p&gt;Frontend for legendary, the open source Epic Games Launcher alternative&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://raredevs.github.io/Rare&#34;&gt;https://raredevs.github.io/Rare&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/RareDevs/Rare&#34;&gt;https://github.com/RareDevs/Rare&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Translate: &lt;a href=&#34;https://www.transifex.com/rare-1/rare&#34;&gt;https://www.transifex.com/rare-1/rare&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/RareDevs/Rare/issues/new&#34;&gt;https://github.com/RareDevs/Rare/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/RareDevs/Rare/releases/download/1.10.11.445/Rare-1.10.11.445.AppImage&#34;&gt;https://github.com/RareDevs/Rare/releases/download/1.10.11.445/Rare-1.10.11.445.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sunshine</title>
+      <link>http://localhost:1313/posts/sunshine/</link>
+      <pubDate>Tue, 08 Oct 2024 00:59:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sunshine/</guid>
+      <description>&lt;p&gt;Self-hosted game stream host for Moonlight&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://app.lizardbyte.dev/Sunshine&#34;&gt;https://app.lizardbyte.dev/Sunshine&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/LizardByte/Sunshine&#34;&gt;https://github.com/LizardByte/Sunshine&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://github.com/sponsors/LizardByte&#34;&gt;https://github.com/sponsors/LizardByte&lt;/a&gt;&lt;br&gt;&#xA;Translate: &lt;a href=&#34;https://translate.lizardbyte.dev&#34;&gt;https://translate.lizardbyte.dev&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/LizardByte/Sunshine/issues/new&#34;&gt;https://github.com/LizardByte/Sunshine/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/LizardByte/Sunshine/releases/download/v2024.1211.191744/sunshine.AppImage&#34;&gt;https://github.com/LizardByte/Sunshine/releases/download/v2024.1211.191744/sunshine.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PYDT</title>
+      <link>http://localhost:1313/posts/pydt/</link>
+      <pubDate>Sun, 22 Sep 2024 04:04:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pydt/</guid>
+      <description>&lt;p&gt;Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management.&lt;/p&gt;&#xA;&lt;p&gt;License: MIT&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://www.playyourdamnturn.com&#34;&gt;https://www.playyourdamnturn.com&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/pydt/client&#34;&gt;https://github.com/pydt/client&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://www.patreon.com/pydt&#34;&gt;https://www.patreon.com/pydt&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/pydt/client/issues/new&#34;&gt;https://github.com/pydt/client/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/pydt/client/releases/download/v2.1.8/playyourdamnturn-linux-2.1.8-x86_64.AppImage&#34;&gt;https://github.com/pydt/client/releases/download/v2.1.8/playyourdamnturn-linux-2.1.8-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Heroic Games Launcher</title>
+      <link>http://localhost:1313/posts/heroic/</link>
+      <pubDate>Fri, 20 Sep 2024 22:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/heroic/</guid>
+      <description>&lt;p&gt;A Native GOG, Amazon and Epic Games Launcher&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://heroicgameslauncher.com&#34;&gt;https://heroicgameslauncher.com&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher&#34;&gt;https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://patreon.com/heroicgameslauncher&#34;&gt;https://patreon.com/heroicgameslauncher&lt;/a&gt;&#xA;Translate: &lt;a href=&#34;https://hosted.weblate.org/projects/heroic-games-launcher&#34;&gt;https://hosted.weblate.org/projects/heroic-games-launcher&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/issues/new&#34;&gt;https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.15.2/Heroic-2.15.2.AppImage&#34;&gt;https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.15.2/Heroic-2.15.2.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moonlight</title>
+      <link>http://localhost:1313/posts/moonlight/</link>
+      <pubDate>Tue, 17 Sep 2024 04:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/moonlight/</guid>
+      <description>&lt;p&gt;Moonlight PC is an open source PC client for NVIDIA GameStream and Sunshine&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://moonlight-stream.org&#34;&gt;https://moonlight-stream.org&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/moonlight-stream/moonlight-qt&#34;&gt;https://github.com/moonlight-stream/moonlight-qt&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Report the bug: &lt;a href=&#34;https://github.com/moonlight-stream/moonlight-qt/issues/new&#34;&gt;https://github.com/moonlight-stream/moonlight-qt/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/Moonlight-6.1.0-x86_64.AppImage&#34;&gt;https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/Moonlight-6.1.0-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>86box</title>
+      <link>http://localhost:1313/posts/86box/</link>
+      <pubDate>Sun, 01 Sep 2024 18:48:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/86box/</guid>
+      <description>&lt;p&gt;Emulator of x86-based machines based on PCem&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-2.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://86box.net&#34;&gt;https://86box.net&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/86Box/86Box&#34;&gt;https://github.com/86Box/86Box&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://www.paypal.com/paypalme/86Box&#34;&gt;https://www.paypal.com/paypalme/86Box&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/86Box/86Box/issues/new&#34;&gt;https://github.com/86Box/86Box/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download:   x86_64: &lt;a href=&#34;https://github.com/86Box/86Box/releases/download/v4.2.1/86Box-Linux-x86_64-b6130.AppImage&#34;&gt;https://github.com/86Box/86Box/releases/download/v4.2.1/86Box-Linux-x86_64-b6130.AppImage&lt;/a&gt;&lt;br&gt;&#xA;x86: &lt;a href=&#34;https://github.com/86Box/86Box/releases/download/v4.2.1/86Box-Linux-x86-b6130.AppImage&#34;&gt;https://github.com/86Box/86Box/releases/download/v4.2.1/86Box-Linux-x86-b6130.AppImage&lt;/a&gt;&lt;br&gt;&#xA;arm64: &lt;a href=&#34;https://github.com/86Box/86Box/releases/download/v4.2.1/86Box-NDR-Linux-arm64-b6130.AppImage&#34;&gt;https://github.com/86Box/86Box/releases/download/v4.2.1/86Box-NDR-Linux-arm64-b6130.AppImage&lt;/a&gt;&lt;br&gt;&#xA;arm32: &lt;a href=&#34;https://github.com/86Box/86Box/releases/download/v4.2.1/86Box-NDR-Linux-arm32-b6130.AppImage&#34;&gt;https://github.com/86Box/86Box/releases/download/v4.2.1/86Box-NDR-Linux-arm32-b6130.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevilutionX</title>
+      <link>http://localhost:1313/posts/devilutionx/</link>
+      <pubDate>Sat, 31 Aug 2024 17:16:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/devilutionx/</guid>
+      <description>&lt;p&gt;Port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features&lt;/p&gt;&#xA;&lt;p&gt;License: Sustainable Use License&lt;/p&gt;&#xA;&lt;p&gt;Source code: &lt;a href=&#34;https://github.com/diasurgical/devilutionX&#34;&gt;https://github.com/diasurgical/devilutionX&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Translate: &lt;a href=&#34;https://github.com/diasurgical/devilutionX/wiki/Translation-Guide&#34;&gt;https://github.com/diasurgical/devilutionX/wiki/Translation-Guide&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/diasurgical/devilutionX/issues/new&#34;&gt;https://github.com/diasurgical/devilutionX/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/diasurgical/devilutionX/releases/download/1.5.3/devilutionx-linux-x86_64.appimage&#34;&gt;https://github.com/diasurgical/devilutionX/releases/download/1.5.3/devilutionx-linux-x86_64.appimage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deckboard</title>
+      <link>http://localhost:1313/posts/deckboard/</link>
+      <pubDate>Sun, 11 Aug 2024 19:44:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/deckboard/</guid>
+      <description>&lt;p&gt;Control your PC with your phone in easy way possible&lt;/p&gt;&#xA;&lt;p&gt;License: AGPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://deckboard.app&#34;&gt;https://deckboard.app&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/rivafarabi/deckboard&#34;&gt;https://github.com/rivafarabi/deckboard&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://ko-fi.com/rivafarabi&#34;&gt;https://ko-fi.com/rivafarabi&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/rivafarabi/deckboard/issues/new&#34;&gt;https://github.com/rivafarabi/deckboard/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/rivafarabi/deckboard/releases/download/v3.0.9/Deckboard-3.0.9.AppImage&#34;&gt;https://github.com/rivafarabi/deckboard/releases/download/v3.0.9/Deckboard-3.0.9.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ProtonUp-Qt</title>
+      <link>http://localhost:1313/posts/protonup-qt/</link>
+      <pubDate>Sat, 27 Jul 2024 20:57:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/protonup-qt/</guid>
+      <description>&lt;p&gt;Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://davidotek.github.io/protonup-qt&#34;&gt;https://davidotek.github.io/protonup-qt&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/DavidoTek/ProtonUp-Qt&#34;&gt;https://github.com/DavidoTek/ProtonUp-Qt&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://ko-fi.com/davidotek&#34;&gt;https://ko-fi.com/davidotek&lt;/a&gt;&#xA;Translate: &lt;a href=&#34;https://hosted.weblate.org/projects/protonup-qt&#34;&gt;https://hosted.weblate.org/projects/protonup-qt&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/DavidoTek/ProtonUp-Qt/issues/new&#34;&gt;https://github.com/DavidoTek/ProtonUp-Qt/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.10.2/ProtonUp-Qt-2.10.2-x86_64.AppImage&#34;&gt;https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.10.2/ProtonUp-Qt-2.10.2-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Makoureactor</title>
+      <link>http://localhost:1313/posts/makoureactor/</link>
+      <pubDate>Thu, 18 Jul 2024 22:36:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/makoureactor/</guid>
+      <description>&lt;p&gt;Final Fantasy VII field archive editor&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Source code: &lt;a href=&#34;https://github.com/myst6re/makoureactor&#34;&gt;https://github.com/myst6re/makoureactor&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Report the bug: &lt;a href=&#34;https://github.com/myst6re/makoureactor/issues/new&#34;&gt;https://github.com/myst6re/makoureactor/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/myst6re/makoureactor/releases/download/continuous/makoureactor-continuous-gui-linux64.AppImage&#34;&gt;https://github.com/myst6re/makoureactor/releases/download/continuous/makoureactor-continuous-gui-linux64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Outer Wilds Mod Manager</title>
+      <link>http://localhost:1313/posts/ow-mod-man/</link>
+      <pubDate>Fri, 05 Jul 2024 04:20:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ow-mod-man/</guid>
+      <description>&lt;p&gt;The mod manager for the Outer Wilds Mod Loader&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://outerwildsmods.com/mod-manager&#34;&gt;https://outerwildsmods.com/mod-manager&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/ow-mods/ow-mod-man&#34;&gt;https://github.com/ow-mods/ow-mod-man&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Translate: &lt;a href=&#34;https://github.com/ow-mods/ow-mod-man/blob/main/owmods_gui/TRANSLATIONS.md&#34;&gt;https://github.com/ow-mods/ow-mod-man/blob/main/owmods_gui/TRANSLATIONS.md&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/ow-mods/ow-mod-man/issues/new&#34;&gt;https://github.com/ow-mods/ow-mod-man/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.14.2/outer-wilds-mod-manager_0.14.2_amd64.AppImage&#34;&gt;https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.14.2/outer-wilds-mod-manager_0.14.2_amd64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RetroArch</title>
+      <link>http://localhost:1313/posts/retroarch/</link>
+      <pubDate>Tue, 04 Jun 2024 21:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/retroarch/</guid>
+      <description>&lt;p&gt;RetroArch is the reference frontend for the libretro API&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://www.retroarch.com&#34;&gt;https://www.retroarch.com&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/libretro/RetroArch&#34;&gt;https://github.com/libretro/RetroArch&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://github.com/sponsors/libretro&#34;&gt;https://github.com/sponsors/libretro&lt;/a&gt;&lt;br&gt;&#xA;Translate: &lt;a href=&#34;https://crowdin.com/project/retroarch&#34;&gt;https://crowdin.com/project/retroarch&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/libretro/RetroArch/issues/new&#34;&gt;https://github.com/libretro/RetroArch/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch_Qt.7z&#34;&gt;https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch_Qt.7z&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond-All-Reason</title>
+      <link>http://localhost:1313/posts/beyond-all-reasons/</link>
+      <pubDate>Sat, 02 Mar 2024 20:40:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beyond-all-reasons/</guid>
+      <description>&lt;p&gt;Free Real Time Strategy Game with a grand scale and full physical simulation in a sci-fi setting.&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-2.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://www.beyondallreason.info&#34;&gt;https://www.beyondallreason.info&lt;/a&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/beyond-all-reason/BYAR-Chobby&#34;&gt;https://github.com/beyond-all-reason/BYAR-Chobby&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://www.beyondallreason.info/donate-to-bar&#34;&gt;https://www.beyondallreason.info/donate-to-bar&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/beyond-all-reason/BYAR-Chobby/issues/new&#34;&gt;https://github.com/beyond-all-reason/BYAR-Chobby/issues/new&lt;/a&gt;&#xA;Download: &lt;a href=&#34;https://github.com/beyond-all-reason/BYAR-Chobby/releases/download/v1.2988.0/Beyond-All-Reason-1.2988.0.AppImage&#34;&gt;https://github.com/beyond-all-reason/BYAR-Chobby/releases/download/v1.2988.0/Beyond-All-Reason-1.2988.0.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GDLauncher</title>
+      <link>http://localhost:1313/posts/gdlauncher/</link>
+      <pubDate>Fri, 01 Mar 2024 14:29:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gdlauncher/</guid>
+      <description>&lt;p&gt;GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience&lt;/p&gt;&#xA;&lt;p&gt;License: EULA&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://gdlauncher.com&#34;&gt;https://gdlauncher.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Download: &lt;a href=&#34;https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.6__linux__x64.AppImage&#34;&gt;https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.6__linux__x64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flare</title>
+      <link>http://localhost:1313/posts/flare/</link>
+      <pubDate>Sat, 10 Dec 2022 22:28:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/flare/</guid>
+      <description>&lt;p&gt;Fantasy action RPG using the FLARE engine&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-3.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;http://flarerpg.org&#34;&gt;http://flarerpg.org&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/flareteam/flare-game&#34;&gt;https://github.com/flareteam/flare-game&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Translate: &lt;a href=&#34;https://explore.transifex.com/flareorg&#34;&gt;https://explore.transifex.com/flareorg&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/flareteam/flare-game/issues/new&#34;&gt;https://github.com/flareteam/flare-game/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/flareteam/flare-game/releases/download/v1.14/flare-linux64-v1.14.AppImage&#34;&gt;https://github.com/flareteam/flare-game/releases/download/v1.14/flare-linux64-v1.14.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

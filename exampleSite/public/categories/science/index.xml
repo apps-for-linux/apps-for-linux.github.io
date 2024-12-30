@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on Newsroom</title>
+    <link>http://localhost:1313/categories/science/</link>
+    <description>Recent content in Science on Newsroom</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Dec 2024 15:42:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QField</title>
+      <link>http://localhost:1313/posts/qfield/</link>
+      <pubDate>Thu, 05 Dec 2024 15:42:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/qfield/</guid>
+      <description>&lt;p&gt;A simplified touch optimized interface for QGIS in the field&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-2.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;http://www.qfield.org&#34;&gt;http://www.qfield.org&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/opengisch/QField&#34;&gt;https://github.com/opengisch/QField&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://github.com/sponsors/opengisch&#34;&gt;https://github.com/sponsors/opengisch&lt;/a&gt;&lt;br&gt;&#xA;Translate: &lt;a href=&#34;https://www.transifex.com/opengisch/qfield-for-qgis&#34;&gt;https://www.transifex.com/opengisch/qfield-for-qgis&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/opengisch/QField/issues/new&#34;&gt;https://github.com/opengisch/QField/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/opengisch/QField/releases/download/v3.4.7/qfield-v3.4.7-linux-x64.AppImage&#34;&gt;https://github.com/opengisch/QField/releases/download/v3.4.7/qfield-v3.4.7-linux-x64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stellarium</title>
+      <link>http://localhost:1313/posts/stellarium/</link>
+      <pubDate>Sun, 22 Sep 2024 17:29:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stellarium/</guid>
+      <description>&lt;p&gt;Stellarium is a free open source planetarium for your computer&lt;/p&gt;&#xA;&lt;p&gt;License: GPL-2.0&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://www.retroarch.com&#34;&gt;https://www.retroarch.com&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/Stellarium/stellarium&#34;&gt;https://github.com/Stellarium/stellarium&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://opencollective.com/stellarium&#34;&gt;https://opencollective.com/stellarium&lt;/a&gt;&lt;br&gt;&#xA;Translate: &lt;a href=&#34;https://www.transifex.com/stellarium/stellarium&#34;&gt;https://www.transifex.com/stellarium/stellarium&lt;/a&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/Stellarium/stellarium/issues/new&#34;&gt;https://github.com/Stellarium/stellarium/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/Stellarium/stellarium/releases/download/v24.3/Stellarium-24.3-qt6-x86_64.AppImage&#34;&gt;https://github.com/Stellarium/stellarium/releases/download/v24.3/Stellarium-24.3-qt6-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OONI Probe</title>
+      <link>http://localhost:1313/posts/ooni-probe/</link>
+      <pubDate>Tue, 13 Aug 2024 19:27:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ooni-probe/</guid>
+      <description>&lt;p&gt;OONI Probe is a free and open source software designed to measure internet censorship and other forms of network interference.&lt;/p&gt;&#xA;&lt;p&gt;License: BSD-3-Clause&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://ooni.org/install/desktop&#34;&gt;https://ooni.org/install/desktop&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/ooni/probe-desktop&#34;&gt;https://github.com/ooni/probe-desktop&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Report the bug: &lt;a href=&#34;https://github.com/ooni/probe-desktop&#34;&gt;https://github.com/ooni/probe-desktop&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/ooni/probe-desktop/releases/download/v3.9.8/OONI-Probe-3.9.8.AppImage&#34;&gt;https://github.com/ooni/probe-desktop/releases/download/v3.9.8/OONI-Probe-3.9.8.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Avogadro</title>
+      <link>http://localhost:1313/posts/avogadro/</link>
+      <pubDate>Sat, 10 Feb 2024 19:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/avogadro/</guid>
+      <description>&lt;p&gt;Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas&lt;/p&gt;&#xA;&lt;p&gt;License: BSD-3-Clause&lt;/p&gt;&#xA;&lt;p&gt;Web page: &lt;a href=&#34;https://two.avogadro.cc&#34;&gt;https://two.avogadro.cc&lt;/a&gt;&lt;br&gt;&#xA;Source code: &lt;a href=&#34;https://github.com/openchemistry/avogadrolibs&#34;&gt;https://github.com/openchemistry/avogadrolibs&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Become a sponsor: &lt;a href=&#34;https://opencollective.com/open-chemistry&#34;&gt;https://opencollective.com/open-chemistry&lt;/a&gt;&lt;br&gt;&#xA;Translate: &lt;a href=&#34;https://hosted.weblate.org/engage/avogadro&#34;&gt;https://hosted.weblate.org/engage/avogadro&lt;/a&gt;&lt;br&gt;&#xA;Report the bug: &lt;a href=&#34;https://github.com/openchemistry/avogadrolibs/issues/new&#34;&gt;https://github.com/openchemistry/avogadrolibs/issues/new&lt;/a&gt;&lt;br&gt;&#xA;Download: &lt;a href=&#34;https://github.com/OpenChemistry/avogadrolibs/releases/download/1.99.0/Avogadro2-x86_64.AppImage&#34;&gt;https://github.com/OpenChemistry/avogadrolibs/releases/download/1.99.0/Avogadro2-x86_64.AppImage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
