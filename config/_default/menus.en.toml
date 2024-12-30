@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 #[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
+#  name = "All Apps"
+#  pageRef = "apps"
 #  weight = 10
 
 #[[main]]
@@ -22,13 +22,13 @@
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
-#  pageRef = "posts"
+#  pageRef = "apps"
 #  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"
-#  pageRef = "posts"
+#  pageRef = "apps"
 #  weight = 20
 
 #[[subnavigation]]
