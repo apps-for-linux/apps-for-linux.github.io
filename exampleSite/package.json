@@ -10,9 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tinacms/cli": "^1.5.31",
-    "tinacms": "^1.5.22",
-    "@tinacms/auth": "^1.0.3",
-    "next-tinacms-cloudinary": "^4.3.0"
+    "@tinacms/cli": "^1.7.0",
+    "tinacms": "^1.6.7",
+    "@tinacms/auth": "^1.0.10",
+    "next-tinacms-cloudinary": "^4.4.7"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.2"
   }
 }
