@@ -56,7 +56,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
-          cd quickstart \
+          cd quickstart
           hugo \
             --gc \
             --minify \
