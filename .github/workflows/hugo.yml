@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.137.1
+      HUGO_VERSION: 0.140.2
     steps:
       - name: Install Hugo CLI
         run: |
@@ -40,7 +40,7 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass
         run: |
-          curl -LJO https://github.com/sass/dart-sass/releases/download/dart-sass-${DART)SASS_VERSION}-linux-x64.tar.gz
+          curl -LJO https://github.com/sass/dart-sass/releases/download/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz
           tar -xf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz
           cp -r dart-sass/ /usr/local/bin
           rm -rf dart-sass*
