@@ -1,6 +1,4 @@
-.astro
-bun.lockb
-node_modules
-dist
-
-.env
+exampleSite/public
+docs
+yarn.lock
+.DS_Store
