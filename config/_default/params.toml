@@ -42,13 +42,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  layout = "card" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/posts/"
-  cardView = false
+  showMoreLinkDest = "/apps/"
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
@@ -79,7 +79,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # relatedContentLimit = 3
   showTaxonomies = false
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
 
