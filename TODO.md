@@ -14,13 +14,4 @@
 
 # Add content list
 
-- [x] Alexandria
-- [x] Ooni Probe
-- [x] Ungoogled-chromium
-- [x] GoofCord
-- [x] spmp
-- [x] Equibop
-- [x] Webcord
-- [x] Vieb
 - [ ] Pokete
-- [x] Koodo
