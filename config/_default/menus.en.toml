@@ -58,25 +58,25 @@ weight = 20
 [[main]]
 name = "Network"
 parent = "Categories"
-pageRef = "categories/development"
+pageRef = "categories/network"
 weight = 20
 
 [[main]]
 name = "Science"
 parent = "Categories"
-pageRef = "categories/development"
+pageRef = "categories/science"
 weight = 20
 
 [[main]]
 name = "System"
 parent = "Categories"
-pageRef = "categories/development"
+pageRef = "categories/system"
 weight = 20
 
 [[main]]
 name = "Utilities"
 parent = "Categories"
-pageRef = "categories/development"
+pageRef = "categories/utilities"
 weight = 20
 
 # [[subnavigation]]
