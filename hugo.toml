@@ -1,7 +1,6 @@
 baseURL = 'https://apps-for-linux.github.io/'
 languageCode = 'en-us'
 title = 'Apps For Linux'
-theme = 'seven'
 
 [module]
 [[module.imports]]
