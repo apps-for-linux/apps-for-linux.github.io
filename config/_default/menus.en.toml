@@ -19,62 +19,61 @@ weight = 10
   name = "Categories"
   weight = 10
 
-
-[[subnavigation]]
+[[main]]
   name = "Audio & Video"
   parent = "Categories"
   pageRef = "/audio--video"
   weight = 20
 
-[[subnavigation]]
+[[main]]
   name = "Development"
   parent = "Categories"
   pageRef = "/development"
   weight = 20
 
-[[subnavigation]]
+[[main]]
   name = "Finance"
   parent = "Categories"
   pageRef = "/finance"
   weight = 20
 
-[[subnavigation]]
+[[main]]
   name = "Games"
   parent = "Categories"
   pageRef = "/games"
   weight = 20
 
-[[subnavigation]]
+[[main]]
   name = "Graphics"
   parent = "Categories"
   pageRef = "/graphics"
   weight = 20
 
-[[subnavigation]]
+[[main]]
   name = "Network"
   parent = "Categories"
   pageRef = "/network"
   weight = 20
 
-[[subnavigation]]
+[[main]]
   name = "Productivity"
   parent = "Categories"
   pageRef = "/productivity"
   weight = 20
 
-[[subnavigation]]
+[[main]]
   name = "Science"
   parent = "Categories"
   pageRef = "/science"
   weight = 20
 
-[[subnavigation]]
+[[main]]
   name = "System"
   parent = "Categories"
   pageRef = "/system"
   weight = 20
 
-[[subnavigation]]
+[[main]]
   name = "Utilities"
   parent = "Categories"
   pageRef = "/utilities"
