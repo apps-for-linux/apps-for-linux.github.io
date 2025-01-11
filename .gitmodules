@@ -1,0 +1,4 @@
+[submodule "themes/seven"]
+	path = themes/seven
+	url = https://github.com/mrhelloboy/seven.git
+	branch = main
