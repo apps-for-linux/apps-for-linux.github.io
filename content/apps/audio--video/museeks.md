@@ -17,4 +17,4 @@ Web page: <https://museeks.io>
 Source code: <https://github.com/martpie/museeks>
 
 Report the bug: <https://github.com/martpie/museeks/issues/new>  
-Download: <https://github.com/martpie/museeks/releases/download/0.13.1/museeks-x86_64.AppImage>
+Download: <https://github.com/martpie/museeks/releases/download/0.20.4/Museeks_0.20.4_amd64.AppImage>

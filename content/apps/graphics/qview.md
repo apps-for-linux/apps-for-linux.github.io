@@ -13,9 +13,9 @@ Practical and minimal image viewer
 
 License: GPL-3.0
 
-Web page: <https://interversehq.com/qview>
+Web page: <https://interversehq.com/qview>  
 Source code: <https://github.com/jurplel/qView>
 
-Translate: <https://hosted.weblate.org/projects/qview/qview>
-Report the bug: <https://github.com/jurplel/qView/issues/new>
+Translate: <https://hosted.weblate.org/projects/qview/qview>  
+Report the bug: <https://github.com/jurplel/qView/issues/new>  
 Download: <https://github.com/jurplel/qView/releases/download/6.1/qView-6.1-x86_64.AppImage>
