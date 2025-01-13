@@ -19,4 +19,5 @@ Source code: <https://github.com/sqlitebrowser/sqlitebrowser>
 Become a sponsor: <https://patreon.com/db4s>
 Translate: <https://github.com/sqlitebrowser/sqlitebrowser/wiki/Translations>  
 Report the bug: <https://github.com/sqlitebrowser/sqlitebrowser/issues/new>  
-Download: <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLite-dev-3aaa752-x86.64.AppImage>
+Download:   SQLCipher: <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLCipher-dev-1d8e9fb-x86.64.AppImage>
+            SQLite: <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLite-dev-1d8e9fb-x86.64.AppImage>
