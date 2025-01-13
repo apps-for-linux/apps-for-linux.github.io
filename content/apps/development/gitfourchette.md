@@ -1,0 +1,22 @@
+---
+title: "GitFourchette"
+summary: "The comfortable Git UI for Linux."
+date: 2025-01-05T18:05:00Z
+image: "/images/image-placeholder.png"
+categories: ["Development"]
+authors: ["Iliyas Jorio"]
+tags: ["Official"]
+draft: false
+---
+
+The comfortable Git UI for Linux.
+
+License: GPL-3.0
+
+Web page: <https://gitfourchette.org/>  
+Source code: <https://github.com/jorio/gitfourchette>
+
+Become a sponsor: <https://ko-fi.com/jorio>
+Translate: <https://hosted.weblate.org/projects/gitfourchette/gitfourchette/>
+Report the bug: <https://github.com/jorio/gitfourchette/issues/new>  
+Download: <https://github.com/jorio/gitfourchette/releases/download/v1.1.0/GitFourchette-1.1.0-x86_64.AppImage.zip>  
