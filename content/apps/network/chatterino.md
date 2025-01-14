@@ -5,7 +5,7 @@ date: 2024-04-28T14:28:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- Chatterino2 Authors"
+- "Chatterino2 Authors"
 tags: ["Official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ summary: "Secure, open source and community driven crypto wallet runs on all pla
 date: 2024-11-22T13:45:00Z
 categories: ["Finance"]
 authors:
-- OneKey"
+- "OneKey"
 tags: ["Official"]
 draft: false
 ---

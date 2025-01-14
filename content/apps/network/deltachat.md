@@ -5,7 +5,7 @@ date: 2024-12-18T14:51:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- Delta Chat contributors"
+- "Delta Chat contributors"
 tags: ["Official"]
 draft: false
 ---

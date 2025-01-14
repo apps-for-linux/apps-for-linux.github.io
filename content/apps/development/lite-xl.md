@@ -5,7 +5,7 @@ date: 2024-12-05T17:34:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- Lite XL Team"
+- "Lite XL Team"
 tags: ["Official"]
 draft: false
 ---

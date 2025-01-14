@@ -5,7 +5,7 @@ date: 2024-10-22T13:19:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- EMQX Team"
+- "EMQX Team"
 tags: ["Official"]
 draft: false
 ---

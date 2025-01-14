@@ -5,7 +5,7 @@ date: 2024-11-16T22:17:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- LibreCAD Contributors"
+- "LibreCAD Contributors"
 tags: ["Official"]
 draft: false
 ---

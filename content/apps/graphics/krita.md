@@ -5,7 +5,7 @@ date: 2024-09-30T18:14:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Stichting Krita Foundation"
+- "Stichting Krita Foundation"
 tags: ["Official"]
 draft: false
 ---

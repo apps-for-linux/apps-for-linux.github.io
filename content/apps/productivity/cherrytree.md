@@ -5,7 +5,7 @@ date: 2024-10-04T20:36:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Giuseppe Penone"
+- "Giuseppe Penone"
 tags: ["Official"]
 draft: false
 ---

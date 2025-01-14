@@ -5,7 +5,7 @@ date: 2024-12-12T19:18:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- The VSCodium contributors"
+- "The VSCodium contributors"
 tags: ["Official"]
 draft: false
 ---

@@ -5,7 +5,7 @@ date: 2024-10-29T19:26:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Francesco Mondello"
+- "Francesco Mondello"
 tags: ["Official"]
 draft: false
 ---

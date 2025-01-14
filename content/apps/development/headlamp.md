@@ -5,7 +5,7 @@ date: 2024-12-13T01:02:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- The Headlamp Contributors"
+- "The Headlamp Contributors"
 tags: ["Official"]
 draft: false
 ---

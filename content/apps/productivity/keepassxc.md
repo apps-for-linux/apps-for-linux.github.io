@@ -5,7 +5,7 @@ date: 2024-06-20T12:42:00Z
 categories: ["Utilities"]
 showAuthor: true
 authors:
-- KeePassXC Team"
+- "KeePassXC Team"
 tags: ["Official"]
 draft: false
 ---

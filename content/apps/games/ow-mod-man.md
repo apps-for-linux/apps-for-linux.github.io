@@ -4,7 +4,7 @@ summary: "The mod manager for the Outer Wilds Mod Loader"
 date: 2024-07-05T04:20:00Z
 categories: ["Games"]
 authors:
-- Outer Wilds Mods"
+- "Outer Wilds Mods"
 tags: ["Official"]
 draft: false
 ---

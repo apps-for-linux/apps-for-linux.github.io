@@ -5,7 +5,7 @@ date: 2024-07-12T11:36:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Pencil2D"
+- "Pencil2D"
 tags: ["Official"]
 draft: false
 ---

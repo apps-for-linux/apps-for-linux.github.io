@@ -5,7 +5,7 @@ date: 2024-12-05T20:51:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- Eclipse Foundation"
+- "Eclipse Foundation"
 tags: ["Official"]
 draft: false
 ---

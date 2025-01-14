@@ -5,7 +5,7 @@ date: 2024-12-09T21:49:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Leonardo Zide"
+- "Leonardo Zide"
 tags: ["Official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ summary: "Fantasy action RPG using the FLARE engine"
 date: 2022-12-26T08:48:00Z
 categories: ["Games"]
 authors:
-- FLARE Team"
+- "FLARE Team"
 tags: ["Official"]
 draft: false
 ---

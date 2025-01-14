@@ -4,7 +4,7 @@ summary: "Nintendo Wii U emulator"
 date: 2024-11-13T10:07:00Z
 categories: ["Games"]
 authors:
-- Street Pea"
+- "Street Pea"
 tags: ["Official"]
 draft: false
 ---

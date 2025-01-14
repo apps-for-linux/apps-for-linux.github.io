@@ -5,7 +5,7 @@ date: 2024-11-15T17:46:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- digiKam Team"
+- "digiKam Team"
 tags: ["Official"]
 draft: false
 ---

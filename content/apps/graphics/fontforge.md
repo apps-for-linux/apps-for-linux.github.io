@@ -5,7 +5,7 @@ date: 2023-01-01T09:00:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- FontForge Project contributors"
+- "FontForge Project contributors"
 tags: ["Official"]
 draft: false
 ---

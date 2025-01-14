@@ -5,7 +5,7 @@ date: 2024-07-03T16:05:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- Florian Rival"
+- "Florian Rival"
 tags: ["Official"]
 draft: false
 ---

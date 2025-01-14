@@ -6,7 +6,7 @@ date: 2024-09-01T18:48:00Z
 slug: 86box
 categories: ["Games"]
 authors:
-- 86box"
+- "86box"
 tags: ["Official"]
 draft: false
 ---

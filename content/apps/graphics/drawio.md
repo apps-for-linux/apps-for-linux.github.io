@@ -5,7 +5,7 @@ date: 2025-01-06T13:02:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- JGraph"
+- "JGraph"
 tags: ["Official"]
 draft: false
 ---

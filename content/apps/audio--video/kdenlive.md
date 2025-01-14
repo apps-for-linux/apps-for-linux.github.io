@@ -5,7 +5,7 @@ date: 2024-06-20T07:50:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors:
-- Kdenlive Team"
+- "Kdenlive Team"
 tags: ["Official"]
 draft: false
 ---

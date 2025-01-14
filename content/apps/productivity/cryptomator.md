@@ -5,7 +5,7 @@ date: 2024-11-19T12:21:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Skymatic"
+- "Skymatic"
 tags: ["Official"]
 draft: false
 ---

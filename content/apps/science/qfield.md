@@ -5,7 +5,7 @@ date: 2024-12-05T15:42:00Z
 categories: ["Science"]
 showAuthor: true
 authors:
-- OPENGIS.ch"
+- "OPENGIS.ch"
 tags: ["Official"]
 draft: false
 ---

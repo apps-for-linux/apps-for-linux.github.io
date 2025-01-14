@@ -5,7 +5,7 @@ date: 2024-11-19T19:38:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- The FreeCAD Team"
+- "The FreeCAD Team"
 tags: ["Official"]
 draft: false
 ---

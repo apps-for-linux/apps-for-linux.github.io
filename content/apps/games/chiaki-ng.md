@@ -4,7 +4,7 @@ summary: "Open-source remote play client for PlayStation"
 date: 2024-12-04T12:39:00Z
 categories: ["Games"]
 authors:
-- Street Pea"
+- "Street Pea"
 tags: ["Official"]
 draft: false
 ---

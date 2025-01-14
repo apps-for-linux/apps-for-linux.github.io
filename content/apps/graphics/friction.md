@@ -5,7 +5,7 @@ date: 2024-12-02T23:57:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Friction contributors"
+- "Friction contributors"
 tags: ["Official"]
 draft: false
 ---

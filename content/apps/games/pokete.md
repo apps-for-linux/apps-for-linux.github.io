@@ -4,7 +4,7 @@ summary: "A terminal based Pokemon like game"
 date: 2024-06-15T04:15:00Z
 categories: ["Games"]
 authors:
-- Peer Meyer"
+- "Peer Meyer"
 tags: ["Official"]
 draft: false
 ---

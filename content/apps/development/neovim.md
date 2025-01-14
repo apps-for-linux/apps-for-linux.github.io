@@ -5,7 +5,7 @@ date: 2024-11-12T08:12:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- Neovim contributors"
+- "Neovim contributors"
 tags: ["Official"]
 draft: false
 ---

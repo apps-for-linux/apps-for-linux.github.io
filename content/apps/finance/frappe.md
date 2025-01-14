@@ -4,7 +4,7 @@ summary: "Simple, well-designed, free desktop accounting software for freelancer
 date: 2024-11-11T14:06:00Z
 categories: ["Finance"]
 authors:
-- Frappe Technologies"
+- "Frappe Technologies"
 tags: ["Official"]
 draft: false
 ---

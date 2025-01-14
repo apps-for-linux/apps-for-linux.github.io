@@ -5,7 +5,7 @@ date: 2024-01-07T00:41:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- HTTPie"
+- "HTTPie"
 tags: ["Official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ summary: "Open-source mod platform, built by the community, for the community."
 date: 2024-10-16T09:47:00Z
 categories: ["Games"]
 authors:
-- Rinth"
+- "Rinth"
 tags: ["Official"]
 draft: false
 ---

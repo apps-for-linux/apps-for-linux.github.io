@@ -5,7 +5,7 @@ date: 2024-10-25T23:03:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Pablo Ivan Fonovich"
+- "Pablo Ivan Fonovich"
 tags: ["Official"]
 draft: false
 ---

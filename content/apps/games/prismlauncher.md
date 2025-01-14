@@ -4,7 +4,7 @@ summary: "A custom launcher for Minecraft that allows you to easily manage multi
 date: 2024-10-24T16:27:00Z
 categories: ["Games"]
 authors:
-- Prism Launcher Contributors"
+- "Prism Launcher Contributors"
 tags: ["Official"]
 draft: false
 ---

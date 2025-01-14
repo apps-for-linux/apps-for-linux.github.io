@@ -5,7 +5,7 @@ date: 2024-11-18T18:38:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Obsidian Team"
+- "Obsidian Team"
 tags: ["Official"]
 draft: false
 ---

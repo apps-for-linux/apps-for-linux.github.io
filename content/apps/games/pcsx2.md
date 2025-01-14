@@ -4,7 +4,7 @@ summary: "Free and open-source PlayStation 2 (PS2) emulator"
 date: 2024-12-12T16:54:00Z
 categories: ["Games"]
 authors:
-- PCSX2 Team"
+- "PCSX2 Team"
 tags: ["Official"]
 draft: false
 ---

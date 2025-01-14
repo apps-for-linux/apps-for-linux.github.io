@@ -5,7 +5,7 @@ date: 2024-11-20T02:09:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- Catalyst Developers"
+- "Catalyst Developers"
 tags: ["Official"]
 draft: false
 ---

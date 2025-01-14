@@ -5,7 +5,7 @@ date: 2024-11-15T16:23:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Bambu Lab"
+- "Bambu Lab"
 tags: ["Official"]
 draft: false
 ---

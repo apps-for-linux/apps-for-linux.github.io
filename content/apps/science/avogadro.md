@@ -5,7 +5,7 @@ date: 2024-02-10T19:12:00Z
 categories: ["Science"]
 showAuthor: true
 authors:
-- Open Chemistry"
+- "Open Chemistry"
 tags: ["Official"]
 draft: false
 ---

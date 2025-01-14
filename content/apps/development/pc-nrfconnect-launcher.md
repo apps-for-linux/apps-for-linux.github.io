@@ -5,7 +5,7 @@ date: 2024-11-11T19:39:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- NordicSemiconductor"
+- "NordicSemiconductor"
 tags: ["Official"]
 draft: false
 ---

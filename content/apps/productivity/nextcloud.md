@@ -5,7 +5,7 @@ date: 2024-11-25T19:49:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- Nextcloud"
+- "Nextcloud"
 tags: ["Official"]
 draft: false
 ---

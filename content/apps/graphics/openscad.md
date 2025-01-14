@@ -5,7 +5,7 @@ date: 2025-01-06T00:24:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Marius Kintel"
+- "Marius Kintel"
 tags: ["Official"]
 draft: false
 ---

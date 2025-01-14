@@ -4,7 +4,7 @@ summary: "Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Mana
 date: 2024-09-22T04:04:00Z
 categories: ["Games"]
 authors:
-- Michael Rosack"
+- "Michael Rosack"
 tags: ["Official"]
 draft: false
 ---

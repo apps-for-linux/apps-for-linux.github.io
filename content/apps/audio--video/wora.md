@@ -5,7 +5,7 @@ date: 2024-08-30T21:34:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors:
-- Aaryan Kapoor"
+- "Aaryan Kapoor"
 tags: ["Official"]
 draft: false
 ---

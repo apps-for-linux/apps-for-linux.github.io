@@ -5,7 +5,7 @@ date: 2025-01-08T01:54:00Z
 categories: ["Utilities"]
 showAuthor: true
 authors:
-- Cozy Labs"
+- "Cozy Labs"
 tags: ["Official"]
 draft: false
 ---

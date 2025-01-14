@@ -4,7 +4,7 @@ summary: "GDLauncher is a simple, yet powerful Minecraft custom launcher with a 
 date: 2024-03-01T14:29:00Z
 categories: ["Games"]
 authors:
-- Gorilla Devs"
+- "Gorilla Devs"
 tags: ["Official"]
 draft: false
 ---

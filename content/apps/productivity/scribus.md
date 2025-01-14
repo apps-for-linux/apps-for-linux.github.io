@@ -5,7 +5,7 @@ date: 2024-06-15T19:37:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- The Scribus Team"
+- "The Scribus Team"
 tags: ["Official"]
 draft: false
 ---

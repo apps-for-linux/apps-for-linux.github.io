@@ -5,7 +5,7 @@ date: 2024-12-13T00:42:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- SimpleX Chat"
+- "SimpleX Chat"
 tags: ["Official"]
 draft: false
 ---

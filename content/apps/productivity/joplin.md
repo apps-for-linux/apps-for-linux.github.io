@@ -5,7 +5,7 @@ date: 2024-12-12T20:59:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Laurent Cozic"
+- "Laurent Cozic"
 tags: ["Official"]
 draft: false
 ---

@@ -5,7 +5,7 @@ date: 2023-05-19T18:28:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Quixel"
+- "Quixel"
 tags: ["Official"]
 draft: false
 ---

@@ -5,7 +5,7 @@ date: 2025-01-08T01:18:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Lőrik Levente"
+- "Lőrik Levente"
 tags: ["Official"]
 draft: false
 ---

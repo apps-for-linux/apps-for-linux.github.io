@@ -4,7 +4,7 @@ summary: "Hard-fork of the Ryujinx project"
 date: 2024-10-23T02:55:00Z
 categories: ["Games"]
 authors:
-- Ryujinx Team and Contributors"
+- "Ryujinx Team and Contributors"
 tags: ["Community"]
 draft: false
 ---

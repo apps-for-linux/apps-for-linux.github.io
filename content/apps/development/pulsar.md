@@ -5,7 +5,7 @@ date: 2024-11-22T05:56:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- Pulsar-Edit Original work"
+- "Pulsar-Edit Original work"
 tags: ["Official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ summary: "Self-hosted game stream host for Moonlight."
 date: 2024-10-08T00:59:00Z
 categories: ["Games"]
 authors:
-- LizardByte"
+- "LizardByte"
 tags: ["Official"]
 draft: false
 ---

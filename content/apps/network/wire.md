@@ -5,7 +5,7 @@ date: 2025-01-06T19:47:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- Wire Swiss"
+- "Wire Swiss"
 tags: ["Official"]
 draft: false
 ---

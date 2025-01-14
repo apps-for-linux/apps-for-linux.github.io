@@ -5,7 +5,7 @@ date: 2024-12-12T21:02:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- The ungoogled-chromium Authors"
+- "The ungoogled-chromium Authors"
 tags: ["Official"]
 draft: false
 ---

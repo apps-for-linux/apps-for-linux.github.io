@@ -4,7 +4,7 @@ summary: "The official Alephium desktop wallet."
 date: 2024-11-25T18:18:00Z
 categories: ["Finance"]
 authors:
-- Alephium Team"
+- "Alephium Team"
 tags: ["Official"]
 draft: false
 ---

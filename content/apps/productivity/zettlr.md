@@ -5,7 +5,7 @@ date: 2024-04-20T15:10:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Hendrik Erz"
+- "Hendrik Erz"
 tags: ["Official"]
 draft: false
 ---

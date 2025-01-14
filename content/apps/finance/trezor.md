@@ -4,7 +4,7 @@ summary: "Trezor desktop and web application for managing Trezor hardware wallet
 date: 2024-11-11T14:06:00Z
 categories: ["Finance"]
 authors:
-- Trezor company"
+- "Trezor company"
 tags: ["Official"]
 draft: false
 ---

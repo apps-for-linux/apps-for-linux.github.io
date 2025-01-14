@@ -4,7 +4,7 @@ summary: "Control your PC with your phone in easy way possible"
 date: 2024-08-11T19:44:00Z
 categories: ["Games"]
 authors:
-- Riva Farabi"
+- "Riva Farabi"
 tags: ["Official"]
 draft: false
 ---

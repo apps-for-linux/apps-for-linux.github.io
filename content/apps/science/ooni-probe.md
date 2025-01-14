@@ -5,7 +5,7 @@ date: 2024-08-13T19:27:00Z
 categories: ["Science"]
 showAuthor: true
 authors:
-- Open Observatory of Network Interference (OONI)"
+- "Open Observatory of Network Interference (OONI)"
 tags: ["Official"]
 draft: false
 ---

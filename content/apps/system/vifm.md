@@ -5,7 +5,7 @@ date: 2024-04-04T19:30:00Z
 categories: ["System"]
 showAuthor: true
 authors:
-- vifm Authors"
+- "vifm Authors"
 tags: ["Official"]
 draft: false
 ---

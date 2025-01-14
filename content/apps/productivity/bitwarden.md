@@ -5,7 +5,7 @@ date: 2024-12-17T19:24:00Z
 categories: ["Utilities"]
 showAuthor: true
 authors:
-- BitWarden"
+- "BitWarden"
 tags: ["Official"]
 draft: false
 ---

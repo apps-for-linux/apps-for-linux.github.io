@@ -5,7 +5,7 @@ date: 2024-12-21T00:10:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- the darktable team"
+- "the darktable team"
 tags: ["Official"]
 draft: false
 ---

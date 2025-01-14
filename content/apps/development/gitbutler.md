@@ -2,11 +2,10 @@
 title: "GitButler"
 summary: "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte."
 date: 2024-10-01T20:27:00Z
-
 categories: ["Development"]
 showAuthor: true
 authors:
-- GitButler"]
+- "GitButler"
 tags: ["Official"]
 draft: false
 ---

@@ -5,7 +5,7 @@ date: 2024-08-24T22:13:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- The RawTherapee Team"
+- "The RawTherapee Team"
 tags: ["Official"]
 draft: false
 ---

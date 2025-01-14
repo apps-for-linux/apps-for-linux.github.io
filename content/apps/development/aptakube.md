@@ -5,7 +5,7 @@ date: 2024-12-10T18:41:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- Sumbit Labs Limited"
+- "Sumbit Labs Limited"
 tags: ["Official"]
 draft: false
 ---

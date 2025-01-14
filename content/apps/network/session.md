@@ -5,7 +5,7 @@ date: 2024-12-10T02:48:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- The Oxen Project"
+- "The Oxen Project"
 tags: ["Official"]
 draft: false
 ---

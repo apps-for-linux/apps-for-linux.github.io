@@ -5,7 +5,7 @@ date: 2024-12-13T09:42:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- XPipe UG"
+- "XPipe UG"
 tags: ["Official"]
 draft: false
 ---

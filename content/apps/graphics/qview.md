@@ -5,7 +5,7 @@ date: 2023-08-16T16:57:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Benjamin O"
+- "Benjamin O"
 tags: ["Official"]
 draft: false
 ---

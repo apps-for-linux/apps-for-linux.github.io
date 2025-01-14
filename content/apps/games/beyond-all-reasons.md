@@ -4,7 +4,7 @@ summary: "Free Real Time Strategy Game with a grand scale and full physical simu
 date: 2024-03-02T20:40:00Z
 categories: ["Games"]
 authors:
-- Beyond-All-Reason Team"
+- "Beyond-All-Reason Team"
 tags: ["Official"]
 draft: false
 ---

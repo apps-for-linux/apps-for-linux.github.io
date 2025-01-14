@@ -5,7 +5,7 @@ date: 2024-12-09T01:42:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- DB Browser for SQLite Team"
+- "DB Browser for SQLite Team"
 tags: ["Official"]
 draft: false
 ---

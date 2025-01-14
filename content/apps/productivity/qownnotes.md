@@ -5,7 +5,7 @@ date: 2024-12-12T21:23:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Patrizio Bekerle"
+- "Patrizio Bekerle"
 tags: ["Official"]
 draft: false
 ---

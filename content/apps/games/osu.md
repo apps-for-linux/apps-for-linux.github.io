@@ -4,7 +4,7 @@ summary: "Free-to-win rhythm game"
 date: 2024-12-09T05:06:00Z
 categories: ["Games"]
 authors:
-- Dean Herbert"
+- "Dean Herbert"
 tags: ["Official"]
 draft: false
 ---

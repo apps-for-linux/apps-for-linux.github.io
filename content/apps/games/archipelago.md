@@ -4,7 +4,7 @@ summary: "Archipelago provides a generic framework for developing multiworld cap
 date: 2024-11-29T21:00:00Z
 categories: ["Games"]
 authors:
-- Archipelago"
+- "Archipelago"
 tags: ["Official"]
 draft: false
 ---

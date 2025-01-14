@@ -5,7 +5,7 @@ date: 2024-10-10T22:53:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Roman Chugunov"
+- "Roman Chugunov"
 tags: ["Official"]
 draft: false
 ---

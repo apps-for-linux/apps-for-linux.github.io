@@ -5,7 +5,7 @@ date: 2024-10-06T14:12:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- Jitsi team"
+- "Jitsi team"
 tags: ["Official"]
 draft: false
 ---

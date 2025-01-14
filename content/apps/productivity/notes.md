@@ -5,7 +5,7 @@ date: 2024-10-01T15:59:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Ruby Mamistvalove"
+- "Ruby Mamistvalove"
 tags: ["Official"]
 draft: false
 ---

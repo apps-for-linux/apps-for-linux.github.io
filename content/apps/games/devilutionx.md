@@ -4,7 +4,7 @@ summary: "Port of Diablo and Hellfire that strives to make it simple to run the 
 date: 2024-08-31T17:16:00Z
 categories: ["Games"]
 authors:
-- diasurgical"
+- "diasurgical"
 tags: ["Official"]
 draft: false
 ---

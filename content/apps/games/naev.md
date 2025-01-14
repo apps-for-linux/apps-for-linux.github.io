@@ -4,7 +4,7 @@ summary: "Naev is a 2d action/rpg space game that combines elements from the act
 date: 2024-12-11T14:09:00Z
 categories: ["Games"]
 authors:
-- Naev DevTeam"
+- "Naev DevTeam"
 tags: ["Official"]
 draft: false
 ---

@@ -5,7 +5,7 @@ date: 2024-12-03T04:50:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors:
-- The MusE development team"
+- "The MusE development team"
 tags: ["Official"]
 draft: false
 ---

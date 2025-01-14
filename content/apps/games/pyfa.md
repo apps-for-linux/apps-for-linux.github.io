@@ -4,7 +4,7 @@ summary: "Python fitting assistant, cross-platform fitting tool for EVE Online"
 date: 2024-12-05T17:59:00Z
 categories: ["Games"]
 authors:
-- Diego Duclos"
+- "Diego Duclos"
 tags: ["Official"]
 draft: false
 ---

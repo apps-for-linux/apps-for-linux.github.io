@@ -5,7 +5,7 @@ date: 2024-12-31T17:29:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Jannis Petersen"
+- "Jannis Petersen"
 tags: ["Official"]
 draft: false
 ---

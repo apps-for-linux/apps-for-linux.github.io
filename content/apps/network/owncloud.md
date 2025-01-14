@@ -5,7 +5,7 @@ date: 2024-11-06T12:58:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- ownCloud"
+- "ownCloud"
 tags: ["Official"]
 draft: false
 ---

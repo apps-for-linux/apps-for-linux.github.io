@@ -5,7 +5,7 @@ date: 2024-12-05T11:03:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Xournal Team"
+- "Xournal Team"
 tags: ["Official"]
 draft: false
 ---

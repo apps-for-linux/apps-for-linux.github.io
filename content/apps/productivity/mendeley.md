@@ -5,7 +5,7 @@ date: 2024-11-28T00:00:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Elsevier"
+- "Elsevier"
 tags: ["Official"]
 draft: false
 ---

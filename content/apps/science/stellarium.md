@@ -5,7 +5,7 @@ date: 2024-09-22T17:29:00Z
 categories: ["Science"]
 showAuthor: true
 authors:
-- Stellarium contributors"
+- "Stellarium contributors"
 tags: ["Official"]
 draft: false
 ---

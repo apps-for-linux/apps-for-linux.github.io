@@ -5,7 +5,7 @@ date: 2024-12-11T01:14:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Anytype"
+- "Anytype"
 tags: ["Official"]
 draft: false
 ---

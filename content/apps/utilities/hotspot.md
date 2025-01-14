@@ -5,7 +5,7 @@ date: 2024-05-28T17:13:00Z
 categories: ["System"]
 showAuthor: true
 authors:
-- Klarälvdalens Datakonsult"
+- "Klarälvdalens Datakonsult"
 tags: ["Official"]
 draft: false
 ---

@@ -4,7 +4,7 @@ summary: "Non-custodial Bitcoin wallet"
 date: 2024-12-26T18:21:00Z
 categories: ["Finance"]
 authors:
-- Blockstream"
+- "Blockstream"
 tags: ["Official"]
 draft: false
 ---

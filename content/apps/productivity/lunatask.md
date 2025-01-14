@@ -5,7 +5,7 @@ date: 2024-12-02T15:01:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Michal Krejci"
+- "Michal Krejci"
 tags: ["Official"]
 draft: false
 ---

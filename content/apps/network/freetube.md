@@ -5,7 +5,7 @@ date: 2024-10-27T04:35:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- FreeTube Authors"
+- "FreeTube Authors"
 tags: ["Official"]
 draft: false
 ---

@@ -5,7 +5,7 @@ date: 2024-12-12T17:27:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Logseq"
+- "Logseq"
 tags: ["Official"]
 draft: false
 ---

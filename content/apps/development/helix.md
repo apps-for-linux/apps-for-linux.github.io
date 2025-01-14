@@ -5,7 +5,7 @@ date: 2024-07-14T19:53:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- Blaž Hrastnik"
+- "Blaž Hrastnik"
 tags: ["Official"]
 draft: false
 ---

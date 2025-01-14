@@ -5,7 +5,7 @@ date: 2024-12-01T22:28:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- Sindre Sorhus"
+- "Sindre Sorhus"
 tags: ["Official"]
 draft: false
 ---

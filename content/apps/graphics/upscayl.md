@@ -5,7 +5,7 @@ date: 2024-06-01T17:48:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Nayam Amarshe"
+- "Nayam Amarshe"
 tags: ["Official"]
 draft: false
 ---

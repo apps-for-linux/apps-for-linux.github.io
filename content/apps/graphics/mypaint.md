@@ -5,7 +5,7 @@ date: 2020-07-10T12:28:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- MyPaint Development Team"
+- "MyPaint Development Team"
 tags: ["Official"]
 draft: false
 ---

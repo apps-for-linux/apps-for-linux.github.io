@@ -5,7 +5,7 @@ date: 2024-12-19T13:52:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- The Document Foundation"
+- "The Document Foundation"
 tags: ["Community"]
 draft: false
 ---

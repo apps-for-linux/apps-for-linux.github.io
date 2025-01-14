@@ -5,7 +5,7 @@ date: 2024-09-18T17:36:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Prusa3D"
+- "Prusa3D"
 tags: ["Official"]
 draft: false
 ---

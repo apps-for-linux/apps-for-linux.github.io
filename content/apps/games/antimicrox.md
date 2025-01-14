@@ -4,7 +4,7 @@ summary: "Graphical program used to map gamepad keys to keyboard, mouse, scripts
 date: 2024-11-01T01:06:00Z
 categories: ["Games"]
 authors:
-- AntiMicroX Authors"
+- "AntiMicroX Authors"
 tags: ["Official"]
 draft: false
 ---

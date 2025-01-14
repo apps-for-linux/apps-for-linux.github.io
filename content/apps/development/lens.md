@@ -5,7 +5,7 @@ date: 2024-11-26T16:04:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- OpenLens Authors"
+- "OpenLens Authors"
 tags: ["Official"]
 draft: false
 ---

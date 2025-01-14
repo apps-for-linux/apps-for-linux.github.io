@@ -4,7 +4,7 @@ summary: "Final Fantasy VII field archive editor"
 date: 2024-07-18T22:36:00Z
 categories: ["Games"]
 authors:
-- Jérôme Arzel"
+- "Jérôme Arzel"
 tags: ["Official"]
 draft: false
 ---

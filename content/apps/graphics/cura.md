@@ -5,7 +5,7 @@ date: 2024-11-19T17:46:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Ultimaker"
+- "Ultimaker"
 tags: ["Official"]
 draft: false
 ---

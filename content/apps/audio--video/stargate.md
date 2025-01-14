@@ -5,7 +5,7 @@ date: 2024-01-29T05:52:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors:
-- Stellarium contributors"
+- "Stellarium contributors"
 tags: ["Official"]
 draft: false
 ---

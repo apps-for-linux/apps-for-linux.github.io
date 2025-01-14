@@ -5,7 +5,7 @@ date: 2025-01-10T10:08:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- Zen Browser Team"
+- "Zen Browser Team"
 tags: ["Official"]
 draft: false
 ---

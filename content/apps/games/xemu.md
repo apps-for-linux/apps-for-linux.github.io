@@ -4,7 +4,7 @@ summary: "Free and open-source original Xbox game console emulation"
 date: 2025-01-08T07:57:00Z
 categories: ["Games"]
 authors:
-- xemu Project"
+- "xemu Project"
 tags: ["Official"]
 draft: false
 ---

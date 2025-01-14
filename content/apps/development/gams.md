@@ -5,7 +5,7 @@ date: 2024-11-22T12:56:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- GAMS Development"
+- "GAMS Development"
 tags: ["Official"]
 draft: false
 ---

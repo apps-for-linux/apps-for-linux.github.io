@@ -5,7 +5,7 @@ date: 2024-09-18T00:00:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Mango 3D"
+- "Mango 3D"
 tags: ["Official"]
 draft: false
 ---

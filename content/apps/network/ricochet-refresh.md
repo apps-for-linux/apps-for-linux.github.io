@@ -5,7 +5,7 @@ date: 2024-12-02T06:47:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- Blueprint for Free Speech"
+- "Blueprint for Free Speech"
 tags: ["Official"]
 draft: false
 ---

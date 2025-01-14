@@ -5,7 +5,7 @@ date: 2024-12-12T18:01:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- Reiner Prokein"
+- "Reiner Prokein"
 tags: ["Official"]
 draft: false
 ---

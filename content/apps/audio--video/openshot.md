@@ -5,7 +5,7 @@ date: 2024-12-22T21:40:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors:
-- OpenShot Studios"
+- "OpenShot Studios"
 tags: ["Official"]
 draft: false
 ---
