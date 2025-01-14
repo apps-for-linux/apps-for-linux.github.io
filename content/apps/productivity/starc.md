@@ -17,5 +17,5 @@ Web page: <https://starc.app>
 Source code: <https://github.com/story-apps/starc>
 
 Translate: <https://www.transifex.com/story-apps/starc>  
-Report the bug: <https://github.com/story-apps/starcdownload/issues/new>  
+Report the bug: <https://github.com/story-apps/starc/issues/new/>  
 Download: <https://github.com/story-apps/starc/releases/download/v0.7.5/starc-setup.AppImage>
