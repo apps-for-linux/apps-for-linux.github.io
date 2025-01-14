@@ -2,9 +2,10 @@
 title: "Follow"
 summary: "Next generation information browser"
 date: 2025-01-10T10:35:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Follow Team"]
+showAuthor: true
+authors:
+- Follow Team"
 tags: ["Official"]
 draft: false
 ---

@@ -2,10 +2,11 @@
 title: "acreom"
 summary: "Local-first open-source markdown knowledge base"
 date: 2024-11-05T16:17:00Z
-image: "/images/image-placeholder.png"
 slug: "acreom"
 categories: ["Productivity"]
-authors: ["Acreom"]
+showAuthor: true
+authors:
+- Acreom"
 tags: ["Official"]
 draft: false
 ---

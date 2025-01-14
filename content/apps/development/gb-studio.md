@@ -2,9 +2,10 @@
 title: "GB Studio"
 summary: "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system"
 date: 2024-09-16T13:18:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["Chris Maltby"]
+showAuthor: true
+authors:
+- "Chris Maltby"
 tags: ["Official"]
 draft: false
 ---

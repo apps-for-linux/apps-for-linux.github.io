@@ -2,9 +2,10 @@
 title: "NotepadNext"
 summary: "A cross-platform, reimplementation of Notepad++"
 date: 2024-11-20T04:06:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["Justin Dailey"]
+showAuthor: true
+authors:
+- Justin Dailey"
 tags: ["Official"]
 draft: false
 ---

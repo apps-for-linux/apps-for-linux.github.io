@@ -2,9 +2,10 @@
 title: "digiKam"
 summary: "Professional Photo Management with Power of Open Source"
 date: 2024-11-15T17:46:00Z
-image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-authors: ["digiKam Team"]
+showAuthor: true
+authors:
+- digiKam Team"
 tags: ["Official"]
 draft: false
 ---

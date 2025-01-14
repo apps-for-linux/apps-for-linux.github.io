@@ -2,9 +2,10 @@
 title: "bitwarden"
 summary: "Open source password management solutions for individuals, teams, and business organizations."
 date: 2024-12-17T19:24:00Z
-image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-authors: ["BitWarden"]
+showAuthor: true
+authors:
+- BitWarden"
 tags: ["Official"]
 draft: false
 ---

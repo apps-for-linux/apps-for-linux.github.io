@@ -2,9 +2,10 @@
 title: "Helix"
 summary: "A post-modern modal text editor."
 date: 2024-07-14T19:53:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["Blaž Hrastnik"]
+showAuthor: true
+authors:
+- Blaž Hrastnik"
 tags: ["Official"]
 draft: false
 ---

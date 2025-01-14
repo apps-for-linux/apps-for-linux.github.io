@@ -2,9 +2,9 @@
 title: "The Nexus Mods app"
 summary: "Mod installer, creator and manager for all your popular games."
 date: 2024-11-27T18:39:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Black Tree Gaming Ltd"]
+authors:
+- Black Tree Gaming Ltd"
 tags: ["Official"]
 draft: false
 ---

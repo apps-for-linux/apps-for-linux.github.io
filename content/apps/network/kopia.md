@@ -2,9 +2,10 @@
 title: "KopiaUI"
 summary: "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included."
 date: 2024-11-21T03:13:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Kopia Authors"]
+showAuthor: true
+authors:
+- Kopia Authors"
 tags: ["Official"]
 draft: false
 ---

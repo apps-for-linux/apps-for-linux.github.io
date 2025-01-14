@@ -2,9 +2,9 @@
 title: "Feather"
 summary: "A free and open-source Monero desktop wallet"
 date: 2024-10-11T11:11:00Z
-image: "/images/image-placeholder.png"
 categories: ["Finance"]
-authors: ["Feather Wallet"]
+authors:
+- Feather Wallet"
 tags: ["Official"]
 draft: false
 ---

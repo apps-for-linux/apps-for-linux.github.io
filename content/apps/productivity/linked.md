@@ -2,9 +2,10 @@
 title: "linked"
 summary: "Daily journaling without distraction"
 date: 2023-06-29T22:52:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["André Weller"]
+showAuthor: true
+authors:
+- André Weller"
 tags: ["Official"]
 draft: false
 ---

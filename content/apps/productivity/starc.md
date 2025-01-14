@@ -2,9 +2,10 @@
 title: "Story Architect"
 summary: "All in one screenwriting app"
 date: 2024-10-15T07:55:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["Story Apps"]
+showAuthor: true
+authors:
+- Story Apps"
 tags: ["Official"]
 draft: false
 ---

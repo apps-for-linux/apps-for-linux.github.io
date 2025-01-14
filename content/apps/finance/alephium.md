@@ -2,9 +2,9 @@
 title: "Alephium"
 summary: "The official Alephium desktop wallet."
 date: 2024-11-25T18:18:00Z
-image: "/images/image-placeholder.png"
 categories: ["Finance"]
-authors: ["Alephium Team"]
+authors:
+- Alephium Team"
 tags: ["Official"]
 draft: false
 ---

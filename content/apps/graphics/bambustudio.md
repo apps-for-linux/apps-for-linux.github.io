@@ -2,9 +2,10 @@
 title: "Bambu Studio"
 summary: "Bambu Studio is an open-source, cutting-edge, feature-rich slicing software"
 date: 2024-11-15T16:23:00Z
-image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-authors: ["Bambu Lab"]
+showAuthor: true
+authors:
+- Bambu Lab"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,10 @@
 title: "spmp"
 summary: "Lightweight Spotify client using Qt."
 date: 2024-10-06T15:09:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["kraxie"]
+showAuthor: true
+authors:
+- kraxie"
 tags: ["Official"]
 draft: false
 ---

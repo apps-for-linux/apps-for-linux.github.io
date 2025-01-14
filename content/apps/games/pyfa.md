@@ -2,9 +2,9 @@
 title: "pyfa"
 summary: "Python fitting assistant, cross-platform fitting tool for EVE Online"
 date: 2024-12-05T17:59:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Diego Duclos"]
+authors:
+- Diego Duclos"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,9 @@
 title: "Prism Launcher"
 summary: "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)"
 date: 2024-10-24T16:27:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Prism Launcher Contributors"]
+authors:
+- Prism Launcher Contributors"
 tags: ["Official"]
 draft: false
 ---

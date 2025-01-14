@@ -2,9 +2,10 @@
 title: "Cursor"
 summary: "The AI Code Editor"
 date: 2024-12-17T00:00:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["Anysphere"]
+showAuthor: true
+authors:
+- "Anysphere"
 tags: ["Official"]
 draft: false
 ---

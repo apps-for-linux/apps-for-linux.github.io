@@ -2,10 +2,10 @@
 title: "Actual Budget"
 summary: "Actual Budget is a super fast and privacy-focused app for managing your finances"
 date: 2024-12-06T23:35:00Z
-image: "/images/image-placeholder.png"
 categories: ["Finance"]
 slug: "Actual-Budget"
-authors: ["James Long"]
+authors:
+- James Long"
 tags: ["Official"]
 draft: false
 ---

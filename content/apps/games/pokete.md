@@ -2,9 +2,9 @@
 title: "pokete"
 summary: "A terminal based Pokemon like game"
 date: 2024-06-15T04:15:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Peer Meyer"]
+authors:
+- Peer Meyer"
 tags: ["Official"]
 draft: false
 ---

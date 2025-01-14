@@ -2,9 +2,10 @@
 title: "MuseScore"
 summary: "MuseScore is an open source and free music notation software"
 date: 2024-12-11T20:02:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["MuseScore BVBA"]
+showAuthor: true
+authors:
+- MuseScore BVBA"
 tags: ["Official"]
 draft: false
 ---

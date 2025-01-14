@@ -2,9 +2,10 @@
 title: "Cryptomator"
 summary: "Multi-platform transparent client-side encryption of your files in the cloud"
 date: 2024-11-19T12:21:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["Skymatic"]
+showAuthor: true
+authors:
+- Skymatic"
 tags: ["Official"]
 draft: false
 ---

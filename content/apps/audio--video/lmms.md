@@ -2,9 +2,10 @@
 title: "LMMS"
 summary: "LMMS is an open-source cross-platform digital audio workstation designed for music production."
 date: 2021-12-13T02:07:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["LMMS"]
+showAuthor: true
+authors:
+- LMMS"
 tags: ["Official"]
 draft: false
 ---

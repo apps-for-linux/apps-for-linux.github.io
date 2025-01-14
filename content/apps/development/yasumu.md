@@ -2,9 +2,10 @@
 title: "Yasumu"
 summary: "Yasumu is a customizable, free and open-source application to test various types of APIs"
 date: 2024-10-06T09:02:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["Yasumu Developers"]
+showAuthor: true
+authors:
+- Yasumu Developers"
 tags: ["Official"]
 draft: false
 ---

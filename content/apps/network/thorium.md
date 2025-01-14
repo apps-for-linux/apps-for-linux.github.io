@@ -2,9 +2,10 @@
 title: "Thorium"
 summary: "Chromium fork for linux, includes Widevine, All Codecs, Chrome Plugins, as well as thinLTO, CFlag, LDFlag, LLVM Loop, and PGO compiler optimizations"
 date: 2024-10-19T02:12:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Alexander Frick"]
+showAuthor: true
+authors:
+- Alexander Frick"
 tags: ["Official"]
 draft: false
 ---

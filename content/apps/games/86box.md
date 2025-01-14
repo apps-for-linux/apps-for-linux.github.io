@@ -2,10 +2,11 @@
 title: "86box"
 summary: "Emulator of x86-based machines based on PCem."
 date: 2024-09-01T18:48:00Z
-image: "/images/image-placeholder.png"
+
 slug: 86box
 categories: ["Games"]
-authors: ["86box"]
+authors:
+- 86box"
 tags: ["Official"]
 draft: false
 ---

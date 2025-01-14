@@ -2,9 +2,10 @@
 title: "ImHex"
 summary: "ImHex is a feature-rich Hex Editor aimed towards Reverse Engineers working with foreign data formats, malware, executables and raw memory."
 date: 2024-07-09T09:40:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["WerWolv"]
+showAuthor: true
+authors:
+- WerWolv"
 tags: ["Official"]
 draft: false
 ---

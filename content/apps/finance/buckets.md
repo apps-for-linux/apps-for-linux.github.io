@@ -2,9 +2,9 @@
 title: "Buckets"
 summary: "Make your budget quick, simple and private"
 date: 2024-07-05T17:56:00Z
-image: "/images/image-placeholder.png"
 categories: ["Finance"]
-authors: ["One Part Rain"]
+authors:
+- One Part Rain"
 tags: ["Official"]
 draft: false
 ---

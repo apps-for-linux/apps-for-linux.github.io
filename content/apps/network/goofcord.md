@@ -2,9 +2,10 @@
 title: "GoofCord"
 summary: "Take control of your Discord experience with GoofCord – the highly configurable and privacy-focused Discord client"
 date: 2024-11-27T23:38:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Milkshift"]
+showAuthor: true
+authors:
+- Milkshift"
 tags: ["Official"]
 draft: false
 ---

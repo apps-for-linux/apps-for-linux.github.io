@@ -2,9 +2,10 @@
 title: "LibreCAD"
 summary: "LibreCAD is a 2D Computer Aided Design (CAD) application for creating plans and designs on your computer"
 date: 2024-11-16T22:17:00Z
-image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-authors: ["LibreCAD Contributors"]
+showAuthor: true
+authors:
+- LibreCAD Contributors"
 tags: ["Official"]
 draft: false
 ---

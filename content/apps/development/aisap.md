@@ -2,9 +2,10 @@
 title: "aisap"
 summary: "Tool to make sandboxing AppImages easy"
 date: 2024-11-20T11:02:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["mgord9518"]
+showAuthor: true
+authors:
+- mgord9518"
 tags: ["Official"]
 draft: false
 ---

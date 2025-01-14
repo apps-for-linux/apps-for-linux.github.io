@@ -2,9 +2,10 @@
 title: "Ricochet Refresh"
 summary: "Anonymous peer-to-peer instant messaging"
 date: 2024-12-02T06:47:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Blueprint for Free Speech"]
+showAuthor: true
+authors:
+- Blueprint for Free Speech"
 tags: ["Official"]
 draft: false
 ---

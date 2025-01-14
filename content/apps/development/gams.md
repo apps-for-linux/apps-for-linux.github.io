@@ -2,9 +2,10 @@
 title: "GAMS Studio"
 summary: "Official development environment of the General Algebraic Modeling System"
 date: 2024-11-22T12:56:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["GAMS Development"]
+showAuthor: true
+authors:
+- GAMS Development"
 tags: ["Official"]
 draft: false
 ---

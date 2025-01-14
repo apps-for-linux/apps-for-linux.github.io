@@ -2,9 +2,10 @@
 title: "Zenkit"
 summary: "Project Management, Processes, Communication, Scheduling, Documents, and Knowledge Sharing – all in one platform."
 date: 2024-04-20T15:10:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["Axonic"]
+showAuthor: true
+authors:
+- Axonic"
 tags: ["Official"]
 draft: false
 ---

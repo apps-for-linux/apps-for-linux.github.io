@@ -2,9 +2,9 @@
 title: "Cemu"
 summary: "Nintendo Wii U emulator"
 date: 2024-11-13T10:07:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Street Pea"]
+authors:
+- Street Pea"
 tags: ["Official"]
 draft: false
 ---

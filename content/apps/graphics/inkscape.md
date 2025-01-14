@@ -2,9 +2,10 @@
 title: "Inkscape"
 summary: "A Free and open source vector graphics editor"
 date: 2024-10-09T21:30:00Z
-image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-authors: ["Inkscape Authors"]
+showAuthor: true
+authors:
+- Inkscape Authors"
 tags: ["Official"]
 draft: false
 ---

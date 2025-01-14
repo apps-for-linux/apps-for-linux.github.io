@@ -2,9 +2,10 @@
 title: "Apache NetBeans"
 summary: "Apache NetBeans is an open source development environment, tooling platform, and application framework."
 date: 2024-09-19T21:03:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["Codelerity"]
+showAuthor: true
+authors:
+- Codelerity"
 tags: ["Community"]
 draft: false
 ---

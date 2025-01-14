@@ -2,9 +2,10 @@
 title: "DbGate"
 summary: "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others"
 date: 2024-12-26T10:09:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["Jan Prochazka"]
+showAuthor: true
+authors:
+- Jan Prochazka"
 tags: ["Official"]
 draft: false
 ---

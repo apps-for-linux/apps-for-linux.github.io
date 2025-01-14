@@ -2,9 +2,9 @@
 title: "Lunar"
 summary: "A modpack for all modern versions of Minecraft"
 date: 2024-06-15T04:15:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Moonsworth"]
+authors:
+- Moonsworth"
 tags: ["Official"]
 draft: false
 ---

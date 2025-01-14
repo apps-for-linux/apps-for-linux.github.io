@@ -2,9 +2,9 @@
 title: "Archipelago"
 summary: "Archipelago provides a generic framework for developing multiworld capability for game randomizers"
 date: 2024-11-29T21:00:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Archipelago"]
+authors:
+- Archipelago"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,10 @@
 title: "Wavebox"
 summary: "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, and every other web app you use to get work done."
 date: 2024-12-12T11:08:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Wavebox"]
+showAuthor: true
+authors:
+- Wavebox"
 tags: ["Official"]
 draft: false
 ---

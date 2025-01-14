@@ -2,9 +2,10 @@
 title: "xonsh"
 summary: "Python-powered, cross-platform, Unix-gazing shell language and command prompt."
 date: 2024-12-03T17:41:00Z
-image: "/images/image-placeholder.png"
 categories: ["System"]
-authors: ["the xonsh developers"]
+showAuthor: true
+authors:
+- the xonsh developers"
 tags: ["Official"]
 draft: false
 ---

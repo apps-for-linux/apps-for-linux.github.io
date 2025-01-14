@@ -2,9 +2,10 @@
 title: "Insomnia"
 summary: "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC"
 date: 2024-11-27T20:22:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["Kong"]
+showAuthor: true
+authors:
+- Kong"
 tags: ["Official"]
 draft: false
 ---

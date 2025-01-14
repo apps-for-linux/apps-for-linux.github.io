@@ -2,9 +2,10 @@
 title: "LeoCAD"
 summary: "A CAD application for creating virtual LEGO models"
 date: 2024-12-09T21:49:00Z
-image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-authors: ["Leonardo Zide"]
+showAuthor: true
+authors:
+- Leonardo Zide"
 tags: ["Official"]
 draft: false
 ---

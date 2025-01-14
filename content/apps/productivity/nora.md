@@ -2,9 +2,10 @@
 title: "Nora"
 summary: "An elegant music player built using Electron and React"
 date: 2024-05-10T21:09:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["Sandakan Nipunajith"]
+showAuthor: true
+authors:
+- Sandakan Nipunajith"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,10 @@
 title: "Koodo Reader"
 summary: "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web"
 date: 2024-04-29T20:56:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["App by Troye"]
+showAuthor: true
+authors:
+- App by Troye"
 tags: ["Official"]
 draft: false
 ---

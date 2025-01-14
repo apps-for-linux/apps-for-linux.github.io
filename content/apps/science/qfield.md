@@ -2,9 +2,10 @@
 title: "QField"
 summary: "A simplified touch optimized interface for QGIS in the field."
 date: 2024-12-05T15:42:00Z
-image: "/images/image-placeholder.png"
 categories: ["Science"]
-authors: ["OPENGIS.ch"]
+showAuthor: true
+authors:
+- OPENGIS.ch"
 tags: ["Official"]
 draft: false
 ---

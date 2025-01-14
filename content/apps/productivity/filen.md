@@ -2,9 +2,10 @@
 title: "Filen"
 summary: "Desktop client for filen.io."
 date: 2024-12-10T03:15:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Filen-Cloud-Dienste"]
+showAuthor: true
+authors:
+- Filen-Cloud-Dienste"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,10 @@
 title: "deezer-desktop"
 summary: "An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB."
 date: 2024-06-23T21:22:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["Aurélien Hamy"]
+showAuthor: true
+authors:
+- "Aurélien Hamy"
 tags: ["Official"]
 draft: false
 ---

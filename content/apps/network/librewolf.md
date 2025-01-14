@@ -2,9 +2,10 @@
 title: "LibreWolf"
 summary: "A custom version of Firefox, focused on privacy, security and freedom."
 date: 2024-11-30T13:34:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["LibreWolf"]
+showAuthor: true
+authors:
+- LibreWolf"
 tags: ["Official"]
 draft: false
 ---

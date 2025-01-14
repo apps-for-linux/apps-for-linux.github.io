@@ -2,9 +2,10 @@
 title: "Ferdium"
 summary: "All your services in one place, built by the community."
 date: 2024-11-10T05:23:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Ferdium Team"]
+showAuthor: true
+authors:
+- Ferdium Team"
 tags: ["Official"]
 draft: false
 ---

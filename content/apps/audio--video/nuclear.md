@@ -2,9 +2,10 @@
 title: "Nuclear"
 summary: "Streaming music player that finds free music for you"
 date: 2024-10-31T02:20:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["nukeop"]
+showAuthor: true
+authors:
+- nukeop"
 tags: ["Official"]
 draft: false
 ---

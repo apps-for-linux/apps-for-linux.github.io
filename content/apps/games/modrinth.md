@@ -2,9 +2,9 @@
 title: "Modrinth"
 summary: "Open-source mod platform, built by the community, for the community."
 date: 2024-10-16T09:47:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Rinth"]
+authors:
+- Rinth"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,10 @@
 title: "Kdenlive"
 summary: "Free and Open Source Video Editor"
 date: 2024-06-20T07:50:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["Kdenlive Team"]
+showAuthor: true
+authors:
+- Kdenlive Team"
 tags: ["Official"]
 draft: false
 ---

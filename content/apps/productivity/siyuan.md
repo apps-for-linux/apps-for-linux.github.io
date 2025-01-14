@@ -2,9 +2,10 @@
 title: "Siyuan"
 summary: "A privacy-first, self-hosted, fully open source personal knowledge management software."
 date: 2024-12-10T06:44:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["Yunnan Liandi Technology"]
+showAuthor: true
+authors:
+- Yunnan Liandi Technology"
 tags: ["Official"]
 draft: false
 ---

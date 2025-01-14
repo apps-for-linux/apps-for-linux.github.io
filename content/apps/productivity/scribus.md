@@ -2,9 +2,10 @@
 title: "Scribus"
 summary: "Go-to libre desltop publishing application"
 date: 2024-06-15T19:37:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["The Scribus Team"]
+showAuthor: true
+authors:
+- The Scribus Team"
 tags: ["Official"]
 draft: false
 ---

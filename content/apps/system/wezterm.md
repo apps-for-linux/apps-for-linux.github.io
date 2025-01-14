@@ -2,9 +2,10 @@
 title: "Wezterm"
 summary: "GPU-accelerated cross-platform terminal emulator and multiplexer"
 date: 2024-02-03T21:32:00Z
-image: "/images/image-placeholder.png"
 categories: ["System"]
-authors: ["Wez Furlong"]
+showAuthor: true
+authors:
+- Wez Furlong"
 tags: ["Official"]
 draft: false
 ---
@@ -13,7 +14,7 @@ GPU-accelerated cross-platform terminal emulator and multiplexer
 
 License: MIT
 
-Web page: <https://wezfurlong.org/wezterm> 
+Web page: <https://wezfurlong.org/wezterm>  
 Source code: <https://github.com/wez/wezterm>
 
 Become a sponsor: <https://patreon.com/WezFurlong>  

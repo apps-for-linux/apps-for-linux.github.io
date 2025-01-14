@@ -2,9 +2,10 @@
 title: "draw.io"
 summary: "Security-first diagramming for teams."
 date: 2025-01-06T13:02:00Z
-image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-authors: ["JGraph"]
+showAuthor: true
+authors:
+- JGraph"
 tags: ["Official"]
 draft: false
 ---

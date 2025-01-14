@@ -2,9 +2,10 @@
 title: "Stellarium"
 summary: "Stellarium is a free open source planetarium for your computer."
 date: 2024-09-22T17:29:00Z
-image: "/images/image-placeholder.png"
 categories: ["Science"]
-authors: ["Stellarium contributors"]
+showAuthor: true
+authors:
+- Stellarium contributors"
 tags: ["Official"]
 draft: false
 ---

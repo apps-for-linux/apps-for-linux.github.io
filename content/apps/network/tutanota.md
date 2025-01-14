@@ -2,9 +2,10 @@
 title: "Tuta"
 summary: "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
 date: 2024-12-03T16:14:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Tutao"]
+showAuthor: true
+authors:
+- Tutao"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,10 @@
 title: "HTTPie"
 summary: "Cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs"
 date: 2024-01-07T00:41:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["HTTPie"]
+showAuthor: true
+authors:
+- HTTPie"
 tags: ["Official"]
 draft: false
 ---

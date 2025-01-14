@@ -2,9 +2,9 @@
 title: "Blockstream"
 summary: "Non-custodial Bitcoin wallet"
 date: 2024-12-26T18:21:00Z
-image: "/images/image-placeholder.png"
 categories: ["Finance"]
-authors: ["Blockstream"]
+authors:
+- Blockstream"
 tags: ["Official"]
 draft: false
 ---

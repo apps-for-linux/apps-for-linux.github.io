@@ -2,9 +2,10 @@
 title: "OpenShot"
 summary: "OpenShot Video Editor is an award-winning free and open-source video editor"
 date: 2024-12-22T21:40:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["OpenShot Studios"]
+showAuthor: true
+authors:
+- OpenShot Studios"
 tags: ["Official"]
 draft: false
 ---

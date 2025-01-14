@@ -2,9 +2,10 @@
 title: "Session"
 summary: "Session Desktop - Onion routing based messenger."
 date: 2024-12-10T02:48:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["The Oxen Project"]
+showAuthor: true
+authors:
+- The Oxen Project"
 tags: ["Official"]
 draft: false
 ---

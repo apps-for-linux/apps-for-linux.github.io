@@ -2,9 +2,10 @@
 title: "ente Photos"
 summary: "End-to-end encryption for photos and more."
 date: 2024-11-29T08:40:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Ente"]
+showAuthor: true
+authors:
+- Ente"
 tags: ["Official"]
 draft: false
 ---

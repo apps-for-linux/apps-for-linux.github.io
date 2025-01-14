@@ -2,9 +2,10 @@
 title: "Helio"
 summary: "Free and open-source music sequencer for desktop and mobile platforms"
 date: 2024-09-21T15:53:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["Peter Rudenko and contributors"]
+showAuthor: true
+authors:
+- Peter Rudenko and contributors"
 tags: ["Official"]
 draft: false
 ---

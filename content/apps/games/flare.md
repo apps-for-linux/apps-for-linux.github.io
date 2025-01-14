@@ -2,9 +2,9 @@
 title: "Flare"
 summary: "Fantasy action RPG using the FLARE engine"
 date: 2022-12-26T08:48:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["FLARE Team"]
+authors:
+- FLARE Team"
 tags: ["Official"]
 draft: false
 ---

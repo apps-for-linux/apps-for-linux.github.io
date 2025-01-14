@@ -2,9 +2,9 @@
 title: "Sunshine"
 summary: "Self-hosted game stream host for Moonlight."
 date: 2024-10-08T00:59:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["LizardByte"]
+authors:
+- LizardByte"
 tags: ["Official"]
 draft: false
 ---

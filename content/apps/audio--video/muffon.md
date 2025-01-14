@@ -2,9 +2,10 @@
 title: "muffon"
 summary: "muffon is a cross-platform music streaming client for desktop, which helps you listen to, discover and organize music in an advanced way"
 date: 2024-10-07T11:22:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["Aleksey Shpakovsky"]
+showAuthor: true
+authors:
+- Aleksey Shpakovsky"
 tags: ["Official"]
 draft: false
 ---

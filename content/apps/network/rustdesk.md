@@ -2,9 +2,10 @@
 title: "RustDesk"
 summary: "An open-source remote desktop, and alternative to TeamViewer"
 date: 2024-12-05T13:45:00Z
-image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-authors: ["RustDesk"]
+showAuthor: true
+authors:
+- RustDesk"
 tags: ["Official"]
 draft: false
 ---

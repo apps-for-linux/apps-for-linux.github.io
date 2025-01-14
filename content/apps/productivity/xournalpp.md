@@ -2,9 +2,10 @@
 title: "Xournal++"
 summary: "Handwriting notetaking software with PDF annotation support"
 date: 2024-12-05T11:03:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["Xournal Team"]
+showAuthor: true
+authors:
+- Xournal Team"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,11 @@
 title: "GitFiend"
 summary: "A Git client designed for humans."
 date: 2024-06-28T11:01:00Z
-image: "/images/image-placeholder.png"
+
 categories: ["Development"]
-authors: ["Toby Suggate"]
+showAuthor: true
+authors:
+- Toby Suggate"]
 tags: ["Official"]
 draft: false
 ---

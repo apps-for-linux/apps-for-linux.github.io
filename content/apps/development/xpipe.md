@@ -2,9 +2,10 @@
 title: "XPipe"
 summary: "XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine"
 date: 2024-12-13T09:42:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["XPipe UG"]
+showAuthor: true
+authors:
+- XPipe UG"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,10 @@
 title: "FireDragon"
 summary: "A Floorp fork with custom branding and opinionated settings."
 date: 2024-11-24T19:22:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Nico Jensch"]
+showAuthor: true
+authors:
+- Nico Jensch"
 tags: ["Official"]
 draft: false
 ---

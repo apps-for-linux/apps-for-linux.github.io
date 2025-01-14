@@ -2,9 +2,10 @@
 title: "Etcher"
 summary: "Flash OS images to SD cards & USB drives, safely and easily."
 date: 2024-10-10T13:04:00Z
-image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-authors: ["Balena"]
+showAuthor: true
+authors:
+- Balena"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,10 @@
 title: "AFFiNE"
 summary: "A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro"
 date: 2024-11-28T09:02:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["TOEVERYTHING"]
+showAuthor: true
+authors:
+- TOEVERYTHING"
 tags: ["Official"]
 draft: false
 ---

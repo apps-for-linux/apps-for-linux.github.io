@@ -2,9 +2,10 @@
 title: "Vieb"
 summary: "Vim Inspired Electron Browser - Vim bindings for the web by design"
 date: 2024-11-24T23:46:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Jelmer van Arnhem"]
+showAuthor: true
+authors:
+- Jelmer van Arnhem"
 tags: ["Official"]
 draft: false
 ---

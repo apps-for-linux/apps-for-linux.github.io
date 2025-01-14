@@ -2,9 +2,9 @@
 title: "Flycast"
 summary: "Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast"
 date: 2024-10-23T17:02:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Flyinghead"]
+authors:
+- Flyinghead"
 tags: ["Official"]
 draft: false
 ---

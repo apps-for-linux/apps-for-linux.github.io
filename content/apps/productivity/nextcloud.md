@@ -2,9 +2,10 @@
 title: "Nextcloud"
 summary: "Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform."
 date: 2024-11-25T19:49:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Nextcloud"]
+showAuthor: true
+authors:
+- Nextcloud"
 tags: ["Official"]
 draft: false
 ---

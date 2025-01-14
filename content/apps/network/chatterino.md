@@ -2,9 +2,10 @@
 title: "Chatterino2"
 summary: "Chat client for Twitch.tv"
 date: 2024-04-28T14:28:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Chatterino2 Authors"]
+showAuthor: true
+authors:
+- Chatterino2 Authors"
 tags: ["Official"]
 draft: false
 ---

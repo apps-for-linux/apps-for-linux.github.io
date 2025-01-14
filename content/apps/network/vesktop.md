@@ -2,9 +2,10 @@
 title: "Vesktop"
 summary: "Vesktop is a custom Discord App aiming to give you better performance and improve linux support"
 date: 2024-12-06T01:14:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Vendicated"]
+showAuthor: true
+authors:
+- Vendicated"
 tags: ["Official"]
 draft: false
 ---

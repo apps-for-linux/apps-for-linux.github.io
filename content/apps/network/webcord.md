@@ -2,9 +2,10 @@
 title: "WebCord"
 summary: "A Discord and SpaceBar :electron:-based client implemented without Discord API."
 date: 2024-10-06T14:02:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["SpacingBat3"]
+showAuthor: true
+authors:
+- SpacingBat3"
 tags: ["Official"]
 draft: false
 ---

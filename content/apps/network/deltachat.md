@@ -2,9 +2,10 @@
 title: "Delta Chat Desktop"
 summary: "Email-based instant messaging for Desktop."
 date: 2024-12-18T14:51:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Delta Chat contributors"]
+showAuthor: true
+authors:
+- Delta Chat contributors"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,10 @@
 title: "Cardo"
 summary: "Cardo is a podcast client for desktop"
 date: 2024-12-04T16:20:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["n0vella"]
+showAuthor: true
+authors:
+- n0vella"
 tags: ["Official"]
 draft: false
 ---

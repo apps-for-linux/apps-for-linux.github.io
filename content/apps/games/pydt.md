@@ -2,9 +2,9 @@
 title: "PYDT"
 summary: "Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management."
 date: 2024-09-22T04:04:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Michael Rosack"]
+authors:
+- Michael Rosack"
 tags: ["Official"]
 draft: false
 ---

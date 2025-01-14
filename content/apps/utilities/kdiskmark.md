@@ -2,9 +2,10 @@
 title: "KDiskMark"
 summary: "A simple open-source disk benchmark tool for Linux distros"
 date: 2023-06-19T10:31:00Z
-image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-authors: ["Dmitry Sidorov"]
+showAuthor: true
+authors:
+- Dmitry Sidorov"
 tags: ["Official"]
 draft: false
 ---

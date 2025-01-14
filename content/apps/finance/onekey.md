@@ -2,9 +2,9 @@
 title: "OneKey"
 summary: "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions"
 date: 2024-11-22T13:45:00Z
-image: "/images/image-placeholder.png"
 categories: ["Finance"]
-authors: ["OneKey"]
+authors:
+- OneKey"
 tags: ["Official"]
 draft: false
 ---

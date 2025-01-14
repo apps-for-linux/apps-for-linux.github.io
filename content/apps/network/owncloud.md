@@ -2,9 +2,10 @@
 title: "ownCloud"
 summary: "Open-source software for highly secure, borderless collaboration and filesharing on any device"
 date: 2024-11-06T12:58:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["ownCloud"]
+showAuthor: true
+authors:
+- ownCloud"
 tags: ["Official"]
 draft: false
 ---

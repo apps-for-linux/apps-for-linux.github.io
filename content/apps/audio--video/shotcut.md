@@ -2,9 +2,10 @@
 title: "Shotcut"
 summary: "Free, open source, cross-platform video editor"
 date: 2024-11-18T07:22:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["Meltytech"]
+showAuthor: true
+authors:
+- Meltytech"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,10 @@
 title: "Saber"
 summary: "Cross-platform libre handwritten notes app"
 date: 2024-11-10T18:10:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["Adil Hanney"]
+showAuthor: true
+authors:
+- Adil Hanney"
 tags: ["Official"]
 draft: false
 ---

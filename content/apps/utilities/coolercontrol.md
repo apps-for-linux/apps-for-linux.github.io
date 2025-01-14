@@ -2,9 +2,10 @@
 title: "CoolerControl"
 summary: "Monitor and control your cooling and other devices"
 date: 2024-12-15T13:10:00Z
-image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-authors: ["Guy Boldon"]
+showAuthor: true
+authors:
+- Guy Boldon"
 tags: ["Official"]
 draft: false
 ---

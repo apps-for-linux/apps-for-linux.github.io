@@ -2,9 +2,10 @@
 title: "Notesnook"
 summary: "End-to-end encrypted note taking alternative to Evernote."
 date: 2024-12-24T10:48:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["Streetwriters"]
+showAuthor: true
+authors:
+- Streetwriters"
 tags: ["Official"]
 draft: false
 ---

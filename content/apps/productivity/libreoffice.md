@@ -2,9 +2,10 @@
 title: "LibreOffice"
 summary: "Free open source office suite"
 date: 2024-12-19T13:52:00Z
-image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-authors: ["The Document Foundation"]
+showAuthor: true
+authors:
+- The Document Foundation"
 tags: ["Community"]
 draft: false
 ---

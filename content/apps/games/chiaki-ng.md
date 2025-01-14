@@ -2,9 +2,9 @@
 title: "chiaki-ng"
 summary: "Open-source remote play client for PlayStation"
 date: 2024-12-04T12:39:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Street Pea"]
+authors:
+- Street Pea"
 tags: ["Official"]
 draft: false
 ---

@@ -2,9 +2,9 @@
 title: "osu!"
 summary: "Free-to-win rhythm game"
 date: 2024-12-09T05:06:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Dean Herbert"]
+authors:
+- Dean Herbert"
 tags: ["Official"]
 draft: false
 ---

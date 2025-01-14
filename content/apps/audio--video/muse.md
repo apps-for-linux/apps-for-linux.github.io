@@ -2,9 +2,10 @@
 title: "MusE"
 summary: "MusE is a digital audio workstation with support for both Audio and MIDI"
 date: 2024-12-03T04:50:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["The MusE development team"]
+showAuthor: true
+authors:
+- The MusE development team"
 tags: ["Official"]
 draft: false
 ---

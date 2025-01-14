@@ -2,9 +2,10 @@
 title: "nRF Connect for Desktop"
 summary: "nRF Connect for Desktop is a cross-platform framework for desktop apps for development kits and dongles from Nordic Semiconductor"
 date: 2024-11-11T19:39:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["NordicSemiconductor"]
+showAuthor: true
+authors:
+- NordicSemiconductor"
 tags: ["Official"]
 draft: false
 ---

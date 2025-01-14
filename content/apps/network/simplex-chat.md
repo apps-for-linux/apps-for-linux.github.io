@@ -2,9 +2,10 @@
 title: "SimpleX Chat"
 summary: "First messaging platform that has no user identifiers of any kind"
 date: 2024-12-13T00:42:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["SimpleX Chat"]
+showAuthor: true
+authors:
+- SimpleX Chat"
 tags: ["Official"]
 draft: false
 ---

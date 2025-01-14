@@ -2,9 +2,9 @@
 title: "DuckStation"
 summary: "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64"
 date: 2025-01-07T18:13:00Z
-image: "/images/image-placeholder.png"
 categories: ["Games"]
-authors: ["Connor McLaughlin"]
+authors:
+- Connor McLaughlin"
 tags: ["Official"]
 draft: false
 ---

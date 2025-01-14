@@ -2,9 +2,10 @@
 title: "Passy"
 summary: "Offline password manager with cross-platform synchronization"
 date: 2024-03-24T01:07:00Z
-image: "/images/image-placeholder.png"
 categories: ["Utilities"]
-authors: ["GlitterWare"]
+showAuthor: true
+authors:
+- GlitterWare"
 tags: ["Official"]
 draft: false
 ---

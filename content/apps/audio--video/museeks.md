@@ -2,9 +2,10 @@
 title: "museeks"
 summary: "A simple, clean and cross-platform music player"
 date: 2022-09-22T19:10:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["Pierre de la Martinière"]
+showAuthor: true
+authors:
+- Pierre de la Martinière"
 tags: ["Official"]
 draft: false
 ---

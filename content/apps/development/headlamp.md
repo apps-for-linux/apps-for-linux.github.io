@@ -2,9 +2,10 @@
 title: "Headlamp"
 summary: "A Kubernetes web UI that is fully-featured, user-friendly and extensible"
 date: 2024-12-13T01:02:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["The Headlamp Contributors"]
+showAuthor: true
+authors:
+- The Headlamp Contributors"
 tags: ["Official"]
 draft: false
 ---

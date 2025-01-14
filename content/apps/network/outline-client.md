@@ -2,9 +2,10 @@
 title: "Outline Client"
 summary: " A cross-platform proxy client"
 date: 2023-11-01T16:58:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Jigsaw"]
+showAuthor: true
+authors:
+- Jigsaw"
 tags: ["Official"]
 draft: false
 ---
