@@ -18,5 +18,5 @@ Web page: <https://www.get-notes.com>
 Source code: <https://github.com/dail8859/NotepadNext>
 
 Become a sponsor: <https://github.com/sponsors/dail8859>  
-Report the bug: <https://github.com/dail8859/NotepadNext/issues>
-Download: <https://github.com/dail8859/NotepadNext/releases/download/v0.9/NotepadNext-v0.9-x86_64.AppImage>
+Report the bug: <https://github.com/dail8859/NotepadNext/issues>  
+Download: <https://github.com/dail8859/NotepadNext/releases/download/v0.10/NotepadNext-v0.10-x86_64.AppImage>
