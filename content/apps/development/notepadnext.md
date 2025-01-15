@@ -1,7 +1,7 @@
 ---
 title: "NotepadNext"
 summary: "A cross-platform, reimplementation of Notepad++"
-date: 2024-11-20T04:06:00Z
+date: 2025-01-15T06:06:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
