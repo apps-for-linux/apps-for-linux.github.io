@@ -17,7 +17,7 @@ License: GPL-3.0
 Web page: <https://sqlitebrowser.org>  
 Source code: <https://github.com/sqlitebrowser/sqlitebrowser>
 
-Become a sponsor: <https://patreon.com/db4s>
+Become a sponsor: <https://patreon.com/db4s>  
 Translate: <https://github.com/sqlitebrowser/sqlitebrowser/wiki/Translations>  
 Report the bug: <https://github.com/sqlitebrowser/sqlitebrowser/issues/new>  
 Download:   SQLCipher: <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLCipher-dev-6de9190-x86.64.AppImage>

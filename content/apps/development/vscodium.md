@@ -14,7 +14,7 @@ Free/Libre Open Source Software Binaries of VS Code
 
 License: MIT
 
-Web page: <https://vscodium.com/>
+Web page: <https://vscodium.com/>  
 Source code: <https://github.com/VSCodium/vscodium>
 
 Report the bug: <https://github.com/VSCodium/vscodium/issues/new>  

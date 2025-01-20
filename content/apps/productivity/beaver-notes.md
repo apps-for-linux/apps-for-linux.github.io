@@ -5,7 +5,7 @@ date: 2025-01-06T11:15:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
-- Daniele Rolli"]
+- "Daniele Rolli"
 tags: ["Official"]
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AppFlowy"
 summary: "Open-source alternative to Notion. You are in charge of your data and customizations"
-date: 2024-12-10T05:26:00Z
+date: 2025-01-15T08:10:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -20,4 +20,4 @@ Source code: <https://github.com/AppFlowy-IO/AppFlowy>
 Become a sponsor: <https://ko-fi.com/appflowy>  
 Translate: <https://fink.inlang.com/github.com/AppFlowy-IO/AppFlowy>  
 Report the bug: <https://github.com/AppFlowy-IO/AppFlowy/issues/new>  
-Download: <https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.7.7/AppFlowy-0.7.7-linux-x86_64.AppImage>
+Download: <https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.8.1/AppFlowy-0.8.1-linux-x86_64.AppImage>

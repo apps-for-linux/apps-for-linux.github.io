@@ -14,7 +14,7 @@ A Community-led Hyper-Hackable Text Editor
 
 License: MIT
 
-Web page: <https://pulsar-edit.dev>
+Web page: <https://pulsar-edit.dev>  
 Source code: <https://github.com/pulsar-edit/pulsar>
 
 Become a sponsor: <https://opencollective.com/pulsar-edit>  

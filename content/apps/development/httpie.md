@@ -18,6 +18,6 @@ Web page: <https://httpie.io>
 Source code: <https://github.com/httpie/desktop>
 
 Translate: <https://github.com/saber-notes/saber?tab=readme-ov-file#translating>  
-Report the bug: <https://github.com/httpie/desktop/issues/new>  
+Report the bug: <https://github.com/httpie/desktop/issues/new>    
 Download:   x86_64: <https://github.com/httpie/desktop/releases/download/v2024.1.2/HTTPie-2024.1.2.AppImage>  
             arm64: <https://github.com/httpie/desktop/releases/download/v2024.1.2/HTTPie-2024.1.2-arm64.AppImage>

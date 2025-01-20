@@ -17,6 +17,6 @@ License: GPL-3.0
 Web page: <https://cartero.danirod.es/>  
 Source code: <https://github.com/danirod/cartero>
 
-Translate: <https://hosted.weblate.org/projects/cartero/cartero/>
+Translate: <https://hosted.weblate.org/projects/cartero/cartero/>  
 Report the bug: <https://github.com/danirod/cartero/issues/new>  
 Download: <https://github.com/danirod/cartero/releases/download/v0.1.3/Cartero-0.1.3-x86_64.AppImage>

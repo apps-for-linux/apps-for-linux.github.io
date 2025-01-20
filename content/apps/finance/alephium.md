@@ -17,5 +17,5 @@ Web page: <https://alephium.org>
 Source code: <https://github.com/alephium/alephium-frontend>
 
 Translate: <https://crowdin.com/project/alephium>  
-Report the bug: <https://github.com/alephium/alephium-frontend/issues/new>
+Report the bug: <https://github.com/alephium/alephium-frontend/issues/new>  
 Download: <https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%402.5.1/Alephium-2.5.1.AppImage>
