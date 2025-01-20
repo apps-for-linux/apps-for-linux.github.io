@@ -16,7 +16,7 @@ License: BSD-3-Clause
 Web page: <https://featherwallet.org>
 Source code: <https://github.com/feather-wallet/feather>
 
-Report the bug: <https://github.com/feather-wallet/feather/issues/new>
+Report the bug: <https://github.com/feather-wallet/feather/issues/new>  
 Download:   x86_64: <https://featherwallet.org/files/releases/linux-appimage/feather-2.7.0.AppImage>  
             arm64: <https://featherwallet.org/files/releases/linux-arm64-appimage/feather-2.7.0-arm64.AppImage>  
             armv7l: <https://featherwallet.org/files/releases/linux-arm-appimage/feather-2.7.0-arm.AppImage>  

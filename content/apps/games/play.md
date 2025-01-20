@@ -13,9 +13,9 @@ Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web 
 
 License: BSD-2-Clause
 
-Web page: <https://purei.org>
+Web page: <https://purei.org>  
 Source code: <https://github.com/jpd002/Play->
 
-Become a sponsor: <https://github.com/sponsors/jpd002>
-Report the bug: <https://github.com/jpd002/Play-/issues/new>
+Become a sponsor: <https://github.com/sponsors/jpd002>  
+Report the bug: <https://github.com/jpd002/Play-/issues/new>  
 Download: <https://purei.org/downloads/play/stable/0.68/Play!-69ce62f6-x86_64.AppImage>

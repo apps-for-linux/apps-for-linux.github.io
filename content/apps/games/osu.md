@@ -13,9 +13,9 @@ Free-to-win rhythm game
 
 License: MIT
 
-Web page: <https://osu.ppy.sh>
+Web page: <https://osu.ppy.sh>  
 Source code: <https://github.com/ppy/osu>
 
-Become a sponsor: <https://github.com/sponsors/ppy>
-Report the bug: <https://github.com/ppy/osu/issues/new>
+Become a sponsor: <https://github.com/sponsors/ppy>  
+Report the bug: <https://github.com/ppy/osu/issues/new>  
 Download: <https://github.com/ppy/osu/releases/download/2024.1208.0/osu.AppImage>

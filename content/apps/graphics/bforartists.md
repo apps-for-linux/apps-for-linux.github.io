@@ -14,8 +14,8 @@ Bforartists is a fork of the popular 3D software Blender, with the goal to impro
 
 License: GPL-2.0
 
-Web page: <http://www.bforartists.de>
+Web page: <http://www.bforartists.de>  
 Source code: <https://github.com/Bforartists/Bforartists>
 
-Report the bug: <https://github.com/Bforartists/Bforartists/issues/new>
+Report the bug: <https://github.com/Bforartists/Bforartists/issues/new>  
 Download: <https://github.com/Bforartists/Bforartists/releases/download/v4.3.1/Bforartists-4.3.1-x86_64.AppImage>

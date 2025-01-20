@@ -14,7 +14,7 @@ Bambu Studio is an open-source, cutting-edge, feature-rich slicing software
 
 License: AGPL-3.0
 
-Web page: <https://bambulab.com/en/download/studio>
+Web page: <https://bambulab.com/en/download/studio>  
 Source code: <https://github.com/bambulab/BambuStudio>
 
 Report the bug: <https://github.com/bambulab/BambuStudio/issues/new>
