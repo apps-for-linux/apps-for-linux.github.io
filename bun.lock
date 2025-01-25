@@ -10,6 +10,7 @@
         "@astrojs/rss": "4.0.11",
         "@astrojs/sitemap": "^3.2.1",
         "@astrojs/tailwind": "5.1.4",
+        "@hedystia/astro-bun": "^0.3.1",
         "astro": "5.1.7",
         "astro-auto-import": "^0.4.4",
         "astro-font": "^0.1.81",
@@ -178,6 +179,8 @@
     "@hapi/hoek": ["@hapi/hoek@9.3.0", "", {}, "sha512-/c6rf4UJlmHlC9b5BaNvzAcFv7HZ2QHaV0D4/HNlBdvFnvQq8RI4kYdhyPCl7Xj+oWvTWQ8ujhqS53LIgAe6KQ=="],
 
     "@hapi/topo": ["@hapi/topo@5.1.0", "", { "dependencies": { "@hapi/hoek": "^9.0.0" } }, "sha512-foQZKJig7Ob0BMAYBfcJk8d77QtOe7Wo4ox7ff1lQYoNNAb6jwcY1ncdoy2e9wQZzvNy7ODZCYJkK8kzmcAnAg=="],
+
+    "@hedystia/astro-bun": ["@hedystia/astro-bun@0.3.1", "", { "peerDependencies": { "astro": "^5.0.0" } }, "sha512-oPAYojCGX8F6o5EiZooCTujCc9zxQIlZLM2XHz7mgXalhJ/g5UW/0yZ3VDaajqSRc6PIzZhKPMSuWweNtEsy5A=="],
 
     "@img/sharp-darwin-arm64": ["@img/sharp-darwin-arm64@0.33.5", "", { "optionalDependencies": { "@img/sharp-libvips-darwin-arm64": "1.0.4" }, "os": "darwin", "cpu": "arm64" }, "sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ=="],
 
