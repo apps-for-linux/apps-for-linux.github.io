@@ -1,7 +1,7 @@
 ---
 title: "Altair"
 summary: "A beautiful feature-rich GraphQL Client"
-date: 2025-02-03T14:25:00Z
+date: 2025-02-15T19:46:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
@@ -22,5 +22,5 @@ Source code: <https://github.com/altair-graphql/altair>
 Become a sponsor: <https://opencollective.com/altair>  
 Translate: <https://crwd.in/altair-gql>  
 Report the bug: <https://github.com/altair-graphql/altair/issues/new>  
-Download:   x86_64: <https://github.com/altair-graphql/altair/releases/download/v8.1.4/altair_8.1.4_x86_64_linux.AppImage>  
-            arm64: <https://github.com/altair-graphql/altair/releases/download/v8.1.4/altair_8.1.4_arm64_linux.AppImage>
+Download:   x86_64: <https://github.com/altair-graphql/altair/releases/download/v8.1.5/altair_8.1.5_x86_64_linux.AppImage>  
+            arm64: <https://github.com/altair-graphql/altair/releases/download/v8.1.5/altair_8.1.5_arm64_linux.AppImage>
