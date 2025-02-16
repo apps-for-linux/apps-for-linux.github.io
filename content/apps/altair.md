@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/altair-graphql/altair/refs/heads/master/packages/altair-docs/public/assets/img/app-shot.png}" >}}
+{{<center> < carousel images="{https://raw.githubusercontent.com/altair-graphql/altair/refs/heads/master/packages/altair-docs/public/assets/img/app-shot.png}" > <center>}}
 
 A beautiful feature-rich GraphQL Client
 
