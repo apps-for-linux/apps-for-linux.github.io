@@ -22,7 +22,7 @@ weight = 10
 [[main]]
 name = "Audio & Video"
 parent = "Categories"
-pageRef = "categories/audio--video"
+pageRef = "categories/audio-%26-video"
 weight = 20
 
 [[main]]
