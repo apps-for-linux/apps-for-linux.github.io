@@ -6,7 +6,8 @@ categories: ["Science"]
 showAuthor: true
 authors:
 - "Open Chemistry"
-tags: ["Official"]
+tags: ["Chemistry"]
+License: BSD-3-Clause
 draft: false
 ---
 

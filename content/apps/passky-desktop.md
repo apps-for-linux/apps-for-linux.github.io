@@ -7,6 +7,7 @@ showAuthor: true
 authors:
 - "Rabbit Company"
 tags: ["Official"]
+License: GPL-3.0
 draft: false
 ---
 

@@ -6,7 +6,10 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Bambu Lab"
-tags: ["Official"]
+tags: 
+- "3D"
+- "Slicing software"
+License: AGPL-3.0
 draft: false
 ---
 

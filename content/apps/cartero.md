@@ -1,12 +1,12 @@
 ---
 title: "Cartero"
 summary: "Native, lightweight, multiplatform and free HTTP client that you can use to test your APIs"
-date: 2024-12-23T21:34:00Z
+date: 2025-02-16T02:45:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
 - "the Cartero authors"
-tags: ["Official"]
+tags: ["API Testing"]
 draft: false
 ---
 
@@ -22,6 +22,6 @@ Source code: <https://github.com/danirod/cartero>
 Translate: <https://hosted.weblate.org/projects/cartero/cartero/>  
 Report the bug: <https://github.com/danirod/cartero/issues/new>  
 
-{{< button href="https://github.com/danirod/cartero/releases/download/v0.1.3/Cartero-0.1.3-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/danirod/cartero/releases/download/v0.1.5/Cartero-0.1.5-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

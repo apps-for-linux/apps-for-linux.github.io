@@ -6,7 +6,9 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "nukeop"
-tags: ["Official"]
+tags:
+- "Music Player"
+License: AGPL-3.0
 draft: false
 ---
 

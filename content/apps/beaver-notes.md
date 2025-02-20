@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Daniele Rolli"
-tags: ["Official"]
+tags: 
+- "Notes"
+License: MIT
 draft: false
 ---
 

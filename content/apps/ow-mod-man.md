@@ -5,7 +5,8 @@ date: 2025-01-25T16:08:00Z
 categories: ["Games"]
 authors:
 - "Outer Wilds Mods"
-tags: ["Official"]
+tags: ["Game Mods"]
+License: GPL-3.0
 draft: false
 ---
 

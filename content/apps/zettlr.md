@@ -6,8 +6,10 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Hendrik Erz"
-tags: ["Official"]
+tags: ["Writer"]
+License: GPL-3.0
 draft: false
+
 ---
 
 Your One-Stop Publication Workbench

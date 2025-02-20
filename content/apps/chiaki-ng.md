@@ -1,17 +1,20 @@
 ---
 title: "chiaki-ng"
-summary: "Open-source remote play client for PlayStation"
+summary: "Open Source Client for PlayStation 4 and PlayStation 5 Remote Play"
 date: 2024-12-04T12:39:00Z
 categories: ["Games"]
 authors:
 - "Street Pea"
-tags: ["Official"]
+tags: 
+- "PlayStation"
+- "Gaming On Linux"
+License: AGPL-3.0
 draft: false
 ---
 
 {{< carousel images="{https://raw.githubusercontent.com/streetpea/chiaki-ng/refs/heads/main/assets/screenshot.png}" >}}
 
-Open-source remote play client for PlayStation
+Open Source Client for PlayStation 4 and PlayStation 5 Remote Play
 
 License: AGPL-3.0
 

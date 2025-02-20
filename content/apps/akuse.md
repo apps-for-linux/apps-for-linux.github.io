@@ -5,8 +5,11 @@ date: 2024-10-19T02:26:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors: 
-- "Alessio Ganzarolli"
-tags: ["Official"]
+    - "Alessio Ganzarolli"
+tags: 
+- "Anime"
+- ""
+License: GPL-3.0
 draft: false
 ---
 

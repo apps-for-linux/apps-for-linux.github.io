@@ -6,7 +6,11 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Aaron Kimmig"
-tags: ["Official"]
+tags: 
+- "Signal Client"
+- "Messenger"
+- "IM"
+License: GPL-3.0
 draft: false
 ---
 

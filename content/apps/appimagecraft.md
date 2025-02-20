@@ -5,8 +5,10 @@ date: 2024-12-23T04:54:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- "Daniele Rolli"
-tags: ["Official"]
+- "TheAssassin"
+tags: 
+- "AppImage"
+License: MIT
 draft: false
 ---
 

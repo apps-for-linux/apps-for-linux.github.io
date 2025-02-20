@@ -5,7 +5,8 @@ date: 2025-01-15T12:10:00Z
 categories: ["Finance"]
 authors:
 - "Alephium Team"
-tags: ["Official"]
+tags: "Cryptocurrency"
+License: LGPL-3.0
 draft: false
 ---
 

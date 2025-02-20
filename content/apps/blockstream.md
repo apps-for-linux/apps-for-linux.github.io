@@ -5,7 +5,8 @@ date: 2025-02-04T15:09:00Z
 categories: ["Finance"]
 authors:
 - "Blockstream"
-tags: ["Official"]
+tags: ["Cryptocurrency"]
+License: GPL-3.0
 draft: false
 ---
 

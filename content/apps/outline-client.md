@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Jigsaw"
-tags: ["Official"]
+tags: 
+- "Censorship-resistance"
+- "Proxy"
+License: Apache-2.0
 draft: false
 ---
 

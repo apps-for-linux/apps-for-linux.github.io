@@ -6,7 +6,8 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Francesco Mondello"
-tags: ["Official"]
+tags: 
+- "Image converter"
 draft: false
 ---
 

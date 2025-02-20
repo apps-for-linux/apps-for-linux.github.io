@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Obsidian Team"
-tags: ["Official"]
+tags: 
+- "Knowledge Base"
+License: EULA
 draft: false
 ---
 

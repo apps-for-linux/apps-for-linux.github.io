@@ -6,7 +6,8 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "Avidemux Authors"
-tags: ["Official"]
+tags: ["Video editor"]
+License: GPL-2.0
 draft: false
 ---
 

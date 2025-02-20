@@ -5,7 +5,8 @@ date: 2024-11-29T21:00:00Z
 categories: ["Games"]
 authors:
 - "Archipelago"
-tags: ["Official"]
+tags: ["Game Engine"]
+License: GPL-3.0
 draft: false
 ---
 

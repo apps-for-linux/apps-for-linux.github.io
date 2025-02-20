@@ -6,7 +6,9 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "jeyasankar"
-tags: ["Official"]
+tags: 
+- "Password Management"
+License: GPL-3.0
 draft: false
 ---
 

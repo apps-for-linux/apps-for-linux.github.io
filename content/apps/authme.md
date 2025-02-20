@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Lőrik Levente"
-tags: ["Official"]
+tags:
+- "Authentificator"
+License: GPL-3.0
 draft: false
 ---
 

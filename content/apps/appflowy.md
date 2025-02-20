@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "AppFlowy"
-tags: ["Official"]
+tags: 
+- "Knowledge Base"
+License: AGPL-3.0
 draft: false
 ---
 

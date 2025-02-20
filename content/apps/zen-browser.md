@@ -6,7 +6,8 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Zen Browser Team"
-tags: ["Official"]
+tags: ["Browser"]
+License: MPL-2.0
 draft: false
 ---
 

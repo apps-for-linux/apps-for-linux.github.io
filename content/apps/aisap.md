@@ -5,8 +5,11 @@ date: 2024-12-03T02:26:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- "mgord9518"
-tags: ["Official"]
+    - "mgord9518"
+tags: 
+    - "Sandbox"
+    - "AppImage"
+License: MIT
 draft: false
 ---
 

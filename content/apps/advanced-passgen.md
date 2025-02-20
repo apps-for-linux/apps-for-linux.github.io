@@ -6,7 +6,7 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "CodeDead"
-tags: ["Official"]
+tags: ["PasswordManagement"]
 draft: false
 ---
 

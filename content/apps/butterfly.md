@@ -6,7 +6,10 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "LinwoodDev"
-tags: ["Official"]
+tags: 
+- "Notes"
+- "Handwriting"
+License: AGPL-3.0
 draft: false
 ---
 

@@ -28,6 +28,7 @@ enableEmoji = true
   category = "categories"
   author = "authors"
   tag = "tags"
+  license = "licenses"
 
 
 [sitemap]

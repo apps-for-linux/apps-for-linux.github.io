@@ -6,7 +6,10 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Marius Kintel"
-tags: ["Official"]
+tags: 
+- "3D"
+- "CAD"
+License: GPL-3.0
 draft: false
 ---
 

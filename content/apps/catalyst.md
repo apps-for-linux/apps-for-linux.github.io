@@ -6,7 +6,7 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Catalyst Developers"
-tags: ["Official"]
+tags: ["Browser"]
 draft: false
 ---
 

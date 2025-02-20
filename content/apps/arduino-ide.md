@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Arduino"
-tags: ["Official"]
+tags: 
+- "IDE"
+License: AGPL-3.0
 draft: false
 ---
 

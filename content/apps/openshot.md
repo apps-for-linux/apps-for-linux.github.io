@@ -6,7 +6,9 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "OpenShot Studios"
-tags: ["Official"]
+tags: 
+- "Video Editor"
+License: GPL-3.0
 draft: false
 ---
 

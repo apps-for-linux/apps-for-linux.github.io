@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Samuel Imolorhe"
-tags: ["Official"]
+tags: 
+- "GraphQL"
+License: MIT
 draft: false
 ---
 

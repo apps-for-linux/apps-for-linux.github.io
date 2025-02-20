@@ -6,7 +6,10 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Bruno Authors"
-tags: ["Official"]
+tags: 
+- "API Testing"
+- "IDE"
+License: MIT
 draft: false
 ---
 

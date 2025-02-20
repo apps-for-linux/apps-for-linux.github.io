@@ -7,6 +7,7 @@ showAuthor: true
 authors:
 - "Acreom"
 tags: ["Official"]
+License: GPL-3.0
 draft: false
 ---
 

@@ -6,7 +6,8 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "TOEVERYTHING"
-tags: ["Official"]
+tags: ["KnowledgeBase"]
+License: MIT
 draft: false
 ---
 

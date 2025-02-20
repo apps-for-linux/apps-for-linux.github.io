@@ -6,7 +6,9 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "Cinelerra GG community"
-tags: ["Official"]
+tags: 
+- "Video Editor"
+License: GPL-2.0
 draft: false
 ---
 

@@ -6,7 +6,10 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "Umio Yasuno"
-tags: ["Official"]
+tags: 
+- "GPU"
+- "fetch tool"
+License: MIT  
 draft: false
 ---
 

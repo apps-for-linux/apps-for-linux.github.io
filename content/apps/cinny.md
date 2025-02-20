@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Ajay Bura"
-tags: ["Official"]
+tags: 
+- "Matrix"
+- "Messenger"
+- "IM"
 draft: false
 ---
 

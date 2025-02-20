@@ -6,7 +6,9 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Chatterino2 Authors"
-tags: ["Official"]
+tags: 
+- "Twitch"
+- "Stream management"
 draft: false
 ---
 

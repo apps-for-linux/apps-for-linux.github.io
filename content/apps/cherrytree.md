@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Giuseppe Penone"
-tags: ["Official"]
+tags: 
+- "Notes"
+License: GPL-3.0
 draft: false
 ---
 

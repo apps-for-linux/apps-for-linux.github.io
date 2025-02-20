@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Ascensio System"
-tags: ["Official"]
+tags: 
+- "Office Software"
+License: AGPL-3.0
 draft: false
 ---
 

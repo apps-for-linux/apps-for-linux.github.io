@@ -6,6 +6,7 @@ categories: ["Finance"]
 authors:
 - "James Long"
 tags: ["Official"]
+License: MIT
 draft: false
 ---
 

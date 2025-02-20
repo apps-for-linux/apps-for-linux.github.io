@@ -6,7 +6,10 @@ categories: ["Science"]
 showAuthor: true
 authors:
 - "Open Observatory of Network Interference (OONI)"
-tags: ["Official"]
+tags:
+- "Censorship-resistance"
+- "Stat"
+License: BSD-3-Clause
 draft: false
 ---
 

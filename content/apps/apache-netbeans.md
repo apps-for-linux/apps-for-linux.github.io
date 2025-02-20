@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Codelerity"
-tags: ["Community"]
+tags: 
+- "IDE"
+License: Apache-2.0
 draft: false
 ---
 

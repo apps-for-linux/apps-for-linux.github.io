@@ -6,7 +6,9 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "n0vella"
-tags: ["Official"]
+tags: 
+- "Podcasts"
+License: GPL-3.0 
 draft: false
 ---
 

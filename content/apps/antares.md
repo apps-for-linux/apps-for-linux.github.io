@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Fabio Di Stasio"
-tags: ["Official"]
+tags: 
+- "SQL"
+License: MIT
 draft: false
 ---
 

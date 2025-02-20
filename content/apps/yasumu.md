@@ -6,7 +6,8 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Yasumu Developers"
-tags: ["Official"]
+tags: ["APITest"]
+License: MIT
 draft: false
 ---
 

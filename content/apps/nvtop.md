@@ -6,7 +6,9 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "Maxime Schmitt"
-tags: ["Official"]
+tags: 
+- "Resource Monitor"
+License: GPL-3.0
 draft: false
 ---
 

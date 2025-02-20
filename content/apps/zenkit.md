@@ -6,7 +6,8 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Axonic"
-tags: ["Official"]
+tags: ["Project Management"]
+License: EULA
 draft: false
 ---
 

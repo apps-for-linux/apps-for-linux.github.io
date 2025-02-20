@@ -6,7 +6,9 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Jannis Petersen"
-tags: ["Official"]
+tags: 
+- "3D"
+License: GPL-3.0
 draft: false
 ---
 

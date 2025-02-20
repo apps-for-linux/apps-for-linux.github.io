@@ -6,7 +6,10 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Quixel"
-tags: ["Official"]
+tags: 
+- "3D"
+- "Assets Manager"
+License: EULA
 draft: false
 ---
 

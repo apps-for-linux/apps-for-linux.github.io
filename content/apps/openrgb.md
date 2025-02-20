@@ -6,7 +6,9 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "Adam Honse"
-tags: ["Official"]
+tags:
+- "Hardware controller"
+License: GPL-2.0
 draft: false
 ---
 

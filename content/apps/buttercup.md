@@ -1,12 +1,14 @@
 ---
-title: "buttercup"
+title: "Buttercup"
 summary: "Buttercup is a free, open-source and cross-platform password manager"
 date: 2024-09-08T21:58:00Z
 categories: ["Utilities"]
 showAuthor: true
 authors:
 - "Perry Mitchell"
-tags: ["Official"]
+tags: 
+- "Password manager"
+License: GPL-3.0
 draft: false
 ---
 

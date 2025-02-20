@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Streetwriters"
-tags: ["Official"]
+tags:
+- "Notes"
+License: GPL-3.0
 draft: false
 ---
 

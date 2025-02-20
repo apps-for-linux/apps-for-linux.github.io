@@ -6,7 +6,10 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Matthew Rathbone"
-tags: ["Official"]
+tags: 
+- "Database"
+- "SQL"
+License: GPL-3.0
 draft: false
 ---
 

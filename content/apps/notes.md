@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Ruby Mamistvalove"
-tags: ["Official"]
+tags: 
+- "Notes"
+License: MPL-2.0
 draft: false
 ---
 

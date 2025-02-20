@@ -6,7 +6,10 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "Audacity Developer Team"
-tags: ["Official"]
+tags: 
+- "Audio recording"
+- "DAW"
+License: GPL-3.0
 draft: false
 ---
 

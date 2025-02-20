@@ -6,7 +6,12 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Automattic"
-tags: ["Official"]
+tags: 
+- "Messenger"
+- "IM"
+- "Matrix"
+License: EULA
+
 draft: false
 ---
 

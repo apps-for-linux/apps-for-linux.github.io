@@ -6,7 +6,11 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "Brenden Matthews"
-tags: ["Official"]
+tags: 
+- "System Monitor"
+- "Resource Monitor"
+- "OSD"
+License: GPL-3.0
 draft: false
 ---
 

@@ -5,7 +5,9 @@ date: 2025-01-24T08:09:00Z
 categories: ["Finance"]
 authors:
 - "OneKey"
-tags: ["Official"]
+tags: 
+- "Cryptocurrency"
+License: Apache-2.0
 draft: false
 ---
 

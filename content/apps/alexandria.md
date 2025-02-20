@@ -6,7 +6,8 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Bret Papkoff"
-tags: ["Official"]
+tags: ["eBook Reader"]
+License: GPL-3.0
 draft: false
 ---
 

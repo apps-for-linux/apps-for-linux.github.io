@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Anytype"
-tags: ["Official"]
+tags: 
+- "Knowledge base"
+License: Any Source Available License 1.0
 draft: false
 ---
 

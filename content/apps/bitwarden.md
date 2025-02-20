@@ -1,12 +1,14 @@
 ---
-title: "bitwarden"
+title: "Bitwarden"
 summary: "Open source password management solutions for individuals, teams, and business organizations."
 date: 2025-01-07T00:03:00Z
 categories: ["Utilities"]
 showAuthor: true
 authors:
 - "BitWarden"
-tags: ["Official"]
+tags: 
+- "Password management"
+License: GPL-3.0
 draft: false
 ---
 

@@ -1,12 +1,14 @@
 ---
 title: "Bforartists"
 summary: "Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI"
-date: 2024-12-12T18:01:00Z
+date: 2025-02-15T23:48:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Reiner Prokein"
-tags: ["Official"]
+tags: 
+- "3D"
+License: GPL-2.0
 draft: false
 ---
 
@@ -21,6 +23,6 @@ Source code: <https://github.com/Bforartists/Bforartists>
 
 Report the bug: <https://github.com/Bforartists/Bforartists/issues/new>  
 
-{{< button href="https://github.com/Bforartists/Bforartists/releases/download/v4.3.1/Bforartists-4.3.1-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/Bforartists/Bforartists/releases/download/v4.3.3/Bforartists-4.3.3-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

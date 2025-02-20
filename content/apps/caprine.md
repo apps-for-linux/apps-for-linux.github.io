@@ -6,7 +6,11 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Sindre Sorhus"
-tags: ["Official"]
+tags: 
+- "Messenger"
+- "IM"
+- "Facebook"
+License: MIT
 draft: false
 ---
 
