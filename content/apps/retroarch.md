@@ -5,7 +5,9 @@ date: 2025-01-14T02:16:00Z
 categories: ["Games"]
 authors:
 - "Florian Märkl"
-tags: "Official"
+tags:
+- "Gaming On Linux"
+License: "GPL-3.0"
 draft: false
 ---
 
