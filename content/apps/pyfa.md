@@ -7,7 +7,7 @@ authors:
 - "Diego Duclos"
 tags:
 - "Gaming On Linux"
-License: GPL-3.0
+License: "GPL-3.0"
 draft: false
 ---
 
