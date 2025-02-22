@@ -6,7 +6,11 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Pranay Sanghai"
-tags: ["Official"]
+tags:
+- "Messenger"
+- "Discord"
+- "Firefox"
+- "Messenger"
 draft: false
 ---
 

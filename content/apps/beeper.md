@@ -8,7 +8,6 @@ authors:
 - "Automattic"
 tags: 
 - "Messenger"
-- "IM"
 - "Matrix"
 License: EULA
 

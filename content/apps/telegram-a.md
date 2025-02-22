@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Alexander Zinchuk"
-tags: ["Official"]
+tags: 
+- "Messenger"
+- "Telegram client"
+License: GPL-3.0
 draft: false
 ---
 
@@ -18,4 +21,7 @@ Source code: <https://github.com/Ajaxy/telegram-tt>
 
 Translate: <https://translations.telegram.org/en/weba/>  
 Report the bug: <https://bugs.telegram.org/c/4002>  
-Download: <https://github.com/Ajaxy/telegram-tt/releases/download/v10.9.34/Telegram-A-x86_64.AppImage>
+
+{{< button href="https://github.com/Ajaxy/telegram-tt/releases/download/v10.9.34/Telegram-A-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

@@ -6,7 +6,10 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Anysphere"
-tags: ["Official"]
+tags: 
+- "AI-powered software"
+- "Code editor"
+License: EULA
 draft: false
 ---
 

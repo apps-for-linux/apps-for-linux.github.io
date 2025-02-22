@@ -6,9 +6,14 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "Talo Halton"
-tags: ["Official"]
+tags: 
+- "Music streaming client"
+- "YouTube Music Client"
+License: GPL-3.0
 draft: false
 ---
+
+{{< carousel images="{https://raw.githubusercontent.com/toasterofbread/spmp/refs/heads/main/metadata/en-US/images/phoneScreenshots/landscape_2.png}" >}}
 
 A YouTube Music client with a focus on customisation of colours and song metadata.
 
@@ -20,4 +25,7 @@ Source code: <https://github.com/toasterofbread/spmp>
 Become a sponsor: <https://github.com/toasterofbread>  
 Translate: <https://github.com/toasterofbread/spmp/wiki/App-localisation>  
 Report the bug: <https://github.com/toasterofbread/spmp/issues/new>  
-Download: <https://github.com/toasterofbread/spmp/releases/download/v0.4.2/spmp-v0.4.2-linux-x86_64.appimage>
+
+{{< button href="https://github.com/toasterofbread/spmp/releases/download/v0.4.2/spmp-v0.4.2-linux-x86_64.appimage" target="_blank">}}
+Download
+{{< /button >}}

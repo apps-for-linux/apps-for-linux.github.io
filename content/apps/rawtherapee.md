@@ -6,7 +6,9 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "The RawTherapee Team"
-tags: ["Official"]
+tags: 
+- "RAW processing"
+- "Image editor"
 draft: false
 ---
 

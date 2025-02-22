@@ -6,7 +6,8 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Patrizio Bekerle"
-tags: ["Official"]
+tags:
+- "Notes"
 draft: false
 ---
 

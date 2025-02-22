@@ -6,9 +6,14 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "DB Browser for SQLite Team"
-tags: ["Official"]
+tags: 
+- "Database"
+- "SQL"
+License: GPL-3.0
 draft: false
 ---
+
+{{< carousel images="{https://raw.githubusercontent.com/sqlitebrowser/sqlitebrowser/master/images/sqlitebrowser.png}" >}}
 
 High quality, visual, open source tool to create, design, and edit database files compatible with SQLite
 

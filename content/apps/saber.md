@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Adil Hanney"
-tags: ["Official"]
+tags: 
+- "Notes"
+- "Handwriting"
 draft: false
 ---
 

@@ -6,7 +6,9 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Pencil2D"
-tags: ["Official"]
+tags:
+- "2D"
+License: GPL-2.0
 draft: false
 ---
 

@@ -5,7 +5,8 @@ date: 2024-12-05T17:59:00Z
 categories: ["Games"]
 authors:
 - "Diego Duclos"
-tags: ["Official"]
+tags: "Gaming On Linux"
+License: GPL-3.0
 draft: false
 ---
 

@@ -1,11 +1,13 @@
 ---
 title: "Sunshine"
 summary: "Self-hosted game stream host for Moonlight."
-date: 2025-02-22T17:16:00Z
+date: 2025-02-21T17:37:00Z
 categories: ["Games"]
 authors:
 - "LizardByte"
-tags: ["Official"]
+tags: 
+- "Streaming software"
+- "Gaming On Linux"
 draft: false
 ---
 
@@ -19,4 +21,7 @@ Source code: <https://github.com/LizardByte/Sunshine>
 Become a sponsor: <https://github.com/sponsors/LizardByte>  
 Translate: <https://translate.lizardbyte.dev>  
 Report the bug: <https://github.com/LizardByte/Sunshine/issues/new>  
-Download: <https://github.com/LizardByte/Sunshine/releases/download/v2025.122.141614/sunshine.AppImage>
+
+{{< button href="https://github.com/LizardByte/Sunshine/releases/download/v2025.221.143652/sunshine.AppImage" target="_blank">}}
+Download
+{{< /button >}}

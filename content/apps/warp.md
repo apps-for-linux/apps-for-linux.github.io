@@ -6,7 +6,9 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "Warp"
-tags: ["Official"]
+tags: 
+- "Terminal"
+- "AI-powered software"
 draft: false
 ---
 

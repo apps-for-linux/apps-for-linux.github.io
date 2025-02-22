@@ -5,7 +5,11 @@ date: 2024-12-12T16:54:00Z
 categories: ["Games"]
 authors:
 - "PCSX2 Team"
-tags: ["Official"]
+tags:
+- "PlayStation Emulator"
+- "Game Emulator"
+- "Gaming on Linux"
+License: GPL-3.0
 draft: false
 ---
 

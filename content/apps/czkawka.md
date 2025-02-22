@@ -6,7 +6,8 @@ categories: ["System"]
 showAuthor: true
 authors:
 - "Rafał Mikrut"
-tags: ["Official"]
+tags: 
+- "System cleaner"
 draft: false
 ---
 

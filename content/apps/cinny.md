@@ -9,7 +9,7 @@ authors:
 tags: 
 - "Matrix"
 - "Messenger"
-- "IM"
+License: AGPL-3.0
 draft: false
 ---
 

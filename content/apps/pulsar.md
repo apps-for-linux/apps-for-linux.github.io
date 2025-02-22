@@ -6,7 +6,8 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Pulsar-Edit Original work"
-tags: ["Official"]
+tags: 
+- "Code editor"
 draft: false
 ---
 

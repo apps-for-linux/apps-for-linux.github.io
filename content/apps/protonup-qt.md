@@ -5,7 +5,9 @@ date: 2025-01-05T16:45:00Z
 categories: ["Games"]
 authors:
 - "DavidoTek"
-tags: ["Official"]
+tags: 
+- "Wine version manager"
+- "Gaming on Linux"
 draft: false
 ---
 

@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors: 
 - c0re100
-tags: ["Community"]
+tags: 
+- "Torrent"
+- "Download manager"
+License: GPL-2.0
 draft: false
 ---
 

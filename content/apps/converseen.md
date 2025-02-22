@@ -8,6 +8,7 @@ authors:
 - "Francesco Mondello"
 tags: 
 - "Image converter"
+License: GPL-3.0
 draft: false
 ---
 

@@ -6,7 +6,8 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Skymatic"
-tags: ["Official"]
+tags: 
+- "Cloud encryption"
 draft: false
 ---
 

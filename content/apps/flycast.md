@@ -5,7 +5,10 @@ date: 2024-10-23T17:02:00Z
 categories: ["Games"]
 authors:
 - "Flyinghead"
-tags: ["Official"]
+tags: 
+- "Sega Emulator"
+- "Game Emulator"
+- "Gaming On Linux"
 draft: false
 ---
 

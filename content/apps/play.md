@@ -5,7 +5,11 @@ date: 2024-12-03T06:03:00Z
 categories: ["Games"]
 authors:
 - "Jean-Philip Desjardins"
-tags: ["Official"]
+tags:
+- "PlayStation Emulator"
+- "Game Emulator"
+- "Gaming on Linux"
+License: BSD-2-Clause
 draft: false
 ---
 

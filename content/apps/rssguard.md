@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Martin Rotter"
-tags: ["Official"]
+tags: 
+- "Feed reader"
+- "RSS"
+License: GPL-3.0
 draft: false
 ---
 

@@ -8,7 +8,6 @@ authors:
 - "Brenden Matthews"
 tags: 
 - "System Monitor"
-- "Resource Monitor"
 - "OSD"
 License: GPL-3.0
 draft: false

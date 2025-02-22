@@ -5,7 +5,9 @@ date: 2025-01-25T20:45:00Z
 categories: ["Games"]
 authors:
 - "RPCS3 Authors"
-tags: ["Official"]
+tags: 
+- "Game emulator"
+- "PlayStation emulator"
 draft: false
 ---
 

@@ -5,7 +5,9 @@ date: 2024-06-15T04:15:00Z
 categories: ["Games"]
 authors:
 - "Peer Meyer"
-tags: ["Official"]
+tags:
+- "Gaming on Linux"
+License: GPL-3.0
 draft: false
 ---
 

@@ -6,7 +6,10 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Ultimaker"
-tags: ["Official"]
+tags: 
+- "Slicing software"
+- "3D"
+License: LGPL-3.0
 draft: false
 ---
 

@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Blueprint for Free Speech"
-tags: ["Official"]
+tags: 
+- "Messenger"
+- "Censorship-resistance software"
+License: GPL-3.0
 draft: false
 ---
 

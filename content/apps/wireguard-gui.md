@@ -6,18 +6,24 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Wireguard GUI Contributors"
-tags: ["Official"]
+tags: 
+- "VPN Client"
+- "Censorship-resistance software"
+License: Apache 2.0
 draft: false
 ---
+
+{{< carousel images="{https://raw.githubusercontent.com/leon3s/wireguard-gui/refs/heads/master/public/img/app.png}" >}}
 
 A wireguard client GUI for Linux made with nextauri
 
 License: Apache 2.0
 
-Web page: <https://hiddify.com/>  
 Source code: <https://github.com/leon3s/wireguard-gui>
 
 Become a sponsor: <https://github.com/sponsors/leon3s>  
-Translate: <https://inlang.com/editor/github.com/hiddify/hiddify-next>  
 Report the bug: <https://github.com/leon3s/wireguard-gui/issues>  
-Download: <https://github.com/leon3s/wireguard-gui/releases/download/0.1.6-stable/wireguard-gui_0.1.6_amd64.AppImage>
+
+{{< button href="https://github.com/leon3s/wireguard-gui/releases/download/0.1.6-stable/wireguard-gui_0.1.6_amd64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

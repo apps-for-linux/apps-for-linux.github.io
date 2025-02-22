@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Wire Swiss"
-tags: ["Official"]
+tags: 
+- "Messenger"
+- "Censorship-resistance software"
+License: GPL-3.0
 draft: false
 ---
 
@@ -19,4 +22,7 @@ Source code: <https://github.com/wireapp/wire-desktop>
 
 Translate: <https://crowdin.com/projects/wire>  
 Report the bug: <https://github.com/wireapp/wire-desktop/issues/new>  
-Download: <https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.39.3653/Wire-3.39.3653_x86_64.AppImage>
+
+{{< button href="https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.39.3653/Wire-3.39.3653_x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

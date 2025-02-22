@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "the darktable team"
-tags: ["Official"]
+tags:
+- "RAW processing"
+- "Image editor"
+License: GPL-3.0
 draft: false
 ---
 

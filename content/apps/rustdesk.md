@@ -6,7 +6,10 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "RustDesk"
-tags: ["Official"]
+tags: 
+- "Remote desktop"
+- "Remote control"
+License: AGPL-3.0
 draft: false
 ---
 

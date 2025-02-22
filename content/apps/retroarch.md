@@ -5,7 +5,7 @@ date: 2025-01-14T02:16:00Z
 categories: ["Games"]
 authors:
 - "Florian Märkl"
-tags: ["Official"]
+tags: "Official"
 draft: false
 ---
 

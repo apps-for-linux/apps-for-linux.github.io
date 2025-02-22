@@ -6,13 +6,16 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "Aurélien Hamy"
-tags: ["Official"]
+tags: 
+- "Deezer"
+- "Music Streaming"
+License: MIT
 draft: false
 ---
 
 {{< carousel images="{https://raw.githubusercontent.com/flathub/dev.aunetx.deezer/master/screenshots/screenshot_dark.png}" >}}
 
-An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB.
+An universal linux port of deezer
 
 License: MIT
 

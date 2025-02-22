@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Jan Prochazka"
-tags: ["Official"]
+tags: 
+- "Database"
+- "SQL"
 draft: false
 ---
 

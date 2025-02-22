@@ -6,7 +6,9 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "Lukas Spies"
-tags: ["Official"]
+tags: 
+- "Image viewer"
+License: GPL-2.0
 draft: false
 ---
 

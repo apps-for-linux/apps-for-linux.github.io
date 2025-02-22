@@ -6,7 +6,10 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "The Scribus Team"
-tags: ["Official"]
+tags: 
+- "DTP"
+- "Publishing"
+License: GPL-2.0
 draft: false
 ---
 

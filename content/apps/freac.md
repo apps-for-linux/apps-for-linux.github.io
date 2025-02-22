@@ -6,7 +6,9 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "Robert Kausch"
-tags: ["Official"]
+tags:
+- "Audio Converter"
+License: GPL-2.0
 draft: false
 ---
 

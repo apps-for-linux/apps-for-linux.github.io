@@ -5,7 +5,10 @@ date: 2025-01-11T22:37:00Z
 categories: ["Games"]
 authors:
 - "Rare Devs"
-tags: ["Official"]
+tags:
+- "Epic Games"
+- "Legendary"
+- "Gaming On Linux"
 draft: false
 ---
 

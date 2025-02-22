@@ -5,7 +5,9 @@ date: 2024-08-11T19:44:00Z
 categories: ["Games"]
 authors:
 - "Riva Farabi"
-tags: ["Official"]
+tags:
+- "Monitor resource"
+- "Remote control"
 draft: false
 ---
 

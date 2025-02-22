@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Standard Notes"
-tags: ["Official"]
+tags: 
+- "Notes"
+License: AGPL-3.0
 draft: false
 ---
 

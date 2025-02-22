@@ -6,7 +6,8 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Benjamin O"
-tags: ["Official"]
+tags: 
+- "Image Viewer"
 draft: false
 ---
 

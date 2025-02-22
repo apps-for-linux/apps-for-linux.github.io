@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Follow Team"
-tags: ["Official"]
+tags: 
+- "RSS"
+- "News Reader"
+License: GPL-3.0
 draft: false
 ---
 

@@ -5,7 +5,9 @@ date: 2025-01-22T15:08:00Z
 categories: ["Finance"]
 authors:
 - "Trezor company"
-tags: ["Official"]
+tags: 
+- "Cryptocurrency"
+License: Custom
 draft: false
 ---
 

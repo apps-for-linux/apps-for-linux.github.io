@@ -6,10 +6,13 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Axonic"
-tags: ["Project Management"]
+tags: 
+- "Project Management"
 License: EULA
 draft: false
 ---
+
+{{< carousel images="{https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png}" >}}
 
 Project Management, Processes, Communication, Scheduling, Documents, and Knowledge Sharing – all in one platform
 
@@ -18,4 +21,7 @@ License: EULA
 Web page: <https://zenkit.com/>  
 
 Report the bug: <https://help.zenkit.com/en/support/tickets/new>  
-Download: <https://static.zenkit.com/downloads/desktop-apps/base/zenkit-linux.AppImage>
+
+{{< button href="https://static.zenkit.com/downloads/desktop-apps/base/zenkit-linux.AppImage" target="_blank">}}
+Download
+{{< /button >}}

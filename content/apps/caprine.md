@@ -8,7 +8,6 @@ authors:
 - "Sindre Sorhus"
 tags: 
 - "Messenger"
-- "IM"
 - "Facebook"
 License: MIT
 draft: false

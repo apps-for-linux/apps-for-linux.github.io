@@ -6,7 +6,10 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "CP Editor team"
-tags: ["Official"]
+tags: 
+- "Code editor"
+- "Competitive programming"
+License: GPL-3.0
 draft: false
 ---
 

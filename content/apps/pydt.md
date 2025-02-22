@@ -5,7 +5,9 @@ date: 2024-09-22T04:04:00Z
 categories: ["Games"]
 authors:
 - "Michael Rosack"
-tags: ["Official"]
+tags: 
+- "Gaming on Linux"
+License: MIT
 draft: false
 ---
 

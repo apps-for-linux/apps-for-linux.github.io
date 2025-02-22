@@ -8,6 +8,7 @@ authors:
 - "Guy Boldon"
 tags: 
 - "Hardware controller"
+License: GPL-3.0
 draft: false
 ---
 

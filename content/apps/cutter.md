@@ -6,7 +6,8 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Rizin"
-tags: ["Official"]
+tags: 
+- "Reverse Engineering"
 draft: false
 ---
 

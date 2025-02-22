@@ -6,9 +6,13 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Jelmer van Arnhem"
-tags: ["Official"]
+tags: 
+- "Browser"
+License: GPL-3.0
 draft: false
 ---
+
+{{< carousel images="{https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png}" >}}
 
 Vim Inspired Electron Browser - Vim bindings for the web by design
 

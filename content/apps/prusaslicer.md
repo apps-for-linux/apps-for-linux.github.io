@@ -6,7 +6,9 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Simon Peter"
-tags: ["Community"]
+tags: 
+- "3D"
+- "Slicing software"
 draft: false
 ---
 

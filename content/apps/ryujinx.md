@@ -5,11 +5,15 @@ date: 2024-10-23T02:55:00Z
 categories: ["Games"]
 authors:
 - "Ryujinx Team and Contributors"
-tags: ["Community"]
+tags: 
+- "Game emulator"
+- "Nintendo emulator"
+- "Gaming on Linux"
+License: MIT
 draft: false
 ---
 
-Hard-fork of the Ryujinx project
+Hard-fork of the Ryujinx project - emulator of the Nintendo Switch
 
 License: MIT
 

@@ -6,10 +6,15 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Zen Browser Team"
-tags: ["Browser"]
+tags: 
+- "Browser"
+- "Firefox"
 License: MPL-2.0
 draft: false
 ---
+
+{{< carousel images="{https://zen-browser.app/_astro/browser.CbbtFXKg_1pRH4x.webp}" >}}
+
 
 Performance-optimized and privacy-focused browser built atop Firefox
 

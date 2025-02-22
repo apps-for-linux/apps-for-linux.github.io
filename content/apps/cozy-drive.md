@@ -6,7 +6,9 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "Cozy Labs"
-tags: ["Official"]
+tags:
+- "Cloud client"
+License: AGPL-3.0
 draft: false
 ---
 

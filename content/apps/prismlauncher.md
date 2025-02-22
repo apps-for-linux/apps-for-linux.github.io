@@ -5,7 +5,10 @@ date: 2024-10-24T16:27:00Z
 categories: ["Games"]
 authors:
 - "Prism Launcher Contributors"
-tags: ["Official"]
+tags: 
+- "Minecraft launcher"
+- "Gaming on Linux"
+License: GPL-3.0
 draft: false
 ---
 
