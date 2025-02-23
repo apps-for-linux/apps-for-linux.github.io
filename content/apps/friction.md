@@ -6,7 +6,8 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Friction contributors"
-tags: ["Official"]
+tags: 
+- "2D"
 draft: false
 ---
 

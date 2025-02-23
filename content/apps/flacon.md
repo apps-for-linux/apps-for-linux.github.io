@@ -6,7 +6,8 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "Flacon team"
-tags: ["Official"]
+tags: 
+- "CD ripper"
 draft: false
 ---
 

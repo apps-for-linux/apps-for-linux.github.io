@@ -6,7 +6,9 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Nico Jensch"
-tags: ["Official"]
+tags: 
+- "Browser"
+- "Firefox-based"
 draft: false
 ---
 

@@ -5,7 +5,9 @@ date: 2024-10-11T11:11:00Z
 categories: ["Finance"]
 authors:
 - "Feather Wallet"
-tags: ["Official"]
+tags: 
+- "Cryptocurrency"
+License: BSD-3-Clause
 draft: false
 ---
 

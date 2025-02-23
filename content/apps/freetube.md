@@ -6,7 +6,8 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "FreeTube Authors"
-tags: ["Official"]
+tags: 
+- "Youtube client"
 draft: false
 ---
 

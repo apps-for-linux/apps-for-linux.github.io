@@ -6,7 +6,9 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Wavebox"
-tags: "Official"
+tags: 
+- "Web apps"
+- "Browser"
 License: EULA
 draft: false
 ---

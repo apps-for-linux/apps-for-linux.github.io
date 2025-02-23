@@ -5,7 +5,8 @@ date: 2022-12-26T08:48:00Z
 categories: ["Games"]
 authors:
 - "FLARE Team"
-tags: ["Official"]
+tags: 
+- "Gaming on Linux"
 draft: false
 ---
 

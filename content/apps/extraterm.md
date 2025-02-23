@@ -6,7 +6,8 @@ categories: ["System"]
 showAuthor: true
 authors:
 - "Simon Edwards"
-tags: ["Official"]
+tags: 
+- "Terminal"
 draft: false
 ---
 

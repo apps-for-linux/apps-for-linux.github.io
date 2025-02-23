@@ -6,7 +6,8 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Roman Chugunov"
-tags: ["Community"]
+tags: 
+- "UX/UI software"
 draft: false
 ---
 

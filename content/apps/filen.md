@@ -6,7 +6,8 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Filen-Cloud-Dienste"
-tags: ["Official"]
+tags: 
+- "Cloud client"
 draft: false
 ---
 

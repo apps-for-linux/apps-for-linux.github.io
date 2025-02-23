@@ -6,7 +6,10 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "Jeff"
-tags: ["Official"]
+tags: 
+- "Self-hosted"
+- "Music streaming client"
+License: GPL-3.0
 draft: false
 ---
 

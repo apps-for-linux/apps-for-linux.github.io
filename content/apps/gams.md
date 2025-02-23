@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "GAMS Development"
-tags: ["Official"]
+tags: 
+- "Algebra"
+- "Mathematical models"
 draft: false
 ---
 

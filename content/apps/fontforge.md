@@ -6,7 +6,8 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "FontForge Project contributors"
-tags: "Font editor"
+tags: 
+- "Font editor"
 License: GPL-3.0
 draft: false
 ---

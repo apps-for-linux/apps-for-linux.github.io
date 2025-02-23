@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Ferdium Team"
-tags: ["Official"]
+tags: 
+- "Web apps"
+- "Browser"
+License: Apache-2.0
 draft: false
 ---
 

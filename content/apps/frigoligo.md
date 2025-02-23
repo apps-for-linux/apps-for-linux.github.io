@@ -6,7 +6,8 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Martin Chaine"
-tags: ["Official"]
+tags: 
+- ["Bookmark manager"]
 draft: false
 ---
 
@@ -20,5 +21,5 @@ Source code: <https://github.com/casimir/frigoligo>
 
 Translate: <https://hosted.weblate.org/engage/frigoligo>  
 Report the bug: <https://github.com/casimir/frigoligo/issues/new>  
-Download:   x86_64: <https://github.com/casimir/frigoligo/releases/download/v2.3.0/Frigoligo-v2.3.0-x86_64.AppImage>
-            arm64: <https://github.com/casimir/frigoligo/releases/download/v2.3.0/Frigoligo-v2.3.0-aarch64.AppImage>
+Download:   x86_64: <https://github.com/casimir/frigoligo/releases/download/v2.3.1/Frigoligo-v2.3.1-aarch64.AppImage>
+            arm64: <https://github.com/casimir/frigoligo/releases/download/v2.3.1/Frigoligo-v2.3.1-x86_64.AppImage>

@@ -6,7 +6,8 @@ categories: ["Science"]
 showAuthor: true
 authors:
 - "OPENGIS.ch"
-tags: "Official"
+tags: 
+- "Geodata"
 License: GPL-2.0
 draft: false
 ---

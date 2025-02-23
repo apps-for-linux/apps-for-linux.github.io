@@ -6,7 +6,8 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "Balena"
-tags: ["Official"]
+tags: 
+- "Flashing software"
 draft: false
 ---
 

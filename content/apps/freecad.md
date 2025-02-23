@@ -6,7 +6,8 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "The FreeCAD Team"
-tags: ["Official"]
+tags: 
+- "CAD"
 draft: false
 ---
 
