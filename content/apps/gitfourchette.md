@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Iliyas Jorio"
-tags: ["Official"]
+tags: 
+- "Git client"
+License: GPL-3.0
 draft: false
 ---
 

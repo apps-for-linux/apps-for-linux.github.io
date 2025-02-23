@@ -8,7 +8,7 @@ authors:
 tags:
 - "Epic Games"
 - "Legendary"
-- "Gaming On Linux"
+
 draft: false
 ---
 

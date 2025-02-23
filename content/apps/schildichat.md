@@ -9,6 +9,7 @@ authors:
 tags:
 - "Matrix"
 - "IM"
+License: Apache-2.0
 draft: false
 ---
 
@@ -16,7 +17,7 @@ draft: false
 
 Matrix client / Element Desktop fork
 
-License: Apache-2.0 license
+License: Apache-2.0
 
 Web page: <https://schildi.chat/desktop>  
 Source code: <https://github.com/SchildiChat/schildichat-desktop>

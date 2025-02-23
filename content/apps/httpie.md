@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "HTTPie"
-tags: ["Official"]
+tags:
+- "API Testing"
+License: EULA
 draft: false
 ---
 

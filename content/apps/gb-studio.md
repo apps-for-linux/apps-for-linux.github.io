@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Chris Maltby"
-tags: ["Official"]
+tags: 
+- "Game development"
+License: MIT
 draft: false
 ---
 {{< carousel images="{https://www.gbstudio.dev/img/home/screenshot_win_1_v4.png}" >}}

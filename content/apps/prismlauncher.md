@@ -7,7 +7,7 @@ authors:
 - "Prism Launcher Contributors"
 tags: 
 - "Minecraft launcher"
-- "Gaming on Linux"
+
 License: GPL-3.0
 draft: false
 ---

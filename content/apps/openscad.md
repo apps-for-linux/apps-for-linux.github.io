@@ -1,7 +1,7 @@
 ---
 title: "OpenSCAD"
 summary: "The Programmers Solid 3D CAD Modeller"
-date: 2025-01-25T20:27:00Z
+date: 2025-02-23T02:08:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
@@ -23,4 +23,7 @@ Source code: <https://github.com/openscad/openscad>
 Become a sponsor: <https://github.com/sponsors/openscad>  
 Translate: <https://wiki.documentfoundation.org/Language>  
 Report the bug: <https://github.com/openscad/openscad/issues/new>  
-Download: <https://files.openscad.org/snapshots/OpenSCAD-2025.01.25.ai22898-x86_64.AppImage>
+
+{{< button href="https://files.openscad.org/snapshots/OpenSCAD-2025.02.23.ai23652-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

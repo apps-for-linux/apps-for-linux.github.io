@@ -6,7 +6,8 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "GIMP’s Team"
-tags: ["Official"]
+tags: 
+- "Image editing"
 draft: false
 ---
 

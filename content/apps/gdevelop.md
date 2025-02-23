@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Florian Rival"
-tags: ["Official"]
+tags:
+- "Game development"
+License: MIT
 draft: false
 ---
 

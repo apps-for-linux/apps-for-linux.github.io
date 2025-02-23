@@ -8,7 +8,7 @@ authors:
 tags: 
 - "Game launcher"
 - "Minecraft launcher"
-- "Gaming on Linux"
+
 License: GPL-3.0
 draft: false
 ---

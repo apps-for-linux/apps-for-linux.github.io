@@ -7,7 +7,7 @@ authors:
 - "DavidoTek"
 tags: 
 - "Wine version manager"
-- "Gaming on Linux"
+
 draft: false
 ---
 

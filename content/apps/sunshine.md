@@ -7,7 +7,7 @@ authors:
 - "LizardByte"
 tags: 
 - "Streaming software"
-- "Gaming On Linux"
+
 draft: false
 ---
 

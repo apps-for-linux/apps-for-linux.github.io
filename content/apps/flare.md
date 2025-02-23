@@ -6,7 +6,7 @@ categories: ["Games"]
 authors:
 - "FLARE Team"
 tags: 
-- "Gaming on Linux"
+
 draft: false
 ---
 

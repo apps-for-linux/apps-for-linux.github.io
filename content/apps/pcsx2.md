@@ -8,7 +8,7 @@ authors:
 tags:
 - "PlayStation Emulator"
 - "Game Emulator"
-- "Gaming on Linux"
+
 License: GPL-3.0
 draft: false
 ---

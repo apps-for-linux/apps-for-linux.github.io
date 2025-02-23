@@ -8,7 +8,7 @@ authors:
 tags: 
 - "Gamepad"
 - "Gaming controllers"
-- "Gaming on Linux"
+
 License: GPL-3.0
 draft: false
 ---

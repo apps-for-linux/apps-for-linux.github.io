@@ -8,7 +8,7 @@ authors:
 tags: 
 - "Xbox emulator"
 - "Game emulator"
-- "Gaming On Linux"
+
 draft: false
 ---
 

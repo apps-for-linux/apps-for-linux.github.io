@@ -5,8 +5,10 @@ date: 2024-06-28T11:01:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
-- Toby Suggate"]
-tags: ["Official"]
+- Toby Suggate"
+tags: 
+- "Git client"
+License: Unknown
 draft: false
 ---
 

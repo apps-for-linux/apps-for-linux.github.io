@@ -6,7 +6,7 @@ categories: ["Games"]
 authors:
 - "diasurgical"
 tags: 
-- "Gaming On Linux"
+
 License: Custom
 draft: false
 ---

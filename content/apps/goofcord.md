@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Milkshift"
-tags: ["Official"]
+tags: 
+- "Messenger"
+- "Discord client"
+License: OSL-3.0
 draft: false
 ---
 

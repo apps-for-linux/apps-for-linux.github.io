@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "GitButler"
-tags: ["Official"]
+tags: 
+- "Git client"
+License: FSL-1.0-MIT
 draft: false
 ---
 

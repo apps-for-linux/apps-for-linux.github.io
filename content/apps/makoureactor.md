@@ -6,7 +6,7 @@ categories: ["Games"]
 authors:
 - "Jérôme Arzel"
 tags: 
-- "Gaming On Linux"
+
 License: GPL-3.0
 draft: false
 ---

@@ -8,7 +8,7 @@ authors:
 tags: 
 - "Sega Emulator"
 - "Game Emulator"
-- "Gaming On Linux"
+
 draft: false
 ---
 

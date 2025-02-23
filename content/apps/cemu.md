@@ -7,7 +7,7 @@ authors:
 - "Cemu Project"
 tags: 
 - "Game Emulator"
-- "Wii"
+- "Nintendo Emulator"
 License: MPL-2.0
 draft: false
 ---

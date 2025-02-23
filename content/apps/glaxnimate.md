@@ -6,7 +6,9 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Mattia Basaglia"
-tags: ["Official"]
+tags: 
+- "2D"
+License: GPL-3.0
 draft: false
 ---
 

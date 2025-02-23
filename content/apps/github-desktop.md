@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Brendan Forster"
-tags: ["Community"]
+tags: 
+- "Git client"
+- "GitHub client"
 draft: false
 ---
 

@@ -7,7 +7,7 @@ authors:
 - "Street Pea"
 tags: 
 - "PlayStation"
-- "Gaming On Linux"
+- "Remote control"
 License: AGPL-3.0
 draft: false
 ---

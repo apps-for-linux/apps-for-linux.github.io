@@ -6,7 +6,7 @@ categories: ["Games"]
 authors:
 - "Michael Rosack"
 tags: 
-- "Gaming on Linux"
+
 License: MIT
 draft: false
 ---

@@ -8,7 +8,7 @@ authors:
 tags: 
 - "Game emulator"
 - "Nintendo emulator"
-- "Gaming on Linux"
+
 License: MIT
 draft: false
 ---

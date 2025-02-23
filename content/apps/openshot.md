@@ -22,4 +22,7 @@ Source code: <https://github.com/OpenShot/openshot-qt>
 Become a sponsor: <https://www.openshot.org/donate>  
 Translate: <https://translations.launchpad.net/openshot/2.0/+translations>  
 Report the bug: <https://github.com/OpenShot/openshot-qt/issues/new>  
-Download: <https://github.com/OpenShot/openshot-qt/releases/download/v3.3.0/OpenShot-v3.3.0-x86_64.AppImage>
+
+{{< button href="https://github.com/OpenShot/openshot-qt/releases/download/v3.3.0/OpenShot-v3.3.0-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

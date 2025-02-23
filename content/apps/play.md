@@ -8,7 +8,7 @@ authors:
 tags:
 - "PlayStation Emulator"
 - "Game Emulator"
-- "Gaming on Linux"
+
 License: BSD-2-Clause
 draft: false
 ---

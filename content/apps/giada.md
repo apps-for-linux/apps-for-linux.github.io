@@ -6,7 +6,7 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "monocasual laboratories"
-tags: ["Official"]
+tags: "Loop machine"
 draft: false
 ---
 

@@ -6,7 +6,8 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "the Cartero authors"
-tags: ["API Testing"]
+tags: 
+- "API Testing"
 draft: false
 ---
 

@@ -6,7 +6,7 @@ categories: ["Games"]
 authors:
 - "Peer Meyer"
 tags:
-- "Gaming on Linux"
+
 License: GPL-3.0
 draft: false
 ---
