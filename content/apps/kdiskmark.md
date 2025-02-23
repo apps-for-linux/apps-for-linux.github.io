@@ -6,7 +6,10 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "Dmitry Sidorov"
-tags: ["Official"]
+tags: 
+- "Benchmarking"
+- "Resource monitor"
+License: GPL-3.0
 draft: false
 ---
 

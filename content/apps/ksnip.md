@@ -6,7 +6,9 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Damir Porobić"
-tags: ["Official"]
+tags: 
+- "Screenshot tool"
+License: GPL-3.0
 draft: false
 ---
 

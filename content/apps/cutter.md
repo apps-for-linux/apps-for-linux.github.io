@@ -8,6 +8,7 @@ authors:
 - "Rizin"
 tags: 
 - "Reverse Engineering"
+License: GPL-3.0
 draft: false
 ---
 

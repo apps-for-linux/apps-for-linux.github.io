@@ -8,7 +8,7 @@ authors:
 - "Zen Browser Team"
 tags: 
 - "Browser"
-- "Firefox"
+- "Firefox-based"
 License: MPL-2.0
 draft: false
 ---

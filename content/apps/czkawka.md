@@ -8,6 +8,7 @@ authors:
 - "Rafał Mikrut"
 tags: 
 - "System cleaner"
+License: MIT
 draft: false
 ---
 

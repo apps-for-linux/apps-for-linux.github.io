@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Delta Chat contributors"
-tags: ["Official"]
+tags: 
+- "Messenger"
+- "eMail client"
+License: GPL-3.0
 draft: false
 ---
 

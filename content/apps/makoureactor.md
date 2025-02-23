@@ -5,7 +5,9 @@ date: 2024-07-18T22:36:00Z
 categories: ["Games"]
 authors:
 - "Jérôme Arzel"
-tags: ["Official"]
+tags: 
+- "Gaming On Linux"
+License: GPL-3.0
 draft: false
 ---
 

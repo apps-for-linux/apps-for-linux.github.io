@@ -8,9 +8,8 @@ authors:
 - "Pranay Sanghai"
 tags:
 - "Messenger"
-- "Discord"
-- "Firefox"
-- "Messenger"
+- "Discord Client"
+- "Firefox-based"
 draft: false
 ---
 

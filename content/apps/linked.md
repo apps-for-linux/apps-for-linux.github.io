@@ -6,7 +6,10 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "André Weller"
-tags: ["Official"]
+tags: 
+- "Jorunaling"
+- "Notes"
+License: GPL-3.0
 draft: false
 ---
 

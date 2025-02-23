@@ -6,7 +6,10 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "LibreCAD Contributors"
-tags: ["Official"]
+tags: 
+- "2D"
+- "CAD"
+License: GPL-3.0
 draft: false
 ---
 

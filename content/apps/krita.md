@@ -6,7 +6,10 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Stichting Krita Foundation"
-tags: ["Official"]
+tags: 
+- "Painting tool"
+- "Photo editor"
+License: GPL-3.0
 draft: false
 ---
 

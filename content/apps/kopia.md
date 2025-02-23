@@ -6,7 +6,9 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Kopia Authors"
-tags: ["Official"]
+tags: 
+- "Backup tool"
+License: Apache-2.0
 draft: false
 ---
 

@@ -6,7 +6,9 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "JGraph"
-tags: ["Official"]
+tags:
+- "Diagramming tool"
+License: Apache-2.0
 draft: false
 ---
 

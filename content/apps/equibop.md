@@ -6,7 +6,9 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Equicord"
-tags: ["Official"]
+tags: 
+- "Messenger"
+- "Discord client"
 draft: false
 ---
 

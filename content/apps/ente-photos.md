@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Ente"
-tags: ["Official"]
+tags: 
+- "Photo Management"
+- "Cloud client"
+License: GPL-3.0
 draft: false
 ---
 

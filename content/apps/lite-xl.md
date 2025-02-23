@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Lite XL Team"
-tags: ["Official"]
+tags: 
+- "Code editor"
+License: MIT
 draft: false
 ---
 

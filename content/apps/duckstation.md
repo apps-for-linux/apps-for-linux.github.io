@@ -5,7 +5,11 @@ date: 2025-02-07T18:56:00Z
 categories: ["Games"]
 authors:
 - "Connor McLaughlin"
-tags: ["Official"]
+tags: 
+- "Game emulator"
+- "PlayStation Emulator"
+- "Gaming On Linux"
+License: GPL-3.0
 draft: false
 ---
 

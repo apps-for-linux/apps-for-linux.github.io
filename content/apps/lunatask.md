@@ -6,7 +6,10 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Michal Krejci"
-tags: ["Official"]
+tags: 
+- "Notes"
+- "To-do list"
+License: EULA
 draft: false
 ---
 

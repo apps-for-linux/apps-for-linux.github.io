@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "OpenLens Authors"
-tags: ["Official"]
+tags: 
+- "IDE"
+License: MIT
 draft: false
 ---
 

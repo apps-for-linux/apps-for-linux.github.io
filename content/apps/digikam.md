@@ -6,7 +6,9 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "digiKam Team"
-tags: ["Official"]
+tags: 
+- "Photo Management"
+License: GPL-2.0
 draft: false
 ---
 

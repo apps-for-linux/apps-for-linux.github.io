@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Elsevier"
-tags: ["Official"]
+tags: 
+- "Reference manager"
+License: EULA
 draft: false
 ---
 

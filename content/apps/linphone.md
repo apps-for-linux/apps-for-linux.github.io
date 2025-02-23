@@ -6,7 +6,9 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Belledonne Communications"
-tags: ["Official"]
+tags: 
+- "SIP Phone"
+- "Conference calling"
 draft: false
 ---
 

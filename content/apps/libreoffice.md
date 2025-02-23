@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "The Document Foundation"
-tags: ["Community"]
+tags: 
+- "Office Suite"
+License: GPL-3.0
 draft: false
 ---
 

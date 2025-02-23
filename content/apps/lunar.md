@@ -5,7 +5,11 @@ date: 2024-06-15T04:15:00Z
 categories: ["Games"]
 authors:
 - "Moonsworth"
-tags: ["Official"]
+tags: 
+- "Game launcher"
+- "Minecraft launcher"
+- "Gaming on Linux"
+License: GPL-3.0
 draft: false
 ---
 

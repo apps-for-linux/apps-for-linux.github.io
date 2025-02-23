@@ -6,7 +6,7 @@ categories: ["Finance"]
 authors:
 - "Alephium Team"
 tags: 
-- "Cryptocurrency"
+-   "Cryptocurrency"
 License: LGPL-3.0
 draft: false
 ---

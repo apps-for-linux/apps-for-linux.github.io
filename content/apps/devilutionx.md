@@ -5,7 +5,9 @@ date: 2025-02-08T23:47:00Z
 categories: ["Games"]
 authors:
 - "diasurgical"
-tags: ["Official"]
+tags: 
+- "Gaming On Linux"
+License: Custom
 draft: false
 ---
 

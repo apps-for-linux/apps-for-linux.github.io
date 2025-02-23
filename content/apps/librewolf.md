@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "LibreWolf"
-tags: ["Official"]
+tags: 
+- "Firefox-based"
+- "Browser"
+License: MPL-2.0
 draft: false
 ---
 

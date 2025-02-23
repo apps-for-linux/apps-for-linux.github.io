@@ -6,7 +6,10 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "LMMS"
-tags: ["Official"]
+tags: 
+- "DAW"
+- "Audio Editor"
+License: GPL-2.0
 draft: false
 ---
 

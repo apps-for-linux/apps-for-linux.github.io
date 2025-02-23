@@ -6,7 +6,10 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Pablo Ivan Fonovich"
-tags: ["Official"]
+tags: 
+- "Gaming tool"
+- "Game development"
+License: GPL-3.0
 draft: false
 ---
 

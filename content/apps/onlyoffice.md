@@ -7,7 +7,7 @@ showAuthor: true
 authors:
 - "Ascensio System"
 tags: 
-- "Office Software"
+- "Office Suite"
 License: AGPL-3.0
 draft: false
 ---

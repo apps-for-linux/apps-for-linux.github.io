@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "KOReader Community"
-tags: ["Official"]
+tags:
+- "eBook reader"
+License: AGPL-3.0
 draft: false
 ---
 

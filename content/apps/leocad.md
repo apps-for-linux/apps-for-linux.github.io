@@ -6,7 +6,9 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Leonardo Zide"
-tags: ["Official"]
+tags: 
+- "CAD"
+License: GPL-2.0
 draft: false
 ---
 

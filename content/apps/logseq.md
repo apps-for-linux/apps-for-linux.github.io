@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Logseq"
-tags: ["Official"]
+tags: 
+- "Knowledge base"
+License: AGPL-3.0
 draft: false
 ---
 

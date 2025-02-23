@@ -5,7 +5,10 @@ date: 2024-12-26T00:41:00Z
 categories: ["Games"]
 authors:
 - "Rinth"
-tags: ["Official"]
+tags: 
+- "Gaming tool"
+- "Mod marketplace"
+License: AGPL-3.0
 draft: false
 ---
 

@@ -6,7 +6,9 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Tien Do Nam"
-tags: ["Official"]
+tags: 
+- "Sending files"
+License: MIT
 draft: false
 ---
 

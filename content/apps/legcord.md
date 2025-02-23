@@ -6,7 +6,10 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Legcord"
-tags: ["Official"]
+tags:
+- "Messenger" 
+- "Discord client"
+License: OSL-3.0
 draft: false
 ---
 

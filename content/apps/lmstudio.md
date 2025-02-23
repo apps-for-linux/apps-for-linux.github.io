@@ -6,11 +6,10 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "LM Studio Team"
-tags: ["Official"]
+tags: ["AI-powered software"]
+License: EULA
 draft: false
 ---
-
-{{< carousel images="{https://lmstudio.ai/_next/static/media/hero-still.3dc1eab6.png}" >}}
 
 Discover, download, and run local LLMs
 

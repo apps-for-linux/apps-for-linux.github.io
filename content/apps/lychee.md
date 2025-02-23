@@ -6,7 +6,10 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Mango 3D"
-tags: ["Official"]
+tags: 
+- "3D"
+- "Slicing software"
+License: EULA
 draft: false
 ---
 

@@ -6,7 +6,9 @@ categories: ["Productivity"]
 showAuthor: true
 authors:
 - "Mochi Cards"
-tags: ["Official"]
+tags: 
+- "Notes"
+License: EULA
 draft: false
 ---
 

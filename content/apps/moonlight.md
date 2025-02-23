@@ -5,7 +5,9 @@ date: 2024-09-17T04:35:00Z
 categories: ["Games"]
 authors:
 - "Moonlight Game Streaming Project"
-tags: ["Official"]
+tags: 
+- "Steaming games"
+License: GPL-3.0
 draft: false
 ---
 

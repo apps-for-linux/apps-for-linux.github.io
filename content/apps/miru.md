@@ -6,7 +6,9 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Cas"
-tags: ["Official"]
+tags: 
+- "Anime"
+License: GPL-3.0
 draft: false
 ---
 
