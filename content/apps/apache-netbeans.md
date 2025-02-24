@@ -8,7 +8,7 @@ authors:
 - "Codelerity"
 tags: 
 - "IDE"
-License: Apache-2.0
+license: "Apache-2.0"
 draft: false
 ---
 

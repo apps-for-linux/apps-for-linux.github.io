@@ -9,7 +9,7 @@ authors:
 tags:
 - "Matrix"
 - "IM"
-License: Apache-2.0
+license: "Apache-2.0"
 draft: false
 ---
 

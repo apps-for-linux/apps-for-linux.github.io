@@ -8,7 +8,7 @@ authors:
 - "Stellarium contributors"
 tags: 
 - "Planetarium"
-License: GPL-2.0
+license: "GPL-2.0"
 draft: false
 ---
 

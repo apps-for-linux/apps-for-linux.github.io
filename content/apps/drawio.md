@@ -8,7 +8,7 @@ authors:
 - "JGraph"
 tags:
 - "Diagramming tool"
-License: Apache-2.0
+license: "Apache-2.0"
 draft: false
 ---
 

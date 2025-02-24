@@ -9,7 +9,7 @@ authors:
 tags: 
 - "DTP"
 - "Publishing"
-License: GPL-2.0
+license: "GPL-2.0"
 draft: false
 ---
 

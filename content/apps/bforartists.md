@@ -8,7 +8,7 @@ authors:
 - "Reiner Prokein"
 tags: 
 - "3D"
-License: GPL-2.0
+license: "GPL-2.0"
 draft: false
 ---
 

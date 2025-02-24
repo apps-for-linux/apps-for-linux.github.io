@@ -7,7 +7,7 @@ categories: ["Games"]
 authors:
 - "86box"
 tags: ["Official"]
-License: GPL-2.0
+license: "GPL-2.0"
 draft: false
 ---
 

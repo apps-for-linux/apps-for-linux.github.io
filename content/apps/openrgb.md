@@ -8,7 +8,7 @@ authors:
 - "Adam Honse"
 tags:
 - "Hardware controller"
-License: GPL-2.0
+license: "GPL-2.0"
 draft: false
 ---
 

@@ -9,7 +9,7 @@ authors:
 tags: 
 - "Torrent"
 - "Download manager"
-License: GPL-2.0
+license: "GPL-2.0"
 draft: false
 ---
 

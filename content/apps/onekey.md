@@ -7,7 +7,7 @@ authors:
 - "OneKey"
 tags: 
 - "Cryptocurrency"
-License: Apache-2.0
+license: "Apache-2.0"
 draft: false
 ---
 

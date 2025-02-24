@@ -8,7 +8,7 @@ authors:
 - "Robert Kausch"
 tags:
 - "Audio Converter"
-License: GPL-2.0
+license: "GPL-2.0"
 draft: false
 ---
 

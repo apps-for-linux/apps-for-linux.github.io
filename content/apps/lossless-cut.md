@@ -8,7 +8,7 @@ authors:
 - "Mikael Finstad"
 tags: 
 - "Video editor"
-License: GPL-2.0
+license: "GPL-2.0"
 draft: false
 ---
 

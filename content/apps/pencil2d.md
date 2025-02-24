@@ -8,7 +8,7 @@ authors:
 - "Pencil2D"
 tags:
 - "2D"
-License: GPL-2.0
+license: "GPL-2.0"
 draft: false
 ---
 
