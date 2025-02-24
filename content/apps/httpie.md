@@ -8,7 +8,7 @@ authors:
 - "HTTPie"
 tags:
 - "API Testing"
-License: EULA
+license: "EULA"
 draft: false
 ---
 

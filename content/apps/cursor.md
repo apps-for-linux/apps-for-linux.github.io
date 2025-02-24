@@ -9,7 +9,7 @@ authors:
 tags: 
 - "AI-powered software"
 - "Code editor"
-License: EULA
+license: "EULA"
 draft: false
 ---
 

@@ -9,7 +9,7 @@ authors:
 tags: 
 - "Notes"
 - "To-do list"
-License: EULA
+license: "EULA"
 draft: false
 ---
 

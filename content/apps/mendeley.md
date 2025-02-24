@@ -8,7 +8,7 @@ authors:
 - "Elsevier"
 tags: 
 - "Reference manager"
-License: EULA
+license: "EULA"
 draft: false
 ---
 

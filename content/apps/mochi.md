@@ -8,7 +8,7 @@ authors:
 - "Mochi Cards"
 tags: 
 - "Notes"
-License: EULA
+license: "EULA"
 draft: false
 ---
 

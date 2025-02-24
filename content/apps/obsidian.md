@@ -8,7 +8,7 @@ authors:
 - "Obsidian Team"
 tags: 
 - "Knowledge Base"
-License: EULA
+license: "EULA"
 draft: false
 ---
 

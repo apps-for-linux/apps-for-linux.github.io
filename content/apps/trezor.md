@@ -7,7 +7,7 @@ authors:
 - "Trezor company"
 tags: 
 - "Cryptocurrency"
-License: Custom
+license: "Custom"
 draft: false
 ---
 

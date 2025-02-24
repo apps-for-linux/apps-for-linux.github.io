@@ -8,7 +8,7 @@ authors:
 - "Anytype"
 tags: 
 - "Knowledge base"
-License: Custom
+license: "Custom"
 draft: false
 ---
 

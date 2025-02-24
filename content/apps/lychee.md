@@ -9,7 +9,7 @@ authors:
 tags: 
 - "3D"
 - "Slicing software"
-License: EULA
+license: "EULA"
 draft: false
 ---
 

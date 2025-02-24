@@ -7,7 +7,7 @@ showAuthor: true
 authors:
 - "LM Studio Team"
 tags: ["AI-powered software"]
-License: EULA
+license: "EULA"
 draft: false
 ---
 

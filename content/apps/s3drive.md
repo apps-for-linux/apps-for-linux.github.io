@@ -7,7 +7,7 @@ showAuthor: true
 authors:
 - "Cloud storage"
 tags: ["Official"]
-License: EULA
+license: "EULA"
 draft: false
 ---
 

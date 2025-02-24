@@ -9,7 +9,7 @@ authors:
 tags: 
 - "3D"
 - "Assets Manager"
-License: EULA
+license: "EULA"
 draft: false
 ---
 
