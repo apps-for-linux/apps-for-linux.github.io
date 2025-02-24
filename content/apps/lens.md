@@ -8,7 +8,7 @@ authors:
 - "OpenLens Authors"
 tags: 
 - "IDE"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

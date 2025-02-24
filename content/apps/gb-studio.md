@@ -8,7 +8,7 @@ authors:
 - "Chris Maltby"
 tags: 
 - "Game development"
-License: MIT
+license: "MIT"
 draft: false
 ---
 {{< carousel images="{https://www.gbstudio.dev/img/home/screenshot_win_1_v4.png}" >}}

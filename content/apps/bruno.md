@@ -9,7 +9,7 @@ authors:
 tags: 
 - "API Testing"
 - "IDE"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

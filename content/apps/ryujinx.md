@@ -9,7 +9,7 @@ tags:
 - "Game emulator"
 - "Nintendo emulator"
 
-License: MIT
+license: "MIT"
 draft: false
 ---
 

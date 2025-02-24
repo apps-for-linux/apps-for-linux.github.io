@@ -7,7 +7,7 @@ authors:
 - "James Long"
 tags: 
 - "Budget software"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

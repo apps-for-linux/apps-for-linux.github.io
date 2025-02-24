@@ -9,7 +9,7 @@ authors:
 tags: 
 - "2D"
 - "CAD"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

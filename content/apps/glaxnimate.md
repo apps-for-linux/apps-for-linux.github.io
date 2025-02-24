@@ -8,7 +8,7 @@ authors:
 - "Mattia Basaglia"
 tags: 
 - "2D"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

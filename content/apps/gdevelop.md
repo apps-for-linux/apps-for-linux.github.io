@@ -8,7 +8,7 @@ authors:
 - "Florian Rival"
 tags:
 - "Game development"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

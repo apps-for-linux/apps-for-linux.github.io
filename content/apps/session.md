@@ -9,7 +9,7 @@ authors:
 tags: 
 - "Messenger"
 - "Censorship-resistance software"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

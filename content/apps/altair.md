@@ -8,7 +8,7 @@ authors:
 - "Samuel Imolorhe"
 tags: 
 - "GraphQL"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

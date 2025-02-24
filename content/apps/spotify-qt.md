@@ -9,7 +9,7 @@ authors:
 tags: 
 - "Music streaming client"
 - "Spotify"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

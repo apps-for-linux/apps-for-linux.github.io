@@ -8,7 +8,7 @@ authors:
 - "Lite XL Team"
 tags: 
 - "Code editor"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

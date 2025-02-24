@@ -8,7 +8,7 @@ authors:
 - "Aaryan Kapoor"
 tags: 
 - "Music player"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

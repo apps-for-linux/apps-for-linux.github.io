@@ -8,7 +8,7 @@ authors:
 - "Maxime Schmitt"
 tags: 
 - "Resource Monitor"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

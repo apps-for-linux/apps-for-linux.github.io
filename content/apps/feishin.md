@@ -9,7 +9,7 @@ authors:
 tags: 
 - "Self-hosted"
 - "Music streaming client"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

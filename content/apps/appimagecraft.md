@@ -8,7 +8,7 @@ authors:
 - "TheAssassin"
 tags: 
 - "AppImage"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

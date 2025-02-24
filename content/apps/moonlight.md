@@ -7,7 +7,7 @@ authors:
 - "Moonlight Game Streaming Project"
 tags: 
 - "Steaming games"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

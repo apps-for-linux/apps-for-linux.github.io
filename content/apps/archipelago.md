@@ -6,7 +6,7 @@ categories: ["Games"]
 authors:
 - "Archipelago"
 tags: ["Game Engine"]
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

@@ -8,7 +8,7 @@ authors:
 - "Tien Do Nam"
 tags: 
 - "Sending files"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

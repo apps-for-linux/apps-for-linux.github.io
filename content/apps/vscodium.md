@@ -9,7 +9,7 @@ authors:
 tags: 
 - "Text editor"
 - "VSCode fork"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

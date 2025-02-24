@@ -9,7 +9,7 @@ authors:
 tags: 
 - "Deezer"
 - "Music Streaming"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

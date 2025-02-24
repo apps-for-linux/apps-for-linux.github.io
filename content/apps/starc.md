@@ -8,7 +8,7 @@ authors:
 - "Story Apps"
 tags: 
 - "Screenwriting"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

@@ -7,7 +7,7 @@ showAuthor: true
 authors:
 - "TOEVERYTHING"
 tags: ["KnowledgeBase"]
-License: MIT
+license: "MIT"
 draft: false
 ---
 

@@ -9,7 +9,7 @@ authors:
 tags: 
     - "Sandbox"
     - "AppImage"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

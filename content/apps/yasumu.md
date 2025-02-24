@@ -8,7 +8,7 @@ authors:
 - "Yasumu Developers"
 tags: 
 - "API Testing"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

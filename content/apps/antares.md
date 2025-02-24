@@ -8,7 +8,7 @@ authors:
 - "Fabio Di Stasio"
 tags: 
 - "SQL"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

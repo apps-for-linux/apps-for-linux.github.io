@@ -8,7 +8,7 @@ authors:
 - "Cas"
 tags: 
 - "Anime"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

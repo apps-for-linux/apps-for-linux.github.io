@@ -9,7 +9,7 @@ authors:
 tags: 
 - "Music streaming client"
 - "YouTube Music Client"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

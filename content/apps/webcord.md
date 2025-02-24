@@ -9,7 +9,7 @@ authors:
 tags: 
 - "Messenger"
 - "Discord client"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

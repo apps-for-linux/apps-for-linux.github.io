@@ -8,7 +8,7 @@ authors:
 - "FontForge Project contributors"
 tags: 
 - "Font editor"
-License: GPL-3.0
+license: "GPL-3.0"
 draft: false
 ---
 

@@ -9,7 +9,7 @@ authors:
 tags: 
 - "To-do"
 - "Agenda"
-License: MIT
+license: "MIT"
 draft: false
 ---
 

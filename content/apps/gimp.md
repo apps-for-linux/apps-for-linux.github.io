@@ -8,6 +8,7 @@ authors:
 - "GIMP’s Team"
 tags: 
 - "Image editing"
+license: "GPL-3.0"
 draft: false
 ---
 

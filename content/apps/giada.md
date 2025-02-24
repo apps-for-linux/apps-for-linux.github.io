@@ -6,7 +6,9 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "monocasual laboratories"
-tags: "Loop machine"
+tags: 
+- "Loop machine"
+license: "GPL-3.0"
 draft: false
 ---
 
