@@ -7,9 +7,9 @@
 ### 5. export link
 ### 6. replace link
 
-cd $HOME/apps-for-linux.github.io/src/content/apps
+cd $HOME/apps-for-linux.github.io/content/apps
 
-repo=$( cat *.md | grep "Download" | cut -c 31- | sed -r 's/releases.+//' | sed '$ s/.$//' )
+repo=$( cat *.md | grep "Download" | cut -c 31-+ | sed -r 's/releases.+//' | sed '$ s/.$//' )
 
 current_version=$(curl -s https://api.github.com/repos/"$repo"/releases/latest | grep "browser_download_url.*AppImage" | cut -d : -f 2,3 | tr -d \")
 previous_version=$(grep "Download" | cut -c12- | tr -d '>')
