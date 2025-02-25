@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#! /usr/bin/bash
 
 license=$(awk -F '[<>]' '/project_license/{print $3}' ./data/*.appdata.xml)
 author=$(awk -F '[<>]' '/developer_name/{print $3}' ./data*.appdata.xml | head -n1)
@@ -13,7 +13,7 @@ title=$(awk -F '[<>]' '/id/{print $3}' ./data*.appdata.xml | head -n1 | sed 's/\
 # gh_download=$(curl -s https://api.github.com/repos/"$source"/releases/latest | grep "browser_download_url.*AppImage" | cut -d : -f 2,3 | tr -d \"))
 # screenshot=$(cat ./data*.appdata.xml | grep "<image>" | head -n1 | tr -d '<>,' | cut -c5- )
 
-cat <<EOF> $title.md
+cat <<EOF> /content/apps/$title.md
 
 ---
 title: $title
