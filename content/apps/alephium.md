@@ -1,7 +1,7 @@
 ---
 title: "Alephium"
 summary: "The official Alephium desktop wallet."
-date: 2025-01-15T12:10:00Z
+date: 2025-02-27T23:57:00Z
 categories: ["Finance"]
 authors:
 - "Alephium Team"
@@ -20,7 +20,7 @@ Source code: <https://github.com/alephium/alephium-frontend>
 
 Translate: <https://crowdin.com/project/alephium>  
 Report the bug: <https://github.com/alephium/alephium-frontend/issues/new>  
-Download: <https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%402.5.1/Alephium-2.5.1.AppImage>
-{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+
+{{< button href="https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%403.0.0-rc.3/Alephium-3.0.0-rc.3.AppImage" target="_blank">}}
 Download
 {{< /button >}}
