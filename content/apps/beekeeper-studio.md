@@ -24,5 +24,5 @@ Source code: <https://github.com/beekeeper-studio/beekeeper-studio>
 
 Become a sponsor: <https://github.com/sponsors/beekeeper-studio>  
 Report the bug: <https://github.com/beekeeper-studio/beekeeper-studio/issues/new>  
-Download:   x86_64: <https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.1.0-beta.12/Beekeeper-Studio-5.1.0-beta.12.AppImage>  
-            arm64: <https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.1.0-beta.12/Beekeeper-Studio-5.1.0-beta.12-arm64.AppImage>
+Download:   x86_64: <https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.1.4/Beekeeper-Studio-5.1.4.AppImage>  
+            arm64: <https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.1.4/Beekeeper-Studio-5.1.4-arm64.AppImage>

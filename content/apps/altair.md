@@ -24,5 +24,5 @@ Source code: <https://github.com/altair-graphql/altair>
 Become a sponsor: <https://opencollective.com/altair>  
 Translate: <https://crwd.in/altair-gql>  
 Report the bug: <https://github.com/altair-graphql/altair/issues/new>  
-Download:   x86_64: <https://github.com/altair-graphql/altair/releases/download/v8.1.6/altair_8.1.6_x86_64_linux.AppImage>  
-            arm64: <https://github.com/altair-graphql/altair/releases/download/v8.1.6/altair_8.1.6_arm64_linux.AppImage>
+Download:   x86_64: <https://github.com/altair-graphql/altair/releases/download/v8.2.0/altair_8.2.0_x86_64_linux.AppImage>  
+            arm64: <https://github.com/altair-graphql/altair/releases/download/v8.2.0/altair_8.2.0_arm64_linux.AppImage>
