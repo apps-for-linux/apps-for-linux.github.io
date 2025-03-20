@@ -1,7 +1,7 @@
 ---
 title: "Beekeeper Studio"
 summary: "Beekeeper Studio is a cross-platform SQL editor and database manager"
-date: 2025-02-21T17:58:00Z
+date: 2025-03-12T19:23:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
@@ -24,5 +24,5 @@ Source code: <https://github.com/beekeeper-studio/beekeeper-studio>
 
 Become a sponsor: <https://github.com/sponsors/beekeeper-studio>  
 Report the bug: <https://github.com/beekeeper-studio/beekeeper-studio/issues/new>  
-Download:   x86_64: <https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.1.4/Beekeeper-Studio-5.1.4.AppImage>  
-            arm64: <https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.1.4/Beekeeper-Studio-5.1.4-arm64.AppImage>
+Download:   x86_64: <https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.1.5/Beekeeper-Studio-5.1.5.AppImage>  
+            arm64: <https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.1.5/Beekeeper-Studio-5.1.5-arm64.AppImage>

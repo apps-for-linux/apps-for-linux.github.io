@@ -1,7 +1,7 @@
 ---
 title: "Lossless-cut"
 summary: "Simple and ultra fast cross platform tool for lossless trimming/cutting of video and audio files."
-date: 2024-11-01T15:27:00Z
+date: 2024-03-19T08:32:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors:
@@ -11,6 +11,8 @@ tags:
 license: "GPL-2.0"
 draft: false
 ---
+
+{{< carousel images="{https://raw.githubusercontent.com/mifi/lossless-cut/refs/heads/master/main_screenshot.jpg}" >}}
 
 Simple and ultra fast cross platform tool for lossless trimming/cutting of video and audio files.
 
@@ -22,4 +24,7 @@ Source code: <https://github.com/mifi/lossless-cut>
 Become a sponsor: <https://github.com/sponsors/mifi>  
 Translate: <https://hosted.weblate.org/projects/losslesscut/losslesscut>  
 Report the bug: <https://github.com/mifi/lossless-cut/issues/new>  
-Download: <https://github.com/mifi/lossless-cut/releases/download/v3.64.0/LosslessCut-linux-x86_64.AppImage>
+
+{{< button href="https://github.com/mifi/lossless-cut/releases/download/v3.65.0/LosslessCut-linux-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}
