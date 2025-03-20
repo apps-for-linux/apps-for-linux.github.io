@@ -16,4 +16,4 @@ License: EULA
 
 Web page: <https://www.tominlab.com/en/wonderpen>
 
-Download: <https://file.tominlab.com/WonderPen/2.5/WonderPen_linux_x86_64_2.5.9(7612).AppImage>
+Download: <https://file.tominlab.com/WonderPen/2.5/WonderPen_linux_x86_64_2.5.11(7670).AppImage>

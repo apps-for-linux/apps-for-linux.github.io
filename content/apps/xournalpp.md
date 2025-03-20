@@ -1,7 +1,7 @@
 ---
 title: "Xournal++"
 summary: "Handwriting notetaking software with PDF annotation support"
-date: 2024-12-05T11:03:00Z
+date: 2025-02-19T23:01:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -25,6 +25,6 @@ Source code: <https://github.com/xournalpp/xournalpp>
 Translate: <https://crowdin.com/project/xournalpp>  
 Report the bug: <https://github.com/xournalpp/xournalpp/releases/issues/new>  
 
-{{< button href="https://github.com/xournalpp/xournalpp/releases/download/v1.2.5/xournalpp-1.2.5-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/xournalpp/xournalpp/releases/download/v1.2.6/xournalpp-1.2.6-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

@@ -23,6 +23,7 @@ Source code: <https://github.com/toeverything/AFFiNE>
 Become a sponsor: <https://github.com/sponsors/toeverything>  
 Translate: <https://crowdin.com/project/affine>  
 Report the bug: <https://github.com/toeverything/AFFiNE/issues>  
-{{< button href="https://github.com/toeverything/AFFiNE/releases/download/v0.20.0-canary.6/affine-0.20.0-canary.6-canary-linux-x64.appimage" target="_blank">}}
+
+{{< button href="https://github.com/toeverything/AFFiNE/releases/download/v0.21.0-canary.2/affine-0.21.0-canary.2-canary-linux-x64.appimage" target="_blank">}}
 Download
 {{< /button >}}

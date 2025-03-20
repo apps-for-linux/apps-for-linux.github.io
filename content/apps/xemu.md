@@ -21,5 +21,7 @@ Source code: <https://github.com/xemu-project/xemu>
 
 Become a sponsor: <https://www.patreon.com/mborgerson>  
 Report the bug: <https://github.com/xemu-project/xemu/issues/new>  
-Download: <https://github.com/xemu-project/xemu/releases/download/v0.8.15/xemu-v0.8.15-x86_64.AppImage>  
-debug: <https://github.com/xemu-project/xemu/releases/download/v0.8.16/xemu-v0.8.16-x86_64.AppImage>
+Download:   x86_64: <https://github.com/xemu-project/xemu/releases/download/v0.8.40/xemu-v0.8.40-x86_64.AppImage>  
+            debug: <https://github.com/xemu-project/xemu/releases/download/v0.8.40/xemu-v0.8.40-dbg-x86_64.AppImage>
+            arm64: <https://github.com/xemu-project/xemu/releases/download/v0.8.40/xemu-v0.8.40-aarch64.AppImage>
+            arm64-debug: <https://github.com/xemu-project/xemu/releases/download/v0.8.40/xemu-v0.8.40-dbg-aarch64.AppImage>

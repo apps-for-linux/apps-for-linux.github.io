@@ -1,6 +1,6 @@
 ---
 title: "Wora"
-summary: " A beautiful player for audiophiles."
+summary: "A beautiful player for audiophiles."
 date: 2025-01-25T13:58:00Z
 categories: ["Audio & Video"]
 showAuthor: true
