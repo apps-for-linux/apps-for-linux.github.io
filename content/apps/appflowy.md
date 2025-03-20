@@ -24,7 +24,7 @@ Source code: <https://github.com/AppFlowy-IO/AppFlowy>
 Become a sponsor: <https://ko-fi.com/appflowy>  
 Translate: <https://fink.inlang.com/github.com/AppFlowy-IO/AppFlowy>  
 Report the bug: <https://github.com/AppFlowy-IO/AppFlowy/issues/new>  
-Download: <https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.8.2/AppFlowy-0.8.2-linux-x86_64.AppImage>
-{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+
+{{< button href="https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.8.7/AppFlowy-0.8.7-linux-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}
