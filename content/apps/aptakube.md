@@ -1,7 +1,7 @@
 ---
 title: "Aptakube"
 summary: "Modern, lightweight and multi-cluster Kubernetes GUI"
-date: 2025-01-27T22:48:00Z
+date: 2025-01-25T13:10:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
@@ -22,6 +22,6 @@ Web page: <https://aptakube.com>
 
 Report the bug: <https://github.com/aptakube/aptakube/issues>  
 
-{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+{{< button href="https://github.com/aptakube/aptakube/releases/download/1.10.8/aptakube_1.10.8_amd64.AppImage" target="_blank">}}
 Download
 {{< /button >}}
