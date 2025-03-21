@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://raw.githubusercontent.com/casimir/frigoligo/refs/heads/main/assets/screenshots/desktop.png
+[screenshot](https://raw.githubusercontent.com/casimir/frigoligo/refs/heads/main/assets/screenshots/desktop.png)
 
 Frigoligo is a wallabag client crafted using Flutter
 
