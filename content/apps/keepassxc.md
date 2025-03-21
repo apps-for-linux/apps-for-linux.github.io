@@ -25,6 +25,6 @@ Become a sponsor: <https://keepassxc.org/donate>
 Translate: <https://www.transifex.com/keepassxc/keepassxc>  
 Report the bug: <https://github.com/keepassxreboot/keepassxc/issues/new>  
 
-{{< button href="https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-x86_64.AppImage" target="_blank">}}
+https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-x86_64.AppImage" 
 Download
 {{< /button >}}

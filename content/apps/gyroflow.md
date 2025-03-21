@@ -24,6 +24,6 @@ Become a sponsor: <https://gyroflow.xyz/donate>
 Translate: <https://crowdin.com/project/gyroflow>  
 Report the bug: <https://github.com/gyroflow/gyroflow/issues/new>  
 
-{{< button href="https://github.com/gyroflow/gyroflow/releases/download/v1.6.0/Gyroflow-linux64.AppImage" target="_blank">}}
+https://github.com/gyroflow/gyroflow/releases/download/v1.6.0/Gyroflow-linux64.AppImage" 
 Download
 {{< /button >}}

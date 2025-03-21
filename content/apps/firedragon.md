@@ -23,6 +23,6 @@ Source code: <https://github.com/dr460nf1r3/firedragon-browser>
 
 Report the bug: <https://gitlab.com/garuda-linux/firedragon/issues/new>  
 
-{{< button href="https://gitlab.com/garuda-linux/firedragon/builder/-/releases/v11.23.0-4/downloads/firedragon-v11.23.0-4.appimage-x86_64.AppImage" target="_blank">}}
+https://gitlab.com/garuda-linux/firedragon/builder/-/releases/v11.23.0-4/downloads/firedragon-v11.23.0-4.appimage-x86_64.AppImage" 
 Download
 {{< /button >}}

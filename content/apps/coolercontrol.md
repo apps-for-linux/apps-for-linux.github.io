@@ -22,6 +22,6 @@ Source code: <https://gitlab.com/coolercontrol/coolercontrol>
 
 Report the bug: <https://gitlab.com/coolercontrol/coolercontrol/-/issues/new>  
 
-{{< button href="https://gitlab.com/coolercontrol/coolercontrol/-/releases/1.4.5/downloads/packages/CoolerControl-x86_64.AppImage" target="_blank">}}
+https://gitlab.com/coolercontrol/coolercontrol/-/releases/1.4.5/downloads/packages/CoolerControl-x86_64.AppImage" 
 Download
 {{< /button >}}

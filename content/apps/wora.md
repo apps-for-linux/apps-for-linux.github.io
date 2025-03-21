@@ -23,6 +23,6 @@ Source code: <https://github.com/hiaaryan/wora>
 Become a sponsor: <https://github.com/hiaaryan>  
 Report the bug: <https://github.com/hiaaryan/wora/issues/new>  
 
-{{< button href="https://github.com/hiaaryan/wora/releases/download/v0.4.0-beta1/Wora.v0.4.0-beta1.AppImage" target="_blank">}}
+https://github.com/hiaaryan/wora/releases/download/v0.4.0-beta1/Wora.v0.4.0-beta1.AppImage" 
 Download
 {{< /button >}}

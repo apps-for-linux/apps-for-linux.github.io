@@ -23,6 +23,6 @@ Source code: <https://github.com/actualbudget/actual>
 Become a sponsor: <https://github.com/sponsors/actualbudget>  
 Translate: <https://hosted.weblate.org/projects/actualbudget>  
 Report the bug: <https://github.com/actualbudget/actual/issues>  
-{{< button href="https://github.com/actualbudget/actual/releases/download/v25.3.1/Actual-linux.AppImage" target="_blank">}}
+https://github.com/actualbudget/actual/releases/download/v25.3.1/Actual-linux.AppImage" 
 Download
 {{< /button >}}

@@ -25,6 +25,6 @@ Become a sponsor: <https://github.com/sponsors/rizinorg>
 Translate: <https://crowdin.com/project/cutter>  
 Report the bug: <https://github.com/rizinorg/cutter/issues/new>  
 
-{{< button href="https://github.com/rizinorg/cutter/releases/download/v2.3.4/Cutter-v2.3.4-Linux-x86_64.AppImage" target="_blank">}}
+https://github.com/rizinorg/cutter/releases/download/v2.3.4/Cutter-v2.3.4-Linux-x86_64.AppImage" 
 Download
 {{< /button >}}

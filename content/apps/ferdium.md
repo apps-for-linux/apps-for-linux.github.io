@@ -24,6 +24,6 @@ Source code: <https://github.com/ferdium/ferdium-app>
 
 Report the bug: <https://github.com/ferdium/ferdium-app/issues/new>  
 
-{{< button href="https://github.com/ferdium/ferdium-app/releases/download/v7.0.0/Ferdium-linux-Portable-7.0.0-x86_64.AppImage" target="_blank">}}
+https://github.com/ferdium/ferdium-app/releases/download/v7.0.0/Ferdium-linux-Portable-7.0.0-x86_64.AppImage" 
 Download
 {{< /button >}}

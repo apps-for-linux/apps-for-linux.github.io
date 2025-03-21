@@ -25,6 +25,6 @@ Become a sponsor: <https://www.buymeacoffee.com/n0vella>
 Translate: <https://github.com/cardo-podcast/cardo?tab=readme-ov-file#translations>  
 Report the bug: <https://github.com/cardo-podcast/cardo/issues/new>  
 
-{{< button href="https://github.com/cardo-podcast/cardo/releases/download/1.9.3/cardo_1.9.3_amd64.AppImage" target="_blank">}}
+https://github.com/cardo-podcast/cardo/releases/download/1.9.3/cardo_1.9.3_amd64.AppImage" 
 Download
 {{< /button >}}

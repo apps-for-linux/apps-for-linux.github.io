@@ -24,6 +24,6 @@ Source code: <https://github.com/vifm/vifm>
 Become a sponsor: <https://github.com/sponsors/vifm>  
 Report the bug: <https://github.com/vifm/vifm/issues/new>  
 
-{{< button href="https://github.com/vifm/vifm/releases/download/v0.14-beta/vifm-v0.14-beta-x86_64.AppImage" target="_blank">}}
+https://github.com/vifm/vifm/releases/download/v0.14-beta/vifm-v0.14-beta-x86_64.AppImage" 
 Download
 {{< /button >}}

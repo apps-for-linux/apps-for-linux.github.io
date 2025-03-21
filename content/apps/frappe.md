@@ -23,6 +23,6 @@ Source code: <https://github.com/frappe/books>
 Translate: <https://github.com/frappe/books/wiki/Contributing-Translations>  
 Report the bug: <https://github.com/frappe/books/issues/new>  
 
-{{< button href="https://github.com/frappe/books/releases/download/v0.27.0/Frappe-Books-0.27.0.AppImage" target="_blank">}}
+https://github.com/frappe/books/releases/download/v0.27.0/Frappe-Books-0.27.0.AppImage" 
 Download
 {{< /button >}}

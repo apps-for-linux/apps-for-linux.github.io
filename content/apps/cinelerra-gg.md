@@ -22,6 +22,6 @@ Source code: <https://git.cinelerra-gg.org/git>
 Translate: <https://www.cinelerra-gg.org/translate-app>  
 Report the bug: <https://www.cinelerra-gg.org/bugtracker/login_page.php>  
 
-{{< button href="https://cinelerra-gg.org/download/images/CinGG-20241231-x86_64.AppImage" target="_blank">}}
+https://cinelerra-gg.org/download/images/CinGG-20241231-x86_64.AppImage" 
 Download
 {{< /button >}}

@@ -25,6 +25,6 @@ Become a sponsor: <https://fontforge.org/en-US/donate>
 Translate: <https://crowdin.com/project/fontforge>  
 Report the bug: <https://github.com/fontforge/fontforge/issues/new>  
 
-{{< button href="https://github.com/fontforge/fontforge/releases/download/20230101/FontForge-2023-01-01-a1dad3e-x86_64.AppImage" target="_blank">}}
+https://github.com/fontforge/fontforge/releases/download/20230101/FontForge-2023-01-01-a1dad3e-x86_64.AppImage" 
 Download
 {{< /button >}}

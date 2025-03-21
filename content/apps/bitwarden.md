@@ -24,6 +24,6 @@ Source code: <https://github.com/bitwarden/clients>
 Translate: <https://crowdin.com/project/bitwarden-desktop>  
 Report the bug: <https://github.com/bitwarden/clients/issues/new>  
 
-{{< button href="https://github.com/bitwarden/clients/releases/download/desktop-v2025.1.4/Bitwarden-2025.1.4-x86_64.AppImage" target="_blank">}}
+https://github.com/bitwarden/clients/releases/download/desktop-v2025.1.4/Bitwarden-2025.1.4-x86_64.AppImage" 
 Download
 {{< /button >}}

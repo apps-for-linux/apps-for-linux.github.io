@@ -24,6 +24,6 @@ Source code: <https://github.com/Faster3ck/Converseen>
 Become a sponsor: <https://ko-fi.com/faster3ck>  
 Report the bug: <https://github.com/Faster3ck/Converseen/issues/new>  
 
-{{< button href="https://github.com/Faster3ck/Converseen/releases/download/v0.12.2.5/Converseen-0.12.2.5-1-x86_64.AppImage" target="_blank">}}
+https://github.com/Faster3ck/Converseen/releases/download/v0.12.2.5/Converseen-0.12.2.5-1-x86_64.AppImage" 
 Download
 {{< /button >}}

@@ -25,6 +25,6 @@ Source code: <https://codeberg.org/tenacityteam/tenacity>
 Translate: <https://hosted.weblate.org/projects/tenacity>  
 Report the bug: <https://codeberg.org/tenacityteam/tenacity/issues/new>  
 
-{{< button href="https://codeberg.org/tenacityteam/tenacity/releases/download/v1.3.4/tenacity-linux-v1.3.4.AppImage" target="_blank">}}
+https://codeberg.org/tenacityteam/tenacity/releases/download/v1.3.4/tenacity-linux-v1.3.4.AppImage" 
 Download
 {{< /button >}}

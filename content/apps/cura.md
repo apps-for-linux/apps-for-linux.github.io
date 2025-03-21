@@ -26,6 +26,6 @@ Become a sponsor: <https://github.com/sponsors/Ultimaker>
 Translate: <https://github.com/Ultimaker/Cura/wiki/Translating-Cura>  
 Report the bug: <https://github.com/Ultimaker/Cura/issues/new>  
 
-{{< button href="https://github.com/Ultimaker/Cura/releases/download/5.10.0-alpha.0/UltiMaker-Cura-5.10.0-alpha.0-linux-X64.AppImage" target="_blank">}}
+https://github.com/Ultimaker/Cura/releases/download/5.10.0-alpha.0/UltiMaker-Cura-5.10.0-alpha.0-linux-X64.AppImage" 
 Download
 {{< /button >}}

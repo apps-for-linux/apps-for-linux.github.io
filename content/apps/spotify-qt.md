@@ -23,6 +23,6 @@ Source code: <https://github.com/kraxarn/spotify-qt>
 
 Report the bug: <https://github.com/kraxarn/spotify-qt/issues/new>  
 
-{{< button href="https://github.com/kraxarn/spotify-qt/releases/download/v3.12/spotify-qt-v3.12.AppImage" target="_blank">}}
+https://github.com/kraxarn/spotify-qt/releases/download/v3.12/spotify-qt-v3.12.AppImage" 
 Download
 {{< /button >}}

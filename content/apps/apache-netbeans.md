@@ -22,6 +22,6 @@ Source code: <https://github.com/codelerity/netbeans-installers>
 Become a sponsor: <https://github.com/sponsors/neilcsmith-net>  
 Report the bug: <https://github.com/codelerity/netbeans-installers/issues/new>  
 
-{{< button href="https://github.com/codelerity/netbeans-installers/releases/download/v25-build1/Apache_NetBeans-25-x86_64.AppImage" target="_blank">}}
+https://github.com/codelerity/netbeans-installers/releases/download/v25-build1/Apache_NetBeans-25-x86_64.AppImage" 
 Download
 {{< /button >}}

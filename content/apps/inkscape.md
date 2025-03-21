@@ -23,6 +23,6 @@ Become a sponsor: <https://inkscape.org/support-us/donate>
 Translate: <https://inkscape.org/contribute/translations>  
 Report the bug: <https://gitlab.com/inkscape/inkscape/-/issues/new>  
 
-{{< button href="https://inkscape.org/gallery/item/53678/Inkscape-e7c3feb-x86_64_0QCD8vJ.AppImage" target="_blank">}}
+https://inkscape.org/gallery/item/53678/Inkscape-e7c3feb-x86_64_0QCD8vJ.AppImage" 
 Download
 {{< /button >}}

@@ -20,6 +20,6 @@ Source code: <https://github.com/CodeDead/Advanced-PassGen>
 
 Report the bug: <https://github.com/CodeDead/Advanced-PassGen/issues/new>  
 
-{{< button href="https://github.com/CodeDead/Advanced-PassGen/releases/download/v2.5.2/advanced-passgen_2.5.2_amd64.AppImage" target="_blank">}}
+https://github.com/CodeDead/Advanced-PassGen/releases/download/v2.5.2/advanced-passgen_2.5.2_amd64.AppImage" 
 Download
 {{< /button >}}

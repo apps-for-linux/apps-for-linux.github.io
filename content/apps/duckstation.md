@@ -24,6 +24,6 @@ Source code: <https://github.com/stenzek/duckstation>
 
 Translate: <https://github.com/stenzek/duckstation/wiki/Translating-to-new-languages#linux>
 
-{{< button href="https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage" target="_blank">}}
+https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage" 
 Download
 {{< /button >}}

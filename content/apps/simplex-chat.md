@@ -27,6 +27,6 @@ Become a sponsor: <https://github.com/sponsors/simplex-chat>
 Translate: <https://hosted.weblate.org/engage/simplex-chat>  
 Report the bug: <https://github.com/simplex-chat/simplex-chat/issues/new>  
 
-{{< button href="https://github.com/simplex-chat/simplex-chat/releases/download/v6.2.5/simplex-desktop-x86_64.AppImage" target="_blank">}}
+https://github.com/simplex-chat/simplex-chat/releases/download/v6.2.5/simplex-desktop-x86_64.AppImage" 
 Download
 {{< /button >}}

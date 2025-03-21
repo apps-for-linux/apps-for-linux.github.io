@@ -25,6 +25,6 @@ Source code: <https://github.com/brndnmtthws/conky>
 Become a sponsor: <https://github.com/sponsors/brndnmtthws>  
 Report the bug: <https://github.com/brndnmtthws/conky/issues/new>  
 
-{{< button href="https://github.com/brndnmtthws/conky/releases/download/v1.22.0/conky-ubuntu-24.04-x86_64-v1.22.0.AppImage" target="_blank">}}
+https://github.com/brndnmtthws/conky/releases/download/v1.22.0/conky-ubuntu-24.04-x86_64-v1.22.0.AppImage" 
 Download
 {{< /button >}}

@@ -22,6 +22,6 @@ Source code: <https://github.com/Acreom/app>
 
 Report the bug: <https://github.com/Acreom/app/issues>  
 
-{{< button href="https://github.com/Acreom/app/releases/download/v1.20.4/acreom-1.20.4.AppImage" target="_blank">}}
+https://github.com/Acreom/app/releases/download/v1.20.4/acreom-1.20.4.AppImage" 
 Download
 {{< /button >}}

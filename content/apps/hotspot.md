@@ -20,6 +20,6 @@ Source code: <https://github.com/KDAB/hotspot>
 
 Report the bug: <https://github.com/KDAB/hotspot/issues/new>  
 
-{{< button href="https://github.com/KDAB/hotspot/releases/download/v1.5.1/hotspot-v1.5.1-x86_64.AppImage" target="_blank">}}
+https://github.com/KDAB/hotspot/releases/download/v1.5.1/hotspot-v1.5.1-x86_64.AppImage" 
 Download
 {{< /button >}}

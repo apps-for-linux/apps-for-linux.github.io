@@ -24,6 +24,6 @@ Become a sponsor: <https://github.com/sponsors/qarmin>
 Translate: <https://crowdin.com/project/czkawka>  
 Report the bug: <https://github.com/qarmin/czkawka/issues/new>  
 
-{{< button href="https://github.com/qarmin/czkawka/releases/download/8.0.0/linux_czkawka_gui.AppImage" target="_blank">}}
+https://github.com/qarmin/czkawka/releases/download/8.0.0/linux_czkawka_gui.AppImage" 
 Download
 {{< /button >}}

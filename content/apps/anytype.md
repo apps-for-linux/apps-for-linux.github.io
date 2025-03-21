@@ -22,6 +22,6 @@ Source code: <https://github.com/anyproto/anytype-ts>
 Translate: <https://crowdin.com/project/anytype-desktop>  
 Report the bug: <https://github.com/anyproto/anytype-ts//issues/new>  
 
-{{< button href="https://github.com/anyproto/anytype-ts/releases/download/v0.45.16-alpha/Anytype-0.45.16-alpha.AppImage" target="_blank">}}
+https://github.com/anyproto/anytype-ts/releases/download/v0.45.16-alpha/Anytype-0.45.16-alpha.AppImage" 
 Download
 {{< /button >}}

@@ -23,6 +23,6 @@ Source code: <https://github.com/Bforartists/Bforartists>
 
 Report the bug: <https://github.com/Bforartists/Bforartists/issues/new>  
 
-{{< button href="https://github.com/Bforartists/Bforartists/releases/download/v4.3.3/Bforartists-4.3.3-x86_64.AppImage" target="_blank">}}
+https://github.com/Bforartists/Bforartists/releases/download/v4.3.3/Bforartists-4.3.3-x86_64.AppImage" 
 Download
 {{< /button >}}

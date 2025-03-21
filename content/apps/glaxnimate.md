@@ -25,6 +25,6 @@ Donate: <https://ko-fi.com/glaxdragon>
 Translate: <https://glaxnimate.mattbas.org/contributing/translations/>  
 Report the bug: <https://bugs.kde.org/enter_bug.cgi?product=glaxnimate>  
 
-{{< button href="https://download.kde.org/unstable/glaxnimate/0.5.80/linux/glaxnimate-0.5.80-x86_64.AppImage" target="_blank">}}
+https://download.kde.org/unstable/glaxnimate/0.5.80/linux/glaxnimate-0.5.80-x86_64.AppImage" 
 Download
 {{< /button >}}

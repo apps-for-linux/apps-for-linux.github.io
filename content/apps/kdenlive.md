@@ -23,6 +23,6 @@ Become a sponsor: <https://kdenlive.org/en/fund>
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://invent.kde.org/multimedia/kdenlive/-/issues/new>  
 
-{{< button href="https://download.kde.org/stable/kdenlive/24.12/linux/kdenlive-24.12.1-x86_64.AppImage" target="_blank">}}
+https://download.kde.org/stable/kdenlive/24.12/linux/kdenlive-24.12.1-x86_64.AppImage" 
 Download
 {{< /button >}}

@@ -24,6 +24,6 @@ Source code: <https://github.com/leon3s/wireguard-gui>
 Become a sponsor: <https://github.com/sponsors/leon3s>  
 Report the bug: <https://github.com/leon3s/wireguard-gui/issues>  
 
-{{< button href="https://github.com/leon3s/wireguard-gui/releases/download/0.1.6-stable/wireguard-gui_0.1.6_amd64.AppImage" target="_blank">}}
+https://github.com/leon3s/wireguard-gui/releases/download/0.1.6-stable/wireguard-gui_0.1.6_amd64.AppImage" 
 Download
 {{< /button >}}

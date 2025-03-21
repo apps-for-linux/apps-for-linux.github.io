@@ -22,6 +22,6 @@ Source code: <https://github.com/CatalystDevOrg/Catalyst>
 
 Report the bug: <https://github.com/CatalystDevOrg/Catalyst/issues/new>  
 
-{{< button href="https://github.com/CatalystDevOrg/Catalyst/releases/download/v3.9.6/catalyst-3.9.6.AppImage" target="_blank">}}
+https://github.com/CatalystDevOrg/Catalyst/releases/download/v3.9.6/catalyst-3.9.6.AppImage" 
 Download
 {{< /button >}}

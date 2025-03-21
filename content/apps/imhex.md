@@ -23,6 +23,6 @@ Become a sponsor: <https://github.com/sponsors/WerWolv>
 Translate: <https://weblate.werwolv.net/projects/imhex>  
 Report the bug: <https://github.com/WerWolv/ImHex/issues/new>  
 
-{{< button href="https://github.com/WerWolv/ImHex/releases/download/v1.36.2/imhex-1.36.2-x86_64.AppImage" target="_blank">}}
+https://github.com/WerWolv/ImHex/releases/download/v1.36.2/imhex-1.36.2-x86_64.AppImage" 
 Download
 {{< /button >}}

@@ -24,6 +24,6 @@ Source code: <https://github.com/wavebox/waveboxapp>
 
 Report the bug: <https://github.com/wavebox/issues/new>  
 
-{{< button href="https://download.wavebox.app/stable/linux/appimage/Wavebox_10.133.3-2_x86_64.AppImage" target="_blank">}}
+https://download.wavebox.app/stable/linux/appimage/Wavebox_10.133.3-2_x86_64.AppImage" 
 Download
 {{< /button >}}

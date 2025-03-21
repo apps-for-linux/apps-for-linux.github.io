@@ -24,6 +24,6 @@ Source code: <https://github.com/mltframework/shotcut>
 Translate: <https://www.transifex.com/ddennedy/shotcut>  
 Report the bug: <https://github.com/mltframework/shotcut/issues/new>  
 
-{{< button href="https://github.com/mltframework/shotcut/releases/download/v25.01.25/shotcut-linux-x86_64-250125.AppImage" target="_blank">}}
+https://github.com/mltframework/shotcut/releases/download/v25.01.25/shotcut-linux-x86_64-250125.AppImage" 
 Download
 {{< /button >}}

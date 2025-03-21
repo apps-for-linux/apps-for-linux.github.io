@@ -22,6 +22,6 @@ Web page: <https://aptakube.com>
 
 Report the bug: <https://github.com/aptakube/aptakube/issues>  
 
-{{< button href="https://github.com/aptakube/aptakube/releases/download/1.10.8/aptakube_1.10.8_amd64.AppImage" target="_blank">}}
+https://github.com/aptakube/aptakube/releases/download/1.10.8/aptakube_1.10.8_amd64.AppImage" 
 Download
 {{< /button >}}

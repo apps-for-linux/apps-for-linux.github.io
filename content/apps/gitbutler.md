@@ -23,6 +23,6 @@ Source code: <https://github.com/gitbutlerapp/gitbutler>
 
 Report the bug: <https://github.com/gitbutlerapp/gitbutler/issues/new>  
 
-{{< button href="https://releases.gitbutler.com/releases/release/0.14.7-1670/linux/x86_64/GitButler_0.14.7_amd64.AppImage.tar.gz" target="_blank">}}
+https://releases.gitbutler.com/releases/release/0.14.7-1670/linux/x86_64/GitButler_0.14.7_amd64.AppImage.tar.gz" 
 Download
 {{< /button >}}

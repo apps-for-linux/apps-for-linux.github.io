@@ -25,6 +25,6 @@ Source code: <https://github.com/LinwoodDev/Butterfly>
 Translate: <https://translate.linwood.dev/butterfly>  
 Report the bug: <https://github.com/LinwoodDev/Butterfly/issues/new>  
 
-{{< button href="https://github.com/LinwoodDev/Butterfly/releases/download/v2.3.0-beta.1/linwood-butterfly-linux-x86_64.AppImage" target="_blank">}}
+https://github.com/LinwoodDev/Butterfly/releases/download/v2.3.0-beta.1/linwood-butterfly-linux-x86_64.AppImage" 
 Download
 {{< /button >}}

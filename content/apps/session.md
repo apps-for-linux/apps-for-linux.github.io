@@ -26,6 +26,6 @@ Become a sponsor: <https://donorbox.org/optf-donation>
 Translate: <https://crowdin.com/project/session-crossplatform-strings>  
 Report the bug: <https://github.com/session-foundation/session-desktop/issues/new>  
 
-{{< button href="https://github.com/session-foundation/session-desktop/releases/download/v1.14.5/session-desktop-linux-x86_64-1.14.5.AppImage" target="_blank">}}
+https://github.com/session-foundation/session-desktop/releases/download/v1.14.5/session-desktop-linux-x86_64-1.14.5.AppImage" 
 Download
 {{< /button >}}

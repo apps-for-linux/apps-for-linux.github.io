@@ -23,6 +23,6 @@ Source code: <https://github.com/danirod/cartero>
 Translate: <https://hosted.weblate.org/projects/cartero/cartero/>  
 Report the bug: <https://github.com/danirod/cartero/issues/new>  
 
-{{< button href="https://github.com/danirod/cartero/releases/download/v0.1.5/Cartero-0.1.5-x86_64.AppImage" target="_blank">}}
+https://github.com/danirod/cartero/releases/download/v0.1.5/Cartero-0.1.5-x86_64.AppImage" 
 Download
 {{< /button >}}

@@ -25,6 +25,6 @@ Source code: <https://github.com/usebruno/bruno>
 Become a sponsor: <https://github.com/sponsors/helloanoop>  
 Report the bug: <https://github.com/usebruno/bruno/issues/new>  
 
-{{< button href="https://github.com/usebruno/bruno/releases/download/v1.38.1/bruno_1.38.1_x86_64_linux.AppImage" target="_blank">}}
+https://github.com/usebruno/bruno/releases/download/v1.38.1/bruno_1.38.1_x86_64_linux.AppImage" 
 Download
 {{< /button >}}

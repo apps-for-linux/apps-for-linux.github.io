@@ -23,6 +23,6 @@ Source code: <https://github.com/monocasual/giada>
 
 Report the bug: <https://github.com/monocasual/giada/issues/new>
 
-{{< button href="https://www.giadamusic.com/data/Giada-1.1.1-x86_64.AppImage" target="_blank">}}
+https://www.giadamusic.com/data/Giada-1.1.1-x86_64.AppImage" 
 Download
 {{< /button >}}

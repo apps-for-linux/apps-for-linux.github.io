@@ -24,6 +24,6 @@ Source code: <https://github.com/story-apps/starc>
 Translate: <https://www.transifex.com/story-apps/starc>  
 Report the bug: <https://github.com/story-apps/starc/issues/new/>  
 
-{{< button href="https://github.com/story-apps/starc/releases/download/v0.7.5/starc-setup.AppImage" target="_blank">}}
+https://github.com/story-apps/starc/releases/download/v0.7.5/starc-setup.AppImage" 
 Download
 {{< /button >}}

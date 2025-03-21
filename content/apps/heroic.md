@@ -22,6 +22,6 @@ Become a sponsor: <https://patreon.com/heroicgameslauncher>
 Translate: <https://hosted.weblate.org/projects/heroic-games-launcher>  
 Report the bug: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/issues/new>  
 
-{{< button href="https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.16.0/Heroic-2.16.0-linux-x86_64.AppImage" target="_blank">}}
+https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.16.0/Heroic-2.16.0-linux-x86_64.AppImage" 
 Download
 {{< /button >}}

@@ -25,6 +25,6 @@ Source code: <https://github.com/scribusproject/scribus>
 Translate: <https://explore.transifex.com/scribus/scribus>  
 Report the bug: <http://bugs.scribus.net>  
 
-{{< button href="Download: <https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.0/scribus-1.7.0-linux-x86_64.AppImage/>" target="_blank">}}
+Download: <https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.0/scribus-1.7.0-linux-x86_64.AppImage/>" 
 Download
 {{< /button >}}

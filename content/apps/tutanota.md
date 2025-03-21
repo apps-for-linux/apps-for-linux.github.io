@@ -26,6 +26,6 @@ Become a sponsor: <https://tuta.com/community/#donate>
 Translate: <https://tuta.com/blog/tutanota-translation-project>  
 Report the bug: <https://github.com/tutao/tutanota/issues/new>  
 
-{{< button href="https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-270.250219.0/tutanota-desktop-linux.AppImage" target="_blank">}}
+https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-270.250219.0/tutanota-desktop-linux.AppImage" 
 Download
 {{< /button >}}

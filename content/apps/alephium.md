@@ -21,6 +21,6 @@ Source code: <https://github.com/alephium/alephium-frontend>
 Translate: <https://crowdin.com/project/alephium>  
 Report the bug: <https://github.com/alephium/alephium-frontend/issues/new>  
 
-{{< button href="https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%403.0.1-rc.1/Alephium-3.0.1-rc.1.AppImage" target="_blank">}}
+https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%403.0.1-rc.1/Alephium-3.0.1-rc.1.AppImage" 
 Download
 {{< /button >}}

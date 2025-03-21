@@ -21,6 +21,6 @@ Source code: <https://github.com/Kong/insomnia>
 
 Report the bug: <https://github.com/Kong/insomnia/issues>  
 
-{{< button href="https://github.com/Kong/insomnia/releases/download/core%4010.3.1-beta.4/Insomnia.Core-10.3.1-beta.4-x86_64.AppImage" target="_blank">}}
+https://github.com/Kong/insomnia/releases/download/core%4010.3.1-beta.4/Insomnia.Core-10.3.1-beta.4-x86_64.AppImage" 
 Download
 {{< /button >}}

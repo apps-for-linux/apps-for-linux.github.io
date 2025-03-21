@@ -23,6 +23,6 @@ Source code: <https://github.com/akuse-app/akuse>
 Become a sponsor: <https://github.com/sponsors/aleganza>  
 Report the bug: <https://github.com/akuse-app/akuse/issues/new>  
 
-{{< button href="https://github.com/akuse-app/akuse/releases/download/1.10.1/linux-akuse-1.10.1.AppImage" target="_blank">}}
+https://github.com/akuse-app/akuse/releases/download/1.10.1/linux-akuse-1.10.1.AppImage" 
 Download
 {{< /button >}}

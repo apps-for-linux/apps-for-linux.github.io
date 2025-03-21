@@ -25,6 +25,6 @@ Source code: <https://github.com/SchildiChat/schildichat-desktop>
 Translate: <https://weblate.spiritcroc.de/projects/schildichat>  
 Report the bug: <https://github.com/SchildiChat/schildichat-desktop/issues/new>  
 
-{{< button href="https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.86-sc.0.test.0/SchildiChatAlpha-1.11.86-sc.0.test.0.AppImage" target="_blank">}}
+https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.86-sc.0.test.0/SchildiChatAlpha-1.11.86-sc.0.test.0.AppImage" 
 Download
 {{< /button >}}
