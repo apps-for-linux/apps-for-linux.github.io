@@ -25,4 +25,3 @@ Report the bug: <https://gitlab.com/inkscape/inkscape/-/issues/new>
 
 https://inkscape.org/gallery/item/53678/Inkscape-e7c3feb-x86_64_0QCD8vJ.AppImage" 
 Download
-{{< /button >}}

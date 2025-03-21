@@ -24,4 +24,3 @@ Report the bug: <https://github.com/yasumu-org/yasumu/issues/new>
 
 https://github.com/yasumu-org/yasumu/releases/download/yasumu-canary-0.0.1/Yasumu_0.0.1_amd64.AppImage" 
 Download
-{{< /button >}}

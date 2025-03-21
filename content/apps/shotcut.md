@@ -26,4 +26,3 @@ Report the bug: <https://github.com/mltframework/shotcut/issues/new>
 
 https://github.com/mltframework/shotcut/releases/download/v25.01.25/shotcut-linux-x86_64-250125.AppImage" 
 Download
-{{< /button >}}

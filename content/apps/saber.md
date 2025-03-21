@@ -28,4 +28,3 @@ Report the bug: <https://github.com/saber-notes/saber/issues/new>
 
 https://github.com/saber-notes/saber/releases/download/v0.25.4/Saber-0.25.4-x86_64.AppImage" 
 Download
-{{< /button >}}

@@ -28,4 +28,3 @@ Report the bug: <https://github.com/tutao/tutanota/issues/new>
 
 https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-270.250219.0/tutanota-desktop-linux.AppImage" 
 Download
-{{< /button >}}

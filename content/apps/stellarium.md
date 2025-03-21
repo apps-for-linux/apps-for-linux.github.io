@@ -25,4 +25,3 @@ Report the bug: <https://github.com/Stellarium/stellarium/issues/new>
 
 https://github.com/Stellarium/stellarium/releases/download/v24.4/Stellarium-24.4-qt6-x86_64.AppImage" 
 Download
-{{< /button >}}

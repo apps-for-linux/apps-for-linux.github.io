@@ -24,4 +24,3 @@ Report the bug: <https://github.com/flareteam/flare-game/issues/new>
 
 https://github.com/flareteam/flare-game/releases/download/v1.14/flare-linux64-v1.14.AppImage" 
 Download
-{{< /button >}}

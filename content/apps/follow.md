@@ -25,4 +25,3 @@ Report the bug: <https://github.com/RSSNext/Follow//issues/new>
 
 https://github.com/RSSNext/Follow/releases/download/v0.3.3-beta.0/Follow-0.3.3-beta.0-linux-x64.AppImage" 
 Download
-{{< /button >}}

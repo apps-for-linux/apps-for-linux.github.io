@@ -28,4 +28,4 @@ Report the bug: <https://github.com/toasterofbread/spmp/issues/new>
 
 https://github.com/toasterofbread/spmp/releases/download/v0.4.2/spmp-v0.4.2-linux-x86_64.appimage" 
 Download
-{{< /button >}}
+

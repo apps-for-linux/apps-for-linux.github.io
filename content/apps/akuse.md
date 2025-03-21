@@ -25,4 +25,3 @@ Report the bug: <https://github.com/akuse-app/akuse/issues/new>
 
 https://github.com/akuse-app/akuse/releases/download/1.10.1/linux-akuse-1.10.1.AppImage" 
 Download
-{{< /button >}}

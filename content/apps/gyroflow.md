@@ -26,4 +26,3 @@ Report the bug: <https://github.com/gyroflow/gyroflow/issues/new>
 
 https://github.com/gyroflow/gyroflow/releases/download/v1.6.0/Gyroflow-linux64.AppImage" 
 Download
-{{< /button >}}

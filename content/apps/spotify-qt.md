@@ -25,4 +25,3 @@ Report the bug: <https://github.com/kraxarn/spotify-qt/issues/new>
 
 https://github.com/kraxarn/spotify-qt/releases/download/v3.12/spotify-qt-v3.12.AppImage" 
 Download
-{{< /button >}}

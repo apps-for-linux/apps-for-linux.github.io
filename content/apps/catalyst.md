@@ -24,4 +24,3 @@ Report the bug: <https://github.com/CatalystDevOrg/Catalyst/issues/new>
 
 https://github.com/CatalystDevOrg/Catalyst/releases/download/v3.9.6/catalyst-3.9.6.AppImage" 
 Download
-{{< /button >}}

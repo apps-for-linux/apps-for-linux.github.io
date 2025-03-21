@@ -25,4 +25,3 @@ Report the bug: <https://github.com/stargatedaw/stargate/issues/new>
 
 https://github.com/stargatedaw/stargate/releases/download/release-24.02.2/StargateDAW-24.02.2-linux-x86_64.AppImage" 
 Download
-{{< /button >}}

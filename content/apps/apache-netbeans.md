@@ -24,4 +24,3 @@ Report the bug: <https://github.com/codelerity/netbeans-installers/issues/new>
 
 https://github.com/codelerity/netbeans-installers/releases/download/v25-build1/Apache_NetBeans-25-x86_64.AppImage" 
 Download
-{{< /button >}}

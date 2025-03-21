@@ -25,4 +25,3 @@ Report the bug: <https://github.com/opengisch/QField/issues/new>
 
 https://github.com/opengisch/QField/releases/download/v3.5.0/qfield-v3.5.0-linux-x64.AppImage" 
 Download
-{{< /button >}}

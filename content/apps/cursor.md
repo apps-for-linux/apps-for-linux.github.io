@@ -23,4 +23,3 @@ Report the bug: <https://github.com/getcursor/cursor/issues/new>
 
 https://downloader.cursor.sh/linux/appImage/x64" 
 Download
-{{< /button >}}

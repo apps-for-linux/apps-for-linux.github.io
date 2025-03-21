@@ -26,4 +26,3 @@ Report the bug: <https://github.com/JannisX11/blockbench/issues/new>
 
 https://github.com/JanntisX11/blockbench/releases/download/v4.12.1/Blockbench_4.12.1.AppImage" 
 Download
-{{< /button >}}

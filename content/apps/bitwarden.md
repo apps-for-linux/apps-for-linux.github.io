@@ -26,4 +26,3 @@ Report the bug: <https://github.com/bitwarden/clients/issues/new>
 
 https://github.com/bitwarden/clients/releases/download/desktop-v2025.1.4/Bitwarden-2025.1.4-x86_64.AppImage" 
 Download
-{{< /button >}}

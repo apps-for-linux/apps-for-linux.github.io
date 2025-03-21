@@ -24,4 +24,3 @@ Report the bug: <https://gitlab.com/coolercontrol/coolercontrol/-/issues/new>
 
 https://gitlab.com/coolercontrol/coolercontrol/-/releases/1.4.5/downloads/packages/CoolerControl-x86_64.AppImage" 
 Download
-{{< /button >}}

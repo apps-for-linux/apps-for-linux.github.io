@@ -27,4 +27,4 @@ Report the bug: <https://codeberg.org/tenacityteam/tenacity/issues/new>
 
 https://codeberg.org/tenacityteam/tenacity/releases/download/v1.3.4/tenacity-linux-v1.3.4.AppImage" 
 Download
-{{< /button >}}
+

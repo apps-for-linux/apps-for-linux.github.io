@@ -26,4 +26,3 @@ Translate: <https://github.com/stenzek/duckstation/wiki/Translating-to-new-langu
 
 https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage" 
 Download
-{{< /button >}}

@@ -24,4 +24,3 @@ Report the bug: <https://www.cinelerra-gg.org/bugtracker/login_page.php>
 
 https://cinelerra-gg.org/download/images/CinGG-20241231-x86_64.AppImage" 
 Download
-{{< /button >}}

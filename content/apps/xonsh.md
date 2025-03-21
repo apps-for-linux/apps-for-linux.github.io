@@ -23,4 +23,3 @@ Report the bug: <https://github.com/xonsh/xonsh/issues/new>
 
 https://github.com/xonsh/xonsh/releases/download/0.19.2/xonsh-x86_64.AppImage" 
 Download
-{{< /button >}}

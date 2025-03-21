@@ -26,4 +26,3 @@ Report the bug: <https://github.com/gdm-settings/gdm-settings/issues/new>
 
 https://github.com/gdm-settings/gdm-settings/releases/download/v5.0/GDM_Settings.AppImage" 
 Download
-{{< /button >}}

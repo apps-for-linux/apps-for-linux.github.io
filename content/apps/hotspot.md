@@ -22,4 +22,3 @@ Report the bug: <https://github.com/KDAB/hotspot/issues/new>
 
 https://github.com/KDAB/hotspot/releases/download/v1.5.1/hotspot-v1.5.1-x86_64.AppImage" 
 Download
-{{< /button >}}

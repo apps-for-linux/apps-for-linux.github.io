@@ -27,4 +27,3 @@ Report the bug: <https://github.com/xournalpp/xournalpp/releases/issues/new>
 
 https://github.com/xournalpp/xournalpp/releases/download/v1.2.6/xournalpp-1.2.6-x86_64.AppImage" 
 Download
-{{< /button >}}

@@ -25,4 +25,3 @@ Report the bug: <https://github.com/monocasual/giada/issues/new>
 
 https://www.giadamusic.com/data/Giada-1.1.1-x86_64.AppImage" 
 Download
-{{< /button >}}

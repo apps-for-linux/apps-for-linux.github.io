@@ -25,4 +25,3 @@ Report the bug: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/issues/
 
 https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v5.1.1/CPU-X-5.1.1-x86_64.AppImage" 
 Download
-{{< /button >}}

@@ -26,4 +26,3 @@ Report the bug: <https://github.com/Faster3ck/Converseen/issues/new>
 
 https://github.com/Faster3ck/Converseen/releases/download/v0.12.2.5/Converseen-0.12.2.5-1-x86_64.AppImage" 
 Download
-{{< /button >}}

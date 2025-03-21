@@ -26,4 +26,3 @@ Report the bug: <https://github.com/story-apps/starc/issues/new/>
 
 https://github.com/story-apps/starc/releases/download/v0.7.5/starc-setup.AppImage" 
 Download
-{{< /button >}}

@@ -27,4 +27,3 @@ Report the bug: <https://github.com/SchildiChat/schildichat-desktop/issues/new>
 
 https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.86-sc.0.test.0/SchildiChatAlpha-1.11.86-sc.0.test.0.AppImage" 
 Download
-{{< /button >}}

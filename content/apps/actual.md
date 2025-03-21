@@ -25,4 +25,3 @@ Translate: <https://hosted.weblate.org/projects/actualbudget>
 Report the bug: <https://github.com/actualbudget/actual/issues>  
 https://github.com/actualbudget/actual/releases/download/v25.3.1/Actual-linux.AppImage" 
 Download
-{{< /button >}}

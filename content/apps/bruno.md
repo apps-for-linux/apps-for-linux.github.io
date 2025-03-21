@@ -27,4 +27,3 @@ Report the bug: <https://github.com/usebruno/bruno/issues/new>
 
 https://github.com/usebruno/bruno/releases/download/v1.38.1/bruno_1.38.1_x86_64_linux.AppImage" 
 Download
-{{< /button >}}

@@ -27,4 +27,3 @@ Report the bug: <https://github.com/cardo-podcast/cardo/issues/new>
 
 https://github.com/cardo-podcast/cardo/releases/download/1.9.3/cardo_1.9.3_amd64.AppImage" 
 Download
-{{< /button >}}

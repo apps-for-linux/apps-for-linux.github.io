@@ -27,4 +27,3 @@ Report the bug: <https://github.com/LinwoodDev/Butterfly/issues/new>
 
 https://github.com/LinwoodDev/Butterfly/releases/download/v2.3.0-beta.1/linwood-butterfly-linux-x86_64.AppImage" 
 Download
-{{< /button >}}

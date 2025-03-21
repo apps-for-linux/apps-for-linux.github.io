@@ -24,4 +24,3 @@ Report the bug: <https://github.com/helix-editor/helix/issues/new>
 
 https://github.com/helix-editor/helix/releases/download/25.01.1/helix-25.01.1-x86_64.AppImage" 
 Download
-{{< /button >}}

@@ -28,4 +28,3 @@ Report the bug: <https://github.com/cpeditor/cpeditor/issues/new>
 
 https://github.com/cpeditor/cpeditor/releases/download/7.0.1/cpeditor-7.0.1-linux-x86_64.AppImage" 
 Download
-{{< /button >}}

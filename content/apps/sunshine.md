@@ -24,4 +24,3 @@ Report the bug: <https://github.com/LizardByte/Sunshine/issues/new>
 
 https://github.com/LizardByte/Sunshine/releases/download/v2025.221.143652/sunshine.AppImage" 
 Download
-{{< /button >}}

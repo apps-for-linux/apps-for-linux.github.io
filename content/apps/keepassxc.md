@@ -27,4 +27,3 @@ Report the bug: <https://github.com/keepassxreboot/keepassxc/issues/new>
 
 https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-x86_64.AppImage" 
 Download
-{{< /button >}}

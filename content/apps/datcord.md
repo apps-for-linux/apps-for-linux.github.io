@@ -23,4 +23,3 @@ Report the bug: <https://github.com/gamingdoom/datcord/issues/new>
 
 https://github.com/gamingdoom/datcord/releases/download/0.5.2/Datcord-x86_64.AppImage" 
 Download
-{{< /button >}}

@@ -25,4 +25,3 @@ Report the bug: <https://gitlab.com/garuda-linux/firedragon/issues/new>
 
 https://gitlab.com/garuda-linux/firedragon/builder/-/releases/v11.23.0-4/downloads/firedragon-v11.23.0-4.appimage-x86_64.AppImage" 
 Download
-{{< /button >}}

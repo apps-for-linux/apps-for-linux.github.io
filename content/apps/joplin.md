@@ -23,4 +23,3 @@ Report the bug: <https://github.com/laurent22/joplin/issues/new>
 
 https://github.com/laurent22/joplin/releases/download/v3.2.12/Joplin-3.2.12.AppImage" 
 Download
-{{< /button >}}

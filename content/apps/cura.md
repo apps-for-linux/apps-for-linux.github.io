@@ -28,4 +28,3 @@ Report the bug: <https://github.com/Ultimaker/Cura/issues/new>
 
 https://github.com/Ultimaker/Cura/releases/download/5.10.0-alpha.0/UltiMaker-Cura-5.10.0-alpha.0-linux-X64.AppImage" 
 Download
-{{< /button >}}

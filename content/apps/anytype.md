@@ -24,4 +24,3 @@ Report the bug: <https://github.com/anyproto/anytype-ts//issues/new>
 
 https://github.com/anyproto/anytype-ts/releases/download/v0.45.16-alpha/Anytype-0.45.16-alpha.AppImage" 
 Download
-{{< /button >}}

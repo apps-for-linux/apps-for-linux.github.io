@@ -25,4 +25,3 @@ Report the bug: <https://github.com/chrismaltby/gb-studio/issues/new>
 
 https://github.com/chrismaltby/gb-studio/releases/download/v4.1.3/gb-studio-linux.AppImage" 
 Download
-{{< /button >}}

@@ -21,4 +21,3 @@ Report the bug: <https://github.com/ArchipelagoMW/Archipelago/issues/new>
 
 https://github.com/ArchipelagoMW/Archipelago/releases/download/0.5.1/Archipelago_0.5.1.Hotfix1_linux-x86_64.AppImage" 
 Download
-{{< /button >}}

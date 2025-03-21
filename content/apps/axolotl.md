@@ -24,4 +24,3 @@ Translate: <https://github.com/axolotl-chat/axolotl/blob/main/docs/TRANSLATE.md>
 Report the bug: <https://github.com/nanu-c/axolotl/issues/new>  
 https://github.com/axolotl-chat/axolotl/releases/download/v2.0.1/axolotl_2.0.1_amd64.AppImage" 
 Download
-{{< /button >}}

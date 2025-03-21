@@ -26,4 +26,3 @@ Report the bug: <https://github.com/vifm/vifm/issues/new>
 
 https://github.com/vifm/vifm/releases/download/v0.14-beta/vifm-v0.14-beta-x86_64.AppImage" 
 Download
-{{< /button >}}

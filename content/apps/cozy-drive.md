@@ -24,4 +24,3 @@ Report the bug: <https://github.com/cozy-labs/cozy-desktop/issues/new>
 
 https://github.com/cozy-labs/cozy-desktop/releases/download/v3.42.0/Cozy-Drive-3.42.0-x86_64.AppImage" 
 Download
-{{< /button >}}

@@ -25,4 +25,3 @@ Report the bug: <https://github.com/GAMS-dev/studio/issues/new>
 
 https://github.com/GAMS-dev/studio/releases/download/v1.20.0/GAMS_Studio-1.20.0-x86_64.AppImage" 
 Download
-{{< /button >}}

@@ -26,4 +26,3 @@ Report the bug: <https://github.com/flacon/flacon/issues/new>
 
 https://github.com/flacon/flacon/releases/download/v11.99.1/flacon-11.99.1-x86_64.AppImage" 
 Download
-{{< /button >}}

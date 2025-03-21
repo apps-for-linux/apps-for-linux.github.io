@@ -24,4 +24,3 @@ Report the bug: <https://bugs.telegram.org/c/4002>
 
 https://github.com/Ajaxy/telegram-tt/releases/download/v10.9.42/Telegram-A-x86_64.AppImage" 
 Download
-{{< /button >}}

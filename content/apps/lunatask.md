@@ -21,4 +21,4 @@ Web page: <https://lunatask.app>
 
 <https://github.com/lunatask/lunatask/releases/download/v2.0.15/Lunatask-2.0.15.AppImage>" 
 Download
-{{< /button >}}
+

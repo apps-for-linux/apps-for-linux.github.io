@@ -25,4 +25,3 @@ Report the bug: <https://github.com/WerWolv/ImHex/issues/new>
 
 https://github.com/WerWolv/ImHex/releases/download/v1.36.2/imhex-1.36.2-x86_64.AppImage" 
 Download
-{{< /button >}}

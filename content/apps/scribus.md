@@ -27,4 +27,3 @@ Report the bug: <http://bugs.scribus.net>
 
 Download: <https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.0/scribus-1.7.0-linux-x86_64.AppImage/>" 
 Download
-{{< /button >}}

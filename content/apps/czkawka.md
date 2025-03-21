@@ -26,4 +26,3 @@ Report the bug: <https://github.com/qarmin/czkawka/issues/new>
 
 https://github.com/qarmin/czkawka/releases/download/8.0.0/linux_czkawka_gui.AppImage" 
 Download
-{{< /button >}}

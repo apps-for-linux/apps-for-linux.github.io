@@ -26,4 +26,3 @@ Report the bug: <https://github.com/giuspen/cherrytree/issues/new>
 
 https://github.com/giuspen/cherrytree/releases/download/v1.3.0/CherryTree-1.3.0-x86_64.AppImage" 
 Download
-{{< /button >}}

@@ -24,4 +24,3 @@ Report the bug: <https://github.com/diasurgical/devilutionX/issues/new>
 
 https://github.com/diasurgical/devilutionX/releases/download/1.5.4/devilutionx-linux-x86_64.appimage" 
 Download
-{{< /button >}}

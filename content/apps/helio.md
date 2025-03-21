@@ -25,4 +25,3 @@ Report the bug: <https://github.com/helio-fm/helio-sequencer/issues/new>
 
 https://ci.helio.fm/helio-3.14-x64.AppImage" 
 Download
-{{< /button >}}

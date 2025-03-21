@@ -20,4 +20,3 @@ Web page: <https://gdlauncher.com>
 
 https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.22__linux__x64.AppImage" 
 Download
-{{< /button >}}

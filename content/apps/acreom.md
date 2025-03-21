@@ -24,4 +24,4 @@ Report the bug: <https://github.com/Acreom/app/issues>
 
 https://github.com/Acreom/app/releases/download/v1.20.4/acreom-1.20.4.AppImage" 
 Download
-{{< /button >}}
+

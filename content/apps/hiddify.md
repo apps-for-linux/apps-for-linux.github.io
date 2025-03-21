@@ -23,4 +23,3 @@ Report the bug: <https://github.com/hiddify/hiddify-app/issues>
 
 https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Linux-x64.AppImage" 
 Download
-{{< /button >}}

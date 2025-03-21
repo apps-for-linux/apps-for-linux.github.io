@@ -26,4 +26,4 @@ Report the bug: <https://github.com/leon3s/wireguard-gui/issues>
 
 https://github.com/leon3s/wireguard-gui/releases/download/0.1.6-stable/wireguard-gui_0.1.6_amd64.AppImage" 
 Download
-{{< /button >}}
+

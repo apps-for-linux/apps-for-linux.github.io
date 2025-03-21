@@ -26,4 +26,3 @@ Report the bug: <https://github.com/VSCodium/vscodium/issues/new>
 
 https://github.com/VSCodium/vscodium/releases/download/1.97.0.25037/VSCodium-1.97.0.25037.glibc2.25-x86_64.AppImage" 
 Download
-{{< /button >}}

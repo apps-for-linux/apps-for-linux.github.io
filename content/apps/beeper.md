@@ -24,4 +24,3 @@ Download: <https://download.beeper.com/linux/appImage/x64>
 
 https://download.beeper.com/linux/appImage/x64" 
 Download
-{{< /button >}}

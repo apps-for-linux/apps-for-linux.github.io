@@ -26,4 +26,3 @@ Report the bug: <https://github.com/sindresorhus/caprine/issues/new>
 
 https://github.com/sindresorhus/caprine/releases/download/v2.60.3/Caprine-2.60.3.AppImage" 
 Download
-{{< /button >}}

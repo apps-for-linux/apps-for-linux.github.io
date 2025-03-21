@@ -24,4 +24,3 @@ Report the bug: <https://github.com/bambulab/BambuStudio/issues/new>
 
 https://github.com/bambulab/BambuStudio/releases/download/v01.10.02.64/Bambu_Studio_linux_fedora-v01.10.02.64.AppImage" 
 Download
-{{< /button >}}

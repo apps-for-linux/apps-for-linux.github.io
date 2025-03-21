@@ -25,4 +25,4 @@ Report the bug: <https://github.com/hiaaryan/wora/issues/new>
 
 https://github.com/hiaaryan/wora/releases/download/v0.4.0-beta1/Wora.v0.4.0-beta1.AppImage" 
 Download
-{{< /button >}}
+

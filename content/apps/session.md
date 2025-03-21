@@ -28,4 +28,3 @@ Report the bug: <https://github.com/session-foundation/session-desktop/issues/ne
 
 https://github.com/session-foundation/session-desktop/releases/download/v1.14.5/session-desktop-linux-x86_64-1.14.5.AppImage" 
 Download
-{{< /button >}}

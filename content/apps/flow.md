@@ -23,4 +23,3 @@ Report the bug: <https://github.com/LinwoodDev/Flow/issues/new>
 
 https://github.com/LinwoodDev/Flow/releases/download/v0.3.1/linwood-flow-linux-x86_64.AppImage" 
 Download
-{{< /button >}}

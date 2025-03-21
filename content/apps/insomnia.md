@@ -23,4 +23,3 @@ Report the bug: <https://github.com/Kong/insomnia/issues>
 
 https://github.com/Kong/insomnia/releases/download/core%4010.3.1-beta.4/Insomnia.Core-10.3.1-beta.4-x86_64.AppImage" 
 Download
-{{< /button >}}

@@ -26,4 +26,3 @@ Report the bug: <https://github.com/toeverything/AFFiNE/issues>
 
 https://github.com/toeverything/AFFiNE/releases/download/v0.21.0-canary.2/affine-0.21.0-canary.2-canary-linux-x64.appimage" 
 Download
-{{< /button >}}

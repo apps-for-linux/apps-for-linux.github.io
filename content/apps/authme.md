@@ -27,4 +27,3 @@ Report the bug: <https://github.com/Levminer/authme/issues/new>
 
 https://github.com/Levminer/authme/releases/download/6.0.3/authme-6.0.3-linux-x64.appimage" 
 Download
-{{< /button >}}

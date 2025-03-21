@@ -21,4 +21,3 @@ Web page: <https://quixel.com/bridge>
 
 https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage" 
 Download
-{{< /button >}}

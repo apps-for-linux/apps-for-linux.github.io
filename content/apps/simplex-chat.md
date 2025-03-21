@@ -29,4 +29,3 @@ Report the bug: <https://github.com/simplex-chat/simplex-chat/issues/new>
 
 https://github.com/simplex-chat/simplex-chat/releases/download/v6.2.5/simplex-desktop-x86_64.AppImage" 
 Download
-{{< /button >}}

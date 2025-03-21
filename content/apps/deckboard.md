@@ -25,4 +25,3 @@ Report the bug: <https://github.com/rivafarabi/deckboard/issues/new>
 
 https://github.com/rivafarabi/deckboard/releases/download/v3.0.9/Deckboard-3.0.9.AppImage" 
 Download
-{{< /button >}}

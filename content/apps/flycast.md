@@ -25,4 +25,3 @@ Report the bug: <https://github.com/flyinghead/flycast/issues/new>
 
 https://github.com/flyinghead/flycast/releases/download/v2.4/flycast-x86_64.AppImage" 
 Download
-{{< /button >}}

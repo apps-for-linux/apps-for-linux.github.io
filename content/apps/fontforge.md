@@ -27,4 +27,3 @@ Report the bug: <https://github.com/fontforge/fontforge/issues/new>
 
 https://github.com/fontforge/fontforge/releases/download/20230101/FontForge-2023-01-01-a1dad3e-x86_64.AppImage" 
 Download
-{{< /button >}}

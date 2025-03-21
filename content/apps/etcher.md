@@ -24,4 +24,3 @@ Translate: <https://github.com/balena-io/etcher/tree/master/lib/gui/app/i18n>
 
 https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0-x64.AppImage" 
 Download
-{{< /button >}}

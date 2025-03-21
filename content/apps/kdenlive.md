@@ -25,4 +25,3 @@ Report the bug: <https://invent.kde.org/multimedia/kdenlive/-/issues/new>
 
 https://download.kde.org/stable/kdenlive/24.12/linux/kdenlive-24.12.1-x86_64.AppImage" 
 Download
-{{< /button >}}

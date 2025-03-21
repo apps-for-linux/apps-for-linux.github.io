@@ -25,4 +25,3 @@ Report the bug: <https://github.com/OpenShot/openshot-qt/issues/new>
 
 https://github.com/OpenShot/openshot-qt/releases/download/v3.3.0/OpenShot-v3.3.0-x86_64.AppImage" 
 Download
-{{< /button >}}

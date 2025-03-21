@@ -22,4 +22,4 @@ Report the bug: <https://github.com/beyond-all-reason/BYAR-Chobby/issues/new>
 
 https://github.com/beyond-all-reason/BYAR-Chobby/releases/download/v1.2988.0/Beyond-All-Reason-1.2988.0.AppImage" 
 Download
-{{< /button >}}
+

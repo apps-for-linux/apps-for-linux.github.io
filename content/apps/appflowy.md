@@ -27,4 +27,3 @@ Report the bug: <https://github.com/AppFlowy-IO/AppFlowy/issues/new>
 
 https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.8.7/AppFlowy-0.8.7-linux-x86_64.AppImage" 
 Download
-{{< /button >}}

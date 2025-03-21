@@ -24,4 +24,3 @@ Report the bug: <https://github.com/Chatterino/Chatterino2/issues/new>
 
 https://github.com/Chatterino/chatterino2/releases/download/v2.5.2/Chatterino-x86_64.AppImage" 
 Download
-{{< /button >}}

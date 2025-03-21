@@ -24,4 +24,3 @@ Report the bug: <https://help.zenkit.com/en/support/tickets/new>
 
 https://static.zenkit.com/downloads/desktop-apps/base/zenkit-linux.AppImage" 
 Download
-{{< /button >}}

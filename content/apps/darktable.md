@@ -27,4 +27,3 @@ Report the bug: <https://github.com/darktable-org/darktable//issues/new>
 
 ttps://github.com/darktable-org/darktable/releases/download/release-5.0.0/Darktable-5.0.0-x86_64.AppImage" 
 Download
-{{< /button >}}
