@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://i.imgur.com/ydVhH00.png}" >}}
+https://i.imgur.com/ydVhH00.png
 
 Session Desktop - Onion routing based messenger
 

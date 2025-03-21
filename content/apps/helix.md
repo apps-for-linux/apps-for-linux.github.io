@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/helix-editor/helix/refs/heads/master/screenshot.png}" >}}
+https://raw.githubusercontent.com/helix-editor/helix/refs/heads/master/screenshot.png
 
 A post-modern modal text editor
 

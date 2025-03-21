@@ -11,7 +11,7 @@ license: "Custom"
 draft: false
 ---
 
-{{< carousel images="{https://github.com/user-attachments/assets/db6e94b1-a98b-413d-a109-1fb77dda34bd}" >}}
+https://github.com/user-attachments/assets/db6e94b1-a98b-413d-a109-1fb77dda34bd
 
 Port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features
 

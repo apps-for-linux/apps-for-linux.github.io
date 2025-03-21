@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png}" >}}
+https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png
 
 The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC
 

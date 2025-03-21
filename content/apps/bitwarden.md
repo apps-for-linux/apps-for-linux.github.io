@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{ https://raw.githubusercontent.com/bitwarden/brand/main/screenshots/apps-combo-logo.png}" >}}
+ https://raw.githubusercontent.com/bitwarden/brand/main/screenshots/apps-combo-logo.png
 
 Open source password management solutions for individuals, teams, and business organizations
 

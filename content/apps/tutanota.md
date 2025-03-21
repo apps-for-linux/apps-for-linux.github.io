@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_mail.png}" >}}
+https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_mail.png
 
 Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices
 

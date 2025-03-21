@@ -13,7 +13,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-{{< carousel images="{https://xournalpp.github.io/img/Physics%20Problem.png}" >}}
+https://xournalpp.github.io/img/Physics%20Problem.png
 
 Handwriting notetaking software with PDF annotation support
 

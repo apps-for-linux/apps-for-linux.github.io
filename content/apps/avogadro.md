@@ -11,7 +11,7 @@ License: BSD-3-Clause
 draft: false
 ---
 
-{{< carousel images="{https://two.avogadro.cc/_images/home_screenshot_1.png}" >}}
+https://two.avogadro.cc/_images/home_screenshot_1.png
 
 Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas
 

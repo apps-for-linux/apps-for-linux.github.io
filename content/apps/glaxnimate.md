@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://glaxnimate.org/images/screenshots/main_window/main_window.png}" >}}
+https://glaxnimate.org/images/screenshots/main_window/main_window.png
 
 Simple vector animation program.
 

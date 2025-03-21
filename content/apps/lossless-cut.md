@@ -12,7 +12,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/mifi/lossless-cut/refs/heads/master/main_screenshot.jpg}" >}}
+https://raw.githubusercontent.com/mifi/lossless-cut/refs/heads/master/main_screenshot.jpg
 
 Simple and ultra fast cross platform tool for lossless trimming/cutting of video and audio files.
 

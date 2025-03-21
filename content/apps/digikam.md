@@ -12,7 +12,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-{{< carousel images="{https://www.digikam.org/img/content/about/overview_imageeditor.png}" >}}
+https://www.digikam.org/img/content/about/overview_imageeditor.png
 
 Professional Photo Management with Power of Open Source
 

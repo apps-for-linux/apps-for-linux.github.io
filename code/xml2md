@@ -25,7 +25,7 @@ license: $license
 draft: false
 ---
 
-{{< carousel images="{$screenshot}" >}}
+$screenshot
 
 $summary
  

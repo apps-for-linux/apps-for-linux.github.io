@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-convert.png}" >}}
+https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-convert.png
 
 Extracts audio tracks from an audio CD image to separate tracks.
 

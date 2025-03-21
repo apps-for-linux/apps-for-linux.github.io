@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/stargatedaw/stargate/refs/heads/main/assets/sequencer.png}" >}}
+https://raw.githubusercontent.com/stargatedaw/stargate/refs/heads/main/assets/sequencer.png
 
 Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor
 

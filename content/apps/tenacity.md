@@ -13,7 +13,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-{{< carousel images="{https://tenacityaudio.org/images/screenshots/tenacity-screenshot-light-3840x2160.png}" >}}
+https://tenacityaudio.org/images/screenshots/tenacity-screenshot-light-3840x2160.png
 
 Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor
 

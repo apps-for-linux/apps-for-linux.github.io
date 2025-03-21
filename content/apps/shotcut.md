@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://www.shotcut.org/assets/img/screenshots/Shotcut-18.11.18.png}" >}}
+https://www.shotcut.org/assets/img/screenshots/Shotcut-18.11.18.png
 
 Free, open source, cross-platform video editor
 

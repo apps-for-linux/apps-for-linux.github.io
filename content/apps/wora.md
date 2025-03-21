@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/hiaaryan/wora/refs/heads/main/renderer/public/github/Home%20Page.png}" >}}
+https://raw.githubusercontent.com/hiaaryan/wora/refs/heads/main/renderer/public/github/Home%20Page.png
 
 A beautiful player for audiophiles.
 

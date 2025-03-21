@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://user-images.githubusercontent.com/45535283/148689197-e53dd75f-32f1-4297-9a0f-a9547fd4e7c7.jpg}" >}}
+https://user-images.githubusercontent.com/45535283/148689197-e53dd75f-32f1-4297-9a0f-a9547fd4e7c7.jpg
 
 darktable is an open source photography workflow application and raw developer
 

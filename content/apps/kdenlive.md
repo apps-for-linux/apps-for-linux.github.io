@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{https://kdenlive.org/wp-content/uploads/2022/01/271174170_1089343691850009_6872343577648842521_n.png}" >}}
+https://kdenlive.org/wp-content/uploads/2022/01/271174170_1089343691850009_6872343577648842521_n.png
 
 Free and Open Source Video Editor
 

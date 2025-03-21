@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/helio-fm/helio-sequencer/refs/heads/develop/Docs/images/screen-v3.png}" >}}
+https://raw.githubusercontent.com/helio-fm/helio-sequencer/refs/heads/develop/Docs/images/screen-v3.png
 
 Free and open-source music sequencer for desktop and mobile platforms
 

@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/toasterofbread/spmp/refs/heads/main/metadata/en-US/images/phoneScreenshots/landscape_2.png}" >}}
+https://raw.githubusercontent.com/toasterofbread/spmp/refs/heads/main/metadata/en-US/images/phoneScreenshots/landscape_2.png
 
 A YouTube Music client with a focus on customisation of colours and song metadata.
 

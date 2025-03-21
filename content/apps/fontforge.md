@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/fontforge/fontforge/master/desktop/ff-screenshot.png}" >}}
+https://raw.githubusercontent.com/fontforge/fontforge/master/desktop/ff-screenshot.png
 
 An outline font editor
 

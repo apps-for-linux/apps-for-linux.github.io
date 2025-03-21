@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/ente-io/ente/main/.github/assets/photos.png}" >}}
+https://raw.githubusercontent.com/ente-io/ente/main/.github/assets/photos.png
 
 End-to-end encryption for photos and more
 

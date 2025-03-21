@@ -13,7 +13,7 @@ license: "Apache-2.0"
 draft: false
 ---
 
-{{< carousel images="{https://schildi.chat/desktop/img/1.png}" >}} 
+https://schildi.chat/desktop/img/1.png 
 
 Matrix client / Element Desktop fork
 

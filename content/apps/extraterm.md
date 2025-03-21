@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://extraterm.org/minimap_450.png}" >}}
+https://extraterm.org/minimap_450.png
 
 The swiss army chainsaw of terminal emulators
 

@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/wiki/TheTumultuousUnicornOfDarkness/CPU-X/gallery/screenshots/v5.0.1_CPU_light.png}" >}}
+https://raw.githubusercontent.com/wiki/TheTumultuousUnicornOfDarkness/CPU-X/gallery/screenshots/v5.0.1_CPU_light.png
 
 Free software that gathers information on CPU, motherboard and more
 

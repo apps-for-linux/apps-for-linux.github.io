@@ -11,7 +11,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/gyroflow/gyroflow/refs/heads/master/resources/screenshot.jpg}" >}}
+https://raw.githubusercontent.com/gyroflow/gyroflow/refs/heads/master/resources/screenshot.jpg
 
 Video stabilization using gyroscope data
 

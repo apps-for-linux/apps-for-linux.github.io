@@ -12,7 +12,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/arduino/arduino-ide/refs/heads/main/static/screenshot.png}" >}}
+https://raw.githubusercontent.com/arduino/arduino-ide/refs/heads/main/static/screenshot.png
 
 The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board
 

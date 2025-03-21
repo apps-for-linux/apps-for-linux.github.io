@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://wezterm.org/screenshots/wezterm-vday-screenshot.png}" >}}
+https://wezterm.org/screenshots/wezterm-vday-screenshot.png
 
 GPU-accelerated cross-platform terminal emulator and multiplexer
 

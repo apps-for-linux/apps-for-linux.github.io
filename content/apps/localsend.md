@@ -12,7 +12,7 @@ license: "MIT"
 draft: false
 ---
 
-{{< carousel images="{https://localsend.org/img/screenshot-pc.webp}" >}}
+https://localsend.org/img/screenshot-pc.webp
 
 Open source cross-platform alternative to AirDrop
 

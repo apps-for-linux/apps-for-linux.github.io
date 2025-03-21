@@ -11,7 +11,7 @@ tags:
 license: "MIT"
 draft: false
 ---
-{{< carousel images="{https://www.gbstudio.dev/img/home/screenshot_win_1_v4.png}" >}}
+https://www.gbstudio.dev/img/home/screenshot_win_1_v4.png
 
 A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 

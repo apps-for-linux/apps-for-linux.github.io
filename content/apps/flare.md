@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/flareteam/flare-game/refs/heads/master/distribution/screenshot1.jpg}" >}}
+https://raw.githubusercontent.com/flareteam/flare-game/refs/heads/master/distribution/screenshot1.jpg
 
 Fantasy action RPG using the FLARE engine
 

@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://www.gams.com/latest/docs/solver_editor_components.png}" >}}
+https://www.gams.com/latest/docs/solver_editor_components.png
 
 Official development environment of the General Algebraic Modeling System
 

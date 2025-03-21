@@ -12,7 +12,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/vifm/vifm/refs/heads/master/data/graphics/screenshot.png}" >}}
+https://raw.githubusercontent.com/vifm/vifm/refs/heads/master/data/graphics/screenshot.png
 
 Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutts
 

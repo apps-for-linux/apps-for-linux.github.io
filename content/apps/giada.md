@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://giadamusic.com/images/giada-canvas.png}" >}}
+https://giadamusic.com/images/giada-canvas.png
 
 Open source, minimalistic and hardcore music production tool
 

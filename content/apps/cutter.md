@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/rizinorg/cutter/dev/docs/source/images/screenshot.png}" >}}
+https://raw.githubusercontent.com/rizinorg/cutter/dev/docs/source/images/screenshot.png
 
 Free and Open Source Reverse Engineering platform powered by Rizin
 

@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://keepassxc.org/assets/img/screenshots/database_view.png}" >}}
+https://keepassxc.org/assets/img/screenshots/database_view.png
 
 KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information
 

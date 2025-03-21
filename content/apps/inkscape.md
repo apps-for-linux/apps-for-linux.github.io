@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{https://media.inkscape.org/media/resources/file/dark-2.png}" >}}
+https://media.inkscape.org/media/resources/file/dark-2.png
 
 A Free and open source vector graphics editor
 

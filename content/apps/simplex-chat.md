@@ -14,7 +14,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-{{< carousel images="{https://simplex.chat/blog/images/simplex-desktop-light.png}" >}}
+https://simplex.chat/blog/images/simplex-desktop-light.png
 
 First messaging platform that has no user identifiers of any kind
 

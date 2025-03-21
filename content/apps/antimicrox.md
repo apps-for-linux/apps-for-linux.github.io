@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/AntiMicroX/antimicrox/refs/heads/master/other/appdata/screenshots/app_light.png}" >}}
+https://raw.githubusercontent.com/AntiMicroX/antimicrox/refs/heads/master/other/appdata/screenshots/app_light.png
 
 Graphical program used to map gamepad keys to keyboard, mouse, scripts and macros
 

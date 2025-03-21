@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/JonMagon/KDiskMark/master/assets/images/kdiskmark.png}" >}}
+https://raw.githubusercontent.com/JonMagon/KDiskMark/master/assets/images/kdiskmark.png
 
 A simple open-source disk benchmark tool for Linux distros
 

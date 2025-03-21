@@ -13,7 +13,7 @@ License: LGPL-3.0
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/Ultimaker/Cura/main/cura-logo.PNG}" >}}
+https://raw.githubusercontent.com/Ultimaker/Cura/main/cura-logo.PNG
 
 3D printer / slicing GUI built on top of the Uranium framework
 

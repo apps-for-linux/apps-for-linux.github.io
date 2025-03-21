@@ -13,7 +13,7 @@ license: "MIT"
 draft: false
 ---
 
-{{< carousel images="{https://vscodium.com/img/vscodium.png}" >}}
+https://vscodium.com/img/vscodium.png
 
 Free/Libre Open Source Software Binaries of VS Code
 

@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/Levminer/authme/dev/screenshots/codes.png?raw=true}" >}}
+https://raw.githubusercontent.com/Levminer/authme/dev/screenshots/codes.png?raw=true
 
 Simple cross-platform two-factor (2FA) authenticator app for desktop
 

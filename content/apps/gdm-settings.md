@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/gdm-settings/screenshots/v5.0/light/default.png}" >}}
+https://raw.githubusercontent.com/gdm-settings/screenshots/v5.0/light/default.png
 
 A settings app for GNOME's Login Manager, GDM
 

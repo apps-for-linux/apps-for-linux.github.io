@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://gitlab.com/coolercontrol/coolercontrol/-/raw/main/screenshots/coolercontrol-overview.png?ref_type=heads}" >}}
+https://gitlab.com/coolercontrol/coolercontrol/-/raw/main/screenshots/coolercontrol-overview.png?ref_type=heads
 
 Monitor and control your cooling and other devices
 

@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://starc.app/media/screenshot-main.png}" >}}
+https://starc.app/media/screenshot-main.png
 
 All in one screenwriting app
 

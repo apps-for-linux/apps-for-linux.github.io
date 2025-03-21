@@ -13,7 +13,7 @@ License: Apache 2.0
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/leon3s/wireguard-gui/refs/heads/master/public/img/app.png}" >}}
+https://raw.githubusercontent.com/leon3s/wireguard-gui/refs/heads/master/public/img/app.png
 
 A wireguard client GUI for Linux made with nextauri
 

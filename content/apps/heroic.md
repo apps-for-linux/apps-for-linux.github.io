@@ -9,7 +9,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{https://heroicgameslauncher.com/_next/static/images/heroic_01-766acd921e989be3aec2af1174d69dea.webp}" >}}
+https://heroicgameslauncher.com/_next/static/images/heroic_01-766acd921e989be3aec2af1174d69dea.webp
 
 A Native GOG, Amazon and Epic Games Launcher
 

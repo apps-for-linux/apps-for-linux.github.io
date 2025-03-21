@@ -13,7 +13,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/upscayl/upscayl.github.io/main/static/2.png}" >}}
+https://raw.githubusercontent.com/upscayl/upscayl.github.io/main/static/2.png
 
 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 

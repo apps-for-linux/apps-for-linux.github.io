@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://gitlab.com/garuda-linux/firedragon/settings/-/raw/master/home.png}" >}}
+https://gitlab.com/garuda-linux/firedragon/settings/-/raw/master/home.png
 
 A Floorp fork with custom branding and opinionated settings.
 

@@ -12,7 +12,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/streetpea/chiaki-ng/refs/heads/main/assets/screenshot.png}" >}}
+https://raw.githubusercontent.com/streetpea/chiaki-ng/refs/heads/main/assets/screenshot.png
 
 Open Source Client for PlayStation 4 and PlayStation 5 Remote Play
 

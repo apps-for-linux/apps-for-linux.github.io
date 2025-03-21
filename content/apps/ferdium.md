@@ -13,7 +13,7 @@ license: "Apache-2.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/ferdium/ferdium-app/refs/heads/develop/branding/screenshots/service-store.png}" >}}
+https://raw.githubusercontent.com/ferdium/ferdium-app/refs/heads/develop/branding/screenshots/service-store.png
 
 All your services in one place, built by the community
 

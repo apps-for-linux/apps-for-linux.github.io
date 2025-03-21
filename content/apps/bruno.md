@@ -13,7 +13,7 @@ license: "MIT"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/landing-2.png}" >}}
+https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/landing-2.png
 
 Open-source IDE for exploring and testing APIs
 

@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/KDAB/hotspot/refs/heads/master/screenshots/summary.png}" >}}
+https://raw.githubusercontent.com/KDAB/hotspot/refs/heads/master/screenshots/summary.png
 
 Linux perf GUI for performance analysis
 
