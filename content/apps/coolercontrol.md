@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://gitlab.com/coolercontrol/coolercontrol/-/raw/main/screenshots/coolercontrol-overview.png?ref_type=heads
+{{< carousel images="{https://gitlab.com/coolercontrol/coolercontrol/-/raw/main/screenshots/coolercontrol-overview.png?ref_type=heads}" >}}
 
 Monitor and control your cooling and other devices
 
@@ -22,5 +22,6 @@ Source code: <https://gitlab.com/coolercontrol/coolercontrol>
 
 Report the bug: <https://gitlab.com/coolercontrol/coolercontrol/-/issues/new>  
 
-https://gitlab.com/coolercontrol/coolercontrol/-/releases/1.4.5/downloads/packages/CoolerControl-x86_64.AppImage" 
+{{< button href="https://gitlab.com/coolercontrol/coolercontrol/-/releases/1.4.5/downloads/packages/CoolerControl-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

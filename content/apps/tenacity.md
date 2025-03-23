@@ -13,7 +13,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-https://tenacityaudio.org/images/screenshots/tenacity-screenshot-light-3840x2160.png
+{{< carousel images="{https://tenacityaudio.org/images/screenshots/tenacity-screenshot-light-3840x2160.png}" >}}
 
 Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor
 
@@ -25,6 +25,6 @@ Source code: <https://codeberg.org/tenacityteam/tenacity>
 Translate: <https://hosted.weblate.org/projects/tenacity>  
 Report the bug: <https://codeberg.org/tenacityteam/tenacity/issues/new>  
 
-https://codeberg.org/tenacityteam/tenacity/releases/download/v1.3.4/tenacity-linux-v1.3.4.AppImage" 
+{{< button href="https://codeberg.org/tenacityteam/tenacity/releases/download/v1.3.4/tenacity-linux-v1.3.4.AppImage" target="_blank">}}
 Download
-
+{{< /button >}}

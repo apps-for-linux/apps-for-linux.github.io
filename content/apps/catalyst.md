@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://github.com/user-attachments/assets/2656b5d3-cc09-468b-9950-2912dd17549a
+{{< carousel images="{https://github.com/user-attachments/assets/2656b5d3-cc09-468b-9950-2912dd17549a}" >}}
 
 A lightweight and user-focused web browser powered by Electron
 
@@ -22,5 +22,6 @@ Source code: <https://github.com/CatalystDevOrg/Catalyst>
 
 Report the bug: <https://github.com/CatalystDevOrg/Catalyst/issues/new>  
 
-https://github.com/CatalystDevOrg/Catalyst/releases/download/v3.9.6/catalyst-3.9.6.AppImage" 
+{{< button href="https://github.com/CatalystDevOrg/Catalyst/releases/download/v3.9.6/catalyst-3.9.6.AppImage" target="_blank">}}
 Download
+{{< /button >}}

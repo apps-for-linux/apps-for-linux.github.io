@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-https://media.inkscape.org/media/resources/file/dark-2.png
+{{< carousel images="{https://media.inkscape.org/media/resources/file/dark-2.png}" >}}
 
 A Free and open source vector graphics editor
 
@@ -23,5 +23,6 @@ Become a sponsor: <https://inkscape.org/support-us/donate>
 Translate: <https://inkscape.org/contribute/translations>  
 Report the bug: <https://gitlab.com/inkscape/inkscape/-/issues/new>  
 
-https://inkscape.org/gallery/item/53678/Inkscape-e7c3feb-x86_64_0QCD8vJ.AppImage" 
+{{< button href="https://inkscape.org/gallery/item/53678/Inkscape-e7c3feb-x86_64_0QCD8vJ.AppImage" target="_blank">}}
 Download
+{{< /button >}}

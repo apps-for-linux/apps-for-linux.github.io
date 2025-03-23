@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
- https://raw.githubusercontent.com/bitwarden/brand/main/screenshots/apps-combo-logo.png
+{{< carousel images="{ https://raw.githubusercontent.com/bitwarden/brand/main/screenshots/apps-combo-logo.png}" >}}
 
 Open source password management solutions for individuals, teams, and business organizations
 
@@ -24,5 +24,6 @@ Source code: <https://github.com/bitwarden/clients>
 Translate: <https://crowdin.com/project/bitwarden-desktop>  
 Report the bug: <https://github.com/bitwarden/clients/issues/new>  
 
-https://github.com/bitwarden/clients/releases/download/desktop-v2025.1.4/Bitwarden-2025.1.4-x86_64.AppImage" 
+{{< button href="https://github.com/bitwarden/clients/releases/download/desktop-v2025.1.4/Bitwarden-2025.1.4-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

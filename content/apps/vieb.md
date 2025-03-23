@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png
+{{< carousel images="{https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png}" >}}
 
 Vim Inspired Electron Browser - Vim bindings for the web by design
 

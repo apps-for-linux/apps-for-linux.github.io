@@ -6,11 +6,12 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Martin Chaine"
-tags: ["Bookmark manager"]
+tags: 
+- ["Bookmark manager"]
 draft: false
 ---
 
-https://raw.githubusercontent.com/casimir/frigoligo/refs/heads/main/assets/screenshots/desktop.png
+{{< carousel images="{https://raw.githubusercontent.com/casimir/frigoligo/refs/heads/main/assets/screenshots/desktop.png}" >}}
 
 Frigoligo is a wallabag client crafted using Flutter
 

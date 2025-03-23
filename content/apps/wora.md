@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/hiaaryan/wora/refs/heads/main/renderer/public/github/Home%20Page.png
+{{< carousel images="{https://raw.githubusercontent.com/hiaaryan/wora/refs/heads/main/renderer/public/github/Home%20Page.png}" >}}
 
 A beautiful player for audiophiles.
 
@@ -23,6 +23,6 @@ Source code: <https://github.com/hiaaryan/wora>
 Become a sponsor: <https://github.com/hiaaryan>  
 Report the bug: <https://github.com/hiaaryan/wora/issues/new>  
 
-https://github.com/hiaaryan/wora/releases/download/v0.4.0-beta1/Wora.v0.4.0-beta1.AppImage" 
+{{< button href="https://github.com/hiaaryan/wora/releases/download/v0.4.0-beta1/Wora.v0.4.0-beta1.AppImage" target="_blank">}}
 Download
-
+{{< /button >}}

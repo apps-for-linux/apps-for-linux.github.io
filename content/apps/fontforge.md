@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/fontforge/fontforge/master/desktop/ff-screenshot.png
+{{< carousel images="{https://raw.githubusercontent.com/fontforge/fontforge/master/desktop/ff-screenshot.png}" >}}
 
 An outline font editor
 
@@ -25,5 +25,6 @@ Become a sponsor: <https://fontforge.org/en-US/donate>
 Translate: <https://crowdin.com/project/fontforge>  
 Report the bug: <https://github.com/fontforge/fontforge/issues/new>  
 
-https://github.com/fontforge/fontforge/releases/download/20230101/FontForge-2023-01-01-a1dad3e-x86_64.AppImage" 
+{{< button href="https://github.com/fontforge/fontforge/releases/download/20230101/FontForge-2023-01-01-a1dad3e-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://i.imgur.com/ydVhH00.png
+{{< carousel images="{https://i.imgur.com/ydVhH00.png}" >}}
 
 Session Desktop - Onion routing based messenger
 
@@ -26,5 +26,6 @@ Become a sponsor: <https://donorbox.org/optf-donation>
 Translate: <https://crowdin.com/project/session-crossplatform-strings>  
 Report the bug: <https://github.com/session-foundation/session-desktop/issues/new>  
 
-https://github.com/session-foundation/session-desktop/releases/download/v1.14.5/session-desktop-linux-x86_64-1.14.5.AppImage" 
+{{< button href="https://github.com/session-foundation/session-desktop/releases/download/v1.14.5/session-desktop-linux-x86_64-1.14.5.AppImage" target="_blank">}}
 Download
+{{< /button >}}

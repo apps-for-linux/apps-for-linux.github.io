@@ -13,7 +13,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-https://xournalpp.github.io/img/Physics%20Problem.png
+{{< carousel images="{https://xournalpp.github.io/img/Physics%20Problem.png}" >}}
 
 Handwriting notetaking software with PDF annotation support
 
@@ -25,5 +25,6 @@ Source code: <https://github.com/xournalpp/xournalpp>
 Translate: <https://crowdin.com/project/xournalpp>  
 Report the bug: <https://github.com/xournalpp/xournalpp/releases/issues/new>  
 
-https://github.com/xournalpp/xournalpp/releases/download/v1.2.6/xournalpp-1.2.6-x86_64.AppImage" 
+{{< button href="https://github.com/xournalpp/xournalpp/releases/download/v1.2.6/xournalpp-1.2.6-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

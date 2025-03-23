@@ -11,7 +11,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/gyroflow/gyroflow/refs/heads/master/resources/screenshot.jpg
+{{< carousel images="{https://raw.githubusercontent.com/gyroflow/gyroflow/refs/heads/master/resources/screenshot.jpg}" >}}
 
 Video stabilization using gyroscope data
 
@@ -24,5 +24,6 @@ Become a sponsor: <https://gyroflow.xyz/donate>
 Translate: <https://crowdin.com/project/gyroflow>  
 Report the bug: <https://github.com/gyroflow/gyroflow/issues/new>  
 
-https://github.com/gyroflow/gyroflow/releases/download/v1.6.0/Gyroflow-linux64.AppImage" 
+{{< button href="https://github.com/gyroflow/gyroflow/releases/download/v1.6.0/Gyroflow-linux64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

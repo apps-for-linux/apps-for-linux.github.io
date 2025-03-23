@@ -12,7 +12,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-https://freac.org/images/freac-linux.png
+{{< carousel images="{https://freac.org/images/freac-linux.png}" >}}
 
 Free and open source audio converter
 

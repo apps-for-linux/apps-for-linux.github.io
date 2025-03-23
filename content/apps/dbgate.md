@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-https://raw.githubusercontent.com/dbgate/dbgate/master/img/screenshot1.png
+{{< carousel images="{https://raw.githubusercontent.com/dbgate/dbgate/master/img/screenshot1.png}" >}}
 
 Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others
 

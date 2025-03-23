@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/jeffvli/feishin/development/media/preview_full_screen_player.png
+{{< carousel images="{https://raw.githubusercontent.com/jeffvli/feishin/development/media/preview_full_screen_player.png}" >}}
 
 A modern self-hosted music player.
 

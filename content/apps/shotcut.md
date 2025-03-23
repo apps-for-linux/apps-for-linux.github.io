@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://www.shotcut.org/assets/img/screenshots/Shotcut-18.11.18.png
+{{< carousel images="{https://www.shotcut.org/assets/img/screenshots/Shotcut-18.11.18.png}" >}}
 
 Free, open source, cross-platform video editor
 
@@ -24,5 +24,6 @@ Source code: <https://github.com/mltframework/shotcut>
 Translate: <https://www.transifex.com/ddennedy/shotcut>  
 Report the bug: <https://github.com/mltframework/shotcut/issues/new>  
 
-https://github.com/mltframework/shotcut/releases/download/v25.01.25/shotcut-linux-x86_64-250125.AppImage" 
+{{< button href="https://github.com/mltframework/shotcut/releases/download/v25.01.25/shotcut-linux-x86_64-250125.AppImage" target="_blank">}}
 Download
+{{< /button >}}

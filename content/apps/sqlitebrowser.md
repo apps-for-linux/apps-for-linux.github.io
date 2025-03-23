@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/sqlitebrowser/sqlitebrowser/master/images/sqlitebrowser.png
+{{< carousel images="{https://raw.githubusercontent.com/sqlitebrowser/sqlitebrowser/master/images/sqlitebrowser.png}" >}}
 
 High quality, visual, open source tool to create, design, and edit database files compatible with SQLite
 

@@ -12,7 +12,7 @@ License: GPL-3.0
 draft: false
 ---
 
-https://raw.githubusercontent.com/cardo-podcast/cardo/refs/heads/master/assets/readme/1.png
+{{< carousel images="{https://raw.githubusercontent.com/cardo-podcast/cardo/refs/heads/master/assets/readme/1.png}" >}}
 
 Cardo is a podcast client for desktop
 
@@ -25,5 +25,6 @@ Become a sponsor: <https://www.buymeacoffee.com/n0vella>
 Translate: <https://github.com/cardo-podcast/cardo?tab=readme-ov-file#translations>  
 Report the bug: <https://github.com/cardo-podcast/cardo/issues/new>  
 
-https://github.com/cardo-podcast/cardo/releases/download/1.9.3/cardo_1.9.3_amd64.AppImage" 
+{{< button href="https://github.com/cardo-podcast/cardo/releases/download/1.9.3/cardo_1.9.3_amd64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

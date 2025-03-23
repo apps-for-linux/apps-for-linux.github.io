@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_mail.png
+{{< carousel images="{https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_mail.png}" >}}
 
 Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices
 
@@ -26,5 +26,6 @@ Become a sponsor: <https://tuta.com/community/#donate>
 Translate: <https://tuta.com/blog/tutanota-translation-project>  
 Report the bug: <https://github.com/tutao/tutanota/issues/new>  
 
-https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-270.250219.0/tutanota-desktop-linux.AppImage" 
+{{< button href="https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-270.250219.0/tutanota-desktop-linux.AppImage" target="_blank">}}
 Download
+{{< /button >}}

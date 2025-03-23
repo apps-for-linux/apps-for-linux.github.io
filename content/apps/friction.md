@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://friction.graphics/assets/screenshots/100/friction-100b2-screenshot.png?
+{{< carousel images="{https://friction.graphics/assets/screenshots/100/friction-100b2-screenshot.png?}" >}}
 
 Powerful and versatile free and open-source motion graphics application
 
@@ -22,5 +22,6 @@ Source code: <https://github.com/friction2d/friction>
 
 Report the bug: <https://github.com/friction2d/friction/issues/new>  
 
-https://github.com/friction2d/friction/releases/download/v1.0.0-beta.2/Friction-1.0.0-beta.2-x86_64.AppImage" 
+{{< button href="https://github.com/friction2d/friction/releases/download/v1.0.0-beta.2/Friction-1.0.0-beta.2-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

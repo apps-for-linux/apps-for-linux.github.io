@@ -22,5 +22,6 @@ Source code: <https://github.com/ungoogled-software/ungoogled-chromium>
 
 Report the bug: <https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/issues/new>  
 
-https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/releases/download/133.0.6943.126-1/ungoogled-chromium_133.0.6943.126-1.AppImage" 
+{{< button href="https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/releases/download/133.0.6943.126-1/ungoogled-chromium_133.0.6943.126-1.AppImage" target="_blank">}}
 Download
+{{< /button >}}

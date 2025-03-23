@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-https://raw.githubusercontent.com/helix-editor/helix/refs/heads/master/screenshot.png
+{{< carousel images="{https://raw.githubusercontent.com/helix-editor/helix/refs/heads/master/screenshot.png}" >}}
 
 A post-modern modal text editor
 
@@ -22,5 +22,6 @@ Source code: <https://github.com/helix-editor/helix>
 Become a sponsor: <https://opencollective.com/helix-editor>  
 Report the bug: <https://github.com/helix-editor/helix/issues/new>  
 
-https://github.com/helix-editor/helix/releases/download/25.01.1/helix-25.01.1-x86_64.AppImage" 
+{{< button href="https://github.com/helix-editor/helix/releases/download/25.01.1/helix-25.01.1-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

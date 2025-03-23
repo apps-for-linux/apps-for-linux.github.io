@@ -23,5 +23,6 @@ Become a sponsor: <https://opencollective.com/stellarium>
 Translate: <https://www.transifex.com/stellarium/stellarium>  
 Report the bug: <https://github.com/Stellarium/stellarium/issues/new>  
 
-https://github.com/Stellarium/stellarium/releases/download/v24.4/Stellarium-24.4-qt6-x86_64.AppImage" 
+{{< button href="https://github.com/Stellarium/stellarium/releases/download/v24.4/Stellarium-24.4-qt6-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

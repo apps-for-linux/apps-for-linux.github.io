@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://static.cryptomator.org/desktop/flathubScreenshots/MainWindowUnlocked_light.png
+{{< carousel images="{https://static.cryptomator.org/desktop/flathubScreenshots/MainWindowUnlocked_light.png}" >}}
 
 Multi-platform transparent client-side encryption of your files in the cloud
 

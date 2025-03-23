@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-https://raw.githubusercontent.com/flareteam/flare-game/refs/heads/master/distribution/screenshot1.jpg
+{{< carousel images="{https://raw.githubusercontent.com/flareteam/flare-game/refs/heads/master/distribution/screenshot1.jpg}" >}}
 
 Fantasy action RPG using the FLARE engine
 
@@ -22,5 +22,6 @@ Source code: <https://github.com/flareteam/flare-game>
 Translate: <https://explore.transifex.com/flareorg>  
 Report the bug: <https://github.com/flareteam/flare-game/issues/new>  
 
-https://github.com/flareteam/flare-game/releases/download/v1.14/flare-linux64-v1.14.AppImage" 
+{{< button href="https://github.com/flareteam/flare-game/releases/download/v1.14/flare-linux64-v1.14.AppImage" target="_blank">}}
 Download
+{{< /button >}}

@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://keepassxc.org/assets/img/screenshots/database_view.png
+{{< carousel images="{https://keepassxc.org/assets/img/screenshots/database_view.png}" >}}
 
 KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information
 
@@ -25,5 +25,6 @@ Become a sponsor: <https://keepassxc.org/donate>
 Translate: <https://www.transifex.com/keepassxc/keepassxc>  
 Report the bug: <https://github.com/keepassxreboot/keepassxc/issues/new>  
 
-https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-x86_64.AppImage" 
+{{< button href="https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

@@ -13,7 +13,7 @@ license: "MIT"
 draft: false
 ---
 
-https://raw.githubusercontent.com/flathub/dev.aunetx.deezer/master/screenshots/screenshot_dark.png
+{{< carousel images="{https://raw.githubusercontent.com/flathub/dev.aunetx.deezer/master/screenshots/screenshot_dark.png}" >}}
 
 An universal linux port of deezer
 

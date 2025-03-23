@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/videos/headlamp_quick_run.gif
+{{< carousel images="{https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/videos/headlamp_quick_run.gif}" >}}
 
 A Kubernetes web UI that is fully-featured, user-friendly and extensible
 

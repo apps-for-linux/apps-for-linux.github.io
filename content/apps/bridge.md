@@ -19,5 +19,6 @@ License: EULA
 
 Web page: <https://quixel.com/bridge>
 
-https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage" 
+{{< button href="https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage" target="_blank">}}
 Download
+{{< /button >}}

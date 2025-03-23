@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-convert.png
+{{< carousel images="{https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-convert.png}" >}}
 
 Extracts audio tracks from an audio CD image to separate tracks.
 
@@ -24,5 +24,6 @@ Become a sponsor: <https://flacon.github.io/donate>
 Translate: <https://www.transifex.com/projects/p/flacon>  
 Report the bug: <https://github.com/flacon/flacon/issues/new>  
 
-https://github.com/flacon/flacon/releases/download/v11.99.1/flacon-11.99.1-x86_64.AppImage" 
+{{< button href="https://github.com/flacon/flacon/releases/download/v11.99.1/flacon-11.99.1-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

@@ -12,7 +12,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-https://www.digikam.org/img/content/about/overview_imageeditor.png
+{{< carousel images="{https://www.digikam.org/img/content/about/overview_imageeditor.png}" >}}
 
 Professional Photo Management with Power of Open Source
 
@@ -25,5 +25,6 @@ Become a sponsor: <https://www.digikam.org/donate>
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://bugs.kde.org/buglist.cgi?product=digikam&resolution=>  
 
-https://download.kde.org/stable/digikam/8.6.0/digiKam-8.6.0-Qt6-x86-64.appimage" 
+{{< button href="https://download.kde.org/stable/digikam/8.6.0/digiKam-8.6.0-Qt6-x86-64.appimage" target="_blank">}}
 Download
+{{< /button >}}

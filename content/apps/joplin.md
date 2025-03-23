@@ -21,5 +21,6 @@ Become a sponsor: <https://github.com/sponsors/laurent22>
 Translate: <https://joplinapp.org/help/dev/localisation>  
 Report the bug: <https://github.com/laurent22/joplin/issues/new>  
 
-https://github.com/laurent22/joplin/releases/download/v3.2.12/Joplin-3.2.12.AppImage" 
+{{< button href="https://github.com/laurent22/joplin/releases/download/v3.2.12/Joplin-3.2.12.AppImage" target="_blank">}}
 Download
+{{< /button >}}

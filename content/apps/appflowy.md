@@ -12,7 +12,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-https://camo.githubusercontent.com/4e4aa58ab8fa3460830a3cb1f35ba5869599c9ac947cdc04358db5cc3b8ebfb4/68747470733a2f2f617070666c6f77792e696f2f5f6e6578742f7374617469632f6d656469612f7461736b732e37393663373533652e706e67
+{{< carousel images="{https://camo.githubusercontent.com/4e4aa58ab8fa3460830a3cb1f35ba5869599c9ac947cdc04358db5cc3b8ebfb4/68747470733a2f2f617070666c6f77792e696f2f5f6e6578742f7374617469632f6d656469612f7461736b732e37393663373533652e706e67}" >}}
 
 Open-source alternative to Notion. You are in charge of your data and customizations
 
@@ -25,5 +25,6 @@ Become a sponsor: <https://ko-fi.com/appflowy>
 Translate: <https://fink.inlang.com/github.com/AppFlowy-IO/AppFlowy>  
 Report the bug: <https://github.com/AppFlowy-IO/AppFlowy/issues/new>  
 
-https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.8.7/AppFlowy-0.8.7-linux-x86_64.AppImage" 
+{{< button href="https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.8.7/AppFlowy-0.8.7-linux-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

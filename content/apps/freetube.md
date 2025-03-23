@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://i.imgur.com/zFgZUUV.png
+{{< carousel images="{https://i.imgur.com/zFgZUUV.png}" >}}
 
 FreeTube is an open source desktop YouTube player built with privacy in mind
 

@@ -13,7 +13,7 @@ license: "MIT"
 draft: false
 ---
 
-https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/landing-2.png
+{{< carousel images="{https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/landing-2.png}" >}}
 
 Open-source IDE for exploring and testing APIs
 
@@ -25,5 +25,6 @@ Source code: <https://github.com/usebruno/bruno>
 Become a sponsor: <https://github.com/sponsors/helloanoop>  
 Report the bug: <https://github.com/usebruno/bruno/issues/new>  
 
-https://github.com/usebruno/bruno/releases/download/v1.38.1/bruno_1.38.1_x86_64_linux.AppImage" 
+{{< button href="https://github.com/usebruno/bruno/releases/download/v1.38.1/bruno_1.38.1_x86_64_linux.AppImage" target="_blank">}}
 Download
+{{< /button >}}

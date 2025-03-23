@@ -13,7 +13,7 @@ License: MIT
 draft: false
 ---
 
-https://github.com/Umio-Yasuno/amdgpu_top/assets/53935716/e3ff372e-86f9-4b82-b3c9-910b638a3c90
+{{< carousel images="{https://github.com/Umio-Yasuno/amdgpu_top/assets/53935716/e3ff372e-86f9-4b82-b3c9-910b638a3c90}" >}}
 
 
 amdgpu_top is tool that display AMD GPU utilization

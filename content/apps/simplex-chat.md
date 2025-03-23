@@ -14,7 +14,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-https://simplex.chat/blog/images/simplex-desktop-light.png
+{{< carousel images="{https://simplex.chat/blog/images/simplex-desktop-light.png}" >}}
 
 First messaging platform that has no user identifiers of any kind
 
@@ -27,5 +27,6 @@ Become a sponsor: <https://github.com/sponsors/simplex-chat>
 Translate: <https://hosted.weblate.org/engage/simplex-chat>  
 Report the bug: <https://github.com/simplex-chat/simplex-chat/issues/new>  
 
-https://github.com/simplex-chat/simplex-chat/releases/download/v6.2.5/simplex-desktop-x86_64.AppImage" 
+{{< button href="https://github.com/simplex-chat/simplex-chat/releases/download/v6.2.5/simplex-desktop-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

@@ -23,5 +23,6 @@ Source code: <https://github.com/RSSNext/Follow/>
 Translate: <https://github.com/RSSNext/Follow/blob/dev/wiki/contribute-i18n.md>  
 Report the bug: <https://github.com/RSSNext/Follow//issues/new>  
 
-https://github.com/RSSNext/Follow/releases/download/v0.3.3-beta.0/Follow-0.3.3-beta.0-linux-x64.AppImage" 
+{{< button href="https://github.com/RSSNext/Follow/releases/download/v0.3.3-beta.0/Follow-0.3.3-beta.0-linux-x64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

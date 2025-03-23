@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://web.blockbench.net/content/front_page_app.png
+{{< carousel images="{https://web.blockbench.net/content/front_page_app.png}" >}}
 
 Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures.
 
@@ -24,5 +24,6 @@ Source code: <https://github.com/JannisX11/blockbench>
 Translate: <https://blockbench.net/translations>  
 Report the bug: <https://github.com/JannisX11/blockbench/issues/new>  
 
-https://github.com/JanntisX11/blockbench/releases/download/v4.12.1/Blockbench_4.12.1.AppImage" 
+{{< button href="https://github.com/JanntisX11/blockbench/releases/download/v4.12.1/Blockbench_4.12.1.AppImage" target="_blank">}}
 Download
+{{< /button >}}

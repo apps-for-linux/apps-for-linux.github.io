@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-https://www.budgetwithbuckets.com/images/main-screenshot-hires.png
+{{< carousel images="{https://www.budgetwithbuckets.com/images/main-screenshot-hires.png}" >}}
 
 Make your budget quick, simple and private
 

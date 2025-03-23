@@ -11,7 +11,7 @@ License: BSD-3-Clause
 draft: false
 ---
 
-https://two.avogadro.cc/_images/home_screenshot_1.png
+{{< carousel images="{https://two.avogadro.cc/_images/home_screenshot_1.png}" >}}
 
 Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas
 
@@ -23,5 +23,6 @@ Source code: <https://github.com/openchemistry/avogadrolibs>
 Become a sponsor: <https://opencollective.com/open-chemistry>  
 Translate: <https://hosted.weblate.org/engage/avogadro>  
 Report the bug: <https://github.com/openchemistry/avogadrolibs/issues/new>  
-https://github.com/OpenChemistry/avogadrolibs/releases/download/1.100.0/Avogadro2-x86_64.AppImage" 
+{{< button href="https://github.com/OpenChemistry/avogadrolibs/releases/download/1.100.0/Avogadro2-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

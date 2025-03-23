@@ -21,5 +21,6 @@ Source code: <https://github.com/xonsh/xonsh>
 Become a sponsor: <https://github.com/sponsors/xonsh>  
 Report the bug: <https://github.com/xonsh/xonsh/issues/new>  
 
-https://github.com/xonsh/xonsh/releases/download/0.19.2/xonsh-x86_64.AppImage" 
+{{< button href="https://github.com/xonsh/xonsh/releases/download/0.19.2/xonsh-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

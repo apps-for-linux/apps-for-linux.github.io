@@ -12,7 +12,7 @@ License: Unknown
 draft: false
 ---
 
-https://gitfiend.com/resources/home-lin-small.png
+{{< carousel images="{https://gitfiend.com/resources/home-lin-small.png}" >}}
 
 A Git client designed for humans
 

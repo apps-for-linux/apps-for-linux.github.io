@@ -22,5 +22,6 @@ Source code: <https://github.com/yasumu-org/yasumu>
 Become a sponsor: <https://www.patreon.com/twlite>  
 Report the bug: <https://github.com/yasumu-org/yasumu/issues/new>  
 
-https://github.com/yasumu-org/yasumu/releases/download/yasumu-canary-0.0.1/Yasumu_0.0.1_amd64.AppImage" 
+{{< button href="https://github.com/yasumu-org/yasumu/releases/download/yasumu-canary-0.0.1/Yasumu_0.0.1_amd64.AppImage" target="_blank">}}
 Download
+{{< /button >}}

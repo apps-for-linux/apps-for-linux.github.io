@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-https://user-images.githubusercontent.com/634063/202742985-bb3b3b94-8aca-404a-8d8a-fd6a6f030672.png
+{{< carousel images="{https://user-images.githubusercontent.com/634063/202742985-bb3b3b94-8aca-404a-8d8a-fd6a6f030672.png}" >}}
 
 Fork of GitHub Desktop to support various Linux distributions
 

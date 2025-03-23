@@ -21,5 +21,6 @@ Web page: <https://www.cursor.com/>
 
 Report the bug: <https://github.com/getcursor/cursor/issues/new>  
 
-https://downloader.cursor.sh/linux/appImage/x64" 
+{{< button href="https://downloader.cursor.sh/linux/appImage/x64" target="_blank">}}
 Download
+{{< /button >}}

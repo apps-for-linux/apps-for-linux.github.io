@@ -12,7 +12,7 @@ license: "Apache-2.0"
 draft: false
 ---
 
-https://www.drawio.com/assets/svg/home-dia1.svg
+{{< carousel images="{https://www.drawio.com/assets/svg/home-dia1.svg}" >}}
 
 Security-first diagramming for teams
 

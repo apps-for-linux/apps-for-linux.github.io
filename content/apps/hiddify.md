@@ -21,5 +21,6 @@ Become a sponsor: <https://hiddify.com/donation-and-support/>
 Translate: <https://inlang.com/editor/github.com/hiddify/hiddify-next>  
 Report the bug: <https://github.com/hiddify/hiddify-app/issues>  
 
-https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Linux-x64.AppImage" 
+{{< button href="https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Linux-x64.AppImage" target="_blank">}}
 Download
+{{< /button >}}
