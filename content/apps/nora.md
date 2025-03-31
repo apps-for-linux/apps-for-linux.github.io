@@ -1,7 +1,7 @@
 ---
 title: "Nora"
 summary: "An elegant music player built using Electron and React"
-date: 2024-05-10T21:09:00Z
+date: 2025-03-29T14:40:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors:
@@ -19,4 +19,7 @@ Source code: <https://github.com/Sandakan/Nora>
 
 Translate: <https://crowdin.com/project/nora>  
 Report the bug: <https://github.com/Sandakan/Nora/issues/new>  
-Download: <https://github.com/Sandakan/Nora/releases/download/v3.0.0-stable/Nora.Setup.3.0.0-stable-linux-x86_64.AppImage>
+
+{{< button href="https://github.com/Sandakan/Nora/releases/download/v3.1.0-stable/Nora.v3.1.0-stable-linux-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

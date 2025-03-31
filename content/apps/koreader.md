@@ -22,4 +22,7 @@ Source code: <https://github.com/koreader/koreader>
 Become a sponsor: <https://liberapay.com/KOReader>  
 Translate: <https://hosted.weblate.org/engage/koreader>  
 Report the bug: <https://github.com/koreader/koreader/issues/new>  
-Download: <https://github.com/koreader/koreader/releases/download/v2024.11/koreader-appimage-x86_64-linux-gnu-v2024.11.AppImage>
+
+{{< button href="https://github.com/koreader/koreader/releases/download/v2024.11/koreader-appimage-x86_64-linux-gnu-v2024.11.AppImage" target="_blank">}}
+Download
+{{< /button >}}

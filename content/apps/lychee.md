@@ -1,7 +1,7 @@
 ---
 title: "Lychee"
 summary: "Lychee simplifies the printing process and makes 3D printing accessible to everyone by offering the most innovative and user-friendly solutions."
-date: 2024-09-18T00:00:00Z
+date: 2025-03-26T00:00:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
@@ -19,4 +19,6 @@ License: EULA
 
 Web page: <https://mango3d.io/resin-sla-msla-3d-printers>  
 
-Download: <https://mango-lychee.nyc3.cdn.digitaloceanspaces.com/LycheeSlicer-7.2.0.AppImage>
+{{< button href="https://mango-lychee.nyc3.cdn.digitaloceanspaces.com/LycheeSlicer-7.3.1.AppImage" target="_blank">}}
+Download
+{{< /button >}}

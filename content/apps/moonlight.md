@@ -19,4 +19,7 @@ Web page: <https://moonlight-stream.org>
 Source code: <https://github.com/moonlight-stream/moonlight-qt>
 
 Report the bug: <https://github.com/moonlight-stream/moonlight-qt/issues/new>  
-Download: <https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/Moonlight-6.1.0-x86_64.AppImage>
+
+{{< button href="https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/Moonlight-6.1.0-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

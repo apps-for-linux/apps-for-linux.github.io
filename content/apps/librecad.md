@@ -23,4 +23,7 @@ Source code: <https://github.com/LibreCAD/LibreCAD>
 Become a sponsor: <https://github.com/sponsors/LibreCAD>  
 Translate: <https://translate.librecad.org>  
 Report the bug: <https://github.com/LibreCAD/LibreCAD/issues/new>  
-Download: <https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1/LibreCAD-v2.2.1-x86_64.AppImage>
+
+{{< button href="https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1/LibreCAD-v2.2.1-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

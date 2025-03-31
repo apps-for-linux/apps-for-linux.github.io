@@ -22,4 +22,7 @@ Source code: <https://github.com/RawTherapee/RawTherapee>
 Become a sponsor: <https://pixls.us/support>  
 Translate: <https://github.com/RawTherapee/RawTherapee/blob/dev/rtdata/languages/README>  
 Report the bug: <https://github.com/RawTherapee/RawTherapee/issues/new>  
-Download: <https://github.com/RawTherapee/RawTherapee/releases/download/5.11/RawTherapee_5.11_release.AppImage>
+
+{{< button href="https://github.com/RawTherapee/RawTherapee/releases/download/5.11/RawTherapee_5.11_release.AppImage" target="_blank">}}
+Download
+{{< /button >}}

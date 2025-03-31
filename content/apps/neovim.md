@@ -1,7 +1,7 @@
 ---
 title: "Neovim"
 summary: "Vim-fork focused on extensibility and usability"
-date: 2025-01-26T08:12:00Z
+date: 2025-03-31T08:13:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
@@ -19,4 +19,5 @@ Source code: <https://github.com/neovim/neovim>
 
 Become a sponsor: <https://github.com/sponsors/neovim>  
 Report the bug: <https://github.com/neovim/neovim/issues/new>  
-Download: <https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage>
+Download: x86_64: <https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage>
+arm64: <https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-arm64.appimage>

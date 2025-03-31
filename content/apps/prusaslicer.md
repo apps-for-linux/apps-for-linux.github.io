@@ -21,4 +21,7 @@ Source code: <https://github.com/prusa3d/PrusaSlicer>
 
 Translate: <https://github.com/prusa3d/PrusaSlicer/blob/master/doc/Localization_guide.md>  
 Report the bug: <https://github.com/prusa3d/PrusaSlicer/issues/new>  
-Download: <https://github.com/probonopd/PrusaSlicer.AppImage/releases/download/2.9.1/PrusaSlicer-2.9.1-x86_64.AppImage>
+
+{{< button href="https://github.com/probonopd/PrusaSlicer.AppImage/releases/download/2.9.1/PrusaSlicer-2.9.1-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

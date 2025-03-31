@@ -1,7 +1,7 @@
 ---
 title: "OnlyOffice"
 summary: "Free office suite that combines text, spreadsheet and presentation editors"
-date: 2024-11-29T12:15:00Z
+date: 2025-03-20T13:42:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -21,4 +21,7 @@ Source code: <https://github.com/ONLYOFFICE/DesktopEditors>
 
 Translate: <https://helpcenter.onlyoffice.com/guides/become-translator.aspx>  
 Report the bug: <https://github.com/ONLYOFFICE/DesktopEditors/issues/new>  
-Download: <https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.2.2/DesktopEditors-x86_64.AppImage>
+
+{{< button href="https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.2/DesktopEditors-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

@@ -1,7 +1,7 @@
 ---
 title: "Miru"
 summary: "Stream anime torrents, real-time with no waiting for downloads"
-date: 2024-11-17T19:22:00Z
+date: 2025-03-20T23:56:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
@@ -21,4 +21,7 @@ Source code: <https://github.com/ThaUnknown/miru>
 
 Become a sponsor: <https://github.com/sponsors/ThaUnknown>  
 Report the bug: <https://github.com/ThaUnknown/miru/issues/new>  
-Download: <https://github.com/ThaUnknown/miru/releases/download/v5.5.9/linux-Miru-5.5.9.AppImage>
+
+{{< button href="https://github.com/ThaUnknown/miru/releases/download/v5.5.10/linux-Miru-5.5.10.AppImage" target="_blank">}}
+Download
+{{< /button >}}

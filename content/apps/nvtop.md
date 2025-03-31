@@ -1,7 +1,7 @@
 ---
 title: "nvtop"
 summary: "GPUs process monitoring for AMD, Intel and NVIDIA"
-date: 2024-02-24T17:19:00Z
+date: 2025-03-29T14:26:00Z
 categories: ["Utilities"]
 showAuthor: true
 authors:
@@ -19,4 +19,7 @@ License: GPL-3.0
 Source code: <https://github.com/Syllo/nvtop>
 
 Report the bug: <https://github.com/Syllo/nvtop/issues/new>  
-Download: <https://github.com/Syllo/nvtop/releases/download/3.1.0/nvtop-x86_64.AppImage>
+
+{{< button href="https://github.com/Syllo/nvtop/releases/download/3.2.0/nvtop-3.2.0-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

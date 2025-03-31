@@ -23,4 +23,7 @@ Source code: <https://github.com/LMMS/lmms>
 Become a sponsor: <https://lmms.io/get-involved/#donate>  
 Translate: <https://explore.transifex.com/lmms/lmms>  
 Report the bug: <https://github.com/LMMS/lmms/issues/new>  
-Download: <https://lmms.io/download/artifact/2289646535>
+
+{{< button href="https://lmms.io/download/artifact/2289646535" target="_blank">}}
+Download
+{{< /button >}}

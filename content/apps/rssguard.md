@@ -23,5 +23,5 @@ Source code: <https://github.com/martinrotter/rssguard>
 Become a sponsor: <https://github.com/sponsors/martinrotter>  
 Translate: <https://crowdin.com/project/rssguard>  
 Report the bug: <https://github.com/martinrotter/rssguard/issues/new>  
-Download: <https://github.com/martinrotter/rssguard/releases/download/4.8.1/rssguard-4.8.1-3dde4064f-linux64.AppImage>  
-lite version <https://github.com/martinrotter/rssguard/releases/download/4.8.1/rssguard-4.8.1-3dde4064f-lite-linux64.AppImage>
+Download:   std version: <https://github.com/martinrotter/rssguard/releases/download/4.8.1/rssguard-4.8.1-3dde4064f-linux64.AppImage>  
+            lite version: <https://github.com/martinrotter/rssguard/releases/download/4.8.1/rssguard-4.8.1-3dde4064f-lite-linux64.AppImage>

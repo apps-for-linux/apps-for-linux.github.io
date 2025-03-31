@@ -19,4 +19,7 @@ Source code: <https://github.com/ossia/score>
 
 Become a sponsor: <https://opencollective.com/ossia>  
 Report the bug: <https://github.com/ossia/score/issues/new>  
-Download: <https://github.com/ossia/score/releases/download/v3.4.1/ossia.score-3.4.1-linux-amd64.AppImage>
+
+{{< button href="https://github.com/ossia/score/releases/download/v3.4.1/ossia.score-3.4.1-linux-amd64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

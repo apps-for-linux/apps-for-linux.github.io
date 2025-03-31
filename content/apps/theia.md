@@ -1,7 +1,7 @@
 ---
 title: "Eclipse Theia"
 summary: "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript."
-date: 2025-01-30T18:30:00Z
+date: 2025-02-27T6:00:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
@@ -22,4 +22,7 @@ Web page: <http://theia-ide.org/>
 Source code: <https://github.com/eclipse-theia/theia>
 
 Report the bug: <https://github.com/eclipse-theia/theia/issues/new>  
-Download: <https://www.eclipse.org/downloads/download.php?file=/theia/ide/latest/linux/TheiaIDE.AppImage&r=1>
+
+{{< button href="https://ftp.halifax.rwth-aachen.de/eclipse/theia/ide/latest/linux/TheiaIDE.AppImage" target="_blank">}}
+Download
+{{< /button >}}

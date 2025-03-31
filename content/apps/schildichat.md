@@ -1,7 +1,7 @@
 ---
 title: "SchildiChat"
 summary: "Matrix client / Element Desktop fork."
-date: 2024-11-27T18:51:00Z
+date: 2025-02-26T21:57:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
@@ -25,6 +25,6 @@ Source code: <https://github.com/SchildiChat/schildichat-desktop>
 Translate: <https://weblate.spiritcroc.de/projects/schildichat>  
 Report the bug: <https://github.com/SchildiChat/schildichat-desktop/issues/new>  
 
-{{< button href="https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.86-sc.0.test.0/SchildiChatAlpha-1.11.86-sc.0.test.0.AppImage" target="_blank">}}
+{{< button href="https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.36-sc.3/SchildiChat-1.11.36-sc.3.AppImage" target="_blank">}}
 Download
 {{< /button >}}

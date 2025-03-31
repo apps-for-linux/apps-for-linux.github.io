@@ -8,7 +8,6 @@ authors:
 tags:
 - "PlayStation Emulator"
 - "Game Emulator"
-
 License: BSD-2-Clause
 draft: false
 ---
@@ -22,4 +21,7 @@ Source code: <https://github.com/jpd002/Play->
 
 Become a sponsor: <https://github.com/sponsors/jpd002>  
 Report the bug: <https://github.com/jpd002/Play-/issues/new>  
-Download: <https://purei.org/downloads/play/stable/0.68/Play!-69ce62f6-x86_64.AppImage>
+
+{{< button href="https://purei.org/downloads/play/stable/0.68/Play!-69ce62f6-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

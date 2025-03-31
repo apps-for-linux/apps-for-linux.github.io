@@ -19,4 +19,6 @@ License: GPL-3.0
 
 Web: <https://www.lunarclient.com//>  
 
-Download: <https://launcherupdates.lunarclientcdn.com/Lunar%20Client-3.3.3-ow.AppImage>
+{{< button href="https://launcherupdates.lunarclientcdn.com/Lunar%20Client-3.3.3-ow.AppImage" target="_blank">}}
+Download
+{{< /button >}}

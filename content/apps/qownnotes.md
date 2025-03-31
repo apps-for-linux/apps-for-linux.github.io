@@ -1,7 +1,7 @@
 ---
 title: "QOwnNotes"
 summary: "Open source notepad with Markdown support and todo list manager for GNU/Linux"
-date: 2025-01-21T10:01:00Z
+date: 2025-03-30T00:09:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -21,4 +21,7 @@ Source code: <https://github.com/pbek/QOwnNotes>
 Become a sponsor: <https://github.com/sponsors/pbek>  
 Translate: <https://crowdin.com/project/qownnotes>  
 Report the bug: <https://github.com/pbek/QOwnNotes/issues/new>  
-Download: <https://github.com/pbek/QOwnNotes/releases/download/v25.1.5/QOwnNotes-x86_64-Qt6.AppImage>
+
+{{< button href="https://github.com/pbek/QOwnNotes/releases/download/v25.3.5/QOwnNotes-x86_64-Qt6.AppImage" target="_blank">}}
+Download
+{{< /button >}}

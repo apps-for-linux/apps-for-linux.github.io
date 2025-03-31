@@ -19,4 +19,7 @@ Source code: <https://github.com/ow-mods/ow-mod-man>
 
 Translate: <https://github.com/ow-mods/ow-mod-man/blob/main/owmods_gui/TRANSLATIONS.md>  
 Report the bug: <https://github.com/ow-mods/ow-mod-man/issues/new>  
-Download: <https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.15.1/Outer.Wilds.Mod.Manager_0.15.1_amd64.AppImage>
+
+{{< button href="https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.15.1/Outer.Wilds.Mod.Manager_0.15.1_amd64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

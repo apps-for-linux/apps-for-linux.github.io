@@ -7,7 +7,6 @@ authors:
 - "Prism Launcher Contributors"
 tags: 
 - "Minecraft launcher"
-
 license: "GPL-3.0"
 draft: false
 ---
@@ -22,4 +21,7 @@ Source code: <https://github.com/PrismLauncher/PrismLauncher>
 Become a sponsor: <https://opencollective.com/prismlauncher>  
 Translate: <https://hosted.weblate.org/projects/prismlauncher/launcher/>  
 Report the bug: <https://github.com/PrismLauncher/PrismLauncher/issues/new>  
-Download: <https://github.com/PrismLauncher/PrismLauncher/releases/download/9.2/PrismLauncher-Linux-x86_64.AppImage>
+
+{{< button href="https://github.com/PrismLauncher/PrismLauncher/releases/download/9.2/PrismLauncher-Linux-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

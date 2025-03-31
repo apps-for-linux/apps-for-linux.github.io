@@ -1,7 +1,7 @@
 ---
 title: "Modrinth"
 summary: "Open-source mod platform, built by the community, for the community."
-date: 2024-12-26T00:41:00Z
+date: 2025-02-06T00:41:00Z
 categories: ["Games"]
 authors:
 - "Rinth"
@@ -14,11 +14,14 @@ draft: false
 
 Open-source mod platform, built by the community, for the community.
 
-License: AGPL-3.0
+License: GPL-3.0
 
 Web page: <https://modrinth.com>  
 Source code: <https://github.com/modrinth/code>
 
 Translate: <https://crowdin.com/project/modrinth>  
 Report the bug: <https://github.com/modrinth/code/issues/new>  
-Download: <https://launcher-files.modrinth.com/versions/0.9.2/linux/Modrinth%20App_0.9.2_amd64.AppImage>
+
+{{< button href="https://launcher-files.modrinth.com/versions/0.9.3/linux/Modrinth%20App_0.9.3_amd64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

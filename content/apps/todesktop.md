@@ -17,4 +17,6 @@ License: EULA
 
 Web page: <https://www.todesktop.com/>
 
-Download: <https://builder.todesktop.com/>
+{{< button href="https://builder.todesktop.com/" target="_blank">}}
+Download
+{{< /button >}}

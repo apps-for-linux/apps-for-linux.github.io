@@ -6,8 +6,7 @@ categories: ["Games"]
 authors:
 - "Florian Märkl"
 tags:
-
-License: "GPL-3.0"
+license: "GPL-3.0"
 draft: false
 ---
 
@@ -21,4 +20,7 @@ Source code: <https://github.com/libretro/RetroArch>
 Become a sponsor: <https://github.com/sponsors/libretro>  
 Translate: <https://crowdin.com/project/retroarch>  
 Report the bug: <https://github.com/libretro/RetroArch/issues/new>  
-Download: <https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch_Qt.7z>
+
+{{< button href="https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch_Qt.7z" target="_blank">}}
+Download
+{{< /button >}}

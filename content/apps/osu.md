@@ -20,4 +20,7 @@ Source code: <https://github.com/ppy/osu>
 
 Become a sponsor: <https://github.com/sponsors/ppy>  
 Report the bug: <https://github.com/ppy/osu/issues/new>  
-Download: <https://github.com/ppy/osu/releases/download/2025.118.3/osu.AppImage>
+
+{{< button href="https://github.com/ppy/osu/releases/download/2025.321.0/osu.AppImage" target="_blank">}}
+Download
+{{< /button >}}
