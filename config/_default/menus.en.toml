@@ -62,6 +62,12 @@ pageRef = "categories/network"
 weight = 20
 
 [[main]]
+name = "Productivity"
+parent = "Categories"
+pageRef = "categories/productivity"
+weight = 20
+
+[[main]]
 name = "Science"
 parent = "Categories"
 pageRef = "categories/science"
