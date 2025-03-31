@@ -1,7 +1,7 @@
 ---
 title: "ProtonUp-Qt"
 summary: "Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface"
-date: 2025-01-05T16:45:00Z
+date: 2025-03-29T20:59:00Z
 categories: ["Games"]
 authors:
 - "DavidoTek"
@@ -21,4 +21,4 @@ Source code: <https://github.com/DavidoTek/ProtonUp-Qt>
 Become a sponsor: <https://ko-fi.com/davidotek>  
 Translate: <https://hosted.weblate.org/projects/protonup-qt>  
 Report the bug: <https://github.com/DavidoTek/ProtonUp-Qt/issues/new>  
-Download: <https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.11.1/ProtonUp-Qt-2.11.1-x86_64.AppImage>
+Download: <https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.12.0/ProtonUp-Qt-2.12.0-x86_64.AppImage>

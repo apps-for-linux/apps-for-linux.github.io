@@ -22,4 +22,4 @@ Source code: <https://github.com/PrismLauncher/PrismLauncher>
 Become a sponsor: <https://opencollective.com/prismlauncher>  
 Translate: <https://hosted.weblate.org/projects/prismlauncher/launcher/>  
 Report the bug: <https://github.com/PrismLauncher/PrismLauncher/issues/new>  
-Download: <https://github.com/PrismLauncher/PrismLauncher/releases/download/9.1/PrismLauncher-Linux-x86_64.AppImage>
+Download: <https://github.com/PrismLauncher/PrismLauncher/releases/download/9.2/PrismLauncher-Linux-x86_64.AppImage>
