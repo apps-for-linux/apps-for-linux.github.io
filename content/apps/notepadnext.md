@@ -6,7 +6,8 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Justin Dailey"
-tags: ["Official"]
+tags: 
+- "Code editor"
 draft: false
 ---
 

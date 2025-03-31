@@ -6,7 +6,8 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Hiddify"
-tags: ["Official"]
+tags: 
+- "Proxy"
 draft: false
 ---
 

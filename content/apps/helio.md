@@ -6,7 +6,8 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "Peter Rudenko and contributors"
-tags: ["Official"]
+tags: 
+- "Audio editor"
 draft: false
 ---
 

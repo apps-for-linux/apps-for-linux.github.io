@@ -6,7 +6,9 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "The MusE development team"
-tags: ["Official"]
+tags: 
+- "Audio editor"
+- "DAW"
 draft: false
 ---
 

@@ -6,7 +6,8 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Inkscape Authors"
-tags: ["Official"]
+tags: 
+- "Vetor graphics editor"
 draft: false
 ---
 

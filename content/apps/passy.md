@@ -6,7 +6,8 @@ categories: ["Utilities"]
 showAuthor: true
 authors:
 - "GlitterWare"
-tags: ["Official"]
+tags: 
+- "Offline password manager"
 draft: false
 ---
 

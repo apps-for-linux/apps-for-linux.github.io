@@ -8,7 +8,6 @@ authors:
 - "Open Observatory of Network Interference (OONI)"
 tags:
 - "Censorship-resistance"
-- "Stat"
 License: BSD-3-Clause
 draft: false
 ---

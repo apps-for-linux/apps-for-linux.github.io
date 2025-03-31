@@ -6,7 +6,8 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "ossia.io Contributors"
-tags: ["Official"]
+tags: 
+- "Official"
 draft: false
 ---
 

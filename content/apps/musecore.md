@@ -6,7 +6,8 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "MuseScore BVBA"
-tags: ["Official"]
+tags:
+- "Audio editor"
 draft: false
 ---
 

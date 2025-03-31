@@ -6,7 +6,8 @@ categories: ["Audio & Video"]
 showAuthor: true
 authors:
 - "Pierre de la Martinière"
-tags: ["Official"]
+tags: 
+- "YouTube Client"
 draft: false
 ---
 

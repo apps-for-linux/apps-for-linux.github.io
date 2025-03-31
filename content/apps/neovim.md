@@ -6,7 +6,8 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Neovim contributors"
-tags: ["Official"]
+tags: 
+- "Code editor"
 draft: false
 ---
 

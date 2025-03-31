@@ -6,7 +6,9 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "The Headlamp Contributors"
-tags: ["Official"]
+tags: 
+- "DevOps"
+- "Kubernetes"
 draft: false
 ---
 

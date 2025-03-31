@@ -6,7 +6,8 @@ categories: ["Network"]
 showAuthor: true
 authors:
 - "Nextcloud"
-tags: ["Official"]
+tags: 
+- "Collaboration platform"
 draft: false
 ---
 

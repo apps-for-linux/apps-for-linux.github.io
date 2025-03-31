@@ -7,7 +7,7 @@ showAuthor: true
 authors:
 - "jeyasankar"
 tags: 
-- "Password Management"
+- "Offline password manager"
 license: "GPL-3.0"
 draft: false
 ---

@@ -6,7 +6,8 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "WerWolv"
-tags: ["Official"]
+tags: 
+- "Hex editor"
 draft: false
 ---
 
