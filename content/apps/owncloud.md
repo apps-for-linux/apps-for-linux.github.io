@@ -7,7 +7,7 @@ showAuthor: true
 authors:
 - "ownCloud"
 tags: 
- -"Collaboration platform"
+- "Collaboration platform"
 draft: false
 ---
 

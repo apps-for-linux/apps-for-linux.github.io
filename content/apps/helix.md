@@ -6,7 +6,8 @@ categories: ["Development"]
 showAuthor: true
 authors:
 - "Blaž Hrastnik"
-tags: "Code editor"
+tags: 
+- "Code editor"
 draft: false
 ---
 
