@@ -3,7 +3,7 @@ title: "Blockbench"
 summary: "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures"
 date: 2025-01-20T21:02:00Z
 categories: ["Graphics"]
-showAuthor: true
+
 authors:
 - "Jannis Petersen"
 tags: 

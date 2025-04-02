@@ -3,7 +3,7 @@ title: "Bforartists"
 summary: "Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI"
 date: 2025-02-15T23:48:00Z
 categories: ["Graphics"]
-showAuthor: true
+
 authors:
 - "Reiner Prokein"
 tags: 

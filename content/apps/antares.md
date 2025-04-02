@@ -3,7 +3,7 @@ title: "Antares"
 summary: "A modern, fast and productivity driven SQL client with a focus in UX"
 date: 2025-02-14T10:43:00Z
 categories: ["Development"]
-showAuthor: true
+
 authors:
 - "Fabio Di Stasio"
 tags: 

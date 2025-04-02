@@ -3,7 +3,7 @@ title: "GDevelop"
 summary: "Full-featured, no-code, open-source game development software"
 date: 2024-07-03T16:05:00Z
 categories: ["Development"]
-showAuthor: true
+
 authors:
 - "Florian Rival"
 tags:

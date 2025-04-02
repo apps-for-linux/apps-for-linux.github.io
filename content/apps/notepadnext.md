@@ -3,7 +3,7 @@ title: "NotepadNext"
 summary: "A cross-platform, reimplementation of Notepad++"
 date: 2025-01-15T06:06:00Z
 categories: ["Development"]
-showAuthor: true
+
 authors:
 - "Justin Dailey"
 tags: 

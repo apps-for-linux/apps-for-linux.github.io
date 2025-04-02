@@ -3,7 +3,6 @@ title: "CherryTree"
 summary: "A hierarchical note taking application, featuring rich text and syntax highlighting"
 date: 2025-02-07T12:04:00Z
 categories: ["Productivity"]
-showAuthor: true
 authors:
 - "Giuseppe Penone"
 tags: 

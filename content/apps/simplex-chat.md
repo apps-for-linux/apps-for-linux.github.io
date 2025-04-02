@@ -3,7 +3,7 @@ title: "SimpleX Chat"
 summary: "First messaging platform that has no user identifiers of any kind"
 date: 2025-03-31T20:10:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "SimpleX Chat"
 tags: 

@@ -3,7 +3,7 @@ title: "Equibop"
 summary: "Equibop is a fork of Vesktop."
 date: 2025-02-08T16:14:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Equicord"
 tags: 

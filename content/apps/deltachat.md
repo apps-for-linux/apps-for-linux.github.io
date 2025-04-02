@@ -3,7 +3,7 @@ title: "Delta Chat Desktop"
 summary: "Email-based instant messaging for Desktop."
 date: 2025-01-27T19:30:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Delta Chat contributors"
 tags: 

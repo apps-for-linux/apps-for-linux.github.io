@@ -3,7 +3,7 @@ title: "Vieb"
 summary: "Vim Inspired Electron Browser"
 date: 2025-01-20T23:47:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Jelmer van Arnhem"
 tags: 

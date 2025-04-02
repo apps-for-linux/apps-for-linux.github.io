@@ -3,7 +3,7 @@ title: "GDM Settings"
 summary: "A settings app for GNOME's Login Manager, GDM"
 date: 2024-11-27T22:19:00Z
 categories: ["System"]
-showAuthor: true
+
 authors:
 - "Mazhar Hussain"
 tags: 

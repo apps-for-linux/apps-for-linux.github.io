@@ -3,7 +3,7 @@ title: "Conky"
 summary: "Light-weight system monitor for X, Wayland, and other things, too"
 date: 2025-01-01T16:12:00Z
 categories: ["Utilities"]
-showAuthor: true
+
 authors:
 - "Brenden Matthews"
 tags: 

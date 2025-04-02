@@ -3,7 +3,7 @@ title: "Zettlr"
 summary: "Your One-Stop Publication Workbench"
 date: 2025-02-21T11:38:00Z
 categories: ["Productivity"]
-showAuthor: true
+
 authors:
 - "Hendrik Erz"
 tags: 

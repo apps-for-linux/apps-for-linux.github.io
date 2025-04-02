@@ -3,7 +3,7 @@ title: "Hiddify"
 summary: "Cross Platform Multi Protocol Proxy Frontend."
 date: 2024-10-04T02:09:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Hiddify"
 tags: 

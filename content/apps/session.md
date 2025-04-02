@@ -3,7 +3,7 @@ title: "Session"
 summary: "Session Desktop - Onion routing based messenger."
 date: 2025-03-28T13:15:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "The Oxen Project"
 tags: 

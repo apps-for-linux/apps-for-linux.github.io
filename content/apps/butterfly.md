@@ -3,7 +3,7 @@ title: "Butterfly"
 summary: "Powerful, minimalistic, cross-platform, opensource note-taking app"
 date: 2025-01-20T13:28:00Z
 categories: ["Productivity"]
-showAuthor: true
+
 authors:
 - "LinwoodDev"
 tags: 

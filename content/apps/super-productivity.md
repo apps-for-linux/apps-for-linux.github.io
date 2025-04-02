@@ -3,7 +3,7 @@ title: "superProductivity"
 summary: "An advanced todo list app with timeboxing & time tracking capabilities that supports importing tasks from your calendar, Jira, GitHub and others"
 date: 2024-12-03T04:50:00Z
 categories: ["Productivity"]
-showAuthor: true
+
 authors:
 - "Johannes Millan"
 tags: ["Official"]

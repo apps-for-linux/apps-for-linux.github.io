@@ -3,7 +3,7 @@ title: "Standard Notes"
 summary: "End-to-end encrypted note-taking app for digitalists and professionals"
 date: 2025-01-31T23:28:00Z
 categories: ["Productivity"]
-showAuthor: true
+
 authors:
 - "Standard Notes"
 tags: 

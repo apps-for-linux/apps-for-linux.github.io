@@ -3,7 +3,7 @@ title: "Converseen"
 summary: "Converseen is a batch image converter and resizer"
 date: 2025-01-22T18:38:00Z
 categories: ["Graphics"]
-showAuthor: true
+
 authors:
 - "Francesco Mondello"
 tags: 

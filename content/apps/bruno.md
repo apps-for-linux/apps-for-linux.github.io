@@ -3,7 +3,7 @@ title: "Bruno"
 summary: "Open-source IDE for exploring and testing APIs"
 date: 2025-01-08T16:37:00Z
 categories: ["Development"]
-showAuthor: true
+
 authors:
 - "Bruno Authors"
 tags: 

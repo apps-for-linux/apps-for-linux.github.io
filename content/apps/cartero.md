@@ -3,7 +3,6 @@ title: "Cartero"
 summary: "Native, lightweight, multiplatform and free HTTP client that you can use to test your APIs"
 date: 2025-02-16T02:45:00Z
 categories: ["Development"]
-showAuthor: true
 authors:
 - "the Cartero authors"
 tags: 

@@ -3,7 +3,7 @@ title: "Hotspot"
 summary: "Linux perf GUI for performance analysis."
 date: 2024-05-28T17:13:00Z
 categories: ["System"]
-showAuthor: true
+
 authors:
 - "Klarälvdalens Datakonsult"
 tags: ["Official"]

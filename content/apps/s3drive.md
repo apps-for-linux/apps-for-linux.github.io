@@ -3,7 +3,7 @@ title: "S3Drive"
 summary: "Zero Knowledge E2E encrypted storage compatible with multiple providers"
 date: 2025-03-23T11:53:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Cloud storage"
 tags: ["Official"]

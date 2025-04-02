@@ -3,7 +3,7 @@ title: "Miru"
 summary: "Stream anime torrents, real-time with no waiting for downloads"
 date: 2025-03-20T23:56:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Cas"
 tags: 

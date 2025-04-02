@@ -3,7 +3,7 @@ title: "qBittorrent-Enhanced-Edition"
 summary: "qBittorrent is a bittorrent client programmed in C++ / Qt"
 date: 2025-02-28T17:51:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors: 
 - c0re100
 tags: 

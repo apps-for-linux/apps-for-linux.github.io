@@ -3,7 +3,7 @@ title: "digiKam"
 summary: "Professional Photo Management with Power of Open Source"
 date: 2025-03-15T09:55:00Z
 categories: ["Graphics"]
-showAuthor: true
+
 authors:
 - "digiKam Team"
 tags: 

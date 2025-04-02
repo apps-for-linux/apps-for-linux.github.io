@@ -3,7 +3,7 @@ title: "Jitsi Meet"
 summary: "Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
 date: 2025-02-13T19:05:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Jitsi team"
 tags: ["Official"]

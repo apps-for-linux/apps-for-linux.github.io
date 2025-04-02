@@ -3,7 +3,7 @@ title: "OpenRGB"
 summary: "Open source RGB lighting control that doesn't depend on manufacturer software"
 date: 2023-07-09T03:00:00Z
 categories: ["Utilities"]
-showAuthor: true
+
 authors:
 - "Adam Honse"
 tags:

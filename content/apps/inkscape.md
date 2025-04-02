@@ -3,7 +3,7 @@ title: "Inkscape"
 summary: "A Free and open source vector graphics editor"
 date: 2024-10-09T21:30:00Z
 categories: ["Graphics"]
-showAuthor: true
+
 authors:
 - "Inkscape Authors"
 tags: 

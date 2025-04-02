@@ -3,7 +3,7 @@ title: "LM Studio"
 summary: "Discover, download, and run local LLMs"
 date: 2025-01-30T00:00:00Z
 categories: ["Productivity"]
-showAuthor: true
+
 authors:
 - "LM Studio Team"
 tags: ["AI-powered software"]

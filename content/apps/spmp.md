@@ -3,7 +3,7 @@ title: "spmp"
 summary: "A YouTube Music client with a focus on customisation of colours and song metadata."
 date: 2024-10-06T15:09:00Z
 categories: ["Audio & Video"]
-showAuthor: true
+
 authors:
 - "Talo Halton"
 tags: 

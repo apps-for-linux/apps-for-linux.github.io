@@ -3,7 +3,7 @@ title: "Mendeley"
 summary: "Mendeley Reference Manager simplifies your workflow, so you can focus on achieving your goals"
 date: 2025-03-10T00:00:00Z
 categories: ["Productivity"]
-showAuthor: true
+
 authors:
 - "Elsevier"
 tags: 

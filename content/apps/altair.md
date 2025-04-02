@@ -3,7 +3,7 @@ title: "Altair"
 summary: "A beautiful feature-rich GraphQL Client"
 date: 2025-03-09T02:16:00Z
 categories: ["Development"]
-showAuthor: true
+
 authors:
 - "Samuel Imolorhe"
 tags: 

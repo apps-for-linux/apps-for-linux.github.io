@@ -3,7 +3,7 @@ title: "Friction"
 summary: "Powerful and versatile free and open-source motion graphics application."
 date: 2024-12-02T23:57:00Z
 categories: ["Graphics"]
-showAuthor: true
+
 authors:
 - "Friction contributors"
 tags: 

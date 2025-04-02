@@ -3,7 +3,7 @@ title: "Cura"
 summary: "3D printer / slicing GUI built on top of the Uranium framework"
 date: 2024-11-19T17:46:00Z
 categories: ["Graphics"]
-showAuthor: true
+
 authors:
 - "Ultimaker"
 tags: 

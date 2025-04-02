@@ -3,7 +3,6 @@ title: "Chatterino2"
 summary: "Chat client for Twitch.tv"
 date: 2025-01-05T14:44:00Z
 categories: ["Network"]
-showAuthor: true
 authors:
 - "Chatterino2 Authors"
 tags: 

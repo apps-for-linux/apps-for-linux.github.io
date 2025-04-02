@@ -3,7 +3,7 @@ title: "appimagecraft"
 summary: "appimagecraft completely automates the AppImage build process"
 date: 2024-12-23T04:54:00Z
 categories: ["Development"]
-showAuthor: true
+
 authors:
 - "TheAssassin"
 tags: 

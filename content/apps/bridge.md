@@ -3,7 +3,7 @@ title: "Bridge"
 summary: "Quixel Bridge is a software that lets you browse, download, and export 3D assets from Megascans and MetaHumans libraries with one click"
 date: 2023-05-19T18:28:00Z
 categories: ["Graphics"]
-showAuthor: true
+
 authors:
 - "Quixel"
 tags: 

@@ -3,7 +3,7 @@ title: "GIMP"
 summary: "The Free & Open Source Image Editor"
 date: 2025-03-17T03:25:00Z
 categories: ["Graphics"]
-showAuthor: true
+
 authors:
 - "GIMP’s Team"
 tags: 

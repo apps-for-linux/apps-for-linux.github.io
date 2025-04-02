@@ -3,7 +3,7 @@ title: "Extraterm"
 summary: "The swiss army chainsaw of terminal emulators."
 date: 2025-01-25T12:35:00Z
 categories: ["System"]
-showAuthor: true
+
 authors:
 - "Simon Edwards"
 tags: 

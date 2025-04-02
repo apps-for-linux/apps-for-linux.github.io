@@ -3,7 +3,7 @@ title: "Ricochet Refresh"
 summary: "Anonymous peer-to-peer instant messaging"
 date: 2025-01-19T17:10:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Blueprint for Free Speech"
 tags: 

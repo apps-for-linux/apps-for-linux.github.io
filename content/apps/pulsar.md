@@ -3,7 +3,7 @@ title: "Pulsar"
 summary: "A Community-led Hyper-Hackable Text Editor"
 date: 2025-03-30T07:01:00Z
 categories: ["Development"]
-showAuthor: true
+
 authors:
 - "Pulsar-Edit Original work"
 tags: 

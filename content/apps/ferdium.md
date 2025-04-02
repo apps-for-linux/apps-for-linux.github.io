@@ -3,7 +3,7 @@ title: "Ferdium"
 summary: "All your services in one place, built by the community."
 date: 2024-11-10T05:23:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Ferdium Team"
 tags: 

@@ -3,7 +3,7 @@ title: "Follow"
 summary: "Next generation information browser"
 date: 2025-01-25T17:29:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Follow Team"
 tags: 

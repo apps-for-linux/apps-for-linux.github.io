@@ -3,7 +3,7 @@ title: "AppFlowy"
 summary: "Open-source alternative to Notion. You are in charge of your data and customizations"
 date: 2025-01-23T14:47:00Z
 categories: ["Productivity"]
-showAuthor: true
+
 authors:
 - "AppFlowy"
 tags: 

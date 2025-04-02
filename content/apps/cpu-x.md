@@ -3,7 +3,7 @@ title: "CPU-X"
 summary: "Free software that gathers information on CPU, motherboard and more."
 date: 2024-12-01T14:29:00Z
 categories: ["Utilities"]
-showAuthor: true
+
 authors:
 - "The Tumultuous Unicorn Of Darkness"
 tags: 

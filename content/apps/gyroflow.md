@@ -3,7 +3,7 @@ title: "Gyroflow"
 summary: "Video stabilization using gyroscope data"
 date: 2024-10-23T23:30:00Z
 categories: ["Audio & Video"]
-showAuthor: true
+
 authors:
 - "Gyroflow Team"
 tags: ["Official"]

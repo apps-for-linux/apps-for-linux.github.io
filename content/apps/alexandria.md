@@ -3,7 +3,7 @@ title: "Alexandria"
 summary: "A minimalistic cross-platform eBook reader"
 date: 2024-10-07T12:48:00Z
 categories: ["Productivity"]
-showAuthor: true
+
 authors:
 - "Bret Papkoff"
 tags: 

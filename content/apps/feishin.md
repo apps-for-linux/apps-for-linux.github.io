@@ -3,7 +3,7 @@ title: "Feishin"
 summary: "A modern self-hosted music player"
 date: 2024-11-20T20:30:00Z
 categories: ["Audio & Video"]
-showAuthor: true
+
 authors:
 - "Jeff"
 tags: 

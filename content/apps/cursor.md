@@ -3,7 +3,7 @@ title: "Cursor"
 summary: "The AI Code Editor"
 date: 2024-12-17T00:00:00Z
 categories: ["Development"]
-showAuthor: true
+
 authors:
 - "Anysphere"
 tags: 

@@ -3,7 +3,7 @@ title: "Zen Browser"
 summary: "Performance-optimized and privacy-focused browser built atop Firefox"
 date: 2025-01-31T08:57:00Z
 categories: ["Network"]
-showAuthor: true
+
 authors:
 - "Zen Browser Team"
 tags: 

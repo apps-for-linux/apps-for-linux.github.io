@@ -3,7 +3,7 @@ title: "Audacity"
 summary: "Easy-to-use, multi-track audio editor and recorder"
 date: 2024-10-30T20:27:00Z
 categories: ["Audio & Video"]
-showAuthor: true
+
 authors:
 - "Audacity Developer Team"
 tags: 
