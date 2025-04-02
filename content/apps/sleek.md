@@ -1,7 +1,7 @@
 ---
 title: "Sleek"
 summary: "Open-source (FOSS) todo manager based on the todo.txt syntax"
-date: 2025-01-20T16:05:00Z
+date: 2025-03-06T20:29:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -24,5 +24,5 @@ Source code: <https://github.com/ransome1/sleek>
 Become a sponsor: <https://github.com/sponsors/ransome1>  
 Translate: <https://github.com/ransome1/sleek/tree/main/src/locales>  
 Report the bug: <https://github.com/ransome1/sleek/issues/new>  
-Download:   x86_64: <https://github.com/ransome1/sleek/releases/download/v2.0.17-rc.1/sleek-2.0.17-rc.1-linux-x86_64.AppImage>
-arm64: https://github.com/ransome1/sleek/releases/download/v2.0.17-rc.1/sleek-2.0.17-rc.1-linux-arm64.AppImage
+Download:   x86_64: <https://github.com/ransome1/sleek/releases/download/v2.0.19/sleek-2.0.19-linux-x86_64.AppImage>
+            arm64: <https://github.com/ransome1/sleek/releases/download/v2.0.19/sleek-2.0.19-linux-arm64.AppImage>

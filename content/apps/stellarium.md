@@ -1,7 +1,7 @@
 ---
 title: "Stellarium"
 summary: "Stellarium is a free open source planetarium for your computer."
-date: 2024-12-22T14:13:00Z
+date: 2025-03-23T15:43:00Z
 categories: ["Science"]
 showAuthor: true
 authors:
@@ -23,6 +23,6 @@ Become a sponsor: <https://opencollective.com/stellarium>
 Translate: <https://www.transifex.com/stellarium/stellarium>  
 Report the bug: <https://github.com/Stellarium/stellarium/issues/new>  
 
-{{< button href="https://github.com/Stellarium/stellarium/releases/download/v24.4/Stellarium-24.4-qt6-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/Stellarium/stellarium/releases/download/v25.1/Stellarium-25.1-qt6-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

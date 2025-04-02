@@ -1,7 +1,7 @@
 ---
 title: "Session"
 summary: "Session Desktop - Onion routing based messenger."
-date: 2024-12-20T09:43:00Z
+date: 2025-03-28T13:15:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
@@ -26,6 +26,6 @@ Become a sponsor: <https://donorbox.org/optf-donation>
 Translate: <https://crowdin.com/project/session-crossplatform-strings>  
 Report the bug: <https://github.com/session-foundation/session-desktop/issues/new>  
 
-{{< button href="https://github.com/session-foundation/session-desktop/releases/download/v1.14.5/session-desktop-linux-x86_64-1.14.5.AppImage" target="_blank">}}
+{{< button href="https://github.com/session-foundation/session-desktop/releases/download/v1.15.2/session-desktop-linux-x86_64-1.15.2.AppImage" target="_blank">}}
 Download
 {{< /button >}}
