@@ -12,8 +12,6 @@ License: EULA
 draft: false
 ---
 
-{{< carousel images="{https://gitbreeze.ams3.digitaloceanspaces.com/website/images/gitbreeze-screenshot-branches-ai.avif}" >}}
-
 Free AI Git GUI for Windows, Mac, Linux
 
 License: EULA
