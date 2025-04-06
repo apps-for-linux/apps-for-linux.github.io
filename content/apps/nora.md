@@ -3,7 +3,6 @@ title: "Nora"
 summary: "An elegant music player built using Electron and React"
 date: 2025-03-29T14:40:00Z
 categories: ["Audio & Video"]
-
 authors:
 - "Sandakan Nipunajith"
 tags: 

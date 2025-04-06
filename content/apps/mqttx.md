@@ -3,7 +3,6 @@ title: "MQTTX"
 summary: "MQTTX makes developing and testing MQTT applications faster and easier.."
 date: 2024-12-13T13:19:00Z
 categories: ["Development"]
-
 authors:
 - "EMQX Team"
 tags: ["Official"]
