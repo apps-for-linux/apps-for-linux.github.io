@@ -19,7 +19,9 @@ Open source cross-platform alternative to AirDrop
 License: MIT
 
 Web page: <https://localsend.org>  
-Source code: <https://github.com/localsend/localsend>
+{{< button_outline href="<https://github.com/localsend/localsend>" target="_blank">}}
+Source code
+{{< /button_outline >}}
 
 Become a sponsor: <https://github.com/sponsors/Tienisto>  
 Translate: <https://github.com/localsend/localsend?tab=readme-ov-file#translation>  
