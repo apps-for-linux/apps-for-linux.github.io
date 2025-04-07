@@ -1,3 +1,3 @@
-[submodule "themes/hugo-news"]
-	path = themes/hugo-news
-	url = https://github.com/drsheppard01/hugo-news
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish
