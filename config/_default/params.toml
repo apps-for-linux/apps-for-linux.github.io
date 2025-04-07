@@ -14,7 +14,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-mainSections = ["categories"]
+mainSections = ["apps"]
 # robots = ""
 
 disableImageOptimization = false
