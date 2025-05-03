@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/kraxarn/spotify-qt/refs/heads/master/.github/img/spotify-qt.png}" >}}
+{{< carousel images="{https://raw.githubusercontent.com/kraxarn/spotify-qt/refs/heads/develop/.github/img/spotify-qt.png}" >}}
 
 Lightweight Spotify client using Qt.
 
