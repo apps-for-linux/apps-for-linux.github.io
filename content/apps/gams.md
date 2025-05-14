@@ -1,9 +1,8 @@
 ---
 title: "GAMS Studio"
 summary: "Official development environment of the General Algebraic Modeling System"
-date: 2025-01-24T18:39:00Z
+date: 2025-04-24T14:45:00Z
 categories: ["Development"]
-
 authors:
 - "GAMS Development"
 tags: 
@@ -23,6 +22,6 @@ Source code: <https://github.com/GAMS-dev/studio>
 
 Report the bug: <https://github.com/GAMS-dev/studio/issues/new>  
 
-{{< button href="https://github.com/GAMS-dev/studio/releases/download/v1.20.0/GAMS_Studio-1.20.0-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/GAMS-dev/studio/releases/download/v1.20.6/GAMS_Studio-1.20.6-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

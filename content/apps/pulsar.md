@@ -1,9 +1,8 @@
 ---
 title: "Pulsar"
 summary: "A Community-led Hyper-Hackable Text Editor"
-date: 2025-03-30T07:01:00Z
+date: 2025-05-01T09:25:00Z
 categories: ["Development"]
-
 authors:
 - "Pulsar-Edit Original work"
 tags: 
@@ -21,5 +20,5 @@ Source code: <https://github.com/pulsar-edit/pulsar>
 Become a sponsor: <https://opencollective.com/pulsar-edit>  
 Translate: <https://crowdin.com/project/pulsar-edit>  
 Report the bug: <https://github.com/pulsar-edit/pulsar/issues/new>  
-Download:   x86_64: <https://github.com/pulsar-edit/pulsar/releases/download/v1.127.1/Linux.Pulsar-1.127.1.AppImage>  
-            arm64: <https://github.com/pulsar-edit/pulsar/releases/download/v1.127.1/ARM.Linux.Pulsar-1.127.1-arm64.AppImage>
+Download:   x86_64: <https://github.com/pulsar-edit/pulsar/releases/download/v1.128.0/Linux.Pulsar-1.128.0.AppImage>  
+            arm64: <https://github.com/pulsar-edit/pulsar/releases/download/v1.128.0/ARM.Linux.Pulsar-1.128.0-arm64.AppImage>

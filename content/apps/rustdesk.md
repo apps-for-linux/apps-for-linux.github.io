@@ -3,7 +3,6 @@ title: "RustDesk"
 summary: "An open-source remote desktop, and alternative to TeamViewer"
 date: 2025-02-22T14:56:00Z
 categories: ["Utilities"]
-
 authors:
 - "RustDesk"
 tags: 
@@ -23,5 +22,5 @@ Source code: <https://github.com/rustdesk/rustdesk>
 Become a sponsor: <https://github.com/sponsors/rustdesk>  
 Translate: <https://github.com/rustdesk/rustdesk/tree/master/src/lang>  
 Report the bug: <https://github.com/rustdesk/rustdesk/issues/new>  
-Download:   x86_64: <https://github.com/rustdesk/rustdesk/releases/download/1.3.8/rustdesk-1.3.8-x86_64.AppImage>  
-            arm64: <https://github.com/rustdesk/rustdesk/releases/download/1.3.8/rustdesk-1.3.8-aarch64.AppImage>
+Download:   x86_64: <https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-x86_64.AppImage>  
+            arm64: <https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-aarch64.AppImage>

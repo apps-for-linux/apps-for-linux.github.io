@@ -1,9 +1,8 @@
 ---
 title: "Saber"
 summary: "Cross-platform libre handwritten notes app"
-date: 2024-12-14T06:19:00Z
+date: 2025-05-12T12:57:00Z
 categories: ["Productivity"]
-
 authors:
 - "Adil Hanney"
 tags: 
@@ -26,6 +25,6 @@ Become a sponsor: <https://github.com/sponsors/adil192>
 Translate: <https://github.com/saber-notes/saber?tab=readme-ov-file#translating>  
 Report the bug: <https://github.com/saber-notes/saber/issues/new>  
 
-{{< button href="https://github.com/saber-notes/saber/releases/download/v0.25.4/Saber-0.25.4-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/saber-notes/saber/releases/download/v0.25.6/Saber-0.25.6-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}
