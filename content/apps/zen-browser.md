@@ -1,9 +1,8 @@
 ---
 title: "Zen Browser"
 summary: "Performance-optimized and privacy-focused browser built atop Firefox"
-date: 2025-01-31T08:57:00Z
+date: 2025-05-14T11:50:00Z
 categories: ["Network"]
-
 authors:
 - "Zen Browser Team"
 tags: 
@@ -13,7 +12,7 @@ License: MPL-2.0
 draft: false
 ---
 
-{{< carousel images="{https://zen-browser.app/_astro/browser.CbbtFXKg_1pRH4x.webp}" >}}
+{{< carousel images="{https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp}" >}}
 
 
 Performance-optimized and privacy-focused browser built atop Firefox
@@ -26,5 +25,5 @@ Source code: <https://github.com/zen-browser/desktop>
 Become a sponsor: <https://patreon.com/zen_browser>  
 Translate: <https://crowdin.com/project/zen-browser>  
 Report the bug: <https://github.com/zen-browser/desktop/issues/new>  
-Download:   x86_64: <https://github.com/zen-browser/desktop/releases/download/1.7.4b/zen-x86_64.AppImage>  
-            arm64: <https://github.com/zen-browser/desktop/releases/download/1.7.4b/zen-aarch64.AppImage>
+Download:   x86_64: <https://github.com/zen-browser/desktop/releases/download/1.12.4b/zen-x86_64.AppImage>  
+            arm64: <https://github.com/zen-browser/desktop/releases/download/1.12.4b/zen-aarch64.AppImage>

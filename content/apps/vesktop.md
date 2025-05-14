@@ -23,5 +23,5 @@ Source code: <https://github.com/Vencord/Vesktop>
 
 Become a sponsor: <https://github.com/sponsors/Vendicated>  
 Report the bug: <https://github.com/Vencord/Vesktop/issues/new>  
-Download: x86_64: <https://github.com/Vencord/Vesktop/releases/download/v1.5.5/Vesktop-1.5.5.AppImage>  
-            arm64: <https://github.com/Vencord/Vesktop/releases/download/v1.5.5/Vesktop-1.5.5-arm64.AppImage>
+Download:   x86_64: <https://github.com/Vencord/Vesktop/releases/download/v1.5.6/Vesktop-1.5.6.AppImage>  
+            arm64: <https://github.com/Vencord/Vesktop/releases/download/v1.5.6/Vesktop-1.5.6-arm64.AppImage>
