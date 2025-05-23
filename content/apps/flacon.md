@@ -1,9 +1,8 @@
 ---
 title: "Flacon"
 summary: "Extracts audio tracks from an audio CD image to separate tracks."
-date: 2024-11-03T21:09:00Z
+date: 2025-02-14T21:09:00Z
 categories: ["Audio & Video"]
-
 authors:
 - "Flacon team"
 tags: 
@@ -24,6 +23,6 @@ Become a sponsor: <https://flacon.github.io/donate>
 Translate: <https://www.transifex.com/projects/p/flacon>  
 Report the bug: <https://github.com/flacon/flacon/issues/new>  
 
-{{< button href="https://github.com/flacon/flacon/releases/download/v11.99.1/flacon-11.99.1-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/flacon/flacon/releases/download/v12.0.0/flacon-12.0.0-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

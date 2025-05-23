@@ -1,9 +1,8 @@
 ---
 title: "Delta Chat Desktop"
 summary: "Email-based instant messaging for Desktop."
-date: 2025-01-27T19:30:00Z
+date: 2025-05-15T13:43:00Z
 categories: ["Network"]
-
 authors:
 - "Delta Chat contributors"
 tags: 
@@ -25,5 +24,5 @@ Source code: <https://github.com/deltachat/deltachat-desktop>
 Translate: <https://www.transifex.com/delta-chat/public>  
 Become a sponsor: <https://delta.chat/en/donate>  
 Report the bug: <https://github.com/deltachat/deltachat-desktop/issues/new>  
-Download: x86_64: <https://github.com/deltachat/deltachat-desktop/releases/download/v1.52.1/DeltaChat-1.52.1-x86_64.AppImage>  
-          arm64: <https://github.com/deltachat/deltachat-desktop/releases/download/v1.52.1/DeltaChat-1.52.1-arm64.AppImage>
+Download: x86_64: <https://github.com/deltachat/deltachat-desktop/releases/download/v1.58.2/DeltaChat-1.58.2-x86_64.AppImage>  
+          arm64: <https://github.com/deltachat/deltachat-desktop/releases/download/v1.58.2/DeltaChat-1.58.2-arm64.AppImage>

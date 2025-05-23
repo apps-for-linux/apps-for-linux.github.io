@@ -1,9 +1,8 @@
 ---
 title: "Converseen"
 summary: "Converseen is a batch image converter and resizer"
-date: 2025-01-22T18:38:00Z
+date: 2025-04-25T19:17:00Z
 categories: ["Graphics"]
-
 authors:
 - "Francesco Mondello"
 tags: 
@@ -24,6 +23,6 @@ Source code: <https://github.com/Faster3ck/Converseen>
 Become a sponsor: <https://ko-fi.com/faster3ck>  
 Report the bug: <https://github.com/Faster3ck/Converseen/issues/new>  
 
-{{< button href="https://github.com/Faster3ck/Converseen/releases/download/v0.12.2.5/Converseen-0.12.2.5-1-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/Faster3ck/Converseen/releases/download/v0.14.0.0/Converseen-0.14.0.0-1-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

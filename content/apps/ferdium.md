@@ -1,9 +1,8 @@
 ---
 title: "Ferdium"
 summary: "All your services in one place, built by the community."
-date: 2024-11-10T05:23:00Z
+date: 2025-05-17T19:24:00Z
 categories: ["Network"]
-
 authors:
 - "Ferdium Team"
 tags: 
@@ -24,6 +23,6 @@ Source code: <https://github.com/ferdium/ferdium-app>
 
 Report the bug: <https://github.com/ferdium/ferdium-app/issues/new>  
 
-{{< button href="https://github.com/ferdium/ferdium-app/releases/download/v7.0.0/Ferdium-linux-Portable-7.0.0-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/ferdium/ferdium-app/releases/download/v7.1.0-nightly.8/Ferdium-linux-Portable-7.1.0-nightly.8-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

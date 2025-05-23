@@ -1,9 +1,8 @@
 ---
 title: "Insomnia"
 summary: "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC"
-date: 2025-02-07T12:38:00Z
+date: 2025-05-06T11:10:00Z
 categories: ["Development"]
-
 authors:
 - "Kong"
 tags: ["Official"]
@@ -21,6 +20,6 @@ Source code: <https://github.com/Kong/insomnia>
 
 Report the bug: <https://github.com/Kong/insomnia/issues>  
 
-{{< button href="https://github.com/Kong/insomnia/releases/download/core%4010.3.1-beta.4/Insomnia.Core-10.3.1-beta.4-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/Kong/insomnia/releases/download/core%4011.1.0/Insomnia.Core-11.1.0.AppImage" target="_blank">}}
 Download
 {{< /button >}}

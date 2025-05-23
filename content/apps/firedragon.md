@@ -1,9 +1,8 @@
 ---
 title: "FireDragon"
 summary: "A Floorp fork with custom branding and opinionated settings."
-date: 2025-02-09T05:31:00Z
+date: 2025-05-21T11:18:00Z
 categories: ["Network"]
-
 authors:
 - "Nico Jensch"
 tags: 
@@ -23,6 +22,6 @@ Source code: <https://github.com/dr460nf1r3/firedragon-browser>
 
 Report the bug: <https://gitlab.com/garuda-linux/firedragon/issues/new>  
 
-{{< button href="https://gitlab.com/garuda-linux/firedragon/builder/-/releases/v11.23.0-4/downloads/firedragon-v11.23.0-4.appimage-x86_64.AppImage" target="_blank">}}
+{{< button href="https://gitlab.com/garuda-linux/firedragon/builder/-/releases/v11.26.2-1/downloads/firedragon-v11.26.2-1.appimage-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

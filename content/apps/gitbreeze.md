@@ -3,7 +3,6 @@ title: "GitBreeze"
 summary: "Free AI Git GUI for Windows, Mac, Linux."
 date: 2025-03-14T00:00:00Z
 categories: ["Development"]
-
 authors:
 - "GitBreeze"
 tags: 

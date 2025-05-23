@@ -1,9 +1,8 @@
 ---
 title: "Inkscape"
 summary: "A Free and open source vector graphics editor"
-date: 2024-10-09T21:30:00Z
+date: 2025-05-09T00:24:00Z
 categories: ["Graphics"]
-
 authors:
 - "Inkscape Authors"
 tags: 
@@ -24,6 +23,6 @@ Become a sponsor: <https://inkscape.org/support-us/donate>
 Translate: <https://inkscape.org/contribute/translations>  
 Report the bug: <https://gitlab.com/inkscape/inkscape/-/issues/new>  
 
-{{< button href="https://inkscape.org/gallery/item/53678/Inkscape-e7c3feb-x86_64_0QCD8vJ.AppImage" target="_blank">}}
+{{< button href="https://inkscape.org/gallery/item/56343/Inkscape-ebf0e94-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

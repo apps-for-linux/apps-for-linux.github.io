@@ -1,7 +1,7 @@
 ---
 title: "Frappe"
 summary: "Simple, well-designed, free desktop accounting software for freelancers and small businesses"
-date: 2025-01-30T12:16:00Z
+date: 2025-05-15T08:54:00Z
 categories: ["Finance"]
 authors:
 - "Frappe Technologies"
@@ -23,6 +23,6 @@ Source code: <https://github.com/frappe/books>
 Translate: <https://github.com/frappe/books/wiki/Contributing-Translations>  
 Report the bug: <https://github.com/frappe/books/issues/new>  
 
-{{< button href="https://github.com/frappe/books/releases/download/v0.27.0/Frappe-Books-0.27.0.AppImage" target="_blank">}}
+{{< button href="https://github.com/frappe/books/releases/download/v0.30.0/Frappe-Books-0.30.0.AppImage" target="_blank">}}
 Download
 {{< /button >}}

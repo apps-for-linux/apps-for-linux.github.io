@@ -1,9 +1,8 @@
 ---
 title: "Giada"
 summary: "Open source, minimalistic and hardcore music production tool"
-date: 2024-10-25T13:19:00Z
+date: 2025-05-21T20:08:00Z
 categories: ["Audio & Video"]
-
 authors:
 - "monocasual laboratories"
 tags: 
@@ -23,6 +22,6 @@ Source code: <https://github.com/monocasual/giada>
 
 Report the bug: <https://github.com/monocasual/giada/issues/new>
 
-{{< button href="https://www.giadamusic.com/data/Giada-1.1.1-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/monocasual/giada/releases/download/1.2.0/Giada-1.2.0-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

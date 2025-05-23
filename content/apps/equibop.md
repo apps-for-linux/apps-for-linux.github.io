@@ -1,9 +1,8 @@
 ---
 title: "Equibop"
 summary: "Equibop is a fork of Vesktop."
-date: 2025-02-08T16:14:00Z
+date: 2025-05-15T02:59:00Z
 categories: ["Network"]
-
 authors:
 - "Equicord"
 tags: 
@@ -19,5 +18,5 @@ License: GPL-3.0
 Source code: <https://github.com/Equicord/Equibop>
 
 Report the bug: <https://github.com/Equicord/Equibop/issues/new>  
-Download:   x86_64: <https://github.com/Equicord/Equibop/releases/download/v2.1.2/Equibop-linux-x86_64.AppImage>  
-            arm64: <https://github.com/Equicord/Equibop/releases/download/v2.1.2/Equibop-linux-arm64.AppImage>
+Download:   x86_64: <https://github.com/Equicord/Equibop/releases/download/v2.1.4/Equibop-linux-x86_64.AppImage>  
+            arm64: <https://github.com/Equicord/Equibop/releases/download/v2.1.4/Equibop-linux-arm64.AppImage>
