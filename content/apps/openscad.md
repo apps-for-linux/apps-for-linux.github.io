@@ -1,9 +1,8 @@
 ---
 title: "OpenSCAD"
 summary: "The Programmers Solid 3D CAD Modeller"
-date: 2025-02-23T02:08:00Z
+date: 2025-05-20T22:29:00Z
 categories: ["Graphics"]
-
 authors:
 - "Marius Kintel"
 tags: 
@@ -24,6 +23,6 @@ Become a sponsor: <https://github.com/sponsors/openscad>
 Translate: <https://wiki.documentfoundation.org/Language>  
 Report the bug: <https://github.com/openscad/openscad/issues/new>  
 
-{{< button href="https://files.openscad.org/snapshots/OpenSCAD-2025.02.23.ai23652-x86_64.AppImage" target="_blank">}}
+{{< button href="https://files.openscad.org/snapshots/OpenSCAD-2025.05.16.ai25460-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

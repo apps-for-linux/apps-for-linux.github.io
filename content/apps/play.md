@@ -1,7 +1,7 @@
 ---
 title: "Play!"
 summary: "Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms"
-date: 2024-12-03T06:03:00Z
+date: 2025-02-04T14:06:00Z
 categories: ["Games"]
 authors:
 - "Jean-Philip Desjardins"
@@ -22,6 +22,6 @@ Source code: <https://github.com/jpd002/Play->
 Become a sponsor: <https://github.com/sponsors/jpd002>  
 Report the bug: <https://github.com/jpd002/Play-/issues/new>  
 
-{{< button href="https://purei.org/downloads/play/stable/0.68/Play!-69ce62f6-x86_64.AppImage" target="_blank">}}
+{{< button href="https://purei.org/downloads/play/stable/0.69/Play!-ae20e1ee-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}
