@@ -1,7 +1,7 @@
 ---
 title: "Archipelago"
 summary: "Archipelago provides a generic framework for developing multiworld capability for game randomizers"
-date: 2024-11-29T21:00:00Z
+date: 2025-06-19T20:19:00Z
 categories: ["Games"]
 authors:
 - "Archipelago"
@@ -19,6 +19,6 @@ Source code: <https://github.com/ArchipelagoMW/Archipelago>
 
 Report the bug: <https://github.com/ArchipelagoMW/Archipelago/issues/new>  
 
-{{< button href="https://github.com/ArchipelagoMW/Archipelago/releases/download/0.5.1/Archipelago_0.5.1.Hotfix1_linux-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/ArchipelagoMW/Archipelago/releases/download/0.6.2-rc3/Archipelago_0.6.2_linux-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

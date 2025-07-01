@@ -3,7 +3,6 @@ title: "Avogadro"
 summary: "Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas"
 date: 2025-01-22T04:15:00Z
 categories: ["Science"]
-
 authors:
 - "Open Chemistry"
 tags: ["Chemistry"]
@@ -23,6 +22,7 @@ Source code: <https://github.com/openchemistry/avogadrolibs>
 Become a sponsor: <https://opencollective.com/open-chemistry>  
 Translate: <https://hosted.weblate.org/engage/avogadro>  
 Report the bug: <https://github.com/openchemistry/avogadrolibs/issues/new>  
+
 {{< button href="https://github.com/OpenChemistry/avogadrolibs/releases/download/1.100.0/Avogadro2-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}

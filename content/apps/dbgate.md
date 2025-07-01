@@ -1,9 +1,8 @@
 ---
 title: "DbGate"
 summary: "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others"
-date: 2024-12-26T10:09:00Z
+date: 2025-06-20T18:08:00Z
 categories: ["Development"]
-
 authors:
 - "Jan Prochazka"
 tags: 
@@ -23,6 +22,11 @@ Source code: <https://github.com/dbgate/dbgate>
 
 Become a sponsor: <https://github.com/sponsors/dbgate>  
 Report the bug: <https://github.com/dbgate/dbgate/issues/new>  
-Download:   x86_64: <https://github.com/dbgate/dbgate/releases/download/v6.1.2/dbgate-6.1.2-linux_x86_64.AppImage>  
-            arm64: <https://github.com/dbgate/dbgate/releases/download/v6.1.2/dbgate-6.1.2-linux_arm64.AppImage>  
-            armv7l <https://github.com/dbgate/dbgate/releases/download/v6.1.2/dbgate-6.1.2-linux_armv7l.AppImage>
+
+{{< button href="https://github.com/dbgate/dbgate/releases/download/latest/dbgate-latest.AppImage" target="_blank">}}
+Download x86_64
+{{< /button >}}
+
+{{< button href="https://github.com/dbgate/dbgate/releases/download/latest/dbgate-latest-arm64.AppImage" target="_blank">}}
+Download arm64
+{{< /button >}}

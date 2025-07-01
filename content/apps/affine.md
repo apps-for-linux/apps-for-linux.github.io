@@ -1,7 +1,7 @@
 ---
 title: "AFFiNE"
 summary: "A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro"
-date: 2025-04-30T08:50:00Z
+date: 2025-06-30T12:43:00Z
 categories: ["Productivity"]
 authors:
 - "TOEVERYTHING"
@@ -23,6 +23,6 @@ Become a sponsor: <https://github.com/sponsors/toeverything>
 Translate: <https://crowdin.com/project/affine>  
 Report the bug: <https://github.com/toeverything/AFFiNE/issues>  
 
-{{< button href="https://github.com/toeverything/AFFiNE/releases/download/v0.21.6/affine-0.21.6-stable-linux-x64.appimage" target="_blank">}}
+{{< button href="https://github.com/toeverything/AFFiNE/releases/download/2025.6.30-canary.95/affine-2025.6.30-canary.95-canary-linux-x64.appimage" target="_blank">}}
 Download
 {{< /button >}}

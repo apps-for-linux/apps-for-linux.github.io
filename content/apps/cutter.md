@@ -1,7 +1,7 @@
 ---
 title: "Cutter"
 summary: "Free and Open Source Reverse Engineering platform powered by Rizin"
-date: 2024-05-11T17:58:00Z
+date: 2025-05-11T17:58:00Z
 categories: ["Development"]
 authors:
 - "Rizin"

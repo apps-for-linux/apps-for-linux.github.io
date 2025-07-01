@@ -24,5 +24,11 @@ Source code: <https://github.com/deltachat/deltachat-desktop>
 Translate: <https://www.transifex.com/delta-chat/public>  
 Become a sponsor: <https://delta.chat/en/donate>  
 Report the bug: <https://github.com/deltachat/deltachat-desktop/issues/new>  
-Download: x86_64: <https://github.com/deltachat/deltachat-desktop/releases/download/v1.58.2/DeltaChat-1.58.2-x86_64.AppImage>  
-          arm64: <https://github.com/deltachat/deltachat-desktop/releases/download/v1.58.2/DeltaChat-1.58.2-arm64.AppImage>
+
+{{< button href="https://github.com/deltachat/deltachat-desktop/releases/download/v1.58.2/DeltaChat-1.58.2-x86_64.AppImage" target="_blank">}}
+Download x86_64
+{{< /button >}}
+
+{{< button href="https://github.com/deltachat/deltachat-desktop/releases/download/v1.58.2/DeltaChat-1.58.2-arm64.AppImage" target="_blank">}}
+Download arm64
+{{< /button >}}

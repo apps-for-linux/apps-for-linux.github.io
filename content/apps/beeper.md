@@ -1,9 +1,8 @@
 ---
 title: "Beeper"
 summary: "Beeper is a universal chat app. With Beeper, you can send and receive messages to friends, family and colleagues on 14 different chat networks, all from a single app."
-date: 2024-11-11T00:00:00Z
+date: 2025-06-20T00:00:00Z
 categories: ["Network"]
-
 authors:
 - "Automattic"
 tags: 
@@ -20,6 +19,6 @@ License: EULA
 
 Web: <https://www.beeper.com/>
 
-{{< button href="https://download.beeper.com/linux/appImage/x64" target="_blank">}}
+{{< button href="https://beeper-desktop.download.beeper.com/builds/Beeper-4.0.779.AppImage" target="_blank">}}
 Download
 {{< /button >}}

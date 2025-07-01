@@ -22,6 +22,10 @@ Source code: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X>
 Translate: <https://hosted.weblate.org/engage/cpu-x/?utm_source=widget>  
 Report the bug: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/issues/new>  
 
-{{< button href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v5.2.0/CPU-X-5.2.0-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/5.3.1/CPU-X-5.3.1-x86_64.AppImage" target="_blank">}}
 Download
+{{< /button >}}
+
+{{< button href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/5.3.1/CPU-X-5.3.1-aarch64.AppImage" target="_blank">}}
+Download arm64
 {{< /button >}}

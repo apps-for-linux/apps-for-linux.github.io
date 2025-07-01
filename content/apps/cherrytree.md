@@ -1,7 +1,7 @@
 ---
 title: "CherryTree"
 summary: "A hierarchical note taking application, featuring rich text and syntax highlighting"
-date: 2025-03-23T01:35:00Z
+date: 2025-06-04T00:47:00Z
 categories: ["Productivity"]
 authors:
 - "Giuseppe Penone"
@@ -23,6 +23,6 @@ Source code: <https://github.com/giuspen/cherrytree>
 Become a sponsor: <https://www.giuspen.net/cherrytree>  
 Report the bug: <https://github.com/giuspen/cherrytree/issues/new>  
 
-{{< button href="https://github.com/giuspen/cherrytree/releases/download/v1.4.0/CherryTree-1.4.0-x86_64.AppImage" target="_blank">}}
+{{< button href="https://github.com/giuspen/cherrytree/releases/download/v1.5.0/CherryTree-1.5.0-x86_64.AppImage" target="_blank">}}
 Download
 {{< /button >}}
