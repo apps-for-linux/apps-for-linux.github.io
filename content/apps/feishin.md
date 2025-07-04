@@ -1,9 +1,8 @@
 ---
 title: "Feishin"
 summary: "A modern self-hosted music player"
-date: 2024-11-20T20:30:00Z
+date: 2025-06-30T08:19:00Z
 categories: ["Audio & Video"]
-
 authors:
 - "Jeff"
 tags: 
@@ -24,5 +23,11 @@ Source code: <https://github.com/jeffvli/feishin>
 Become a sponsor: <https://ko-fi.com/jeffvli>  
 Translate: <https://hosted.weblate.org/projects/feishin>  
 Report the bug: <https://github.com/jeffvli/feishin/issues/new>  
-Download:   x86_64: <https://github.com/jeffvli/feishin/releases/download/v0.12.1/Feishin-0.12.1-linux-x86_64.AppImage>  
-            arm64: <https://github.com/jeffvli/feishin/releases/download/v0.12.1/Feishin-0.12.1-linux-arm64.AppImage>
+
+{{< button href="https://github.com/jeffvli/feishin/releases/download/v0.17.0/Feishin-0.17.0-linux-x86_64.AppImage" target="_blank">}}
+Download x86_64
+{{< /button >}}
+
+{{< button href="https://github.com/jeffvli/feishin/releases/download/v0.17.0/Feishin-0.17.0-linux-arm64.AppImage" target="_blank">}}
+Download arm64
+{{< /button >}}
