@@ -3,7 +3,6 @@ title: "CP Editor"
 summary: "The IDE for competitive programming."
 date: 2024-02-17T07:58:00Z
 categories: ["Development"]
-
 authors:
 - "CP Editor team"
 tags: 

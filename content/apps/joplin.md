@@ -3,7 +3,6 @@ title: "Joplin"
 summary: "The secure note taking and to-do app with synchronisation capabilities"
 date: 2024-12-12T20:59:00Z
 categories: ["Productivity"]
-
 authors:
 - "Laurent Cozic"
 tags: ["Official"]

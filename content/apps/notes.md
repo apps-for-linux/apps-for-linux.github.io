@@ -3,7 +3,6 @@ title: "Notes"
 summary: "Notes is an open source and cross-platform note-taking app that is both beautiful and powerful"
 date: 2024-10-01T15:59:00Z
 categories: ["Productivity"]
-
 authors:
 - "Ruby Mamistvalove"
 tags: 

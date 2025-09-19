@@ -3,7 +3,6 @@ title: "Axolotl"
 summary: "Complete cross-platform Signal client"
 date: 2023-10-27T23:04:00Z
 categories: ["Network"]
-
 authors:
 - "Aaron Kimmig"
 tags: 

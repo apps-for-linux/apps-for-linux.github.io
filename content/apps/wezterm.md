@@ -3,7 +3,6 @@ title: "Wezterm"
 summary: "GPU-accelerated cross-platform terminal emulator and multiplexer"
 date: 2024-02-03T21:32:00Z
 categories: ["System"]
-
 authors:
 - "Wez Furlong"
 tags: 

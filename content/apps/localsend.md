@@ -3,7 +3,6 @@ title: "Localsend"
 summary: "Open source cross-platform alternative to AirDrop"
 date: 2025-02-20T04:23:00Z
 categories: ["Network"]
-
 authors:
 - "Tien Do Nam"
 tags: 

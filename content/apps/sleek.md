@@ -3,7 +3,6 @@ title: "Sleek"
 summary: "Open-source (FOSS) todo manager based on the todo.txt syntax"
 date: 2025-03-06T20:29:00Z
 categories: ["Productivity"]
-
 authors:
 - "Robin Ahle"
 tags: 

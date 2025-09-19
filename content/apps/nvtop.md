@@ -3,7 +3,6 @@ title: "nvtop"
 summary: "GPUs process monitoring for AMD, Intel and NVIDIA"
 date: 2025-03-29T14:26:00Z
 categories: ["Utilities"]
-
 authors:
 - "Maxime Schmitt"
 tags: 

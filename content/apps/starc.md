@@ -3,7 +3,6 @@ title: "Story Architect"
 summary: "All in one screenwriting app"
 date: 2025-03-10T13:20:00Z
 categories: ["Productivity"]
-
 authors:
 - "Story Apps"
 tags: 

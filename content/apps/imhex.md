@@ -3,7 +3,6 @@ title: "ImHex"
 summary: "ImHex is a feature-rich Hex Editor."
 date: 2024-12-28T18:37:00Z
 categories: ["Development"]
-
 authors:
 - "WerWolv"
 tags: 

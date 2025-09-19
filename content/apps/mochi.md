@@ -3,7 +3,6 @@ title: "Mochi"
 summary: "Take notes and make flashcards using markdown, then study them using spaced repetition."
 date: 2025-02-26T00:00:00Z
 categories: ["Productivity"]
-
 authors:
 - "Mochi Cards"
 tags: 

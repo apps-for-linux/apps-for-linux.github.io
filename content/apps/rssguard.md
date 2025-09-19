@@ -3,7 +3,6 @@ title: "RSS Guard"
 summary: "Simple RSS/ATOM feed reader"
 date: 2024-12-20T09:58:00Z
 categories: ["Network"]
-
 authors:
 - "Martin Rotter"
 tags: 

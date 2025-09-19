@@ -3,7 +3,6 @@ title: "Glint"
 summary: "A Graphical interface for Git"
 date: 2025-02-17T11:02:00Z
 categories: ["Development"]
-
 authors:
 - "Logic Over Snacks"
 tags: 
