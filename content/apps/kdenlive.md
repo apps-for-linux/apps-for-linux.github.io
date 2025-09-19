@@ -9,7 +9,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{https://kdenlive.org/k1_2979239690662228430_hu6941123081656623382.webp}" >}}
+{{< carousel images="{https://kdenlive.org/k1_2979239690662228430_hu_948d68c2c89e727a.webp}" >}}
 
 Free and Open Source Video Editor
 
