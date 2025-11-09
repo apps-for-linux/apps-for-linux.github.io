@@ -4,8 +4,7 @@ description: |
  "An application that tracks your time by monitoring your active window title and idle time."
 pubDate: 2025-04-10T11:05:00Z
 categories: ["Productivity"]
-authors:
-- "Maigo Erit"
+authors: "Maigo Erit"
 tags: 
 - "Time control"
 draft: false

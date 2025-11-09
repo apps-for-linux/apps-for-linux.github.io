@@ -4,8 +4,7 @@ description: |
  "A modern, fast and productivity driven SQL client with a focus in UX"
 pubDate: 2025-06-20T10:32:00Z
 categories: ["Development"]
-authors:
-- "Fabio Di Stasio"
+authors: "Fabio Di Stasio"
 tags: 
 - "SQL"
 license: "MIT"

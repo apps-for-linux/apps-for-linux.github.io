@@ -4,8 +4,7 @@ description: |
  "Session Desktop - Onion routing based messenger."
 pubDate: 2025-05-07T06:40:00Z
 categories: ["Network"]
-authors:
-- "The Oxen Project"
+authors: "The Oxen Project"
 tags: 
 - "Messenger"
 - "Censorship-resistance software"

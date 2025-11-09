@@ -4,8 +4,7 @@ description: |
  "Handwriting notetaking software with PDF annotation support"
 pubDate: 2025-02-19T23:01:00Z
 categories: ["Productivity"]
-authors:
-- "Xournal Team"
+authors: "Xournal Team"
 tags: 
 - "Notes"
 - "Handwriting"

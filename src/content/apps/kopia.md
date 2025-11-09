@@ -4,8 +4,7 @@ description: |
  "Cross-platform backup tool"
 pubDate: 2025-01-24T04:49:00Z
 categories: ["Network"]
-authors:
-- "Kopia Authors"
+authors: "Kopia Authors"
 tags: 
 - "Backup tool"
 license: "Apache-2.0"

@@ -4,8 +4,7 @@ description: |
  "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
 pubDate: 2025-05-14T10:36:00Z
 categories: ["Network"]
-authors:
-- "Tutao"
+authors: "Tutao"
 tags: 
 - "Mail Client"
 - "Censorship-resistance software"

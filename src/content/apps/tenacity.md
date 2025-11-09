@@ -4,8 +4,7 @@ description: |
  "Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor."
 pubDate: 2025-01-01T09:22:00Z
 categories: ["Audio & Video"]
-authors:
-- "Tenacity community"
+authors: "Tenacity community"
 tags: 
 - "Audio editor"
 - "DAW"

@@ -4,8 +4,7 @@ description: |
  "Free and Open Source Video Editor"
 pubDate: 2025-06-07T18:22:00Z 	
 categories: ["Audio & Video"]
-authors:
-- "Kdenlive Team"
+authors: "Kdenlive Team"
 tags: ["Official"]
 draft: false
 ---

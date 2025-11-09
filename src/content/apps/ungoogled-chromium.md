@@ -4,8 +4,7 @@ description: |
  "ungoogled-chromium is Google Chromium, sans dependency on Google web services."
 pubDate: 2025-05-08T08:34:00Z
 categories: ["Network"]
-authors:
-- "The ungoogled-chromium Authors"
+authors: "The ungoogled-chromium Authors"
 tags: 
 - "Browser"
 - "Chromium"

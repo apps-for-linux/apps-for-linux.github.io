@@ -4,8 +4,7 @@ description: |
  "Open source notepad with Markdown support and todo list manager for GNU/Linux"
 pubDate: 2025-05-20T22:41:00Z
 categories: ["Productivity"]
-authors:
-- "Patrizio Bekerle"
+authors: "Patrizio Bekerle"
 tags:
 - "Notes"
 draft: false

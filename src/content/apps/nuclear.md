@@ -4,8 +4,7 @@ description: |
  "Streaming music player that finds free music for you"
 pubDate: 2025-03-25T04:46:00Z
 categories: ["Audio & Video"]
-authors:
-- "nukeop"
+authors: "nukeop"
 tags:
 - "Music Player"
 License: AGPL-3.0

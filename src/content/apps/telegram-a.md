@@ -4,8 +4,7 @@ description: |
  "An experimental standalone version of Telegram Web Client A."
 pubDate: 2025-05-14T19:27:00Z
 categories: ["Network"]
-authors:
-- "Alexander Zinchuk"
+authors: "Alexander Zinchuk"
 tags: 
 - "Messenger"
 - "Telegram client"

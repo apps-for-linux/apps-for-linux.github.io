@@ -4,8 +4,7 @@ description: |
  "Zero Knowledge E2E encrypted storage compatible with multiple providers"
 pubDate: 2025-04-14T16:22:00Z
 categories: ["Network"]
-authors:
-- "Cloud storage"
+authors: "Cloud storage"
 tags: ["Official"]
 license: "EULA"
 draft: false

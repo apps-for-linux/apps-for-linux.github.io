@@ -4,8 +4,7 @@ description: |
  "Cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs"
 pubDate: 2025-01-18T22:03:00Z
 categories: ["Development"]
-authors:
-- "HTTPie"
+authors: "HTTPie"
 tags:
 - "API Testing"
 license: "EULA"

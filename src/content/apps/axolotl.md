@@ -4,8 +4,7 @@ description: |
  "Complete cross-platform Signal client"
 pubDate: 2023-10-27T23:04:00Z
 categories: ["Network"]
-authors:
-- "Aaron Kimmig"
+authors: "Aaron Kimmig"
 tags: 
 - "Signal Client"
 - "Messenger"

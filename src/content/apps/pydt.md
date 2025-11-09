@@ -4,8 +4,7 @@ description: |
  "Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management."
 pubDate: 2024-09-22T04:04:00Z
 categories: ["Games"]
-authors:
-- "Michael Rosack"
+authors: "Michael Rosack"
 tags: 
 - "Game client"
 license: "MIT"

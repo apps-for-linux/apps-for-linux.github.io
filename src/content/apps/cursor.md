@@ -4,8 +4,7 @@ description: |
  "The AI Code Editor"
 pubDate: 2025-06-12T00:00:00Z
 categories: ["Development"]
-authors:
-- "Anysphere"
+authors: "Anysphere"
 tags: 
 - "AI-powered software"
 - "Code editor"

@@ -4,8 +4,7 @@ description: |
  "Next generation information browser"
 pubDate: 2025-05-19T15:50:00Z
 categories: ["Network"]
-authors:
-- "Follow Team"
+authors: "Follow Team"
 tags: 
 - "RSS"
 - "News Reader"

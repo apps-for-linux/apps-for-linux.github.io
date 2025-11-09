@@ -4,8 +4,7 @@ description: |
  "Simple RSS/ATOM feed reader"
 pubDate: 2024-12-20T09:58:00Z
 categories: ["Network"]
-authors:
-- "Martin Rotter"
+authors: "Martin Rotter"
 tags: 
 - "Feed reader"
 - "RSS"

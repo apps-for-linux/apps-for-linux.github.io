@@ -4,8 +4,7 @@ description: |
  "An ebook reader application"
 pubDate: 2024-11-20T22:52:00Z
 categories: ["Productivity"]
-authors:
-- "KOReader Community"
+authors: "KOReader Community"
 tags:
 - "eBook reader"
 License: AGPL-3.0

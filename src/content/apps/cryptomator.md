@@ -4,8 +4,7 @@ description: |
  "Multi-platform transparent client-side encryption of your files in the cloud"
 pubDate: 2025-06-24T17:41:00Z
 categories: ["Productivity"]
-authors:
-- "Skymatic"
+authors: "Skymatic"
 tags: 
 - "Cloud encryption"
 draft: false

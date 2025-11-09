@@ -4,8 +4,7 @@ description: |
  "Powerful desktop publishing software"
 pubDate: 2025-01-26T02:57:00Z
 categories: ["Productivity"]
-authors:
-- "The Scribus Team"
+authors: "The Scribus Team"
 tags: 
 - "DTP"
 - "Publishing"

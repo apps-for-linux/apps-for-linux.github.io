@@ -4,8 +4,7 @@ description: |
  "Free open source office suite"
 pubDate: 2025-03-27T14:28:00Z
 categories: ["Productivity"]
-authors:
-- "The Document Foundation"
+authors: "The Document Foundation"
 tags: 
 - "Office Suite"
 license: "GPL-3.0"

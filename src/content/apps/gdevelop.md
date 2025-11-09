@@ -4,8 +4,7 @@ description: |
  "Full-featured, no-code, open-source game development software"
 pubDate: 2025-05-07T10:50:00Z
 categories: ["Development"]
-authors:
-- "Florian Rival"
+authors: "Florian Rival"
 tags:
 - "Game development"
 license: "MIT"

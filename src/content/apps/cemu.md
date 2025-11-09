@@ -4,8 +4,7 @@ description: |
  "Nintendo Wii U emulator"
 pubDate: 2025-02-06T16:18:00Z
 categories: ["Games"]
-authors:
-- "Cemu Project"
+authors: "Cemu Project"
 tags: 
 - "Game Emulator"
 - "Nintendo Emulator"

@@ -4,8 +4,7 @@ description: |
  "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others"
 pubDate: 2025-06-20T18:08:00Z
 categories: ["Development"]
-authors:
-- "Jan Prochazka"
+authors: "Jan Prochazka"
 tags: 
 - "Database"
 - "SQL"

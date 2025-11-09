@@ -4,8 +4,7 @@ description: |
  "Matrix client / Element Desktop fork."
 pubDate: 2025-04-20T17:59:00Z
 categories: ["Network"]
-authors:
-- "SchildiChat"
+authors: "SchildiChat"
 tags:
 - "Matrix"
 - "IM"

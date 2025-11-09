@@ -4,8 +4,7 @@ description: |
  "Take notes and make flashcards using markdown, then study them using spaced repetition."
 pubDate: 2025-02-26T00:00:00Z
 categories: ["Productivity"]
-authors:
-- "Mochi Cards"
+authors: "Mochi Cards"
 tags: 
 - "Notes"
 license: "EULA"

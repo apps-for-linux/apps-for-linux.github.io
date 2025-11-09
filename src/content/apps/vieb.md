@@ -4,8 +4,7 @@ description: |
  "Vim Inspired Electron Browser"
 pubDate: 2025-05-08T05:21:00Z
 categories: ["Network"]
-authors:
-- "Jelmer van Arnhem"
+authors: "Jelmer van Arnhem"
 tags: 
 - "Browser"
 license: "GPL-3.0"

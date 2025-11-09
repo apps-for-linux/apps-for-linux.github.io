@@ -4,8 +4,7 @@ description: |
  "Frigoligo is a wallabag client crafted using Flutter"
 pubDate: 2025-03-14T20:30:00Z
 categories: ["Network"]
-authors:
-- "Martin Chaine"
+authors: "Martin Chaine"
 tags: 
 - "Bookmark manager"
 draft: false

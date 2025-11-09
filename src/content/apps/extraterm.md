@@ -4,8 +4,7 @@ description: |
  "The swiss army chainsaw of terminal emulators."
 pubDate: 2025-07-02T19:15:00Z
 categories: ["System"]
-authors:
-- "Simon Edwards"
+authors: "Simon Edwards"
 tags: 
 - "Terminal"
 draft: false

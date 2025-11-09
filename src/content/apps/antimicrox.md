@@ -4,8 +4,7 @@ description: |
  "Graphical program used to map gamepad keys to keyboard, mouse, scripts and macros"
 pubDate: 2024-11-01T01:06:00Z
 categories: ["Utilities"]
-authors:
-- "AntiMicroX Authors"
+authors: "AntiMicroX Authors"
 tags: 
 - "Gamepad"
 - "Gaming controllers"

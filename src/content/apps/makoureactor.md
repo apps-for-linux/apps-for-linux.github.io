@@ -4,8 +4,7 @@ description: |
  "Final Fantasy VII field archive editor"
 pubDate: 2025-03-02T00:21:00Z
 categories: ["Games"]
-authors:
-- "Jérôme Arzel"
+authors: "Jérôme Arzel"
 tags: 
 
 license: "GPL-3.0"

@@ -4,8 +4,7 @@ description: |
  "Cross Platform Multi Protocol Proxy Frontend."
 pubDate: 2024-10-04T02:09:00Z
 categories: ["Network"]
-authors:
-- "Hiddify"
+authors: "Hiddify"
 tags: 
 - "Proxy"
 draft: false

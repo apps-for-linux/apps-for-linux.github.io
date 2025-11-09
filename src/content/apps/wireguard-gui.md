@@ -4,8 +4,7 @@ description: |
  "A wireguard client GUI for Linux made with nextauri"
 pubDate: 2025-02-02T19:14:00Z
 categories: ["Network"]
-authors:
-- "Wireguard GUI Contributors"
+authors: "Wireguard GUI Contributors"
 tags: 
 - "VPN Client"
 - "Censorship-resistance software"

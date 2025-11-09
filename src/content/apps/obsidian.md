@@ -4,8 +4,7 @@ description: |
  "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files"
 pubDate: 2024-11-18T18:38:00Z
 categories: ["Productivity"]
-authors:
-- "Obsidian Team"
+authors: "Obsidian Team"
 tags: 
 - "Knowledge Base"
 license: "EULA"

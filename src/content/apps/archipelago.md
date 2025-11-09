@@ -4,8 +4,7 @@ description: |
  "Archipelago provides a generic framework for developing multiworld capability for game randomizers"
 pubDate: 2025-06-19T20:19:00Z
 categories: ["Games"]
-authors:
-- "Archipelago"
+authors: "Archipelago"
 tags: ["Game Engine"]
 license: "GPL-3.0"
 draft: false

@@ -4,8 +4,7 @@ description: |
  "The Programmers Solid 3D CAD Modeller"
 pubDate: 2025-05-20T22:29:00Z
 categories: ["Graphics"]
-authors:
-- "Marius Kintel"
+authors: "Marius Kintel"
 tags: 
 - "3D"
 - "CAD"

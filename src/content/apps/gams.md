@@ -4,8 +4,7 @@ description: |
  "Official development environment of the General Algebraic Modeling System"
 pubDate: 2025-04-24T14:45:00Z
 categories: ["Development"]
-authors:
-- "GAMS Development"
+authors: "GAMS Development"
 tags: 
 - "Algebra"
 - "Mathematical models"

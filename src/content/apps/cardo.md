@@ -4,8 +4,7 @@ description: |
  "Cardo is a podcast client for desktop"
 pubDate: 2025-06-29T18:28:00Z
 categories: ["Network"]
-authors:
-- "n0vella"
+authors: "n0vella"
 tags: 
 - "Podcasts"
 License: GPL-3.0 

@@ -4,8 +4,7 @@ description: |
  "Free software that gathers information on CPU, motherboard and more."
 pubDate: 2024-12-01T14:29:00Z
 categories: ["Utilities"]
-authors:
-- "The Tumultuous Unicorn Of Darkness"
+authors: "The Tumultuous Unicorn Of Darkness"
 tags: 
 - "System Monitor"
 draft: false

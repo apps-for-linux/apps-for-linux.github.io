@@ -4,8 +4,7 @@ description: |
  "Stream anime torrents, real-time with no waiting for downloads"
 pubDate: 2025-03-20T23:56:00Z
 categories: ["Network"]
-authors:
-- "Cas"
+authors: "Cas"
 tags: 
 - "Anime"
 license: "GPL-3.0"

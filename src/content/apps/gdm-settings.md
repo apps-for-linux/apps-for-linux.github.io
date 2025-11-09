@@ -4,8 +4,7 @@ description: |
  "A settings app for GNOME's Login Manager, GDM"
 pubDate: 2024-11-27T22:19:00Z
 categories: ["System"]
-authors:
-- "Mazhar Hussain"
+authors: "Mazhar Hussain"
 tags: 
 - "Appearance"
 draft: false

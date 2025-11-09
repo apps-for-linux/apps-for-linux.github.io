@@ -4,8 +4,7 @@ description: |
  "Stellarium is a free open source planetarium for your computer."
 pubDate: 2025-03-23T15:43:00Z
 categories: ["Science"]
-authors:
-- "Stellarium contributors"
+authors: "Stellarium contributors"
 tags: 
 - "Planetarium"
 license: "GPL-2.0"

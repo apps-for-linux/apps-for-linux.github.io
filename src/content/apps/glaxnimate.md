@@ -4,8 +4,7 @@ description: |
  "Simple vector animation program."
 pubDate: 2025-02-03T11:47:00Z
 categories: ["Graphics"]
-authors:
-- "Mattia Basaglia"
+authors: "Mattia Basaglia"
 tags: 
 - "2D"
 license: "GPL-3.0"

@@ -4,8 +4,7 @@ description: |
  "Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor."
 pubDate: 2024-01-29T05:52:00Z
 categories: ["Audio & Video"]
-authors:
-- "Stargate Audio"
+authors: "Stargate Audio"
 tags: 
 - "DAW"
 - "Audio Editor"

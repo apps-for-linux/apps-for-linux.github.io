@@ -4,8 +4,7 @@ description: |
  "Make your budget quick, simple and private"
 pubDate: 2024-07-05T17:56:00Z
 categories: ["Finance"]
-authors:
-- "One Part Rain"
+authors: "One Part Rain"
 tags: 
 - "Budget software"
 draft: false

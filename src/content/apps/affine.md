@@ -4,8 +4,7 @@ description: |
  "A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro"
 pubDate: 2025-10-16T09:32:00Z
 categories: ["Productivity"]
-authors:
-- "TOEVERYTHING"
+authors: "TOEVERYTHING"
 tags: ["KnowledgeBase"]
 license: "MIT"
 draft: false

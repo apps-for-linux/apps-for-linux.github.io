@@ -4,8 +4,7 @@ description: |
  "Free Media Player with built-in codecs"
 pubDate: 2025-05-12T11:30:00Z
 categories: ["Audio & Video"]
-authors:
-- "Ricardo Villalba"
+authors: "Ricardo Villalba"
 tags: 
 - "Media player"
 license: "GPL-2.0"

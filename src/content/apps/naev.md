@@ -4,8 +4,7 @@ description: |
  "Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres."
 pubDate: 2025-02-01T05:50:00Z
 categories: ["Games"]
-authors:
-- "Naev DevTeam"
+authors: "Naev DevTeam"
 tags: ["Official"]
 draft: false
 ---

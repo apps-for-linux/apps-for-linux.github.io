@@ -4,8 +4,7 @@ description: |
  "All your services in one place, built by the community."
 pubDate: 2025-05-26T09:16:00Z
 categories: ["Network"]
-authors:
-- "Ferdium Team"
+authors: "Ferdium Team"
 tags: 
 - "Web apps"
 - "Browser"
