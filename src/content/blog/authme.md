@@ -1,6 +1,7 @@
 ---
 title: "authme"
-summary: "Simple cross-platform two-factor (2FA) authenticator app for desktop."
+description: |
+ "Simple cross-platform two-factor (2FA) authenticator app for desktop."
 date: 2025-06-11T00:01:00Z
 categories: ["Productivity"]
 authors:

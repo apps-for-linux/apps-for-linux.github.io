@@ -1,6 +1,7 @@
 ---
 title: "Beekeeper Studio"
-summary: "Beekeeper Studio is a cross-platform SQL editor and database manager"
+description: |
+ "Beekeeper Studio is a cross-platform SQL editor and database manager"
 date: 2025-05-15T02:02:00Z
 categories: ["Development"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "Alephium"
-summary: "The official Alephium desktop wallet."
+description: |
+ "The official Alephium desktop wallet."
 date: 2025-10-07T19:45:00Z
 categories: ["Finance"]
 authors:

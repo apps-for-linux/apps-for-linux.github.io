@@ -1,6 +1,7 @@
 ---
 title: "Nuclear"
-summary: "Streaming music player that finds free music for you"
+description: |
+ "Streaming music player that finds free music for you"
 date: 2025-03-25T04:46:00Z
 categories: ["Audio & Video"]
 authors:

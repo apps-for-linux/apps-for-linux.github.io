@@ -1,6 +1,7 @@
 ---
 title: "FireDragon"
-summary: "A Floorp fork with custom branding and opinionated settings."
+description: |
+ "A Floorp fork with custom branding and opinionated settings."
 date: 2025-05-21T11:18:00Z
 categories: ["Network"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "PCSX2"
-summary: "Free and open-source PlayStation 2 (PS2) emulator"
+description: |
+ "Free and open-source PlayStation 2 (PS2) emulator"
 date: 2025-05-24T13:47:00Z
 categories: ["Games"]
 authors:

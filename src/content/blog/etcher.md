@@ -1,6 +1,7 @@
 ---
 title: "Etcher"
-summary: "Flash OS images to SD cards & USB drives, safely and easily."
+description: |
+ "Flash OS images to SD cards & USB drives, safely and easily."
 date: 2025-05-15T21:10:00Z
 categories: ["Utilities"]
 authors:

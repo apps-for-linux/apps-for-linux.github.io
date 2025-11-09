@@ -1,6 +1,7 @@
 ---
 title: "xemu"
-summary: "Free and open-source original Xbox game console emulation"
+description: |
+ "Free and open-source original Xbox game console emulation"
 date: 2025-02-05T04:18:00Z
 categories: ["Games"]
 authors:

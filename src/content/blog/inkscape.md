@@ -1,6 +1,7 @@
 ---
 title: "Inkscape"
-summary: "A Free and open source vector graphics editor"
+description: |
+ "A Free and open source vector graphics editor"
 date: 2025-05-09T00:24:00Z
 categories: ["Graphics"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "Conky"
-summary: "Light-weight system monitor for X, Wayland, and other things, too"
+description: |
+ "Light-weight system monitor for X, Wayland, and other things, too"
 date: 2025-03-16T15:46:00Z
 categories: ["Utilities"]
 authors:

@@ -17,7 +17,8 @@ cat <<EOF> /content/apps/$title.md
 
 ---
 title: $title
-summary: $summary
+description: |
+ $summary
 date:
 categories:
 authors: $author

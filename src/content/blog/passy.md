@@ -1,6 +1,7 @@
 ---
 title: "Passy"
-summary: "Offline password manager with cross-platform synchronization"
+description: |
+ "Offline password manager with cross-platform synchronization"
 date: 2025-05-24T23:59:00Z
 categories: ["Utilities"]
 authors:

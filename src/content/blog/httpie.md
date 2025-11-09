@@ -1,6 +1,7 @@
 ---
 title: "HTTPie"
-summary: "Cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs"
+description: |
+ "Cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs"
 date: 2025-01-18T22:03:00Z
 categories: ["Development"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "Stargate"
-summary: "Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor."
+description: |
+ "Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor."
 date: 2024-01-29T05:52:00Z
 categories: ["Audio & Video"]
 authors:

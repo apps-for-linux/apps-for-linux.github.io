@@ -1,6 +1,7 @@
 ---
 title: "Aptakube"
-summary: "Modern, lightweight and multi-cluster Kubernetes GUI"
+description: |
+ "Modern, lightweight and multi-cluster Kubernetes GUI"
 date: 2025-06-19T13:43:00Z
 categories: ["Development"]
 authors:

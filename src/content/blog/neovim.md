@@ -1,6 +1,7 @@
 ---
 title: "Neovim"
-summary: "Vim-fork focused on extensibility and usability"
+description: |
+ "Vim-fork focused on extensibility and usability"
 date: 2025-03-31T08:13:00Z
 categories: ["Development"]
 authors:

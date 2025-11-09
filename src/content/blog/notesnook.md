@@ -1,6 +1,7 @@
 ---
 title: "Notesnook"
-summary: "End-to-end encrypted note taking alternative to Evernote."
+description: |
+ "End-to-end encrypted note taking alternative to Evernote."
 date: 2025-05-22T09:42:00Z
 categories: ["Productivity"]
 authors:

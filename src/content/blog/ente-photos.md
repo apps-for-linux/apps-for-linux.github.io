@@ -1,6 +1,7 @@
 ---
 title: "ente Photos"
-summary: "End-to-end encryption for photos and more."
+description: |
+ "End-to-end encryption for photos and more."
 date: 2025-07-01T13:22:00Z
 categories: ["Network"]
 authors:

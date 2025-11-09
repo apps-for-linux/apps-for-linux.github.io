@@ -1,6 +1,7 @@
 ---
 title: "VSCodium"
-summary: "Free/Libre Open Source Software Binaries of VS Code"
+description: |
+ "Free/Libre Open Source Software Binaries of VS Code"
 date: 2025-05-13T21:21:00Z
 categories: ["Development"]
 authors:

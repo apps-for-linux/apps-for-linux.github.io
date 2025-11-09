@@ -1,6 +1,7 @@
 ---
 title: "Ferdium"
-summary: "All your services in one place, built by the community."
+description: |
+ "All your services in one place, built by the community."
 date: 2025-05-26T09:16:00Z
 categories: ["Network"]
 authors:

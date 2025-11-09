@@ -1,6 +1,7 @@
 ---
 title: "Cemu"
-summary: "Nintendo Wii U emulator"
+description: |
+ "Nintendo Wii U emulator"
 date: 2025-02-06T16:18:00Z
 categories: ["Games"]
 authors:

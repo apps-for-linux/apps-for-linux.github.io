@@ -1,6 +1,7 @@
 ---
 title: "Insomnia"
-summary: "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC"
+description: |
+ "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC"
 date: 2025-05-06T11:10:00Z
 categories: ["Development"]
 authors:

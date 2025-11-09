@@ -1,6 +1,7 @@
 ---
 title: "Makoureactor"
-summary: "Final Fantasy VII field archive editor"
+description: |
+ "Final Fantasy VII field archive editor"
 date: 2025-03-02T00:21:00Z
 categories: ["Games"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "vifm"
-summary: "File manager with curses interface"
+description: |
+ "File manager with curses interface"
 date: 2025-05-07T19:03:00Z
 categories: ["System"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "Wireguard GUI"
-summary: "A wireguard client GUI for Linux made with nextauri"
+description: |
+ "A wireguard client GUI for Linux made with nextauri"
 date: 2025-02-02T19:14:00Z
 categories: ["Network"]
 authors:

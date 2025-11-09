@@ -1,6 +1,7 @@
 ---
 title: "Cardo"
-summary: "Cardo is a podcast client for desktop"
+description: |
+ "Cardo is a podcast client for desktop"
 date: 2025-06-29T18:28:00Z
 categories: ["Network"]
 authors:

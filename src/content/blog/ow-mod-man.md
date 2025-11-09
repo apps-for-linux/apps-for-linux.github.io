@@ -1,6 +1,7 @@
 ---
 title: "Outer Wilds Mod Manager"
-summary: "The mod manager for the Outer Wilds Mod Loader"
+description: |
+ "The mod manager for the Outer Wilds Mod Loader"
 date: 2025-01-25T16:08:00Z
 categories: ["Games"]
 authors:

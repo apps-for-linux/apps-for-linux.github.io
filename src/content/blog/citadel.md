@@ -1,6 +1,7 @@
 ---
 title: "Citadel"
-summary: "Manage your ebook library without frustrations. Calibre compatible."
+description: |
+ "Manage your ebook library without frustrations. Calibre compatible."
 date: 2024-10-29T10:25:00Z
 categories: ["Productivity"]
 authors:

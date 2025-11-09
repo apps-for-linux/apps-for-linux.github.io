@@ -1,6 +1,7 @@
 ---
 title: "Frappe"
-summary: "Simple, well-designed, free desktop accounting software for freelancers and small businesses"
+description: |
+ "Simple, well-designed, free desktop accounting software for freelancers and small businesses"
 date: 2025-05-15T08:54:00Z
 categories: ["Finance"]
 authors:

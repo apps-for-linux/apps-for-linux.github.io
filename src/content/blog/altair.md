@@ -1,6 +1,7 @@
 ---
 title: "Altair"
-summary: "A beautiful feature-rich GraphQL Client"
+description: |
+ "A beautiful feature-rich GraphQL Client"
 date: 2025-10-29T11:13:00Z
 categories: ["Development"]
 authors:

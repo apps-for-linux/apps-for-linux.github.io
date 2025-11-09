@@ -1,6 +1,7 @@
 ---
 title: "S3Drive"
-summary: "Zero Knowledge E2E encrypted storage compatible with multiple providers"
+description: |
+ "Zero Knowledge E2E encrypted storage compatible with multiple providers"
 date: 2025-04-14T16:22:00Z
 categories: ["Network"]
 authors:

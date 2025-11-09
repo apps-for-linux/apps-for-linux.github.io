@@ -1,6 +1,7 @@
 ---
 title: "KopiaUI"
-summary: "Cross-platform backup tool"
+description: |
+ "Cross-platform backup tool"
 date: 2025-01-24T04:49:00Z
 categories: ["Network"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "RawTherapee"
-summary: "RawTherapee is a free, cross-platform raw image processing program"
+description: |
+ "RawTherapee is a free, cross-platform raw image processing program"
 date: 2025-05-04T23:43:00Z
 categories: ["Graphics"]
 authors:

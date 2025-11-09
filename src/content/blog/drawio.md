@@ -1,6 +1,7 @@
 ---
 title: "draw.io"
-summary: "Security-first diagramming for teams."
+description: |
+ "Security-first diagramming for teams."
 date: 2025-05-26T19:49:00Z
 categories: ["Graphics"]
 authors:

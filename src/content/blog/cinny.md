@@ -1,6 +1,7 @@
 ---
 title: "Cinny"
-summary: "Matrix client focusing primarly on simple, elegant and secure interface"
+description: |
+ "Matrix client focusing primarly on simple, elegant and secure interface"
 date: 2025-06-10T17:02:00Z
 categories: ["Network"]
 authors:

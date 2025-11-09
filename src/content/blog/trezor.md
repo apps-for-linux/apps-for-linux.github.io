@@ -1,6 +1,7 @@
 ---
 title: "Trezor"
-summary: "Trezor desktop and web application for managing Trezor hardware wallet"
+description: |
+ "Trezor desktop and web application for managing Trezor hardware wallet"
 date: 2025-04-16T15:38:00Z
 categories: ["Finance"]
 authors:

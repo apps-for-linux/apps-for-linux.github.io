@@ -1,6 +1,7 @@
 ---
 title: "chiaki-ng"
-summary: "Open Source Client for PlayStation 4 and PlayStation 5 Remote Play"
+description: |
+ "Open Source Client for PlayStation 4 and PlayStation 5 Remote Play"
 date: 2025-05-19T12:39:00Z
 categories: ["Games"]
 authors:

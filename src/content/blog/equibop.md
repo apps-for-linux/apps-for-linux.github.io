@@ -1,6 +1,7 @@
 ---
 title: "Equibop"
-summary: "Equibop is a fork of Vesktop."
+description: |
+ "Equibop is a fork of Vesktop."
 date: 2025-06-25T01:23:00Z
 categories: ["Network"]
 authors:

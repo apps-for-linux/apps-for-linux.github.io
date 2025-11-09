@@ -1,6 +1,7 @@
 ---
 title: "LibreOffice"
-summary: "Free open source office suite"
+description: |
+ "Free open source office suite"
 date: 2025-03-27T14:28:00Z
 categories: ["Productivity"]
 authors:

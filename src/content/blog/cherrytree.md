@@ -1,6 +1,7 @@
 ---
 title: "CherryTree"
-summary: "A hierarchical note taking application, featuring rich text and syntax highlighting"
+description: |
+ "A hierarchical note taking application, featuring rich text and syntax highlighting"
 date: 2025-06-04T00:47:00Z
 categories: ["Productivity"]
 authors:

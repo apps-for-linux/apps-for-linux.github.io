@@ -1,6 +1,7 @@
 ---
 title: "Converseen"
-summary: "Converseen is a batch image converter and resizer"
+description: |
+ "Converseen is a batch image converter and resizer"
 date: 2025-04-25T19:17:00Z
 categories: ["Graphics"]
 authors:

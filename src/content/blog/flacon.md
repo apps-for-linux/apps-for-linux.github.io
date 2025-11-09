@@ -1,6 +1,7 @@
 ---
 title: "Flacon"
-summary: "Extracts audio tracks from an audio CD image to separate tracks."
+description: |
+ "Extracts audio tracks from an audio CD image to separate tracks."
 date: 2025-02-14T21:09:00Z
 categories: ["Audio & Video"]
 authors:

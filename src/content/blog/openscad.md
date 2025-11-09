@@ -1,6 +1,7 @@
 ---
 title: "OpenSCAD"
-summary: "The Programmers Solid 3D CAD Modeller"
+description: |
+ "The Programmers Solid 3D CAD Modeller"
 date: 2025-05-20T22:29:00Z
 categories: ["Graphics"]
 authors:

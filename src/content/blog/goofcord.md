@@ -1,6 +1,7 @@
 ---
 title: "GoofCord"
-summary: "Take control of your Discord experience with GoofCord – the highly configurable and privacy-focused Discord client"
+description: |
+ "Take control of your Discord experience with GoofCord – the highly configurable and privacy-focused Discord client"
 date: 2025-04-15T23:43:00Z
 categories: ["Network"]
 authors:

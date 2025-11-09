@@ -1,6 +1,7 @@
 ---
 title: "GIMP"
-summary: "The Free & Open Source Image Editor"
+description: |
+ "The Free & Open Source Image Editor"
 date: 2025-05-18T01:51:00Z
 categories: ["Graphics"]
 authors:

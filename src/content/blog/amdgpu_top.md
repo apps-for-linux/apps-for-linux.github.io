@@ -1,6 +1,7 @@
 ---
 title: "AMDGPU_TOP"
-summary: "amdgpu_top is tool that display AMD GPU utilization."
+description: |
+ "amdgpu_top is tool that display AMD GPU utilization."
 date: 2025-09-02T02:43:00Z
 categories: ["Utilities"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "GitHub Desktop"
-summary: "Fork of GitHub Desktop to support various Linux distributions"
+description: |
+ "Fork of GitHub Desktop to support various Linux distributions"
 date: 2025-02-09T21:00:00Z
 categories: ["Development"]
 authors:

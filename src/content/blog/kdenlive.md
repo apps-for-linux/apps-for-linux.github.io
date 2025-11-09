@@ -1,6 +1,7 @@
 ---
 title: "Kdenlive"
-summary: "Free and Open Source Video Editor"
+description: |
+ "Free and Open Source Video Editor"
 date: 2025-06-07T18:22:00Z 	
 categories: ["Audio & Video"]
 authors:

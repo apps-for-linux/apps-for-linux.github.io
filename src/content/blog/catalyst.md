@@ -1,6 +1,7 @@
 ---
 title: "Catalyst"
-summary: "A lightweight and user-focused web browser powered by Electron"
+description: |
+ "A lightweight and user-focused web browser powered by Electron"
 date: 2024-12-26T02:25:00Z
 categories: ["Network"]
 authors:

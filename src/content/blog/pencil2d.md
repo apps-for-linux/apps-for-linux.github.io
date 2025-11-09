@@ -1,6 +1,7 @@
 ---
 title: "Pencil2D"
-summary: "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform."
+description: |
+ "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform."
 date: 2024-07-12T11:36:00Z
 categories: ["Graphics"]
 authors:

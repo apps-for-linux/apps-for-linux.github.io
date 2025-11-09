@@ -1,6 +1,7 @@
 ---
 title: "Heroic Games Launcher"
-summary: "A Native GOG, Amazon and Epic Games Launcher"
+description: |
+ "A Native GOG, Amazon and Epic Games Launcher"
 date: 2025-05-22T23:52:00Z
 categories: ["Games"]
 authors:

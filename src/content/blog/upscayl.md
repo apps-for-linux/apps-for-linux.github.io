@@ -1,6 +1,7 @@
 ---
 title: "Upscayl"
-summary: "Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy."
+description: |
+ "Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy."
 date: 2024-06-01T17:48:00Z
 categories: ["Graphics"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "GitFiend"
-summary: "A Git client designed for humans."
+description: |
+ "A Git client designed for humans."
 date: 2025-03-16T01:13:00Z
 categories: ["Development"]
 authors:

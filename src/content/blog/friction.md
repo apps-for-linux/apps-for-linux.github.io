@@ -1,6 +1,7 @@
 ---
 title: "Friction"
-summary: "Powerful and versatile free and open-source motion graphics application."
+description: |
+ "Powerful and versatile free and open-source motion graphics application."
 date: 2025-03-11T22:16:00Z
 categories: ["Graphics"]
 authors:

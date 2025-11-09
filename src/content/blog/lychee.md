@@ -1,6 +1,7 @@
 ---
 title: "Lychee"
-summary: "Lychee simplifies the printing process and makes 3D printing accessible to everyone by offering the most innovative and user-friendly solutions."
+description: |
+ "Lychee simplifies the printing process and makes 3D printing accessible to everyone by offering the most innovative and user-friendly solutions."
 date: 2025-03-26T00:00:00Z
 categories: ["Graphics"]
 authors:

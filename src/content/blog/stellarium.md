@@ -1,6 +1,7 @@
 ---
 title: "Stellarium"
-summary: "Stellarium is a free open source planetarium for your computer."
+description: |
+ "Stellarium is a free open source planetarium for your computer."
 date: 2025-03-23T15:43:00Z
 categories: ["Science"]
 authors:

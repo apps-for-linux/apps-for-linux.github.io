@@ -1,6 +1,7 @@
 ---
 title: "ksnip"
-summary: "ksnip the cross-platform screenshot and annotation tool"
+description: |
+ "ksnip the cross-platform screenshot and annotation tool"
 date: 2024-01-20T01:49:00Z
 categories: ["Graphics"]
 authors:

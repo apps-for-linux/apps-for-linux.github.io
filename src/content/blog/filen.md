@@ -1,6 +1,7 @@
 ---
 title: "Filen"
-summary: "Desktop client for filen.io."
+description: |
+ "Desktop client for filen.io."
 date: 2025-02-09T19:36:00Z
 categories: ["Network"]
 authors:

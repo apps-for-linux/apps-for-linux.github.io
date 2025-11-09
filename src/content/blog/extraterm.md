@@ -1,6 +1,7 @@
 ---
 title: "Extraterm"
-summary: "The swiss army chainsaw of terminal emulators."
+description: |
+ "The swiss army chainsaw of terminal emulators."
 date: 2025-07-02T19:15:00Z
 categories: ["System"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "Lunar"
-summary: "A modpack for all modern versions of Minecraft"
+description: |
+ "A modpack for all modern versions of Minecraft"
 date: 2024-06-15T04:15:00Z
 categories: ["Games"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "GDM Settings"
-summary: "A settings app for GNOME's Login Manager, GDM"
+description: |
+ "A settings app for GNOME's Login Manager, GDM"
 date: 2024-11-27T22:19:00Z
 categories: ["System"]
 authors:

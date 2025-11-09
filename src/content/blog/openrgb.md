@@ -1,6 +1,7 @@
 ---
 title: "OpenRGB"
-summary: "Open source RGB lighting control that doesn't depend on manufacturer software"
+description: |
+ "Open source RGB lighting control that doesn't depend on manufacturer software"
 date: 2025-02-22T20:06:00Z
 categories: ["Utilities"]
 authors:

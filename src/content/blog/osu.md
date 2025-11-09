@@ -1,6 +1,7 @@
 ---
 title: "osu!"
-summary: "Free-to-win rhythm game"
+description: |
+ "Free-to-win rhythm game"
 date: 2025-04-24T10:06:00Z
 categories: ["Games"]
 authors:

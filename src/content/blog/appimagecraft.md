@@ -1,6 +1,7 @@
 ---
 title: "appimagecraft"
-summary: "appimagecraft completely automates the AppImage build process"
+description: |
+ "appimagecraft completely automates the AppImage build process"
 date: 2025-03-25T22:26:00Z
 categories: ["Development"]
 authors:

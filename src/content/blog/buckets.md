@@ -1,6 +1,7 @@
 ---
 title: "Buckets"
-summary: "Make your budget quick, simple and private"
+description: |
+ "Make your budget quick, simple and private"
 date: 2024-07-05T17:56:00Z
 categories: ["Finance"]
 authors:

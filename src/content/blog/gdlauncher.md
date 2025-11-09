@@ -1,6 +1,7 @@
 ---
 title: "GDLauncher"
-summary: "GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience"
+description: |
+ "GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience"
 date: 2025-01-23T11:01:00Z
 categories: ["Games"]
 authors:

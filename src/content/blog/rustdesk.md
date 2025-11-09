@@ -1,6 +1,7 @@
 ---
 title: "RustDesk"
-summary: "An open-source remote desktop, and alternative to TeamViewer"
+description: |
+ "An open-source remote desktop, and alternative to TeamViewer"
 date: 2025-02-22T14:56:00Z
 categories: ["Utilities"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "Linphone"
-summary: "Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling"
+description: |
+ "Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling"
 date: 2024-07-22T12:08:00Z
 categories: ["Network"]
 authors:

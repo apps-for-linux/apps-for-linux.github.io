@@ -1,6 +1,7 @@
 ---
 title: "Ricochet Refresh"
-summary: "Anonymous peer-to-peer instant messaging"
+description: |
+ "Anonymous peer-to-peer instant messaging"
 date: 2025-04-17T19:39:00Z
 categories: ["Network"]
 authors:

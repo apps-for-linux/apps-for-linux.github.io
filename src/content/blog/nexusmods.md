@@ -1,6 +1,7 @@
 ---
 title: "The Nexus Mods app"
-summary: "Mod installer, creator and manager for all your popular games."
+description: |
+ "Mod installer, creator and manager for all your popular games."
 date: 2025-03-24T12:16:00Z
 categories: ["Games"]
 authors:

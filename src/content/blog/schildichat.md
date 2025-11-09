@@ -1,6 +1,7 @@
 ---
 title: "SchildiChat"
-summary: "Matrix client / Element Desktop fork."
+description: |
+ "Matrix client / Element Desktop fork."
 date: 2025-04-20T17:59:00Z
 categories: ["Network"]
 authors:

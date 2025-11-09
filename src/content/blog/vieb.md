@@ -1,6 +1,7 @@
 ---
 title: "Vieb"
-summary: "Vim Inspired Electron Browser"
+description: |
+ "Vim Inspired Electron Browser"
 date: 2025-05-08T05:21:00Z
 categories: ["Network"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "PYDT"
-summary: "Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management."
+description: |
+ "Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management."
 date: 2024-09-22T04:04:00Z
 categories: ["Games"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "Telegram Web A"
-summary: "An experimental standalone version of Telegram Web Client A."
+description: |
+ "An experimental standalone version of Telegram Web Client A."
 date: 2025-05-14T19:27:00Z
 categories: ["Network"]
 authors:

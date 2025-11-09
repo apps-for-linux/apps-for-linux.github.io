@@ -1,6 +1,7 @@
 ---
 title: "Cursor"
-summary: "The AI Code Editor"
+description: |
+ "The AI Code Editor"
 date: 2025-06-12T00:00:00Z
 categories: ["Development"]
 authors:

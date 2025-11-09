@@ -1,6 +1,7 @@
 ---
 title: "Eclipse Theia"
-summary: "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript."
+description: |
+ "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript."
 date: 2025-05-14T15:23:00Z
 categories: ["Development"]
 authors:

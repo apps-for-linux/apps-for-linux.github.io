@@ -1,6 +1,7 @@
 ---
 title: "Tuta"
-summary: "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
+description: |
+ "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
 date: 2025-05-14T10:36:00Z
 categories: ["Network"]
 authors:

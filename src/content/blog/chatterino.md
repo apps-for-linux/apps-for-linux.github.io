@@ -1,6 +1,7 @@
 ---
 title: "Chatterino2"
-summary: "Chat client for Twitch.tv"
+description: |
+ "Chat client for Twitch.tv"
 date: 2025-03-23T18:36:00Z
 categories: ["Network"]
 authors:

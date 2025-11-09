@@ -1,6 +1,7 @@
 ---
 title: "Beaver Notes"
-summary: "Privacy-focused note-taking application"
+description: |
+ "Privacy-focused note-taking application"
 date: 2025-06-29T18:50:00Z
 categories: ["Productivity"]
 authors:

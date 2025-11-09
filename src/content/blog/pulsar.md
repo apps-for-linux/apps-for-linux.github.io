@@ -1,6 +1,7 @@
 ---
 title: "Pulsar"
-summary: "A Community-led Hyper-Hackable Text Editor"
+description: |
+ "A Community-led Hyper-Hackable Text Editor"
 date: 2025-05-01T09:25:00Z
 categories: ["Development"]
 authors:

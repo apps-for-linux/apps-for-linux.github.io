@@ -1,6 +1,7 @@
 ---
 title: "CP Editor"
-summary: "The IDE for competitive programming."
+description: |
+ "The IDE for competitive programming."
 date: 2024-02-17T07:58:00Z
 categories: ["Development"]
 authors:

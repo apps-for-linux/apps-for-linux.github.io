@@ -1,6 +1,7 @@
 ---
 title: "Avogadro"
-summary: "Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas"
+description: |
+ "Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas"
 date: 2025-01-22T04:15:00Z
 categories: ["Science"]
 authors:

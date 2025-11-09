@@ -1,6 +1,7 @@
 ---
 title: "Blockstream"
-summary: "Non-custodial Bitcoin wallet"
+description: |
+ "Non-custodial Bitcoin wallet"
 date: 2025-04-24T15:20:00Z
 categories: ["Finance"]
 authors:

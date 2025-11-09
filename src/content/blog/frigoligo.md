@@ -1,6 +1,7 @@
 ---
 title: "Frigoligo"
-summary: "Frigoligo is a wallabag client crafted using Flutter"
+description: |
+ "Frigoligo is a wallabag client crafted using Flutter"
 date: 2025-03-14T20:30:00Z
 categories: ["Network"]
 authors:

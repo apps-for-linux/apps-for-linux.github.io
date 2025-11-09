@@ -1,6 +1,7 @@
 ---
 title: "Helio"
-summary: "Free and open-source music sequencer for desktop and mobile platforms"
+description: |
+ "Free and open-source music sequencer for desktop and mobile platforms"
 date: 2025-04-20T15:20:00Z
 categories: ["Audio & Video"]
 authors:

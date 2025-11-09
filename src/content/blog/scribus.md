@@ -1,6 +1,7 @@
 ---
 title: "Scribus"
-summary: "Powerful desktop publishing software"
+description: |
+ "Powerful desktop publishing software"
 date: 2025-01-26T02:57:00Z
 categories: ["Productivity"]
 authors:

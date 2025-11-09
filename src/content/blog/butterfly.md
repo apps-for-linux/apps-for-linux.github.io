@@ -1,6 +1,7 @@
 ---
 title: "Butterfly"
-summary: "Powerful, minimalistic, cross-platform, opensource note-taking app"
+description: |
+ "Powerful, minimalistic, cross-platform, opensource note-taking app"
 date: 2025-06-23T07:57:00Z
 categories: ["Productivity"]
 authors:

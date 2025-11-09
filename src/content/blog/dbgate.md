@@ -1,6 +1,7 @@
 ---
 title: "DbGate"
-summary: "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others"
+description: |
+ "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others"
 date: 2025-06-20T18:08:00Z
 categories: ["Development"]
 authors:

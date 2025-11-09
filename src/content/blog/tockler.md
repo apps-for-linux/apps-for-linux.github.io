@@ -1,6 +1,7 @@
 ---
 title: "Tockler"
-summary: "An application that tracks your time by monitoring your active window title and idle time."
+description: |
+ "An application that tracks your time by monitoring your active window title and idle time."
 date: 2025-04-10T11:05:00Z
 categories: ["Productivity"]
 authors:

@@ -1,6 +1,7 @@
 ---
 title: "Feishin"
-summary: "A modern self-hosted music player"
+description: |
+ "A modern self-hosted music player"
 date: 2025-06-30T08:19:00Z
 categories: ["Audio & Video"]
 authors:

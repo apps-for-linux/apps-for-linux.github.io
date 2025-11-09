@@ -1,6 +1,7 @@
 ---
 title: "KOReader"
-summary: "An ebook reader application"
+description: |
+ "An ebook reader application"
 date: 2024-11-20T22:52:00Z
 categories: ["Productivity"]
 authors:
