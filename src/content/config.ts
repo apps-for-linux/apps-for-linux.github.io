@@ -7,8 +7,11 @@ const blog = defineCollection({
 		description: z.string(),
 		pubDate: z.date(),
 		updatedpubDate: z.date().optional(),
+		categories: z.array(z.string()).default(["others"]),
+		authors: z.string()
+		tags: z.string[];
 		coverImageCredit: z.string().optional(),
 	}),
 })
 
-export const collections = { blog }
+export const collections = { apps }
