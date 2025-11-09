@@ -2,7 +2,7 @@
 title: "Buckets"
 description: |
  "Make your budget quick, simple and private"
-date: 2024-07-05T17:56:00Z
+pubDate: 2024-07-05T17:56:00Z
 categories: ["Finance"]
 authors:
 - "One Part Rain"

@@ -2,7 +2,7 @@
 title: "Anytype"
 description: |
  "Anytype is a personal knowledge base"
-date: 2025-06-30T18:39:00Z
+pubDate: 2025-06-30T18:39:00Z
 categories: ["Productivity"]
 authors:
 - "Anytype"

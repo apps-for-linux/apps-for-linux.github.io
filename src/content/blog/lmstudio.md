@@ -2,7 +2,7 @@
 title: "LM Studio"
 description: |
  "Discover, download, and run local LLMs"
-date: 2025-01-30T00:00:00Z
+pubDate: 2025-01-30T00:00:00Z
 categories: ["Productivity"]
 authors:
 - "LM Studio Team"

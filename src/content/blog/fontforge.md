@@ -2,7 +2,7 @@
 title: "FontForge"
 description: |
  "An outline font editor"
-date: 2023-01-01T09:00:00Z
+pubDate: 2023-01-01T09:00:00Z
 categories: ["Graphics"]
 authors:
 - "FontForge Project contributors"

@@ -2,7 +2,7 @@
 title: "GitHub Desktop"
 description: |
  "Fork of GitHub Desktop to support various Linux distributions"
-date: 2025-02-09T21:00:00Z
+pubDate: 2025-02-09T21:00:00Z
 categories: ["Development"]
 authors:
 - "Brendan Forster"

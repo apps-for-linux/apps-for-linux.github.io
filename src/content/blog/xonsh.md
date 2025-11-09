@@ -2,7 +2,7 @@
 title: "xonsh"
 description: |
  "Python-powered, cross-platform, Unix-gazing shell language and command prompt."
-date: 2024-12-03T17:41:00Z
+pubDate: 2024-12-03T17:41:00Z
 categories: ["System"]
 authors:
 - "the xonsh developers"

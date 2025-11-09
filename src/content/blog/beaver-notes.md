@@ -2,7 +2,7 @@
 title: "Beaver Notes"
 description: |
  "Privacy-focused note-taking application"
-date: 2025-06-29T18:50:00Z
+pubDate: 2025-06-29T18:50:00Z
 categories: ["Productivity"]
 authors:
 - "Daniele Rolli"

@@ -2,7 +2,7 @@
 title: "authme"
 description: |
  "Simple cross-platform two-factor (2FA) authenticator app for desktop."
-date: 2025-06-11T00:01:00Z
+pubDate: 2025-06-11T00:01:00Z
 categories: ["Productivity"]
 authors:
 - "Lőrik Levente"

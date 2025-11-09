@@ -2,7 +2,7 @@
 title: "AntimicroX"
 description: |
  "Graphical program used to map gamepad keys to keyboard, mouse, scripts and macros"
-date: 2024-11-01T01:06:00Z
+pubDate: 2024-11-01T01:06:00Z
 categories: ["Utilities"]
 authors:
 - "AntiMicroX Authors"

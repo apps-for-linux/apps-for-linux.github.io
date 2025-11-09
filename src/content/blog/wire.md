@@ -2,7 +2,7 @@
 title: "Wire"
 description: |
  "Wire is the most secure platform for messaging, audio, and video calls, based on edge computing and zero knowledge architecture."
-date: 2025-04-14T14:11:00Z
+pubDate: 2025-04-14T14:11:00Z
 categories: ["Network"]
 authors:
 - "Wire Swiss"

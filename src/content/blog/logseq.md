@@ -2,7 +2,7 @@
 title: "Logseq"
 description: |
  "A privacy-first, open-source platform for knowledge management and collaboration"
-date: 2024-12-16T17:29:00Z
+pubDate: 2024-12-16T17:29:00Z
 categories: ["Productivity"]
 authors:
 - "Logseq"

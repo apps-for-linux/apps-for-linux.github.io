@@ -2,7 +2,7 @@
 title: "Lossless-cut"
 description: |
  "Simple and ultra fast cross platform tool for lossless trimming/cutting of video and audio files."
-date: 2024-03-19T08:32:00Z
+pubDate: 2024-03-19T08:32:00Z
 categories: ["Audio & Video"]
 authors:
 - "Mikael Finstad"

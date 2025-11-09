@@ -2,7 +2,7 @@
 title: "Laigter"
 description: |
  "Laigter is a tool that automatically generates maps for dynamic lighting effects in games"
-date: 2024-10-25T23:03:00Z
+pubDate: 2024-10-25T23:03:00Z
 categories: ["Graphics"]
 authors:
 - "Pablo Ivan Fonovich"

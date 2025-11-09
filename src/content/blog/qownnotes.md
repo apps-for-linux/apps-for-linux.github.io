@@ -2,7 +2,7 @@
 title: "QOwnNotes"
 description: |
  "Open source notepad with Markdown support and todo list manager for GNU/Linux"
-date: 2025-05-20T22:41:00Z
+pubDate: 2025-05-20T22:41:00Z
 categories: ["Productivity"]
 authors:
 - "Patrizio Bekerle"

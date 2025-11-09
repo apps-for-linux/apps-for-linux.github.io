@@ -2,7 +2,7 @@
 title: "OnlyOffice"
 description: |
  "Free office suite that combines text, spreadsheet and presentation editors"
-date: 2025-03-20T13:42:00Z
+pubDate: 2025-03-20T13:42:00Z
 categories: ["Productivity"]
 authors:
 - "Ascensio System"

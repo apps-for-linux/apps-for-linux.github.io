@@ -2,7 +2,7 @@
 title: "Beyond-All-Reason"
 description: |
  "Free Real Time Strategy Game with a grand scale and full physical simulation in a sci-fi setting."
-date: 2024-03-02T20:40:00Z
+pubDate: 2024-03-02T20:40:00Z
 categories: ["Games"]
 authors:
 - "Beyond-All-Reason Team"

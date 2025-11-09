@@ -2,7 +2,7 @@
 title: "Citadel"
 description: |
  "Manage your ebook library without frustrations. Calibre compatible."
-date: 2024-10-29T10:25:00Z
+pubDate: 2024-10-29T10:25:00Z
 categories: ["Productivity"]
 authors:
 - "Phil Denhoff"

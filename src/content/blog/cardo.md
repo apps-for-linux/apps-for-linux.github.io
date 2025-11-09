@@ -2,7 +2,7 @@
 title: "Cardo"
 description: |
  "Cardo is a podcast client for desktop"
-date: 2025-06-29T18:28:00Z
+pubDate: 2025-06-29T18:28:00Z
 categories: ["Network"]
 authors:
 - "n0vella"

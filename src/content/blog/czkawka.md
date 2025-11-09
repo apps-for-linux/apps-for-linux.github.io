@@ -2,7 +2,7 @@
 title: "Czkawka"
 description: |
  "Multi functional app to find duplicates, empty folders, similar images etc."
-date: 2025-03-16T10:59:00Z
+pubDate: 2025-03-16T10:59:00Z
 categories: ["System"]
 authors:
 - "Rafał Mikrut"

@@ -2,7 +2,7 @@
 title: "RPCS3"
 description: |
  "Free and Open-source PlayStation 3 emulator/debugger"
-date: 2025-05-14T22:15:00Z
+pubDate: 2025-05-14T22:15:00Z
 categories: ["Games"]
 authors:
 - "RPCS3 Authors"

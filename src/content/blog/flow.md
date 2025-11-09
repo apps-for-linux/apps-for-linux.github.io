@@ -2,7 +2,7 @@
 title: "Flow"
 description: |
  "Feature rich event, group and time managment system"
-date: 2025-04-28T20:01:00Z
+pubDate: 2025-04-28T20:01:00Z
 categories: ["Productivity"]
 authors:
 - "LinwoodDev"

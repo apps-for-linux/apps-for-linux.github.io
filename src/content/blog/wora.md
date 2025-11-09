@@ -2,7 +2,7 @@
 title: "Wora"
 description: |
  "A beautiful player for audiophiles."
-date: 2025-01-25T13:58:00Z
+pubDate: 2025-01-25T13:58:00Z
 categories: ["Audio & Video"]
 authors:
 - "Aaryan Kapoor"

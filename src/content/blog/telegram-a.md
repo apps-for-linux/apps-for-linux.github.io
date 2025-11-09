@@ -2,7 +2,7 @@
 title: "Telegram Web A"
 description: |
  "An experimental standalone version of Telegram Web Client A."
-date: 2025-05-14T19:27:00Z
+pubDate: 2025-05-14T19:27:00Z
 categories: ["Network"]
 authors:
 - "Alexander Zinchuk"

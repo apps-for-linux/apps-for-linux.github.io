@@ -2,7 +2,7 @@
 title: "vifm"
 description: |
  "File manager with curses interface"
-date: 2025-05-07T19:03:00Z
+pubDate: 2025-05-07T19:03:00Z
 categories: ["System"]
 authors:
 - "vifm Authors"

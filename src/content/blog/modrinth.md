@@ -2,7 +2,7 @@
 title: "Modrinth"
 description: |
  "Open-source mod platform, built by the community, for the community."
-date: 2025-02-06T00:41:00Z
+pubDate: 2025-02-06T00:41:00Z
 categories: ["Games"]
 authors:
 - "Rinth"

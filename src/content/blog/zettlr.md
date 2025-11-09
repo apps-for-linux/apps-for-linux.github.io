@@ -2,7 +2,7 @@
 title: "Zettlr"
 description: |
  "Your One-Stop Publication Workbench"
-date: 2025-04-16T14:55:00Z
+pubDate: 2025-04-16T14:55:00Z
 categories: ["Productivity"]
 authors:
 - "Hendrik Erz"

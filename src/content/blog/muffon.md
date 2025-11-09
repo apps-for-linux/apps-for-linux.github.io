@@ -2,7 +2,7 @@
 title: "muffon"
 description: |
  "Advanced multi-source music streaming"
-date: 2024-10-07T11:22:00Z
+pubDate: 2024-10-07T11:22:00Z
 categories: ["Audio & Video"]
 authors:
 - "Aleksey Shpakovsky"

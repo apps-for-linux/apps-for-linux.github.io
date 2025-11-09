@@ -2,7 +2,7 @@
 title: "PrusaSlicer"
 description: |
  "PrusaSlicer takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers"
-date: 2025-03-07T02:13:00Z
+pubDate: 2025-03-07T02:13:00Z
 categories: ["Graphics"]
 authors:
 - "Simon Peter"

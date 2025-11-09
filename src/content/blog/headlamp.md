@@ -2,7 +2,7 @@
 title: "Headlamp"
 description: |
  "A Kubernetes web UI that is fully-featured, user-friendly and extensible"
-date: 2025-02-07T17:18:00Z
+pubDate: 2025-02-07T17:18:00Z
 categories: ["Development"]
 authors:
 - "The Headlamp Contributors"

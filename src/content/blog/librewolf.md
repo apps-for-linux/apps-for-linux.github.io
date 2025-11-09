@@ -2,7 +2,7 @@
 title: "LibreWolf"
 description: |
  "A custom version of Firefox, focused on privacy, security and freedom."
-date: 2025-01-26T23:59:00Z
+pubDate: 2025-01-26T23:59:00Z
 categories: ["Network"]
 authors:
 - "LibreWolf"

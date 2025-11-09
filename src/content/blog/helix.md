@@ -2,7 +2,7 @@
 title: "Helix"
 description: |
  "A post-modern modal text editor."
-date: 2025-01-20T12:31:00Z
+pubDate: 2025-01-20T12:31:00Z
 categories: ["Development"]
 authors:
 - "Blaž Hrastnik"

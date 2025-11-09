@@ -2,7 +2,7 @@
 title: "Deckboard"
 description: |
  "Control your PC with your phone in easy way possible"
-date: 2025-03-14T09:27:00Z
+pubDate: 2025-03-14T09:27:00Z
 categories: ["Games"]
 authors:
 - "Riva Farabi"

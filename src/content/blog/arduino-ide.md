@@ -2,7 +2,7 @@
 title: "Arduino IDE"
 description: |
  "The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board"
-date: 2025-04-09T14:44:00Z
+pubDate: 2025-04-09T14:44:00Z
 categories: ["Development"]
 authors:
 - "Arduino"

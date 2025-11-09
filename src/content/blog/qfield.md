@@ -2,7 +2,7 @@
 title: "QField"
 description: |
  "Geodata collection app."
-date: 2025-05-21T05:46:00Z
+pubDate: 2025-05-21T05:46:00Z
 categories: ["Science"]
 authors:
 - "OPENGIS.ch"

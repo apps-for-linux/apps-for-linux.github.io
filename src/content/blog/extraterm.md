@@ -2,7 +2,7 @@
 title: "Extraterm"
 description: |
  "The swiss army chainsaw of terminal emulators."
-date: 2025-07-02T19:15:00Z
+pubDate: 2025-07-02T19:15:00Z
 categories: ["System"]
 authors:
 - "Simon Edwards"

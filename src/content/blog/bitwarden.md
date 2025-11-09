@@ -2,7 +2,7 @@
 title: "Bitwarden"
 description: |
  "Open source password management solutions for individuals, teams, and business organizations."
-date: 2025-06-26T22:13:00Z
+pubDate: 2025-06-26T22:13:00Z
 categories: ["Utilities"]
 authors:
 - "BitWarden"

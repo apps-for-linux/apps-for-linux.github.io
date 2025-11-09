@@ -2,7 +2,7 @@
 title: "OpenSCAD"
 description: |
  "The Programmers Solid 3D CAD Modeller"
-date: 2025-05-20T22:29:00Z
+pubDate: 2025-05-20T22:29:00Z
 categories: ["Graphics"]
 authors:
 - "Marius Kintel"

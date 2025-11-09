@@ -2,7 +2,7 @@
 title: "FreeCAD"
 description: |
  "FreeCAD is a general purpose Open Source 3D CAD/MCAD/CAx/CAE/PLM modeler"
-date: 2025-05-15T16:33:00Z
+pubDate: 2025-05-15T16:33:00Z
 categories: ["Graphics"]
 authors:
 - "The FreeCAD Team"

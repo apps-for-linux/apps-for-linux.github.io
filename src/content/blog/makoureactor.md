@@ -2,7 +2,7 @@
 title: "Makoureactor"
 description: |
  "Final Fantasy VII field archive editor"
-date: 2025-03-02T00:21:00Z
+pubDate: 2025-03-02T00:21:00Z
 categories: ["Games"]
 authors:
 - "Jérôme Arzel"

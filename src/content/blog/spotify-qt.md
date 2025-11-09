@@ -2,7 +2,7 @@
 title: "spotify-qt"
 description: |
  "Lightweight Spotify client using Qt."
-date: 2025-04-28T22:58:00Z
+pubDate: 2025-04-28T22:58:00Z
 categories: ["Audio & Video"]
 authors:
 - "kraxie"

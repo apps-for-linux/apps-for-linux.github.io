@@ -2,7 +2,7 @@
 title: "Sunshine"
 description: |
  "Self-hosted game stream host for Moonlight."
-date: 2025-05-14T20:37:00Z
+pubDate: 2025-05-14T20:37:00Z
 categories: ["Games"]
 authors:
 - "LizardByte"

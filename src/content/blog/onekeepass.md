@@ -2,7 +2,7 @@
 title: "OneKeePass"
 description: |
  "OneKeePass is a cross-platform, open source and secure password manager"
-date: 2025-03-13T20:55:00Z
+pubDate: 2025-03-13T20:55:00Z
 categories: ["Utilities"]
 authors:
 - "jeyasankar"

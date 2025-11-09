@@ -2,7 +2,7 @@
 title: "GitFourchette"
 description: |
  "The comfortable Git UI for Linux."
-date: 2025-05-03T20:05:00Z
+pubDate: 2025-05-03T20:05:00Z
 categories: ["Development"]
 authors:
 - "Iliyas Jorio"

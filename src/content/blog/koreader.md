@@ -2,7 +2,7 @@
 title: "KOReader"
 description: |
  "An ebook reader application"
-date: 2024-11-20T22:52:00Z
+pubDate: 2024-11-20T22:52:00Z
 categories: ["Productivity"]
 authors:
 - "KOReader Community"

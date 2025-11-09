@@ -2,7 +2,7 @@
 title: "Lite XL"
 description: |
  "A lightweight text editor written in Lua"
-date: 2024-12-05T17:34:00Z
+pubDate: 2024-12-05T17:34:00Z
 categories: ["Development"]
 authors:
 - "Lite XL Team"

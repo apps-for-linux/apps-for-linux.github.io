@@ -2,7 +2,7 @@
 title: "Session"
 description: |
  "Session Desktop - Onion routing based messenger."
-date: 2025-05-07T06:40:00Z
+pubDate: 2025-05-07T06:40:00Z
 categories: ["Network"]
 authors:
 - "The Oxen Project"

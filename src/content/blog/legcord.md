@@ -2,7 +2,7 @@
 title: "Legcord"
 description: |
  "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight"
-date: 2025-01-21T18:43:00Z
+pubDate: 2025-01-21T18:43:00Z
 categories: ["Network"]
 authors:
 - "Legcord"

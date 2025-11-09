@@ -2,7 +2,7 @@
 title: "FreeTube"
 description: |
  "FreeTube is an open source desktop YouTube player built with privacy in mind"
-date: 2025-05-01T22:32:00Z
+pubDate: 2025-05-01T22:32:00Z
 categories: ["Network"]
 authors:
 - "FreeTube Authors"

@@ -2,7 +2,7 @@
 title: "Alephium"
 description: |
  "The official Alephium desktop wallet."
-date: 2025-10-07T19:45:00Z
+pubDate: 2025-10-07T19:45:00Z
 categories: ["Finance"]
 authors:
 - "Alephium Team"
