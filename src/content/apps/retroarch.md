@@ -5,7 +5,9 @@ description: |
 pubDate: 2025-01-14T02:16:00Z
 categories: ["Games"]
 authors: "Florian Märkl"
-tags:
+tags: 
+- Game Simulator
+- Retro Game Simulator
 license: "GPL-3.0"
 draft: false
 ---

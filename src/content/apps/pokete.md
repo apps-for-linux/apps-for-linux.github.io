@@ -6,6 +6,8 @@ pubDate: 2024-06-15T04:15:00Z
 categories: ["Games"]
 authors: "Peer Meyer"
 tags:
+- Game
+- TUI
 license: "GPL-3.0"
 draft: false
 ---
