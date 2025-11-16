@@ -7,7 +7,7 @@ import utc from 'dayjs/plugin/utc'
 
 dayjs.extend(utc)
 
-type Props = CollectionEntry<'blog'>['data'] & {
+type Props = CollectionEntry<'apps'>['data'] & {
 	headings: MarkdownHeading[]
 	slug: string
 	remarkPluginFrontmatter: Record<string, string>
@@ -45,11 +45,6 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 			<div
 				class="app-container flex flex-col lg:flex-row-reverse justify-between gap-8 py-24 relative"
 			>
-				<div class="md:w-1/4 relative">
-					<div class="sticky top-0 md:top-28 hidden lg:block">
-						<TableOfContents headings={headings} />
-					</div>
-				</div>
 				<div class="grow w-full md:max-w-[75ch]">
 					<div>
 						<h1 class="text-4xl sm:text-5xl leading-snug pt-12 font-bold">
@@ -84,7 +79,6 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 									name="mdi:clock-time-four-outline"
 									class="inline-block text-primary dark:text-primary-dark"
 								/>
-								{remarkPluginFrontmatter.minutesRead}
 							</span>
 						</div>
 
