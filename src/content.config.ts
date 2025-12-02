@@ -54,14 +54,6 @@ const pagesCollection = defineCollection({
   }),
 });
 
-// about collection schema
-const aboutCollection = defineCollection({
-  loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/about" }),
-  schema: z.object({
-    ...commonFields,
-  }),
-});
-
 // contact collection schema
 const contactCollection = defineCollection({
   loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/contact" }),
@@ -143,12 +135,8 @@ const testimonialSectionCollection = defineCollection({
 // Export collections
 export const collections = {
   // Pages
-  homepage: homepageCollection,
-  blog: blogCollection,
+  apps: appsCollection,
   authors: authorsCollection,
-  pages: pagesCollection,
-  about: aboutCollection,
-  contact: contactCollection,
 
   // sections
   ctaSection: ctaSectionCollection,
