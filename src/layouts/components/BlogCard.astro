@@ -1,40 +1,58 @@
 ---
-import { SITE_BASE } from '@/consts'
-import FormattedDate from './FormattedDate.astro'
-import type { ImageMetadata } from 'astro'
-import { Image } from 'astro:assets'
+import config from "@/config/config.json";
+import dateFormat from "@/lib/utils/dateFormat";
+import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
+import { FaRegFolder, FaRegUserCircle } from "react-icons/fa";
+import ImageMod from "./ImageMod.astro";
 
-const { post } = Astro.props
-
-const blogImages = import.meta.glob<{ default: ImageMetadata }>(
-	'/src/assets/blogimages/**/*.{jpeg,jpg,png,gif}'
-)
-
-const coverImagePath = `/src/assets/blogimages/${post.slug}/cover.jpg`
+const {
+  summary_length,
+  blog_folder,
+}: { summary_length: number; blog_folder: string } = config.settings;
+const { data } = Astro.props;
+const { title, image, date, author, categories } = data.data;
 ---
 
-<a
-	href={`${SITE_BASE}/blog/${post.slug}/`}
-	class="flex flex-col gap-4 pb-8 h-full group transition-colors"
->
-	{
-		blogImages[coverImagePath] && (
-			<Image
-				src={blogImages[coverImagePath]()}
-				alt={post.data.title}
-				class="object-cover rounded-xl aspect-video"
-			/>
-		)
-	}
-	<h4
-		class="text-2xl font-semibold group-hover:text-primary dark:group-hover:text-primary-dark group-hover:underline transition-colors"
-	>
-		{post.data.title}
-	</h4>
-	<p class="line-clamp-3 opacity-80">
-		{post.data.description}
-	</p>
-	<p class="uppercase text-sm mt-auto tracking-tight">
-		<FormattedDate date={post.data.pubDate} />
-	</p>
-</a>
+<div class="bg-body dark:bg-darkmode-body">
+  {
+    image && (
+      <ImageMod
+        class="mb-6 w-full rounded"
+        src={image}
+        alt={title}
+        width={445}
+        height={230}
+        format="webp"
+      />
+    )
+  }
+  <h4 class="mb-3">
+    <a href={`/${blog_folder}/${data.id}`}>
+      {title}
+    </a>
+  </h4>
+  <ul class="mb-4">
+    <li class="mr-4 inline-block">
+      <a href={`/authors/${slugify(author)}`}>
+        <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
+        {humanize(author)}
+      </a>
+    </li>
+    <li class="mr-4 inline-block">
+      <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
+      {
+        categories.map((category: string, index: number) => (
+          <a href={`/categories/${slugify(category)}`}>
+            {humanize(category)}
+            {index !== categories.length - 1 && ","}
+          </a>
+        ))
+      }
+    </li>
+    {date && <li class="inline-block">{dateFormat(date)}</li>}
+  </ul>
+  <p class="mb-6">{plainify(data.body?.slice(0, Number(summary_length)))}</p>
+  <a class="btn btn-outline-primary btn-sm" href={`/${blog_folder}/${data.id}`}>
+    read more
+  </a>
+</div>
