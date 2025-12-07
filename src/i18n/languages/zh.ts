@@ -155,22 +155,6 @@ export const zh: Translation = {
 	[Key.albumsPhotosCount]: "张照片",
 
 	// 番剧页面
-	[Key.anime]: "追番",
-	[Key.animeTitle]: "我的追番记录",
-	[Key.animeSubtitle]: "记录我的二次元之旅",
-	[Key.animeList]: "追番列表",
-	[Key.animeTotal]: "总数",
-	[Key.animeWatching]: "追番中",
-	[Key.animeCompleted]: "已追完",
-	[Key.animeAvgRating]: "平均评分",
-	[Key.animeStatusWatching]: "追番中",
-	[Key.animeStatusCompleted]: "已追完",
-	[Key.animeStatusPlanned]: "计划中",
-	[Key.animeYear]: "年份",
-	[Key.animeStudio]: "制作",
-	[Key.animeEmpty]: "暂无追番数据",
-	[Key.animeEmptyBangumi]: "请检查 Bangumi 配置或网络连接",
-
 	// 友链页面
 	[Key.friends]: "友链",
 

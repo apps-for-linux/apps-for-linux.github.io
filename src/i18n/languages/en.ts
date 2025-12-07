@@ -154,23 +154,6 @@ export const en: Translation = {
 	[Key.albumsPhotoCount]: "photo",
 	[Key.albumsPhotosCount]: "photos",
 
-	// Anime Page
-	[Key.anime]: "Anime",
-	[Key.animeTitle]: "My Anime List",
-	[Key.animeSubtitle]: "Record my anime journey",
-	[Key.animeList]: "Anime List",
-	[Key.animeTotal]: "Total",
-	[Key.animeWatching]: "Watching",
-	[Key.animeCompleted]: "Completed",
-	[Key.animeAvgRating]: "Average Rating",
-	[Key.animeStatusWatching]: "Watching",
-	[Key.animeStatusCompleted]: "Completed",
-	[Key.animeStatusPlanned]: "Planned",
-	[Key.animeYear]: "Year",
-	[Key.animeStudio]: "Studio",
-	[Key.animeEmpty]: "No anime data",
-	[Key.animeEmptyBangumi]: "Please check Bangumi configuration or network connection",
-
 	// Friends Page
 	[Key.friends]: "Friends",
 

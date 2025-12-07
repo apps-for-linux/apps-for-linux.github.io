@@ -151,23 +151,6 @@ enum I18nKey {
 	albumsPhotoCount = "albumsPhotoCount",
 	albumsPhotosCount = "albumsPhotosCount",
 
-	// 番剧页面
-	anime = "anime",
-	animeTitle = "animeTitle",
-	animeSubtitle = "animeSubtitle",
-	animeList = "animeList",
-	animeTotal = "animeTotal",
-	animeWatching = "animeWatching",
-	animeCompleted = "animeCompleted",
-	animeAvgRating = "animeAvgRating",
-	animeStatusWatching = "animeStatusWatching",
-	animeStatusCompleted = "animeStatusCompleted",
-	animeStatusPlanned = "animeStatusPlanned",
-	animeYear = "animeYear",
-	animeStudio = "animeStudio",
-	animeEmpty = "animeEmpty",
-	animeEmptyBangumi = "animeEmptyBangumi",
-
 	// 友链页面
 	friends = "friends",
 

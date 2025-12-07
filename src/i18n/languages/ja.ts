@@ -155,22 +155,6 @@ export const ja: Translation = {
 	[Key.albumsPhotosCount]: "写真",
 
 	// アニメページ
-	[Key.anime]: "アニメ",
-	[Key.animeTitle]: "私のアニメリスト",
-	[Key.animeSubtitle]: "私の二次元の旅を記録する",
-	[Key.animeList]: "アニメリスト",
-	[Key.animeTotal]: "合計",
-	[Key.animeWatching]: "視聴中",
-	[Key.animeCompleted]: "完了",
-	[Key.animeAvgRating]: "平均評価",
-	[Key.animeStatusWatching]: "視聴中",
-	[Key.animeStatusCompleted]: "完了",
-	[Key.animeStatusPlanned]: "予定",
-	[Key.animeYear]: "年",
-	[Key.animeStudio]: "スタジオ",
-	[Key.animeEmpty]: "アニメデータなし",
-	[Key.animeEmptyBangumi]: "Bangumiの設定またはネットワーク接続を確認してください",
-
 	// 友達ページ
 	[Key.friends]: "友達",
 
