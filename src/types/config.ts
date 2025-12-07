@@ -50,18 +50,6 @@ export type SiteConfig = {
     // 时区配置
     timeZone: -12 | -11 | -10 | -9 | -8 | -7 | -6 | -5 | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12;
     // 字体配置
-    font: {
-        // zenMaruGothic 字体
-        zenMaruGothic: {
-            // 作为全局字体
-            enable: boolean; 
-        };
-        // Hanalei 字体
-        hanalei: {
-            // 作为全局字体
-            enable: boolean;
-        };
-    };
     // 主题色配置
     themeColor: {
         // 主题色的默认色相 (0-360)
@@ -70,57 +58,8 @@ export type SiteConfig = {
         fixed: boolean;
     };
     // 默认主题
-    defaultTheme: "system" | "light" | "dark";
+    defaultTheme: "system" 
     // 壁纸配置
-    wallpaper: {
-        // 模式
-        mode: "none";
-        // 壁纸位置，等同于 object-position
-            // 横幅图片来源文本
-            credit?: {
-                // 显示横幅图片来源文本
-                enable: boolean;
-                // 要显示的来源文本
-                text: string;
-                // (可选) 原始艺术品或艺术家页面的 URL 链接
-                url?: string;
-            };
-            // 导航栏配置
-            navbar?: {
-                // 导航栏透明模式
-                transparentMode?: "semi" | "full" | "semifull";
-            };
-            // 水波纹效果配置
-            waves?: {
-                // 启用水波纹效果
-                enable: boolean;
-                // 启用性能模式 (简化波浪效果以提升性能)
-                performanceMode?: boolean;
-            };
-        };
-        // Fullscreen 模式专属配置
-        fullscreen?: {
-            // 层级
-            zIndex?: number;
-            // 壁纸透明度，0-1 之间
-            opacity?: number;
-            // 背景模糊程度 (px)
-            blur?: number;
-            // 导航栏透明模式
-            navbar?: {
-                transparentMode?: "semi" | "full" | "semifull";
-            };
-        };
-    };
-    // OpenGraph 配置
-    generateOgImages: boolean;
-    // Favicon 配置
-    favicon: Favicon[];
-    // bangumi 配置
-    bangumi?: {
-        // 用户 ID
-        userId?: string;
-    };
 };
 
 /**
@@ -134,8 +73,6 @@ export type LIGHT_DARK_MODE =
 
 
 export type WALLPAPER_MODE =
-    | typeof WALLPAPER_FULLSCREEN
-    | typeof WALLPAPER_BANNER
     | typeof WALLPAPER_NONE;
 
 /**
