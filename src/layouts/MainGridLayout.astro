@@ -17,7 +17,6 @@ const {
 	title,
 	description,
 	lang,
-	setOGTypeArticle,
 	postSlug,
 	headings = [],
 } = Astro.props;
@@ -155,7 +154,6 @@ const mainContentClass = `
     title={title}
     description={description}
     lang={lang}
-    setOGTypeArticle={setOGTypeArticle}
     postSlug={postSlug}
 >
 
@@ -179,8 +177,7 @@ const mainContentClass = `
 
     <!-- Main content -->
     <div
-        class={`absolute w-full z-30 pointer-events-none ${mobileNonHomeBannerClass ? "mobile-main-no-banner" : ""} ${siteConfig.wallpaper.mode !== "banner" ? "no-banner-layout" : ""} ${transparentClass}`}
-        style={`top: ${finalMainPanelTop}`}
+        class={`absolute w-full z-30 pointer-events-none "no-banner-layout"`}
     >
         <!-- The pointer-events-none here prevent blocking the click event of the TOC -->
         <div
@@ -198,7 +195,7 @@ const mainContentClass = `
                         hasLeftSidebar && (
                             <SideBar
                                 side="left"
-                                class={`${leftSidebarClass} ${transparentClass}`}
+                                class={`${leftSidebarClass} `}
                                 headings={headings}
                             />
                         )
@@ -210,7 +207,7 @@ const mainContentClass = `
                         hasRightSidebar && (
                             <SideBar
                                 side="right"
-                                class={`${rightSidebarClass} ${transparentClass}`}
+                                class={`rightSidebarClass`}
                                 headings={headings}
                             />
                         )
@@ -257,10 +254,6 @@ const mainContentClass = `
                             hasRightSidebar && !hasLeftSidebar
                                 ? "-left-[var(--toc-width)]"
                                 : "-right-[var(--toc-width)]",
-                            {
-                                "toc-hide":
-                                    siteConfig.wallpaper.mode === "banner",
-                            },
                         ]}
                     >
                         <div

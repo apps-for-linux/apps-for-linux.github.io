@@ -3,15 +3,6 @@ import { Icon } from "astro-icon/components";
 import { profileConfig } from "../../config";
 import { url } from "../../utils/url-utils";
 import ImageWrapper from "../misc/ImageWrapper.astro";
-
-import { umamiConfig } from "../../config";
-
-// 解析 umami
-const umamiEnabled = umamiConfig.enabled || false;
-const umamiWebsiteId =
-	umamiConfig.scripts.match(/data-website-id="([^"]+)"/)?.[1] || "";
-const umamiApiKey = umamiConfig.apiKey || "";
-const umamiBaseUrl = umamiConfig.baseUrl || "";
 ---
 
 <div class="card-base p-3">
