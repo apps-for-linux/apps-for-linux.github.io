@@ -14,7 +14,6 @@ export const WIDGET_COMPONENT_MAP = {
 	categories: "../components/widget/Categories.astro",
 	tags: "../components/widget/Tags.astro",
 	toc: "../components/widget/TOC.astro",
-	"music-player": "../components/widget/MusicPlayer.svelte",
 	pio: "../components/widget/Pio.astro", // 添加 Pio 组件映射
 	series: "../components/widget/Series.astro", // 添加 Series 组件映射
 	custom: null, // 自定义组件需要在配置中指定路径

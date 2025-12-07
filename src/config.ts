@@ -7,7 +7,6 @@ import type {
     PostConfig,
     FooterConfig,
     ParticleConfig,
-    MusicPlayerConfig,
 } from "./types/config";
 import { LinkPreset } from "./types/config";
 import { getTranslateLanguageFromConfig, detectBrowserLanguage } from "./utils/language-utils";
@@ -75,61 +74,12 @@ export const siteConfig: SiteConfig = {
         fixed: false,
     },
     // 默认主题 ("system" 跟随系统 | "light" 浅色 | "dark" 深色)
-    defaultTheme: "dark",
+    defaultTheme: "system",
     // 壁纸配置
     wallpaper: {
         // 模式 ("banner" 横幅 | "fullscreen" 全屏 | "none" 纯色)
-        mode: "banner",
-        // 图片源配置 (fullscreen 和 banner 模式共享)
-        src: {
-            // 桌面壁纸图片 (支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播)
-            desktop: [
-                "/assets/desktop-banner/desktopBanner_1.webp",
-            ],
-            // 移动壁纸图片 (支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播)
-            mobile: [
-                "/assets/mobile-banner/mobileBanner_1.webp",
-            ],
+        mode: "none",
         },
-        // 壁纸位置 ('top' | 'center' | 'bottom')
-        position: "center",
-        // 轮播配置 (fullscreen 和 banner 模式共享)
-        carousel: {
-            // 为多张图片启用轮播，否则随机显示一张图片
-            enable: true,
-            // 轮播间隔时间 (秒)
-            interval: 3.3,
-        },
-        // PicFlow API 配置 (fullscreen 和 banner 模式共享)
-        imageApi: {
-            // 启用图片 API
-            enable: false,
-            // API 地址，返回每行一个图片链接的文本
-            url: "http://domain.com/api_v2.php?format=text&count=4",
-        },
-        // Banner 模式专属配置
-        banner: {
-            // 横幅文本配置
-            homeText: {
-                // 在主页显示文本
-                enable: true,
-                // 主标题
-                title: "Twilight",
-                // 副标题，支持单个字符串或字符串数组
-                subtitle: [
-                    "Illuminate Our Paths",
-                ],
-                // 副标题打字机效果
-                typewriter: {
-                    // 启用副标题打字机效果
-                    enable: true,
-                    // 打字速度 (毫秒)
-                    speed: 111,
-                    // 删除速度 (毫秒)
-                    deleteSpeed: 51,
-                    // 完全显示后的暂停时间 (毫秒)
-                    pauseTime: 3000,
-                },
             },
             // 横幅图片来源文本
             credit: {
@@ -500,14 +450,6 @@ export const particleConfig: ParticleConfig = {
     zIndex: 100, // 确保粒子在合适的层级显示
 };
 
-
-// 音乐播放器配置
-export const musicPlayerConfig: MusicPlayerConfig = {
-    // 启用音乐播放器功能
-    enable: true,
-};
-
-
 // 看板娘配置
 export const pioConfig: import("./types/config").PioConfig = {
     // 启用看板娘
@@ -556,6 +498,5 @@ export const widgetConfigs = {
     announcement: announcementConfig,
     layout: sidebarLayoutConfig,
     particle: particleConfig,
-    music: musicPlayerConfig,
     pio: pioConfig,
 } as const;

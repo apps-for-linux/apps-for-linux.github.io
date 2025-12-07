@@ -38,8 +38,6 @@ export const en: Translation = {
 	[Key.systemMode]: "System",
 
 	[Key.wallpaperMode]: "Wallpaper Mode",
-	[Key.wallpaperFullscreen]: "Fullscreen",
-	[Key.wallpaperBanner]: "Banner",
 	[Key.wallpaperNone]: "None",
 
 	[Key.more]: "More",
@@ -240,7 +238,4 @@ export const en: Translation = {
 	[Key.hour]: "hour",
 	[Key.minute]: "minute",
 	[Key.second]: "second",
-
-	// Music Player
-	[Key.playlist]: "Playlist",
 };

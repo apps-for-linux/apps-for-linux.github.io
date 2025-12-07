@@ -2,8 +2,6 @@ import type {
     SYSTEM_MODE,
     DARK_MODE,
     LIGHT_MODE,
-    WALLPAPER_FULLSCREEN,
-    WALLPAPER_BANNER,
     WALLPAPER_NONE
 } from "../constants/constants";
 
@@ -76,51 +74,8 @@ export type SiteConfig = {
     // 壁纸配置
     wallpaper: {
         // 模式
-        mode: "fullscreen" | "banner" | "none";
-        src: // 图片源配置 (fullscreen 和 banner 模式共享) 
-            | string
-            | string[]
-            | {
-                    desktop?: string | string[];
-                    mobile?: string | string[];
-              };
+        mode: "none";
         // 壁纸位置，等同于 object-position
-        position?: "top" | "center" | "bottom";
-        // 轮播配置 (fullscreen 和 banner 模式共享)
-        carousel?: {
-            // 为多张图片启用轮播，否则随机显示一张图片
-            enable: boolean;
-            // 轮播间隔时间 (s) 
-            interval: number; 
-        };
-        // PicFlow API 配置 (fullscreen 和 banner 模式共享)
-        imageApi?: {
-            // 启用图片 API
-            enable: boolean;
-            // API 地址，返回每行一个图片链接的文本 (https://github.com/matsuzaka-yuki/PicFlow-API)
-            url: string;
-        };
-        // Banner 模式专属配置
-        banner?: {
-            homeText?: {
-                // 在主页显示文本
-                enable: boolean;
-                // 主标题
-                title?: string;
-                // 副标题
-                subtitle?: string | string[]; // 支持单个字符串或字符串数组
-                // 副标题打字机效果
-                typewriter?: {
-                    // 启用副标题打字机效果
-                    enable: boolean; 
-                    // 打字速度 (ms)
-                    speed: number;
-                    // 删除速度 (ms)
-                    deleteSpeed: number;
-                    // 完全显示后的暂停时间 (ms)
-                    pauseTime: number;
-                };
-            };
             // 横幅图片来源文本
             credit?: {
                 // 显示横幅图片来源文本
@@ -231,7 +186,6 @@ export type WidgetComponentType =
     | "categories"
     | "tags"
     | "toc"
-    | "music-player"
     | "pio"
     | "custom";
 
@@ -461,14 +415,6 @@ export type ParticleConfig = {
     // 粒子层级
     zIndex: number;
 };
-
-
-// 音乐播放器配置
-export type MusicPlayerConfig = {
-    // 启用音乐播放器功能
-    enable: boolean;
-};
-
 
 // 看板娘配置
 export type PioConfig = {

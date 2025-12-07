@@ -3,11 +3,7 @@ import {
     SYSTEM_MODE,
     DARK_MODE,
     LIGHT_MODE,
-    WALLPAPER_FULLSCREEN,
-    WALLPAPER_BANNER,
     WALLPAPER_NONE,
-    BANNER_HEIGHT,
-    MAIN_PANEL_OVERLAPS_BANNER_HEIGHT,
 } from "@constants/constants";
 import { siteConfig } from "@/config";
 import type { LIGHT_DARK_MODE, WALLPAPER_MODE } from "@/types/config";
@@ -116,22 +112,6 @@ export function applyThemeToDocument(theme: LIGHT_DARK_MODE) {
 }
 
 
-/**
- * Wallpaper
- */
-
-// 获取导航栏透明模式
-export function getNavbarTransparentModeForWallpaperMode(mode: WALLPAPER_MODE): string {
-    if (mode === WALLPAPER_FULLSCREEN) {
-        return siteConfig.wallpaper.fullscreen?.navbar?.transparentMode || "semi";
-    }
-    if (mode === WALLPAPER_BANNER) {
-        return siteConfig.wallpaper.banner?.navbar?.transparentMode || "semifull";
-    }
-    return "semi"; // 其他情况使用默认的 semi 模式
-}
-
-
 // 设置主题
 export function setTheme(theme: LIGHT_DARK_MODE): void {
     localStorage.setItem("theme", theme);
@@ -170,14 +150,6 @@ export function applyWallpaperModeToDocument(mode: WALLPAPER_MODE) {
 
         // 根据模式添加相应的CSS类
         switch (mode) {
-            case WALLPAPER_BANNER:
-                body.classList.add('enable-banner');
-                showBannerMode();
-                break;
-            case WALLPAPER_FULLSCREEN:
-                body.classList.add('wallpaper-transparent');
-                showFullscreenMode();
-                break;
             case WALLPAPER_NONE:
                 hideAllWallpapers();
                 break;
@@ -414,19 +386,6 @@ function adjustMainContentTransparency(enable: boolean) {
 function reinitializeComponents(mode: WALLPAPER_MODE) {
     // 重新初始化相关组件
     switch (mode) {
-        case WALLPAPER_BANNER:
-            // 重新初始化banner相关功能
-            setTimeout(() => {
-                const banner = document.getElementById('banner');
-                if (banner) {
-                    banner.classList.remove('opacity-0', 'scale-105');
-                    banner.classList.add('opacity-100');
-                }
-            }, 100);
-            break;
-        case WALLPAPER_FULLSCREEN:
-            // 组件现在自动处理轮播初始化
-            break;
         case WALLPAPER_NONE:
             // 无需特殊初始化
             break;

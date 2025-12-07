@@ -35,8 +35,6 @@ enum I18nKey {
 	systemMode = "systemMode",
 
 	wallpaperMode = "wallpaperMode",
-	wallpaperFullscreen = "wallpaperFullscreen",
-	wallpaperBanner = "wallpaperBanner",
 	wallpaperNone = "wallpaperNone",
 
 	more = "more",

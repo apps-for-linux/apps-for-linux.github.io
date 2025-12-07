@@ -4,9 +4,8 @@ import "@fontsource/roboto/400.css";
 import "@fontsource/roboto/700.css";
 
 import ConfigCarrier from "@components/ConfigCarrier.astro";
-import MusicPlayer from "@components/widget/MusicPlayer.svelte";
 import Pio from "@components/widget/Pio.svelte"; // 使用 Svelte 版本的 Pio 组件
-import { profileConfig, siteConfig, musicPlayerConfig, pioConfig } from "@/config";
+import { profileConfig, siteConfig, pioConfig } from "@/config";
 import { BREAKPOINT_LG } from "@/constants/breakpoints";
 import {
 	BANNER_HEIGHT,
@@ -49,14 +48,14 @@ const isHomePage = pathsEqual(Astro.url.pathname, url("/"));
 // why doing this in Layout instead of GlobalStyles: https://github.com/withastro/astro/issues/6728#issuecomment-1502203757
 const configHue = siteConfig.themeColor.hue;
 
-// 获取导航栏透明模式配置
+// Get navigation bar transparency mode configuration
 const navbarTransparentMode =
 	siteConfig.wallpaper.banner?.navbar?.transparentMode || "semi";
-// 判断是否应该显示顶部高光效果（只在full和semifull模式下显示）
+// Determine whether the top highlight effect should be displayed (only displayed in full and semifull modes).
 const shouldShowTopHighlight =
 	navbarTransparentMode === "full" || navbarTransparentMode === "semifull";
 
-// 获取默认banner图片的辅助函数
+// Helper function to get the default banner image
 const getDefaultBanner = (): string => {
 	const src = siteConfig.wallpaper.src;
 	if (typeof src === "string") {
@@ -66,7 +65,7 @@ const getDefaultBanner = (): string => {
 		return src[0] || "";
 	}
 	if (src && typeof src === "object") {
-		// 优先使用desktop，如果没有则使用mobile
+		// Desktop is preferred; if not available, mobile is used.
 		const desktopSrc = src.desktop;
 		const mobileSrc = src.mobile;
 		if (typeof desktopSrc === "string") {
@@ -358,9 +357,6 @@ const umamiScripts = umamiConfig.scripts || ""; // 获取Umami scripts配置
 		{shouldShowTopHighlight && <div class="top-gradient-highlight"></div>}
 		<ConfigCarrier></ConfigCarrier>
 		<slot />
-
-		<!-- Music Player - 仅在启用时加载 -->
-		{musicPlayerConfig.enable && <MusicPlayer client:load />}
 
 		<!-- Pio 看板娘组件 -->
 		<!-- 注意：Pio 组件需要放在 body 标签内，但要在其他内容之前 -->
