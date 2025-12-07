@@ -272,7 +272,7 @@ export const announcementConfig: AnnouncementConfig = {
  * 
  */
 
-// 文章配置
+// Article Configuration
 export const postConfig: PostConfig = {
     // 显示“上次编辑”卡片
     showLastModified: true,
