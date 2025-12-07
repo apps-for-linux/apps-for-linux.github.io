@@ -8,9 +8,6 @@ import Pio from "@components/widget/Pio.svelte"; // 使用 Svelte 版本的 Pio 
 import { profileConfig, siteConfig, pioConfig } from "@/config";
 import { BREAKPOINT_LG } from "@/constants/breakpoints";
 import {
-	BANNER_HEIGHT,
-	BANNER_HEIGHT_EXTEND,
-	BANNER_HEIGHT_HOME,
 	LIGHT_MODE,
 	DARK_MODE,
 	SYSTEM_MODE,
@@ -19,8 +16,6 @@ import {
 import { defaultFavicons } from "../constants/icon";
 import type { Favicon, ParticleConfig } from "../types/config";
 import { pathsEqual, url } from "../utils/url-utils";
-
-import { umamiConfig } from '../config.ts';
 
 import "katex/dist/katex.css";
 import "../styles/navbar.css";
@@ -48,49 +43,6 @@ const isHomePage = pathsEqual(Astro.url.pathname, url("/"));
 // why doing this in Layout instead of GlobalStyles: https://github.com/withastro/astro/issues/6728#issuecomment-1502203757
 const configHue = siteConfig.themeColor.hue;
 
-// Get navigation bar transparency mode configuration
-const navbarTransparentMode =
-	siteConfig.wallpaper.banner?.navbar?.transparentMode || "semi";
-// Determine whether the top highlight effect should be displayed (only displayed in full and semifull modes).
-const shouldShowTopHighlight =
-	navbarTransparentMode === "full" || navbarTransparentMode === "semifull";
-
-// Helper function to get the default banner image
-const getDefaultBanner = (): string => {
-	const src = siteConfig.wallpaper.src;
-	if (typeof src === "string") {
-		return src;
-	}
-	if (Array.isArray(src)) {
-		return src[0] || "";
-	}
-	if (src && typeof src === "object") {
-		// Desktop is preferred; if not available, mobile is used.
-		const desktopSrc = src.desktop;
-		const mobileSrc = src.mobile;
-		if (typeof desktopSrc === "string") {
-			return desktopSrc;
-		}
-		if (Array.isArray(desktopSrc) && desktopSrc.length > 0) {
-			return desktopSrc[0];
-		}
-		if (typeof mobileSrc === "string") {
-			return mobileSrc;
-		}
-		if (Array.isArray(mobileSrc) && mobileSrc.length > 0) {
-			return mobileSrc[0];
-		}
-	}
-	return "";
-};
-
-const carouselConfig = siteConfig.wallpaper.carousel || { enable: false, interval: 6 };
-
-// TODO don't use post cover as banner for now
-banner = getDefaultBanner();
-
-const enableBanner = siteConfig.wallpaper.mode === "banner";
-
 let pageTitle: string;
 if (title) {
 	pageTitle = `${title} - ${siteConfig.title}`;
@@ -98,12 +50,7 @@ if (title) {
 	pageTitle = siteConfig.subtitle
 		? `${siteConfig.title} - ${siteConfig.subtitle}`
 		: siteConfig.title;
-}
 
-let ogImageUrl: string | undefined;
-if (siteConfig.generateOgImages && postSlug) {
-	ogImageUrl = new URL(`/og/${postSlug}.png`, Astro.site).toString();
-}
 
 const favicons: Favicon[] =
 	siteConfig.favicon.length > 0 ? siteConfig.favicon : defaultFavicons;
@@ -114,16 +61,6 @@ if (!lang) {
 }
 const siteLang = lang.replace("_", "-");
 
-const bannerOffsetByPosition = {
-	top: `${BANNER_HEIGHT_EXTEND}vh`,
-	center: `${BANNER_HEIGHT_EXTEND / 2}vh`,
-	bottom: "0",
-};
-const bannerOffset =
-	bannerOffsetByPosition[siteConfig.wallpaper.position || "center"];
-
-const umamiEnabled = umamiConfig.enabled || false;
-const umamiScripts = umamiConfig.scripts || ""; // 获取Umami scripts配置
 ---
 
 <!DOCTYPE html>
@@ -161,7 +98,6 @@ const umamiScripts = umamiConfig.scripts || ""; // 获取Umami scripts配置
 		<meta property="og:url" content={Astro.url}>
 		<meta property="og:title" content={pageTitle}>
 		<meta property="og:description" content={description || pageTitle}>
-		{ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
 		{
 			setOGTypeArticle ? (
 				<meta property="og:type" content="article" />
@@ -186,7 +122,7 @@ const umamiScripts = umamiConfig.scripts || ""; // 获取Umami scripts配置
 		))}
 
 		<!-- Set the theme before the page is rendered to avoid a flash -->
-		<script is:inline define:vars={{BREAKPOINT_LG, LIGHT_MODE, DARK_MODE, SYSTEM_MODE, BANNER_HEIGHT_EXTEND, PAGE_WIDTH, configHue, defaultTheme: siteConfig.defaultTheme}}>
+		<script is:inline define:vars={{BREAKPOINT_LG, LIGHT_MODE, DARK_MODE, SYSTEM_MODE, PAGE_WIDTH, configHue, defaultTheme: siteConfig.defaultTheme}}>
 			// Load the theme from local storage
 			const theme = localStorage.getItem('theme') || defaultTheme;
 			// Apply the theme to the document
@@ -344,20 +280,11 @@ const umamiScripts = umamiConfig.scripts || ""; // 获取Umami scripts配置
 
 		<link rel="alternate" type="application/rss+xml" title={profileConfig.name} href={`${Astro.site}rss.xml`}/>
 
-		<!-- Umami Analytics -->
-		{umamiEnabled && umamiScripts && <Fragment set:html={umamiScripts} />}
 </head>
 
-	<body class=" min-h-screen " class:list={[{"lg:is-home": isHomePage, "enable-banner": enableBanner, "zen-maru-gothic-enabled": siteConfig.font.zenMaruGothic.enable, "hanalei-enabled": siteConfig.font.hanalei.enable}]}
+	<body class=" min-h-screen " class:list={[{"lg:is-home": isHomePage, }]}
 		  data-overlayscrollbars-initialize
 	>
-		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRX3XGVH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-		<!-- 页面顶部渐变高光效果 - 只在full和semifull模式下显示 -->
-		{shouldShowTopHighlight && <div class="top-gradient-highlight"></div>}
-		<ConfigCarrier></ConfigCarrier>
-		<slot />
-
 		<!-- Pio 看板娘组件 -->
 		<!-- 注意：Pio 组件需要放在 body 标签内，但要在其他内容之前 -->
 		<!-- 如果启用了侧边栏，可能需要调整 z-index -->
@@ -402,41 +329,6 @@ const umamiScripts = umamiConfig.scripts || ""; // 获取Umami scripts配置
 	</body>
 </html>
 
-<style is:global define:vars={{
-	bannerOffset,
-	'banner-height-home': `${BANNER_HEIGHT_HOME}vh`,
-	'banner-height': `${BANNER_HEIGHT}vh`,
-}}>
-@tailwind components;
-@layer components {
-	.enable-banner.is-home #banner-wrapper {
-		@apply h-[var(--banner-height-home)] translate-y-[var(--banner-height-extend)]
-	}
-	.enable-banner #banner-wrapper {
-		@apply h-[var(--banner-height-home)]
-	}
-
-	.enable-banner.is-home #banner {
-		@apply h-[var(--banner-height-home)] translate-y-0
-	}
-	.enable-banner #banner {
-		@apply h-[var(--banner-height-home)] translate-y-[var(--bannerOffset)]
-	}
-	.enable-banner.is-home #main-grid {
-		@apply translate-y-[var(--banner-height-extend)];
-	}
-	.enable-banner #top-row {
-		@apply h-[calc(var(--banner-height-home)_-_4.5rem)] transition-all duration-300
-	}
-	.enable-banner.is-home #sidebar-sticky {
-		@apply top-[calc(1rem_-_var(--banner-height-extend))]
-	}
-	.navbar-hidden {
-		@apply opacity-0 -translate-y-16
-	}
-}
-</style>
-
 <script>
 import { animationManager } from '../utils/animation-utils';
 import 'overlayscrollbars/overlayscrollbars.css';
@@ -449,12 +341,6 @@ import {
 import {getHue, getStoredTheme, setHue, setTheme} from "../utils/setting-utils";
 import {pathsEqual, url} from "../utils/url-utils";
 import { BREAKPOINT_LG } from "@/constants/breakpoints";
-import {
-	BANNER_HEIGHT,
-	BANNER_HEIGHT_HOME,
-	BANNER_HEIGHT_EXTEND,
-	MAIN_PANEL_OVERLAPS_BANNER_HEIGHT
-} from "../constants/constants";
 import { siteConfig } from '../config';
 import { widgetConfigs } from "../config";
 import { initParticle } from "../utils/particle-manager";
@@ -681,16 +567,6 @@ const setup = () => {
 		// Remove the delay for the first time page load
 		document.documentElement.style.setProperty('--content-delay', '0ms')
 
-		// 简化navbar处理逻辑
-		if (bannerEnabled) {
-			const navbar = document.getElementById('navbar-wrapper')
-			if (navbar && document.body.classList.contains('lg:is-home')) {
-				const threshold = window.innerHeight * (BANNER_HEIGHT / 100) - 88
-				if (document.documentElement.scrollTop >= threshold) {
-					navbar.classList.add('navbar-hidden')
-				}
-			}
-		}
 	})
 	window.swup.hooks.on('content:replace', () => {
 		// 只处理新的katex元素的滚动条，使用原生CSS滚动条
@@ -876,38 +752,6 @@ function throttle(func: (...args: any[]) => void, limit: number) {
 
 function scrollFunction() {
 	const scrollTop = document.documentElement.scrollTop;
-	const bannerHeight = window.innerHeight * (BANNER_HEIGHT / 100);
-
-	// 批量处理DOM操作
-	requestAnimationFrame(() => {
-		if (backToTopBtn) {
-			if (scrollTop > bannerHeight) {
-				backToTopBtn.classList.remove('hide')
-			} else {
-				backToTopBtn.classList.add('hide')
-			}
-		}
-
-		if (bannerEnabled && toc) {
-			if (scrollTop > bannerHeight) {
-				toc.classList.remove('toc-hide')
-			} else {
-				toc.classList.add('toc-hide')
-			}
-		}
-
-		if (bannerEnabled && navbar) {
-			const isHome = document.body.classList.contains('lg:is-home') && window.innerWidth >= BREAKPOINT_LG;
-			const currentBannerHeight = isHome ? BANNER_HEIGHT_HOME : BANNER_HEIGHT;
-			const threshold = window.innerHeight * (currentBannerHeight / 100) - 88;
-
-			if (scrollTop >= threshold) {
-				navbar.classList.add('navbar-hidden')
-			} else {
-				navbar.classList.remove('navbar-hidden')
-			}
-		}
-	});
 }
 
 // 使用节流优化滚动性能
@@ -915,72 +759,9 @@ window.onscroll = throttle(scrollFunction, 16); // 约60fps
 
 window.onresize = () => {
 	// calculate the --banner-height-extend, which needs to be a multiple of 4 to avoid blurry text
-	let offset = Math.floor(window.innerHeight * (BANNER_HEIGHT_EXTEND / 100));
+	let offset = Math.floor(window.innerHeight);
 	offset = offset - offset % 4;
 	document.documentElement.style.setProperty('--banner-height-extend', `${offset}px`);
 }
 
-</script>
-
-<script>
-import PhotoSwipeLightbox from "photoswipe/lightbox"
-import "photoswipe/style.css"
-
-let lightbox: PhotoSwipeLightbox
-
-function createPhotoSwipe() {
-	lightbox = new PhotoSwipeLightbox({
-		gallery: ".custom-md img, #post-cover img, .moment-images img",
-		pswpModule: () => import("photoswipe"),
-		closeSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#ffffff"><path d="M480-424 284-228q-11 11-28 11t-28-11q-11-11-11-28t11-28l196-196-196-196q-11-11-11-28t11-28q11-11 28-11t28 11l196 196 196-196q11-11 11-28t-11-28q-11-11-28-11t-28 11L480-424Z"/></svg>',
-		zoomSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#ffffff"><path d="M340-540h-40q-17 0-28.5-11.5T260-580q0-17 11.5-28.5T300-620h40v-40q0-17 11.5-28.5T380-700q17 0 28.5 11.5T420-660v40h40q17 0 28.5 11.5T500-580q0 17-11.5 28.5T460-540h-40v40q0 17-11.5 28.5T380-460q-17 0-28.5-11.5T340-500v-40Zm0-80q75 0 127.5-52.5T560-580q0-75-52.5-127.5T380-760q-75 0-127.5 52.5T200-580q0 75 52.5 127.5T380-400Z"/></svg>',
-		padding: { top: 20, bottom: 20, left: 20, right: 20 },
-		wheelToZoom: true,
-		arrowPrev: false,
-		arrowNext: false,
-		imageClickAction: 'close',
-		tapAction: 'close',
-		doubleTapAction: 'zoom',
-	})
-
-	// Add filter BEFORE lightbox is initialized
-	lightbox.addFilter("domItemData", (itemData, element) => {
-		if (element instanceof HTMLImageElement) {
-			itemData.src = element.src
-
-			itemData.w = Number(element.naturalWidth || window.innerWidth)
-			itemData.h = Number(element.naturalHeight || window.innerHeight)
-
-			itemData.msrc = element.src
-		}
-
-		return itemData
-	})
-
-	// Initialize lightbox AFTER adding filters
-	lightbox.init()
-}
-
-const setup = () => {
-	if (!lightbox) {
-		createPhotoSwipe()
-	}
-	window.swup.hooks.on("page:view", () => {
-		createPhotoSwipe()
-	})
-
-	window.swup.hooks.on(
-		"content:replace",
-		() => {
-			lightbox?.destroy?.()
-		},
-		{ before: true },
-	)
-}
-
-if (window.swup) {
-	setup()
-} else {
-	document.addEventListener("swup:enable", setup)
-}
 </script>
