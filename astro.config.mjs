@@ -3,7 +3,7 @@ import vercel from "@astrojs/vercel";
 import cloudflarePages from "@astrojs/cloudflare";
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
-import tailwind from "@astrojs/tailwind";
+import tailwindcss from "@tailwindcss/vite";
 import swup from "@swup/astro";
 import expressiveCode from "astro-expressive-code";
 import { pluginCollapsibleSections } from "@expressive-code/plugin-collapsible-sections";
@@ -38,10 +38,10 @@ export default defineConfig({
 	base: "/",
 	trailingSlash: "always",
 	adapter: adapter,
+	vite: {
+    	plugins: [tailwindcss()],
+  },
 	integrations: [
-		tailwind({
-			nesting: true,
-		}),
 		swup({
 			theme: false,
 			animationClass: "transition-swup-", // see https://swup.js.org/options/#animationselector
