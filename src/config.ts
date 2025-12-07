@@ -103,10 +103,7 @@ export const navBarConfig: NavBarConfig = {
 			icon: "material-symbols:person",
 			children: [
 				LinkPreset.Projects,
-				LinkPreset.Skills,
 				LinkPreset.Timeline,
-				LinkPreset.Diary,
-				LinkPreset.Albums,
 			],
 		},
 		{
@@ -358,44 +355,6 @@ export const particleConfig: ParticleConfig = {
 	zIndex: 100, // 确保粒子在合适的层级显示
 };
 
-// 看板娘配置
-export const pioConfig: import("./types/config").PioConfig = {
-	// 启用看板娘
-	enable: false,
-	// 模型文件路径
-	models: ["/pio/models/pio/model.json"],
-	// 看板娘位置
-	position: "left",
-	// 看板娘宽度
-	width: 280,
-	// 看板娘高度
-	height: 250,
-	// 展现模式
-	mode: "draggable",
-	// 是否在移动设备上隐藏
-	hiddenOnMobile: true,
-	// 对话框配置
-	dialog: {
-		// 欢迎词
-		welcome: "Welcome!",
-		// 触摸提示
-		touch: [
-			"What are you doing?",
-			"Stop touching me!",
-			"Don't bully me like that!",
-			"(｡í _ ì｡)",
-		],
-		// 首页提示
-		home: "Click here to go back to homepage!",
-		// 换装提示
-		skin: ["Want to see my new outfit?", "The new outfit looks great~"],
-		// 关闭提示
-		close: "See you next time~",
-		// 关于链接
-		link: "https://nav.kungal.org",
-	},
-};
-
 /**
  *
  */
@@ -406,5 +365,4 @@ export const widgetConfigs = {
 	announcement: announcementConfig,
 	layout: sidebarLayoutConfig,
 	particle: particleConfig,
-	pio: pioConfig,
 } as const;

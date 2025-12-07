@@ -14,7 +14,6 @@ export const WIDGET_COMPONENT_MAP = {
 	categories: "../components/widget/Categories.astro",
 	tags: "../components/widget/Tags.astro",
 	toc: "../components/widget/TOC.astro",
-	pio: "../components/widget/Pio.astro", // 添加 Pio 组件映射
 	series: "../components/widget/Series.astro", // 添加 Series 组件映射
 	custom: null, // 自定义组件需要在配置中指定路径
 } as const;
@@ -257,25 +256,16 @@ export class WidgetManager {
 			this.enabledComponents = this.getEnabledComponents();
 		}
 	}
-
-	/**
-	 * 检查组件是否应该在侧边栏中渲染
-	 * @param componentType 组件类型
-	 */
-	isSidebarComponent(componentType: WidgetComponentType): boolean {
-		// Pio 组件是全局组件，不在侧边栏中渲染
-		return componentType !== "pio";
-	}
 }
 
 /**
- * 默认组件管理器实例
+ * Default Component Manager Instance
  */
 export const widgetManager = new WidgetManager();
 
 /**
- * 工具函数：根据组件类型获取组件配置
- * @param componentType 组件类型
+ * Utility function: Retrieve component configuration based on component type
+ * @param componentType Component type
  */
 export function getComponentConfig(
 	componentType: WidgetComponentType,

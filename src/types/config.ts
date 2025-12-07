@@ -117,10 +117,8 @@ export enum LinkPreset {
 	Home = 0,
 	Archive = 1,
 	Projects = 2,
-	Skills = 3,
 	Timeline = 4,
 	Diary = 5,
-	Albums = 6,
 	About = 8,
 	Friends = 9,
 }
@@ -154,7 +152,6 @@ export type WidgetComponentType =
 	| "categories"
 	| "tags"
 	| "toc"
-	| "pio"
 	| "custom";
 
 export type WidgetComponentConfig = {
@@ -363,46 +360,4 @@ export type ParticleConfig = {
 	};
 	// 粒子层级
 	zIndex: number;
-};
-
-// 看板娘配置
-export type PioConfig = {
-	// 启用看板娘
-	enable: boolean;
-	// 模型文件路径
-	models?: string[];
-	// 看板娘位置
-	position?: "left" | "right";
-	// 看板娘宽度
-	width?: number;
-	// 看板娘高度
-	height?: number;
-	// 展现模式
-	mode?: "static" | "fixed" | "draggable";
-	// 是否在移动设备上隐藏
-	hiddenOnMobile?: boolean;
-	// 对话框配置
-	dialog?: {
-		// 欢迎词
-		welcome?: string | string[];
-		// 触摸提示
-		touch?: string | string[];
-		// 首页提示
-		home?: string;
-		// 换装提示
-		skin?: [string, string]; // [切换前, 切换后]
-		// 关闭提示
-		close?: string;
-		// 关于链接
-		link?: string;
-		// 自定义属性
-		custom?: Array<{
-			// CSS选择器
-			selector: string;
-			// 类型
-			type: "read" | "link";
-			// 自定义文本
-			text?: string;
-		}>;
-	};
 };

@@ -6,14 +6,12 @@ export interface TimelineItem {
 	id: string;
 	title: string;
 	description: string;
-	type: "education" | "work" | "project" | "achievement";
+	type: "education" | "work" | "project" ;
 	startDate: string;
 	endDate?: string; // If empty, it means current
 	location?: string;
 	organization?: string;
 	position?: string;
-	skills?: string[];
-	achievements?: string[];
 	links?: {
 		name: string;
 		url: string;
@@ -39,8 +37,6 @@ export const getTimelineStats = () => {
 		education: timelineData.filter((item) => item.type === "education").length,
 		work: timelineData.filter((item) => item.type === "work").length,
 		project: timelineData.filter((item) => item.type === "project").length,
-		achievement: timelineData.filter((item) => item.type === "achievement")
-			.length,
 	};
 
 	return { total, byType };

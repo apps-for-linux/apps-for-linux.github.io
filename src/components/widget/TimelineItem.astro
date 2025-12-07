@@ -8,14 +8,12 @@ export interface Props {
 		id: string;
 		title: string;
 		description: string;
-		type: "education" | "work" | "project" | "achievement";
+		type: "education" | "work" | "project" ;
 		startDate: string;
 		endDate?: string;
 		location?: string;
 		organization?: string;
 		position?: string;
-		skills?: string[];
-		achievements?: string[];
 		links?: {
 			name: string;
 			url: string;
@@ -46,8 +44,6 @@ const getTypeIcon = (type: string) => {
 			return "material-symbols:work";
 		case "project":
 			return "material-symbols:code";
-		case "achievement":
-			return "material-symbols:emoji-events";
 		default:
 			return "material-symbols:event";
 	}
@@ -62,8 +58,6 @@ const getTypeColor = (type: string) => {
 			return "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400";
 		case "project":
 			return "bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-400";
-		case "achievement":
-			return "bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-400";
 		default:
 			return "bg-gray-100 text-gray-700 dark:bg-gray-900/30 dark:text-gray-400";
 	}
@@ -78,8 +72,6 @@ const getTypeText = (type: string) => {
 			return i18n(I18nKey.timelineWork);
 		case "project":
 			return i18n(I18nKey.timelineProject);
-		case "achievement":
-			return i18n(I18nKey.timelineAchievement);
 		default:
 			return type;
 	}
@@ -224,35 +216,6 @@ const itemColor = item.color || "#3B82F6";
           {item.description}
         </p>
         
-        <!-- 成就 -->
-        {item.achievements && item.achievements.length > 0 && (
-          <div class="mb-4">
-            <h4 class={`font-semibold text-black/80 dark:text-white/80 mb-2 ${sizeClasses.meta}`}>
-              {i18n(I18nKey.timelineAchievements)}
-            </h4>
-            <ul class="space-y-1">
-              {item.achievements.map((achievement) => (
-                <li class={`text-black/70 dark:text-white/70 flex items-start gap-2 ${sizeClasses.description}`}>
-                  <span class="text-green-500 mt-1">•</span>
-                  <span>{achievement}</span>
-                </li>
-              ))}
-            </ul>
-          </div>
-        )}
-        
-        <!-- 技能 -->
-        {item.skills && item.skills.length > 0 && (
-          <div class="mb-4">
-            <div class="flex flex-wrap gap-1">
-              {item.skills.map((skill) => (
-                <span class={`px-2 py-1 bg-gray-100 text-gray-700 dark:bg-gray-700 dark:text-gray-300 rounded ${sizeClasses.badge}`}>
-                  {skill}
-                </span>
-              ))}
-            </div>
-          </div>
-        )}
         
         <!-- 链接 -->
         {item.links && item.links.length > 0 && (
@@ -322,61 +285,4 @@ const itemColor = item.color || "#3B82F6";
       <p class={`text-black/60 dark:text-white/60 mb-4 ${sizeClasses.description}`}>
         {item.description}
       </p>
-      
-      <!-- 成就 -->
-      {item.achievements && item.achievements.length > 0 && (
-        <div class="mb-4">
-          <h4 class={`font-semibold text-black/80 dark:text-white/80 mb-2 ${sizeClasses.meta}`}>
-            {i18n(I18nKey.timelineAchievements)}
-          </h4>
-          <ul class="space-y-1">
-            {item.achievements.slice(0, 3).map((achievement) => (
-              <li class={`text-black/70 dark:text-white/70 flex items-start gap-2 ${sizeClasses.description}`}>
-                <span class="text-green-500 mt-1">•</span>
-                <span>{achievement}</span>
-              </li>
-            ))}
-            {item.achievements.length > 3 && (
-              <li class={`text-black/60 dark:text-white/60 ${sizeClasses.description}`}>
-                ... 还有 {item.achievements.length - 3} 项成就
-              </li>
-            )}
-          </ul>
-        </div>
-      )}
-      
-      <!-- 技能和链接 -->
-      <div class="flex items-center justify-between">
-        {item.skills && item.skills.length > 0 && (
-          <div class="flex flex-wrap gap-1">
-            {item.skills.slice(0, 3).map((skill) => (
-              <span class={`px-2 py-1 bg-gray-100 text-gray-700 dark:bg-gray-700 dark:text-gray-300 rounded ${sizeClasses.badge}`}>
-                {skill}
-              </span>
-            ))}
-            {item.skills.length > 3 && (
-              <span class={`px-2 py-1 bg-gray-100 text-gray-700 dark:bg-gray-900/30 dark:text-gray-400 rounded ${sizeClasses.badge}`}>
-                +{item.skills.length - 3}
-              </span>
-            )}
-          </div>
-        )}
-        
-        {item.links && item.links.length > 0 && (
-          <div class="flex gap-3">
-            {item.links.slice(0, 2).map((link) => (
-              <a 
-                href={link.url} 
-                target="_blank" 
-                rel="noopener noreferrer"
-                class={`inline-flex items-center px-3 py-1.5 rounded-md border border-[var(--primary)] text-[var(--primary)] bg-[color-mix(in_oklch,_var(--primary)_8%,_transparent)] hover:bg-[color-mix(in_oklch,_var(--primary)_14%,_transparent)] active:bg-[color-mix(in_oklch,_var(--primary)_20%,_transparent)] text-sm font-medium transition-colors ${sizeClasses.meta}`}
-              >
-                {getLinkIcon(link.type)} {link.name}
-              </a>
-            ))}
-          </div>
-        )}
-      </div>
-    </div>
-  </div>
 )}

@@ -40,8 +40,6 @@ const getTypeIcon = (type: string) => {
 			return "material-symbols:work";
 		case "project":
 			return "material-symbols:code";
-		case "achievement":
-			return "material-symbols:emoji-events";
 		default:
 			return "material-symbols:event";
 	}
@@ -164,8 +162,7 @@ const subtitle = i18n(I18nKey.timelineSubtitle);
                     <div class="w-20 text-sm text-black/70 dark:text-white/70">
                       {i18n(type === 'education' ? I18nKey.timelineEducation :
                             type === 'work' ? I18nKey.timelineWork :
-                            type === 'project' ? I18nKey.timelineProject :
-                            I18nKey.timelineAchievement)}
+                            type === 'project' ? I18nKey.timelineProjectt)}
                     </div>
                     <div class="flex-1 bg-gray-200 dark:bg-gray-700 rounded-full h-2">
                       <div 

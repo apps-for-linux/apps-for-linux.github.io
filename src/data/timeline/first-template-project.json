@@ -4,8 +4,6 @@
 	"type": "project",
 	"startDate": "2025-10-01",
 	"endDate": "",
-	"skills": ["Astro", "Svelte", "Tailwind CSS"],
-	"achievements": [],
 	"links": [
 		{
 			"name": "GitHub Repository",

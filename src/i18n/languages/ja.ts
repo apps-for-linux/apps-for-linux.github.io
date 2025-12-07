@@ -77,43 +77,12 @@ export const ja: Translation = {
 	[Key.projectsDemo]: "ライブデモ",
 	[Key.projectsSource]: "ソースコード",
 
-	// スキルページ
-	[Key.skills]: "スキル",
-	[Key.skillsSubtitle]: "私の技術スキルと専門知識",
-	[Key.skillsAI]: "AI開発",
-	[Key.skillsBackend]: "バックエンド開発",
-	[Key.skillsClient]: "クライアント開発",
-	[Key.skillsFrontend]: "フロントエンド開発",
-	[Key.skillsDatabase]: "データベース",
-	[Key.skillsEngines]: "エンジン",
-	[Key.skillsTools]: "開発ツール",
-	[Key.skillsOthers]: "その他のスキル",
-	[Key.skillLevel]: "熟練度",
-	[Key.skillLevelBeginner]: "初心者",
-	[Key.skillLevelIntermediate]: "中級者",
-	[Key.skillLevelAdvanced]: "上級者",
-	[Key.skillLevelExpert]: "エキスパート",
-	[Key.skillExperience]: "経験",
-	[Key.skillYears]: "年",
-	[Key.skillMonths]: "ヶ月",
-	[Key.skillsTotal]: "スキル合計",
-	[Key.skillsExpert]: "エキスパートレベル",
-	[Key.skillsAdvanced]: "上級者",
-	[Key.skillsIntermediate]: "中級者",
-	[Key.skillsBeginner]: "初心者",
-	[Key.skillsAdvancedTitle]: "専門スキル",
-	[Key.skillsProjects]: "関連プロジェクト",
-	[Key.skillsDistribution]: "スキル分布",
-	[Key.skillsByLevel]: "レベル別分布",
-	[Key.skillsByCategory]: "カテゴリ別分布",
-
 	// タイムラインページ
 	[Key.timeline]: "タイムライン",
 	[Key.timelineSubtitle]: "私の成長の旅と重要なマイルストーン",
 	[Key.timelineEducation]: "教育",
 	[Key.timelineWork]: "職歴",
 	[Key.timelineProject]: "プロジェクト経験",
-	[Key.timelineAchievement]: "実績",
 	[Key.timelinePresent]: "現在",
 	[Key.timelineLocation]: "場所",
 	[Key.timelineDescription]: "詳細説明",
@@ -124,7 +93,6 @@ export const ja: Translation = {
 	[Key.timelineExperience]: "職歴",
 	[Key.timelineCurrent]: "現在の状態",
 	[Key.timelineHistory]: "履歴",
-	[Key.timelineAchievements]: "実績",
 	[Key.timelineStatistics]: "統計",
 	[Key.timelineByType]: "タイプ別グループ化",
 	[Key.timelineWorkExperience]: "職歴",
@@ -144,16 +112,6 @@ export const ja: Translation = {
 	[Key.diaryMinutesAgo]: "分前",
 	[Key.diaryHoursAgo]: "時間前",
 	[Key.diaryDaysAgo]: "日前",
-
-	// アルバムページ
-	[Key.albums]: "アルバム",
-	[Key.albumsSubtitle]: "生活の美しい瞬間を記録する",
-	[Key.albumsEmpty]: "コンテンツなし",
-	[Key.albumsEmptyDesc]:
-		"アルバムがまだ作成されていません。美しい思い出を追加してください！",
-	[Key.albumsBackToList]: "アルバムに戻る",
-	[Key.albumsPhotoCount]: "写真",
-	[Key.albumsPhotosCount]: "写真",
 
 	// アニメページ
 	// 友達ページ
