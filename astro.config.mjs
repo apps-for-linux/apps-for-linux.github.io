@@ -31,7 +31,6 @@ export default defineConfig({
 	site: siteConfig.siteURL,
 	base: "/",
 	trailingSlash: "always",
-	adapter: adapter,
 	vite: {
     	plugins: [tailwindcss()],
   },
