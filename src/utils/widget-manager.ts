@@ -53,7 +53,9 @@ export class WidgetManager {
 	 * @param side 侧边栏位置：'left' | 'right'
 	 */
 	getEnabledComponentsBySide(side: "left" | "right"): WidgetComponentConfig[] {
-		return this.enabledComponents.filter((component) => component.side === side);
+		return this.enabledComponents.filter(
+			(component) => component.side === side,
+		);
 	}
 
 	/**
@@ -278,7 +280,9 @@ export const widgetManager = new WidgetManager();
 export function getComponentConfig(
 	componentType: WidgetComponentType,
 ): WidgetComponentConfig | undefined {
-	return widgetManager.getConfig().components.find((c) => c.type === componentType);
+	return widgetManager
+		.getConfig()
+		.components.find((c) => c.type === componentType);
 }
 
 /**
@@ -296,8 +300,8 @@ export function isComponentEnabled(
  * 工具函数：获取所有启用的组件类型
  */
 export function getEnabledComponentTypes(): WidgetComponentType[] {
-	const enabledComponents = widgetManager.getComponentsByPosition("top").concat(
-		widgetManager.getComponentsByPosition("sticky")
-	);
+	const enabledComponents = widgetManager
+		.getComponentsByPosition("top")
+		.concat(widgetManager.getComponentsByPosition("sticky"));
 	return enabledComponents.map((c) => c.type);
 }

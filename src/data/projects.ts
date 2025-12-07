@@ -1,6 +1,6 @@
 // Project data configuration file
 // Used to manage data for the project display page
-const projectModules = import.meta.glob('./projects/*.json', { eager: true });
+const projectModules = import.meta.glob("./projects/*.json", { eager: true });
 
 export interface Project {
 	id: string;
@@ -18,17 +18,19 @@ export interface Project {
 	tags?: string[];
 }
 
-export const projectsData: Project[] = Object.entries(projectModules).map(([path, mod]: [string, any]) => {
-  const id = path.split('/').pop()?.replace('.json', '') || '';
-  const data = mod.default as any;
-  const project: Project = {
-    id,
-    ...data,
-    demoUrl: data.demoUrl ?? data.liveDemo,
-    sourceUrl: data.sourceUrl ?? data.sourceCode,
-  };
-  return project;
-});
+export const projectsData: Project[] = Object.entries(projectModules).map(
+	([path, mod]: [string, any]) => {
+		const id = path.split("/").pop()?.replace(".json", "") || "";
+		const data = mod.default as any;
+		const project: Project = {
+			id,
+			...data,
+			demoUrl: data.demoUrl ?? data.liveDemo,
+			sourceUrl: data.sourceUrl ?? data.sourceCode,
+		};
+		return project;
+	},
+);
 
 // Get project statistics
 export const getProjectStats = () => {

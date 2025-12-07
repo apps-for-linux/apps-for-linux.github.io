@@ -2,7 +2,6 @@ import type { CollectionEntry } from "astro:content";
 import I18nKey from "@i18n/i18nKey";
 import { i18n } from "@i18n/translation";
 
-
 export function pathsEqual(path1: string, path2: string) {
 	const normalizedPath1 = path1.replace(/^\/|\/$/g, "").toLowerCase();
 	const normalizedPath2 = path2.replace(/^\/|\/$/g, "").toLowerCase();
@@ -31,7 +30,10 @@ export function getPostUrlByPermalink(permalink: string): string {
 }
 
 export function getPostUrl(post: CollectionEntry<"posts">): string;
-export function getPostUrl(post: { id: string; data: { permalink?: string } }): string;
+export function getPostUrl(post: {
+	id: string;
+	data: { permalink?: string };
+}): string;
 export function getPostUrl(post: any): string {
 	// 如果文章有自定义固定链接，优先使用固定链接
 	if (post.data.permalink) {

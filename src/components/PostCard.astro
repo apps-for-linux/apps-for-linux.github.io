@@ -9,7 +9,6 @@ import ImageWrapper from "./misc/ImageWrapper.astro";
 import PostMetadata from "./PostMeta.astro";
 import { render } from "astro:content";
 
-
 interface Props {
 	class?: string;
 	entry: CollectionEntry<"posts">;
@@ -49,7 +48,6 @@ const { remarkPluginFrontmatter } = await render(entry);
 
 // derive image base path from the real file path to preserve directory casing
 const imageBaseDir = getFileDirFromPath(entry.filePath || "");
-
 ---
 
 <div class:list={["card-base flex flex-col-reverse md:flex-col w-full rounded-[var(--radius-large)] overflow-hidden relative", className]} style={style}>

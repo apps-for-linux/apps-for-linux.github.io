@@ -1,13 +1,21 @@
 // Skill data configuration file
 // Used to manage data for the skill display page
-const skillModules = import.meta.glob('./skills/*.json', { eager: true });
+const skillModules = import.meta.glob("./skills/*.json", { eager: true });
 
 export interface Skill {
 	id: string;
 	name: string;
 	description: string;
 	icon: string; // Iconify icon name
-	category: "ai" | "backend" | "client" | "frontend" | "database" | "engines" | "tools" | "others";
+	category:
+		| "ai"
+		| "backend"
+		| "client"
+		| "frontend"
+		| "database"
+		| "engines"
+		| "tools"
+		| "others";
 	level: "beginner" | "intermediate" | "advanced" | "expert";
 	experience: {
 		years: number;
@@ -18,11 +26,13 @@ export interface Skill {
 	color?: string; // Skill card theme color
 }
 
-export const skillsData: Skill[] = Object.entries(skillModules).map(([path, mod]: [string, any]) => {
-  const id = path.split('/').pop()?.replace('.json', '') || '';
-  const data = mod.default;
-  return { id, ...data } as Skill;
-});
+export const skillsData: Skill[] = Object.entries(skillModules).map(
+	([path, mod]: [string, any]) => {
+		const id = path.split("/").pop()?.replace(".json", "") || "";
+		const data = mod.default;
+		return { id, ...data } as Skill;
+	},
+);
 
 // Get skill statistics
 export const getSkillStats = () => {
@@ -47,7 +57,6 @@ export const getSkillStats = () => {
 	return { total, byLevel, byCategory };
 };
 
-
 // Get skills by category
 export const getSkillsByCategory = (category?: string) => {
 	if (!category || category === "all") {
@@ -56,14 +65,12 @@ export const getSkillsByCategory = (category?: string) => {
 	return skillsData.filter((s) => s.category === category);
 };
 
-
 // Get advanced skills
 export const getAdvancedSkills = () => {
 	return skillsData.filter(
 		(s) => s.level === "advanced" || s.level === "expert",
 	);
 };
-
 
 // Calculate total years of experience
 export const getTotalExperience = () => {

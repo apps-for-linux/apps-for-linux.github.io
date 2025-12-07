@@ -12,7 +12,12 @@ import {
 } from "../i18n/language";
 
 // 重新导出以保持向后兼容
-export { SUPPORTED_LANGUAGES, type SupportedLanguage, langToTranslateMap, translateToLangMap };
+export {
+	SUPPORTED_LANGUAGES,
+	type SupportedLanguage,
+	langToTranslateMap,
+	translateToLangMap,
+};
 
 /**
  * 将配置文件的语言代码转换为翻译服务的语言代码
@@ -42,13 +47,13 @@ export function getLanguageDisplayName(langCode: string): string {
 	if (langCode in LANGUAGE_CONFIG) {
 		return LANGUAGE_CONFIG[langCode as SupportedLanguage].displayName;
 	}
-	
+
 	// 尝试作为翻译服务代码查找
 	const configLang = translateToLangMap[langCode];
 	if (configLang && configLang in LANGUAGE_CONFIG) {
 		return LANGUAGE_CONFIG[configLang as SupportedLanguage].displayName;
 	}
-	
+
 	// 如果都找不到，返回原始代码
 	return langCode;
 }
@@ -58,7 +63,9 @@ export function getLanguageDisplayName(langCode: string): string {
  * @param fallbackLang 备用语言，默认为 'en'
  * @returns 支持的语言代码
  */
-export function detectBrowserLanguage(fallbackLang: SupportedLanguage = "en"): SupportedLanguage {
+export function detectBrowserLanguage(
+	fallbackLang: SupportedLanguage = "en",
+): SupportedLanguage {
 	// 服务端渲染时返回备用语言
 	if (typeof window === "undefined" || typeof navigator === "undefined") {
 		return fallbackLang;
@@ -71,7 +78,7 @@ export function detectBrowserLanguage(fallbackLang: SupportedLanguage = "en"): S
 	for (const browserLang of browserLangs) {
 		// 提取主语言代码（例如：'zh-CN' -> 'zh', 'en-US' -> 'en'）
 		const langCode = browserLang.toLowerCase().split("-")[0];
-		
+
 		// 检查是否在支持的语言列表中
 		if (SUPPORTED_LANGUAGES.includes(langCode as SupportedLanguage)) {
 			return langCode as SupportedLanguage;
@@ -89,10 +96,13 @@ export function detectBrowserLanguage(fallbackLang: SupportedLanguage = "en"): S
  */
 export function getSiteLanguage(configLang?: string): SupportedLanguage {
 	// 如果配置了语言且在支持列表中，使用配置的语言
-	if (configLang && SUPPORTED_LANGUAGES.includes(configLang as SupportedLanguage)) {
+	if (
+		configLang &&
+		SUPPORTED_LANGUAGES.includes(configLang as SupportedLanguage)
+	) {
 		return configLang as SupportedLanguage;
 	}
-	
+
 	// 否则自动检测浏览器语言
 	return detectBrowserLanguage();
 }

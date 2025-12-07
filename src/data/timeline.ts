@@ -1,6 +1,6 @@
 // Timeline data configuration file
 // Used to manage data for the timeline page
-const timelineModules = import.meta.glob('./timeline/*.json', { eager: true });
+const timelineModules = import.meta.glob("./timeline/*.json", { eager: true });
 
 export interface TimelineItem {
 	id: string;
@@ -24,11 +24,13 @@ export interface TimelineItem {
 	featured?: boolean;
 }
 
-export const timelineData: TimelineItem[] = Object.entries(timelineModules).map(([path, mod]: [string, any]) => {
-  const id = path.split('/').pop()?.replace('.json', '') || '';
-  const data = mod.default;
-  return { id, ...data } as TimelineItem;
-});
+export const timelineData: TimelineItem[] = Object.entries(timelineModules).map(
+	([path, mod]: [string, any]) => {
+		const id = path.split("/").pop()?.replace(".json", "") || "";
+		const data = mod.default;
+		return { id, ...data } as TimelineItem;
+	},
+);
 
 // Get timeline statistics
 export const getTimelineStats = () => {
@@ -43,7 +45,6 @@ export const getTimelineStats = () => {
 
 	return { total, byType };
 };
-
 
 // Get timeline items by type
 export const getTimelineByType = (type?: string) => {
@@ -61,7 +62,6 @@ export const getTimelineByType = (type?: string) => {
 		);
 };
 
-
 // Get featured timeline items
 export const getFeaturedTimeline = () => {
 	return timelineData
@@ -72,12 +72,10 @@ export const getFeaturedTimeline = () => {
 		);
 };
 
-
 // Get current ongoing items
 export const getCurrentItems = () => {
 	return timelineData.filter((item) => !item.endDate);
 };
-
 
 // Calculate total work experience
 export const getTotalWorkExperience = () => {

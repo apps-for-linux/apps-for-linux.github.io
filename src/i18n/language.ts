@@ -133,7 +133,10 @@ export const translateToLangMap: Record<string, string> = Object.fromEntries(
  * 自动从 LANGUAGE_CONFIG 生成
  */
 export const langToLocaleMap: Record<string, string> = Object.fromEntries(
-	Object.entries(LANGUAGE_CONFIG).map(([lang, config]) => [lang, config.locale]),
+	Object.entries(LANGUAGE_CONFIG).map(([lang, config]) => [
+		lang,
+		config.locale,
+	]),
 );
 
 /**

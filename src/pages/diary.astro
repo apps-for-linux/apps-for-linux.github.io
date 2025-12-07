@@ -4,13 +4,11 @@ import I18nKey from "../i18n/i18nKey";
 import { i18n } from "../i18n/translation";
 import MainGridLayout from "../layouts/MainGridLayout.astro";
 
-
 // 示例即刻短文数据
 const moments = [
 	{
 		id: 1,
-		content:
-			"The Darkest Hour Is Just Before The Dawn",
+		content: "The Darkest Hour Is Just Before The Dawn",
 		date: "2020-02-02T00:00:00Z",
 		images: [],
 	},
@@ -18,13 +16,14 @@ const moments = [
 
 // 时间格式化函数
 function formatTime(dateString: string): string {
-    var TG = 8;
-    if (siteConfig.timeZone >= -12 && siteConfig.timeZone <= 12) TG = siteConfig.timeZone;
-    const timeGap = TG;
+	var TG = 8;
+	if (siteConfig.timeZone >= -12 && siteConfig.timeZone <= 12)
+		TG = siteConfig.timeZone;
+	const timeGap = TG;
 	const now = new Date();
 	const date = new Date(dateString);
 	const diffInMinutes = Math.floor(
-		(now.getTime() + timeGap*60*60*1000 - date.getTime()) / (1000 * 60),
+		(now.getTime() + timeGap * 60 * 60 * 1000 - date.getTime()) / (1000 * 60),
 	);
 	if (diffInMinutes < 60) {
 		return `${diffInMinutes}${i18n(I18nKey.diaryMinutesAgo)}`;

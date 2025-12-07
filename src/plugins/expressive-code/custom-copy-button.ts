@@ -1,7 +1,6 @@
 import { definePlugin } from "@expressive-code/core";
 import type { Element } from "hast";
 
-
 export function pluginCustomCopyButton() {
 	return definePlugin({
 		name: "Custom Copy Button",
@@ -71,7 +70,8 @@ export function pluginCustomCopyButton() {
 				}
 			}
 		`,
-		jsModules: [`
+		jsModules: [
+			`
 			// Copy button functionality
 			document.addEventListener('DOMContentLoaded', function() {
 				function initializeCopyButtons() {
@@ -151,7 +151,8 @@ export function pluginCustomCopyButton() {
 					subtree: true
 				});
 			});
-		`],
+		`,
+		],
 		hooks: {
 			postprocessRenderedBlock: (context) => {
 				function traverse(node: Element) {

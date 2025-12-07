@@ -43,7 +43,8 @@ export function pluginLanguageBadge() {
         }
       }
     `,
-		jsModules: [`
+		jsModules: [
+			`
 			// Language badge touch functionality
 			document.addEventListener('DOMContentLoaded', function() {
 				function initializeLanguageBadges() {
@@ -91,6 +92,7 @@ export function pluginLanguageBadge() {
 					subtree: true
 				});
 			});
-		`],
+		`,
+		],
 	});
 }

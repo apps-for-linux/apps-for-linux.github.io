@@ -27,7 +27,10 @@ function togglePanel() {
 async function changeLanguage(languageCode: string) {
 	try {
 		// 如果翻译脚本未加载，先加载
-		if (!window.translateScriptLoaded && typeof window.loadTranslateScript === "function") {
+		if (
+			!window.translateScriptLoaded &&
+			typeof window.loadTranslateScript === "function"
+		) {
 			await window.loadTranslateScript();
 		}
 

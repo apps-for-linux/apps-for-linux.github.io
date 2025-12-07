@@ -91,13 +91,13 @@ class Particle {
 			this.y = window.innerHeight + Math.random() * 100; // 从屏幕底部开始
 			this.s = getRandom("s", this.config);
 			this.r = getRandom("r", this.config);
-			this.a = getRandom('a', this.config);
+			this.a = getRandom("a", this.config);
 		} else {
 			this.x = window.innerWidth;
 			this.y = getRandom("y", this.config);
 			this.s = getRandom("s", this.config);
 			this.r = getRandom("r", this.config);
-			this.a = getRandom('a', this.config);
+			this.a = getRandom("a", this.config);
 		}
 	}
 }
@@ -155,16 +155,24 @@ function getRandom(option: string, config: ParticleConfig): any {
 			ret = Math.random() * 6;
 			break;
 		case "a":
-			ret = config.opacity.min + Math.random() * (config.opacity.max - config.opacity.min);
+			ret =
+				config.opacity.min +
+				Math.random() * (config.opacity.max - config.opacity.min);
 			break;
 		case "fnx":
-			random = config.speed.horizontal.min + Math.random() * (config.speed.horizontal.max - config.speed.horizontal.min); // x方向保持较小的随机运动
+			random =
+				config.speed.horizontal.min +
+				Math.random() *
+					(config.speed.horizontal.max - config.speed.horizontal.min); // x方向保持较小的随机运动
 			ret = function (x: number, y: number) {
 				return x + random;
 			};
 			break;
 		case "fny":
-			random = -(config.speed.vertical.min + Math.random() * (config.speed.vertical.max - config.speed.vertical.min)); // y方向随机向上运动
+			random = -(
+				config.speed.vertical.min +
+				Math.random() * (config.speed.vertical.max - config.speed.vertical.min)
+			); // y方向随机向上运动
 			ret = function (x: number, y: number) {
 				return y + random;
 			};

@@ -6,37 +6,37 @@ import { i18n } from "../i18n/translation";
 import { formatDateToYYYYMMDD } from "../utils/date-utils";
 import { getCategoryUrl, getTagUrl } from "../utils/url-utils";
 
-import { umamiConfig } from '../config';
-
+import { umamiConfig } from "../config";
 
 // 解析 umami
 const umamiEnabled = umamiConfig.enabled || false;
-const umamiWebsiteId = umamiConfig.scripts.match(/data-website-id="([^"]+)"/)?.[1] || "";
+const umamiWebsiteId =
+	umamiConfig.scripts.match(/data-website-id="([^"]+)"/)?.[1] || "";
 const umamiApiKey = umamiConfig.apiKey || "";
 const umamiBaseUrl = umamiConfig.baseUrl || "";
 
 export interface Props {
-  published: Date;
-  updated?: Date;
-  category?: string | null;
-  tags?: string[];
-  hideUpdateDate?: boolean;
-  hideTagsForMobile?: boolean;
-  isHome?: boolean;
-  className?: string;
-  slug?: string;
+	published: Date;
+	updated?: Date;
+	category?: string | null;
+	tags?: string[];
+	hideUpdateDate?: boolean;
+	hideTagsForMobile?: boolean;
+	isHome?: boolean;
+	className?: string;
+	slug?: string;
 }
 
 const {
-  published,
-  updated,
-  category,
-  tags,
-  hideUpdateDate,
-  hideTagsForMobile,
-  isHome,
-  className = "",
-  slug
+	published,
+	updated,
+	category,
+	tags,
+	hideUpdateDate,
+	hideTagsForMobile,
+	isHome,
+	className = "",
+	slug,
 } = Astro.props;
 ---
 

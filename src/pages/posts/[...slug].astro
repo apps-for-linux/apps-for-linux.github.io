@@ -8,7 +8,11 @@ import I18nKey from "@i18n/i18nKey";
 import { i18n } from "@i18n/translation";
 import MainGridLayout from "@layouts/MainGridLayout.astro";
 import { getSortedPosts } from "@utils/content-utils";
-import { getFileDirFromPath, getPostUrlBySlug, removeFileExtension} from "@utils/url-utils";
+import {
+	getFileDirFromPath,
+	getPostUrlBySlug,
+	removeFileExtension,
+} from "@utils/url-utils";
 import { Icon } from "astro-icon/components";
 import bcryptjs from "bcryptjs";
 import CryptoJS from "crypto-js";
@@ -19,7 +23,6 @@ import ImageWrapper from "../../components/misc/ImageWrapper.astro";
 import PostMetadata from "../../components/PostMeta.astro";
 import { profileConfig, siteConfig } from "../../config";
 import { formatDateToYYYYMMDD } from "../../utils/date-utils";
-
 
 export async function getStaticPaths() {
 	const blogEntries = await getSortedPosts();
@@ -55,7 +58,6 @@ export async function getStaticPaths() {
 
 	return paths;
 }
-
 
 const { entry } = Astro.props;
 const { Content, headings } = await render(entry);

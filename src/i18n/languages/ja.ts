@@ -1,7 +1,6 @@
 import Key from "../i18nKey";
 import type { Translation } from "../translation";
 
-
 export const ja: Translation = {
 	[Key.home]: "ホーム",
 	[Key.archive]: "アーカイブ",
@@ -49,7 +48,8 @@ export const ja: Translation = {
 	// 404ページ
 	[Key.notFound]: "404",
 	[Key.notFoundTitle]: "ページが見つかりません",
-	[Key.notFoundDescription]: "申し訳ありませんが、アクセスしたページは存在しないか、移動されています。",
+	[Key.notFoundDescription]:
+		"申し訳ありませんが、アクセスしたページは存在しないか、移動されています。",
 	[Key.backToHome]: "ホームに戻る",
 
 	// プロジェクトページ
@@ -149,7 +149,8 @@ export const ja: Translation = {
 	[Key.albums]: "アルバム",
 	[Key.albumsSubtitle]: "生活の美しい瞬間を記録する",
 	[Key.albumsEmpty]: "コンテンツなし",
-	[Key.albumsEmptyDesc]: "アルバムがまだ作成されていません。美しい思い出を追加してください！",
+	[Key.albumsEmptyDesc]:
+		"アルバムがまだ作成されていません。美しい思い出を追加してください！",
 	[Key.albumsBackToList]: "アルバムに戻る",
 	[Key.albumsPhotoCount]: "写真",
 	[Key.albumsPhotosCount]: "写真",
@@ -167,12 +168,15 @@ export const ja: Translation = {
 	[Key.rssCopyLink]: "リンクをコピー",
 	[Key.rssLatestPosts]: "最新の投稿",
 	[Key.rssWhatIsRSS]: "RSSとは？",
-	[Key.rssWhatIsRSSDescription]: "RSS（Really Simple Syndication）は、頻繁に更新されるコンテンツを公開するための標準形式です。RSSを使用すると：",
-	[Key.rssBenefit1]: "手動で訪問することなく、最新のウェブサイトコンテンツを及时に取得",
+	[Key.rssWhatIsRSSDescription]:
+		"RSS（Really Simple Syndication）は、頻繁に更新されるコンテンツを公開するための標準形式です。RSSを使用すると：",
+	[Key.rssBenefit1]:
+		"手動で訪問することなく、最新のウェブサイトコンテンツを及时に取得",
 	[Key.rssBenefit2]: "1か所で複数のウェブサイトの購読を管理",
 	[Key.rssBenefit3]: "重要な更新や記事を見逃すことを回避",
 	[Key.rssBenefit4]: "広告なしのクリーンな読書体験を楽しむ",
-	[Key.rssHowToUse]: "Feedly、Inoreaderまたは他のRSSリーダーを使用してこのサイトを購読することを推奨します。",
+	[Key.rssHowToUse]:
+		"Feedly、Inoreaderまたは他のRSSリーダーを使用してこのサイトを購読することを推奨します。",
 	[Key.rssCopied]: "RSSリンクがクリップボードにコピーされました！",
 	[Key.rssCopyFailed]: "コピーに失敗しました。手動でリンクをコピーしてください",
 
@@ -185,27 +189,34 @@ export const ja: Translation = {
 	[Key.atomCopyLink]: "リンクをコピー",
 	[Key.atomLatestPosts]: "最新の投稿",
 	[Key.atomWhatIsAtom]: "Atomとは？",
-	[Key.atomWhatIsAtomDescription]: "Atom連合フォーマット（Atom Syndication Format）は、フィードとそのアイテムを記述するためのXMLベースの標準です。Atomを使用すると：",
-	[Key.atomBenefit1]: "手動で訪問することなく、最新のウェブサイトコンテンツを及时に取得",
+	[Key.atomWhatIsAtomDescription]:
+		"Atom連合フォーマット（Atom Syndication Format）は、フィードとそのアイテムを記述するためのXMLベースの標準です。Atomを使用すると：",
+	[Key.atomBenefit1]:
+		"手動で訪問することなく、最新のウェブサイトコンテンツを及时に取得",
 	[Key.atomBenefit2]: "1か所で複数のウェブサイトの購読を管理",
 	[Key.atomBenefit3]: "重要な更新や記事を見逃すことを回避",
 	[Key.atomBenefit4]: "広告なしのクリーンな読書体験を楽しむ",
-	[Key.atomHowToUse]: "Feedly、Inoreaderまたは他のAtomリーダーを使用してこのサイトを購読することを推奨します。",
+	[Key.atomHowToUse]:
+		"Feedly、Inoreaderまたは他のAtomリーダーを使用してこのサイトを購読することを推奨します。",
 	[Key.atomCopied]: "Atomリンクがクリップボードにコピーされました！",
-	[Key.atomCopyFailed]: "コピーに失敗しました。手動でリンクをコピーしてください",
+	[Key.atomCopyFailed]:
+		"コピーに失敗しました。手動でリンクをコピーしてください",
 
 	// パスワード保護
 	[Key.passwordProtected]: "パスワード保護",
 	[Key.passwordProtectedTitle]: "このコンテンツはパスワードで保護されています",
-	[Key.passwordProtectedDescription]: "保護されたコンテンツを表示するにはパスワードを入力してください",
+	[Key.passwordProtectedDescription]:
+		"保護されたコンテンツを表示するにはパスワードを入力してください",
 	[Key.passwordPlaceholder]: "パスワードを入力",
 	[Key.passwordUnlock]: "ロック解除",
 	[Key.passwordUnlocking]: "ロック解除中...",
 	[Key.passwordIncorrect]: "パスワードが間違っています。再試行してください",
-	[Key.passwordDecryptError]: "復号化に失敗しました。パスワードが正しいか確認してください",
+	[Key.passwordDecryptError]:
+		"復号化に失敗しました。パスワードが正しいか確認してください",
 	[Key.passwordRequired]: "パスワードを入力してください",
 	[Key.passwordVerifying]: "検証中...",
-	[Key.passwordDecryptFailed]: "復号化に失敗しました。パスワードを確認してください",
+	[Key.passwordDecryptFailed]:
+		"復号化に失敗しました。パスワードを確認してください",
 	[Key.passwordDecryptRetry]: "復号化に失敗しました。再試行してください",
 	[Key.passwordUnlockButton]: "ロック解除",
 	[Key.copyFailed]: "コピーに失敗しました：",
@@ -222,5 +233,4 @@ export const ja: Translation = {
 	[Key.hour]: "時間",
 	[Key.minute]: "分",
 	[Key.second]: "秒",
-
 };
