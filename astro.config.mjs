@@ -1,5 +1,4 @@
 import { defineConfig } from "astro/config";
-import decapCmsOauth from "astro-decap-cms-oauth";
 import vercel from "@astrojs/vercel";
 import cloudflarePages from "@astrojs/cloudflare";
 import sitemap from "@astrojs/sitemap";
@@ -40,10 +39,6 @@ export default defineConfig({
 	trailingSlash: "always",
 	adapter: adapter,
 	integrations: [
-		decapCmsOauth({
-			decapCMSVersion: "3.3.3",
-			oauthDisabled: true, // Disable it to use oauth, requires .env configuration
-		}),
 		tailwind({
 			nesting: true,
 		}),
