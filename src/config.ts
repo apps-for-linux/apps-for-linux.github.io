@@ -21,15 +21,15 @@ const SITE_LANG = detectBrowserLanguage("en"); // 服务端渲染时默认为 'e
 //const SITE_LANG = "zh"; // 强制使用的语言代码，'zh', 'en', 'ja' 等
 
 // 设置网站时区
-const SITE_TIMEZONE = 8; // from -12 to 12 default in UTC+8
+const SITE_TIMEZONE = 3; // from -12 to 12 default in UTC+3
 
 
 // 站点配置
 export const siteConfig: SiteConfig = {
     // 站点 URL（以斜杠结尾）
-    siteURL: "https://twilight.spr-aachen.com/", // 请替换为你的站点 URL 并以斜杠结尾
+    siteURL: "https://apps-for-linux.github.io/", // 请替换为你的站点 URL 并以斜杠结尾
     // 站点标题
-    title: "Twilight",
+    title: "Apps For Linux",
     // 站点副标题
     subtitle: "Blog Template",
     // 语言配置
@@ -54,18 +54,6 @@ export const siteConfig: SiteConfig = {
     // 时区配置
     timeZone: SITE_TIMEZONE,
     // 字体配置
-    font: {
-        // zenMaruGothic 字体 (适合日语和英语，对中文适配一般)
-        zenMaruGothic: {
-            // 作为全局字体
-            enable: true,
-        },
-        // Hanalei 字体 (适合中文)
-        hanalei: {
-            // 作为全局字体
-            enable: false,
-        },
-    },
     // 主题色配置
     themeColor: {
         // 主题色的默认色相 (范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345)
@@ -76,57 +64,6 @@ export const siteConfig: SiteConfig = {
     // 默认主题 ("system" 跟随系统 | "light" 浅色 | "dark" 深色)
     defaultTheme: "system",
     // 壁纸配置
-    wallpaper: {
-        // 模式 ("banner" 横幅 | "fullscreen" 全屏 | "none" 纯色)
-        mode: "none",
-        },
-            },
-            // 横幅图片来源文本
-            credit: {
-                // 显示横幅图片来源文本
-                enable: false,
-                // 要显示的来源文本
-                text: "Describe",
-                // (可选) 原始艺术品或艺术家页面的 URL 链接
-                url: "",
-            },
-            // 导航栏配置
-            navbar: {
-                // 导航栏透明模式 ("semi" 半透明加圆角 | "full" 完全透明 | "semifull" 动态透明)
-                transparentMode: "semifull",
-            },
-            // 水波纹效果配置
-            waves: {
-                // 启用水波纹效果
-                enable: true,
-                // 启用性能模式 (简化波浪效果以提升性能)
-                performanceMode: true,
-            },
-        },
-        // Fullscreen 模式专属配置
-        fullscreen: {
-            // 层级
-            zIndex: -1, // 确保壁纸在背景层
-            // 壁纸透明度，0-1之间
-            opacity: 0.9,
-            // 背景模糊程度 (像素值)
-            blur: 1,
-            // 导航栏透明模式
-            navbar: {
-                transparentMode: "semi", // 使用半透明模式而不是完全透明
-            },
-        },
-    },
-    // OpenGraph 配置
-    generateOgImages: false, // 注意开启图片生成后要渲染很长时间，不建议本地调试的时候开启
-    // favicon 配置
-    favicon: [
-    ],
-    // bangumi 配置
-    bangumi: {
-        // 用户 ID
-        userId: "your-bangumi-id", // 可以设置为 "sai" 测试
-    },
 };
 
 /**
@@ -290,17 +227,6 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 };
 
 
-// Umami统计配置
-export const umamiConfig = {
-    // 是否显示Umami统计
-    enabled: false,
-    // API密钥
-    apiKey: import.meta.env.UMAMI_API_KEY,
-    // UmamiCloudAPI地址
-    baseUrl: "https://api.umami.is",
-    // 要插入的Script
-    scripts: import.meta.env.UMAMI_TRACKING_CODE,
-} as const;
 
 
 // 资料配置
@@ -373,18 +299,6 @@ export const postConfig: PostConfig = {
         name: "CC BY-NC-SA 4.0",
         // 许可证链接
         url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-    },
-    // 评论配置
-    comment: {
-        // 启用评论功能
-        enable: false,
-        // Twikoo 评论系统配置
-        twikoo: {
-            // 环境 ID
-            envId: "https://twikoo.vercel.app",
-            // 语言
-            lang: "en",
-        },
     },
 };
 

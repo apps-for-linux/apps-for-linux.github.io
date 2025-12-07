@@ -1,6 +1,5 @@
 import { defineConfig } from "astro/config";
 import vercel from "@astrojs/vercel";
-import cloudflarePages from "@astrojs/cloudflare";
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import tailwindcss from "@tailwindcss/vite";
@@ -28,10 +27,6 @@ import { remarkExcerpt } from "./src/plugins/remark-excerpt.js";
 import { remarkMermaid } from "./src/plugins/remark-mermaid.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
-
-// https://astro.build/config
-// Choose adapter depending on deployment environment
-const adapter = process.env.CF_PAGES ? cloudflarePages() : vercel({ mode: "serverless" });
 
 export default defineConfig({
 	site: siteConfig.siteURL,
