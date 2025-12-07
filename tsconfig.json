@@ -1,0 +1,34 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "ESNext",
+		"moduleResolution": "Bundler",
+		"jsx": "react-jsx",
+		"jsxImportSource": "react",
+		"baseUrl": ".",
+		"strictNullChecks": true,
+		"allowJs": false,
+		"declaration": true,
+		"resolveJsonModule": true,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"types": ["astro/client"],
+		"plugins": [
+			{
+				"name": "@astrojs/ts-plugin"
+			}
+		],
+		"paths": {
+			"@components/*": ["src/components/*"],
+			"@assets/*": ["src/assets/*"],
+			"@constants/*": ["src/constants/*"],
+			"@utils/*": ["src/utils/*"],
+			"@i18n/*": ["src/i18n/*"],
+			"@layouts/*": ["src/layouts/*"],
+			"@/*": ["src/*"]
+		},
+		"noEmit": true,
+		"allowImportingTsExtensions": true,
+	},
+	"include": ["src/**/*"]
+}
