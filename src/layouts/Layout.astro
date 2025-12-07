@@ -19,19 +19,17 @@ import { pathsEqual, url } from "../utils/url-utils";
 
 import "katex/dist/katex.css";
 import "../styles/navbar.css";
-import "../styles/banner.css";
 
 
 interface Props {
 	title?: string;
-	banner?: string;
 	description?: string;
 	lang?: string;
 	setOGTypeArticle?: boolean;
 	postSlug?: string;
 }
 
-let { title, banner, description, lang, setOGTypeArticle, postSlug } =
+let { title, description, lang, setOGTypeArticle, postSlug } =
 	Astro.props;
 
 // apply a class to the body element to decide the height of the banner, only used for initial page load
@@ -153,11 +151,6 @@ const siteLang = lang.replace("_", "-");
 			// Apply the hue to the document
 			document.documentElement.style.setProperty('--hue', hue);
 
-			// calculate the --banner-height-extend, which needs to be a multiple of 4 to avoid blurry text
-			let offset = Math.floor(window.innerHeight * (BANNER_HEIGHT_EXTEND / 100));
-			offset = offset - offset % 4;
-			document.documentElement.style.setProperty('--banner-height-extend', `${offset}px`);
-
 			// Initialize wallpaper mode using the proper initialization function
 			setTimeout(() => {
 				// Import and call the proper wallpaper initialization
@@ -166,13 +159,6 @@ const siteLang = lang.replace("_", "-");
 				});
 			}, 100);
 
-			// Banner carousel initialization function
-			window.initBannerCarousel = function() {
-				const carousel = document.getElementById('banner-carousel');
-				const carouselConfigData = carousel?.getAttribute('data-carousel-config');
-				const carouselConfig = carouselConfigData ? JSON.parse(carouselConfigData) : {};
-
-				const carouselItems = document.querySelectorAll('.carousel-item');
 
 				// 根据屏幕尺寸过滤有效的轮播项
 				const isMobile = window.innerWidth < BREAKPOINT_LG;
@@ -625,15 +611,7 @@ const setup = () => {
 			bodyElement!.classList.remove('lg:is-home');
 		}
 
-		// Control banner text visibility based on page
-		const bannerTextOverlay = document.querySelector('.banner-text-overlay')
-		if (bannerTextOverlay) {
-			if (isHomePage) {
-				bannerTextOverlay.classList.remove('hidden')
-			} else {
-				bannerTextOverlay.classList.add('hidden')
-			}
-		}
+
 
 		// Control navbar transparency based on page
 		const navbar = document.getElementById('navbar')

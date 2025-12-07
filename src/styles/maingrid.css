@@ -112,36 +112,3 @@
         min-height: calc(100vh - 70vh) !important;
     }
 }
-
-/* 当banner被禁用时的布局样式 */
-.no-banner-layout {
-    top: 5.5rem !important;
-    min-height: calc(100vh - 5.5rem) !important;
-}
-
-/* 移动端当banner被禁用时的布局样式 */
-@media (max-width: 1023px) {
-    .absolute.w-full.z-30.no-banner-layout {
-        top: 5.5rem !important;
-        min-height: calc(100vh - 5.5rem) !important;
-        transition: none !important; /* 移除过渡动画，立即应用位置 */
-    }
-}
-
-/* 平板设备当banner被禁用时的布局样式 */
-@media (min-width: 769px) and (max-width: 1023px) {
-    .absolute.w-full.z-30.no-banner-layout {
-        top: 5.5rem !important;
-        min-height: calc(100vh - 5.5rem) !important;
-        transition: none !important;
-    }
-}
-
-/* 小屏手机当banner被禁用时的布局样式 */
-@media (max-width: 512px) {
-    .absolute.w-full.z-30.no-banner-layout {
-        top: 5.5rem !important;
-        min-height: calc(100vh - 5.5rem) !important;
-        transition: none !important;
-    }
-}

@@ -68,11 +68,7 @@ html {
     .is-theme-transitioning #navbar[data-transparent-mode].scrolled > div,
     .is-theme-transitioning body.wallpaper-transparent #navbar > div,
     .is-theme-transitioning body.wallpaper-transparent #navbar[data-transparent-mode] > div,
-    .is-theme-transitioning body.wallpaper-transparent #navbar[data-transparent-mode].scrolled > div,
-    .is-theme-transitioning #banner-wrapper ~ * #navbar > div,
-    .is-theme-transitioning #banner-wrapper ~ * #navbar[data-transparent-mode] > div,
-    .is-theme-transitioning body:has(#banner-wrapper) #navbar > div,
-    .is-theme-transitioning body:has(#banner-wrapper) #navbar[data-transparent-mode] > div {
+    .is-theme-transitioning body.wallpaper-transparent #navbar[data-transparent-mode].scrolled > div {
         transition: none !important;
         backdrop-filter: none !important;
     }
