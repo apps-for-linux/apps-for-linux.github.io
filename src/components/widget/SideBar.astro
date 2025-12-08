@@ -1,9 +1,9 @@
 ---
 import type { MarkdownHeading } from "astro";
 import { widgetManager } from "../../utils/widget-manager";
-import Profile from "./Profile.astro";
 import Announcement from "./Announcement.astro";
 import Categories from "./Categories.astro";
+import Profile from "./Profile.astro";
 import Tags from "./Tags.astro";
 
 interface Props {
@@ -43,7 +43,7 @@ function renderComponent(component: any, index: number, components: any[]) {
 		props: {
 			class: componentClass,
 			style: componentStyle,
-			headings : undefined,
+			headings: undefined,
 			...component.customProps,
 		},
 	};

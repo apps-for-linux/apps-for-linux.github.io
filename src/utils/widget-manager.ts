@@ -1,9 +1,9 @@
+import { sidebarLayoutConfig } from "../config";
 import type {
+	SidebarLayoutConfig,
 	WidgetComponentConfig,
 	WidgetComponentType,
-	SidebarLayoutConfig,
 } from "../types/config";
-import { sidebarLayoutConfig } from "../config";
 
 /**
  * 组件映射表 - 将组件类型映射到实际的组件路径

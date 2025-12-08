@@ -5,9 +5,9 @@
 
 import {
 	LANGUAGE_CONFIG,
+	langToTranslateMap,
 	SUPPORTED_LANGUAGES,
 	type SupportedLanguage,
-	langToTranslateMap,
 	translateToLangMap,
 } from "../i18n/language";
 

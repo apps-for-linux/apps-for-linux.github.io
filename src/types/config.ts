@@ -1,7 +1,7 @@
 import type {
-	SYSTEM_MODE,
 	DARK_MODE,
 	LIGHT_MODE,
+	SYSTEM_MODE,
 	WALLPAPER_NONE,
 } from "../constants/constants";
 

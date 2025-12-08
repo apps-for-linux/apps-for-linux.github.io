@@ -164,28 +164,20 @@ function getRandom(option: string, config: ParticleConfig): any {
 				config.speed.horizontal.min +
 				Math.random() *
 					(config.speed.horizontal.max - config.speed.horizontal.min); // x方向保持较小的随机运动
-			ret = function (x: number, y: number) {
-				return x + random;
-			};
+			ret = (x: number, y: number) => x + random;
 			break;
 		case "fny":
 			random = -(
 				config.speed.vertical.min +
 				Math.random() * (config.speed.vertical.max - config.speed.vertical.min)
 			); // y方向随机向上运动
-			ret = function (x: number, y: number) {
-				return y + random;
-			};
+			ret = (x: number, y: number) => y + random;
 			break;
 		case "fnr":
-			ret = function (r: number) {
-				return r + config.speed.rotation * 0.1;
-			};
+			ret = (r: number) => r + config.speed.rotation * 0.1;
 			break;
 		case "fna":
-			ret = function (alpha: number) {
-				return alpha - config.speed.fadeSpeed * 0.01;
-			};
+			ret = (alpha: number) => alpha - config.speed.fadeSpeed * 0.01;
 			break;
 	}
 	return ret;

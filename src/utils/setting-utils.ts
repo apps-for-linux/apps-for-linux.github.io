@@ -1,11 +1,11 @@
-import { BREAKPOINT_LG } from "@/constants/breakpoints";
 import {
-	SYSTEM_MODE,
 	DARK_MODE,
 	LIGHT_MODE,
+	SYSTEM_MODE,
 	WALLPAPER_NONE,
 } from "@constants/constants";
 import { siteConfig } from "@/config";
+import { BREAKPOINT_LG } from "@/constants/breakpoints";
 import type { LIGHT_DARK_MODE, WALLPAPER_MODE } from "@/types/config";
 
 // 声明全局函数类型

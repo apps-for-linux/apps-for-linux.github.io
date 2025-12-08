@@ -10,8 +10,8 @@ interface Props {
 	basePath?: string;
 }
 
-import type { ImageMetadata } from "astro";
 import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
 import { url } from "../../utils/url-utils";
 
 const { id, src, alt, position = "center", basePath = "/" } = Astro.props;

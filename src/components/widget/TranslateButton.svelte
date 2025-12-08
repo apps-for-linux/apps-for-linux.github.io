@@ -2,8 +2,8 @@
 import Icon from "@iconify/svelte";
 import { onDestroy, onMount } from "svelte";
 import { siteConfig } from "@/config";
-import { getTranslateLanguageFromConfig } from "@/utils/language-utils";
 import { getSupportedTranslateLanguages } from "@/i18n/language";
+import { getTranslateLanguageFromConfig } from "@/utils/language-utils";
 
 let isOpen = false;
 let translatePanel: HTMLElement;

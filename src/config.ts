@@ -1,17 +1,17 @@
 import type {
-	SiteConfig,
-	NavBarConfig,
-	SidebarLayoutConfig,
-	ProfileConfig,
 	AnnouncementConfig,
-	PostConfig,
 	FooterConfig,
+	NavBarConfig,
 	ParticleConfig,
+	PostConfig,
+	ProfileConfig,
+	SidebarLayoutConfig,
+	SiteConfig,
 } from "./types/config";
 import { LinkPreset } from "./types/config";
 import {
-	getTranslateLanguageFromConfig,
 	detectBrowserLanguage,
+	getTranslateLanguageFromConfig,
 } from "./utils/language-utils";
 
 /**
