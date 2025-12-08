@@ -245,7 +245,6 @@ function disableAnimation() {
 		}, 1)
 	}
 }
-*/
 
 function setClickOutsideToClose(panel: string, ignores: string[]) {
 	document.addEventListener("click", event => {
@@ -424,8 +423,11 @@ const setup = () => {
 		document.documentElement.style.setProperty('--content-delay', '0ms')
 
 	})
+	window.swup.hooks.on('content:replace', () => {
+		// Only handle scrollbars for new Katex elements, using native CSS scrollbars.
+		initCustomScrollbar();
 
-		// 页面内容替换后重新执行翻译（仅在翻译已加载时）
+		// Re-execute the translation after the page content is replaced (only if the translation has already been loaded).
 		if (siteConfig.translate?.enable && window.translateInitialized && window.translate) {
 			// 使用requestAnimationFrame优化性能，减少延迟
 			requestAnimationFrame(() => {
@@ -502,6 +504,12 @@ const setup = () => {
 		if (heightExtend) {
 			heightExtend.classList.remove('hidden')
 		}
+
+		// Hide the TOC while scrolling back to top
+		let toc = document.getElementById('toc-wrapper');
+		if (toc) {
+			toc.classList.add('toc-not-ready')
+		}
 	});
 	window.swup.hooks.on('page:view', () => {
 		// hide the temp high element when the transition is done
@@ -531,19 +539,7 @@ const setup = () => {
 			}
 		}, 300);
 	});
-	window.swup.hooks.on('visit:end', (_visit: {to: {url: string}}) => {
-		setTimeout(() => {
-			const heightExtend = document.getElementById('page-height-extend')
-			if (heightExtend) {
-				heightExtend.classList.add('hidden')
-			}
 
-			// Just make the transition looks better
-			const toc = document.getElementById('toc-wrapper');
-
-		}, 200)
-	});
-}
 if (window?.swup?.hooks) {
 	setup()
 } else {
