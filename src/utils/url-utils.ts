@@ -43,6 +43,10 @@ export function getPostUrl(post: any): string {
 	return getPostUrlBySlug(post.id);
 }
 
+export function getTagUrl(tag: string): string {
+	if (!tag) return url("/archive/");
+	return url(`/archive/?tag=${encodeURIComponent(tag.trim())}`);
+}
 
 export function getCategoryUrl(category: string | null): string {
 	if (
