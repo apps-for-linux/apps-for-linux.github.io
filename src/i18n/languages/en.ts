@@ -3,7 +3,6 @@ import type { Translation } from "../translation";
 
 export const en: Translation = {
 	[Key.home]: "Home",
-	[Key.archive]: "Archive",
 	[Key.about]: "About",
 	[Key.search]: "Search",
 
@@ -18,7 +17,6 @@ export const en: Translation = {
 	[Key.announcement]: "Announcement",
 	[Key.announcementClose]: "Close",
 
-	[Key.comments]: "Comments",
 	[Key.untitled]: "Untitled",
 	[Key.uncategorized]: "Uncategorized",
 	[Key.noTags]: "No Tags",
@@ -36,9 +34,6 @@ export const en: Translation = {
 	[Key.darkMode]: "Dark",
 	[Key.systemMode]: "System",
 
-	[Key.wallpaperMode]: "Wallpaper Mode",
-	[Key.wallpaperNone]: "None",
-
 	[Key.more]: "More",
 
 	[Key.author]: "Author",
@@ -51,70 +46,6 @@ export const en: Translation = {
 	[Key.notFoundDescription]:
 		"Sorry, the page you visited does not exist or has been moved.",
 	[Key.backToHome]: "Back to Home",
-
-	// Projects Page
-	[Key.projects]: "Projects",
-	[Key.projectsSubtitle]: "My development project portfolio",
-	[Key.projectsAll]: "All",
-	[Key.projectsWeb]: "Web Applications",
-	[Key.projectsMobile]: "Mobile Applications",
-	[Key.projectsDesktop]: "Desktop Applications",
-	[Key.projectsOther]: "Other",
-	[Key.projectTechStack]: "Tech Stack",
-	[Key.projectLiveDemo]: "Live Demo",
-	[Key.projectSourceCode]: "Source Code",
-	[Key.projectDescription]: "Project Description",
-	[Key.projectStatus]: "Status",
-	[Key.projectStatusCompleted]: "Completed",
-	[Key.projectStatusInProgress]: "In Progress",
-	[Key.projectStatusPlanned]: "Planned",
-	[Key.projectsTotal]: "Total Projects",
-	[Key.projectsCompleted]: "Completed",
-	[Key.projectsInProgress]: "In Progress",
-	[Key.projectsTechStack]: "Tech Stack Statistics",
-	[Key.projectsFeatured]: "Featured Projects",
-	[Key.projectsPlanned]: "Planned",
-	[Key.projectsDemo]: "Live Demo",
-	[Key.projectsSource]: "Source Code",
-
-	// Timeline Page
-	[Key.timeline]: "Timeline",
-	[Key.timelineSubtitle]: "My growth journey and important milestones",
-	[Key.timelineEducation]: "Education",
-	[Key.timelineWork]: "Work Experience",
-	[Key.timelineProject]: "Project Experience",
-	[Key.timelinePresent]: "Present",
-	[Key.timelineLocation]: "Location",
-	[Key.timelineDescription]: "Detailed Description",
-	[Key.timelineMonths]: "months",
-	[Key.timelineYears]: "years",
-	[Key.timelineTotal]: "Total",
-	[Key.timelineProjects]: "Projects",
-	[Key.timelineExperience]: "Work Experience",
-	[Key.timelineCurrent]: "Current Status",
-	[Key.timelineHistory]: "History",
-	[Key.timelineStatistics]: "Statistics",
-	[Key.timelineByType]: "Grouped by Type",
-	[Key.timelineWorkExperience]: "Work Experience",
-	[Key.timelineTotalExperience]: "Total Work Experience",
-	[Key.timelineWorkPositions]: "Work Positions",
-	[Key.timelineCurrentRole]: "Current Status",
-	[Key.timelineEmployed]: "Employed",
-	[Key.timelineAvailable]: "Available",
-
-	// Diary Page
-	[Key.diary]: "Diary",
-	[Key.diarySubtitle]: "Share life anytime, anywhere",
-	[Key.diaryCount]: "diary entries",
-	[Key.diaryImage]: "Image",
-	[Key.diaryReply]: "Reply",
-	[Key.diaryTips]: "Only show the latest 30 diary entries",
-	[Key.diaryMinutesAgo]: "minutes ago",
-	[Key.diaryHoursAgo]: "hours ago",
-	[Key.diaryDaysAgo]: "days ago",
-
-	// Friends Page
-	[Key.friends]: "Friends",
 
 	// RSS Page
 	[Key.rss]: "RSS Feed",

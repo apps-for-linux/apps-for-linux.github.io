@@ -115,12 +115,7 @@ export type WALLPAPER_MODE = typeof WALLPAPER_NONE;
 
 export enum LinkPreset {
 	Home = 0,
-	Archive = 1,
-	Projects = 2,
-	Timeline = 4,
-	Diary = 5,
-	About = 8,
-	Friends = 9,
+	About = 1,
 }
 
 export type NavBarLink = {

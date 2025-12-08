@@ -1,6 +1,5 @@
 enum I18nKey {
 	home = "home",
-	archive = "archive",
 	about = "about",
 	search = "search",
 
@@ -14,8 +13,6 @@ enum I18nKey {
 	// 公告栏
 	announcement = "announcement",
 	announcementClose = "announcementClose",
-
-	comments = "comments",
 
 	untitled = "untitled",
 	uncategorized = "uncategorized",
@@ -34,9 +31,6 @@ enum I18nKey {
 	darkMode = "darkMode",
 	systemMode = "systemMode",
 
-	wallpaperMode = "wallpaperMode",
-	wallpaperNone = "wallpaperNone",
-
 	more = "more",
 
 	author = "author",
@@ -48,71 +42,6 @@ enum I18nKey {
 	notFoundTitle = "notFoundTitle",
 	notFoundDescription = "notFoundDescription",
 	backToHome = "backToHome",
-
-	// 项目展示页面
-	projects = "projects",
-	projectsSubtitle = "projectsSubtitle",
-	projectsAll = "projectsAll",
-	projectsWeb = "projectsWeb",
-	projectsMobile = "projectsMobile",
-	projectsDesktop = "projectsDesktop",
-	projectsOther = "projectsOther",
-	projectTechStack = "projectTechStack",
-	projectLiveDemo = "projectLiveDemo",
-	projectSourceCode = "projectSourceCode",
-	projectDescription = "projectDescription",
-	projectStatus = "projectStatus",
-	projectStatusCompleted = "projectStatusCompleted",
-	projectStatusInProgress = "projectStatusInProgress",
-	projectStatusPlanned = "projectStatusPlanned",
-	projectsTotal = "projectsTotal",
-	projectsCompleted = "projectsCompleted",
-	projectsInProgress = "projectsInProgress",
-	projectsTechStack = "projectsTechStack",
-	projectsFeatured = "projectsFeatured",
-	projectsPlanned = "projectsPlanned",
-	projectsDemo = "projectsDemo",
-	projectsSource = "projectsSource",
-
-	// 时间线页面
-	timeline = "timeline",
-	timelineSubtitle = "timelineSubtitle",
-	timelineEducation = "timelineEducation",
-	timelineWork = "timelineWork",
-	timelineProject = "timelineProject",
-	timelinePresent = "timelinePresent",
-	timelineLocation = "timelineLocation",
-	timelineDescription = "timelineDescription",
-	timelineMonths = "timelineMonths",
-	timelineYears = "timelineYears",
-	timelineTotal = "timelineTotal",
-	timelineProjects = "timelineProjects",
-	timelineExperience = "timelineExperience",
-	timelineCurrent = "timelineCurrent",
-	timelineHistory = "timelineHistory",
-	timelineStatistics = "timelineStatistics",
-	timelineByType = "timelineByType",
-	timelineWorkExperience = "timelineWorkExperience",
-	timelineTotalExperience = "timelineTotalExperience",
-	timelineWorkPositions = "timelineWorkPositions",
-	timelineCurrentRole = "timelineCurrentRole",
-	timelineEmployed = "timelineEmployed",
-	timelineAvailable = "timelineAvailable",
-
-	// 短文页面
-	diary = "diary",
-	diarySubtitle = "diarySubtitle",
-	diaryCount = "diaryCount",
-	diaryImage = "diaryImage",
-	diaryReply = "diaryReply",
-	diaryTips = "diaryTips",
-	diaryMinutesAgo = "diaryMinutesAgo",
-	diaryHoursAgo = "diaryHoursAgo",
-	diaryDaysAgo = "diaryDaysAgo",
-
-	// 友链页面
-	friends = "friends",
-
 	// RSS页面
 	rss = "rss",
 	rssDescription = "rssDescription",

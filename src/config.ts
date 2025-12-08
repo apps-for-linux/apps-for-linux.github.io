@@ -77,7 +77,6 @@ export const navBarConfig: NavBarConfig = {
 	// 链接配置 (支持多级菜单)
 	links: [
 		LinkPreset.Home,
-		LinkPreset.Archive,
 		{
 			name: "Links",
 			url: "/links/",
@@ -85,32 +84,16 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/Example",
+					url: "https://github.com/apps-for-linux/apps-for-linux.github.io",
 					external: true,
 					icon: "fa6-brands:github",
 				},
-				{
-					name: "Bilibili",
-					url: "https://space.bilibili.com/Example",
-					external: true,
-					icon: "fa6-brands:bilibili",
-				},
-			],
-		},
-		{
-			name: "My",
-			url: "/content/",
-			icon: "material-symbols:person",
-			children: [
-				LinkPreset.Projects,
-				LinkPreset.Timeline,
 			],
 		},
 		{
 			name: "About",
 			url: "/content/",
 			icon: "material-symbols:info",
-			children: [LinkPreset.About, LinkPreset.Friends],
 		},
 	],
 };

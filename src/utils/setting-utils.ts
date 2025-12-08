@@ -122,54 +122,6 @@ export function getStoredTheme(): LIGHT_DARK_MODE {
 	);
 }
 
-// 显示banner壁纸
-function showBannerMode() {
-	// 隐藏全屏壁纸（通过CSS类控制）
-	const fullscreenContainer = document.querySelector(
-		"[data-fullscreen-wallpaper]",
-	);
-	if (fullscreenContainer) {
-		fullscreenContainer.classList.add("hidden");
-	}
-
-	// 显示banner壁纸（通过CSS类控制）
-	const bannerWrapper = document.getElementById("banner-wrapper");
-	if (bannerWrapper) {
-		// 确保banner可见
-		bannerWrapper.classList.remove("hidden");
-		bannerWrapper.classList.remove("opacity-0");
-		bannerWrapper.classList.add("opacity-100");
-		bannerWrapper.classList.remove("mobile-hide-banner");
-		// 更新主内容位置
-		const mainContentWrapper = document.querySelector(
-			".absolute.w-full.z-30",
-		) as HTMLElement | null;
-		if (mainContentWrapper) {
-			mainContentWrapper.classList.remove("mobile-main-no-banner");
-			mainContentWrapper.style.top = ""; // 重置top样式
-		}
-		// 在移动端非首页时隐藏banner
-		const isMobile = window.innerWidth < BREAKPOINT_LG;
-		const navbar = document.getElementById("navbar");
-		const dataIsHome = navbar?.getAttribute("data-is-home");
-		const isHome =
-			dataIsHome != null
-				? dataIsHome === "true"
-				: location.pathname === "/" || location.pathname === "";
-		if (isMobile && !isHome) {
-			bannerWrapper.classList.add("mobile-hide-banner");
-			if (mainContentWrapper) {
-				mainContentWrapper.classList.add("mobile-main-no-banner");
-				mainContentWrapper.style.top = "5.5rem";
-			}
-		}
-	}
-	// 组件现在自动处理轮播初始化
-
-	// 调整主内容透明度
-	adjustMainContentTransparency(true);
-}
-
 // 隐藏所有壁纸
 function hideAllWallpapers() {
 	// 隐藏所有壁纸（通过CSS类控制）
@@ -219,14 +171,5 @@ function adjustMainContentTransparency(enable: boolean) {
 		mainContent.classList.add("wallpaper-transparent");
 	} else {
 		mainContent.classList.remove("wallpaper-transparent");
-	}
-}
-
-function reinitializeComponents(mode: WALLPAPER_MODE) {
-	// 重新初始化相关组件
-	switch (mode) {
-		case WALLPAPER_NONE:
-			// 无需特殊初始化
-			break;
 	}
 }
