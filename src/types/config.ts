@@ -146,7 +146,6 @@ export type WidgetComponentType =
 	| "announcement"
 	| "categories"
 	| "tags"
-	| "toc"
 	| "custom";
 
 export type WidgetComponentConfig = {
@@ -277,12 +276,6 @@ export type PostConfig = {
 		theme: string;
 	};
 	// 目录配置
-	toc: {
-		// 启用目录功能
-		enable: boolean;
-		// 目录深度
-		depth: 1 | 2 | 3;
-	};
 	// 许可证配置
 	license: {
 		// 启用许可证

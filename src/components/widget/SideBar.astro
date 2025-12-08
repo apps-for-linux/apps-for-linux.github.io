@@ -5,7 +5,6 @@ import Profile from "./Profile.astro";
 import Announcement from "./Announcement.astro";
 import Categories from "./Categories.astro";
 import Tags from "./Tags.astro";
-import TOC from "./TOC.astro";
 
 interface Props {
 	class?: string;
@@ -28,7 +27,6 @@ const componentMap = {
 	announcement: Announcement,
 	categories: Categories,
 	tags: Tags,
-	toc: TOC,
 };
 
 // 渲染组件的辅助函数
@@ -45,7 +43,7 @@ function renderComponent(component: any, index: number, components: any[]) {
 		props: {
 			class: componentClass,
 			style: componentStyle,
-			headings: component.type === "toc" ? headings : undefined,
+			headings : undefined,
 			...component.customProps,
 		},
 	};

@@ -13,7 +13,6 @@ export const WIDGET_COMPONENT_MAP = {
 	announcement: "../components/widget/Announcement.astro",
 	categories: "../components/widget/Categories.astro",
 	tags: "../components/widget/Tags.astro",
-	toc: "../components/widget/TOC.astro",
 	series: "../components/widget/Series.astro", // 添加 Series 组件映射
 	custom: null, // 自定义组件需要在配置中指定路径
 } as const;

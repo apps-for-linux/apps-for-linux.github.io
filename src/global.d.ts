@@ -44,7 +44,6 @@ declare global {
 			};
 			execute: () => void;
 		};
-		mobileTOCInit?: () => void;
 		loadTranslateScript?: () => Promise<void>;
 	}
 }

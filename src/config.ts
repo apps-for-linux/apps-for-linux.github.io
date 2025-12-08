@@ -258,12 +258,6 @@ export const postConfig: PostConfig = {
 		theme: "github-dark", // 深色背景
 	},
 	// 目录配置
-	toc: {
-		// 启用目录功能
-		enable: true,
-		// 目录深度 (1-6，1 表示只显示 h1 标题，2 表示显示 h1 和 h2 标题，依此类推)
-		depth: 3,
-	},
 	// 许可证配置
 	license: {
 		// 启用许可证
