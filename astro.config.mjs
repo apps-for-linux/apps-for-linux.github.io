@@ -30,10 +30,11 @@ export default defineConfig({
 	site: siteConfig.siteURL,
 	base: "/",
 	trailingSlash: "always",
-	vite: {
-    	plugins: [tailwindcss()],
-  },
-	integrations: [
+	integrations: [		
+		tailwind({
+			nesting: true,
+		}),
+
 		swup({
 			theme: false,
 			animationClass: "transition-swup-", // see https://swup.js.org/options/#animationselector
