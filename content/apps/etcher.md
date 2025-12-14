@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/deltachat/deltachat-desktop/refs/heads/main/README_ASSETS/desktop.png}" >}}
+https://raw.githubusercontent.com/deltachat/deltachat-desktop/refs/heads/main/README_ASSETS/desktop.png
 
 Flash OS images to SD cards & USB drives, safely and easily
 
@@ -21,6 +21,5 @@ Source code: <https://github.com/balena-io/etcher>
 
 Translate: <https://github.com/balena-io/etcher/tree/master/lib/gui/app/i18n>    
 
-{{< button href="https://github.com/balena-io/etcher/releases/download/v2.1.3/balenaEtcher-2.1.3-x64.AppImage" target="_blank">}}
+https://github.com/balena-io/etcher/releases/download/v2.1.3/balenaEtcher-2.1.3-x64.AppImage
 Download
-{{< /button >}}

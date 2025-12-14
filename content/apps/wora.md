@@ -11,7 +11,7 @@ license: "MIT"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/playwora/wora/refs/heads/main/renderer/public/github/Home%20Page.png}" >}}
+https://raw.githubusercontent.com/playwora/wora/refs/heads/main/renderer/public/github/Home%20Page.png
 
 A beautiful player for audiophiles.
 
@@ -22,6 +22,6 @@ Source code: <https://github.com/playwora/wora>
 Become a sponsor: <https://github.com/hiaaryan>  
 Report the bug: <https://github.com/playwora/wora/issues/new>  
 
-{{< button href="https://github.com/playwora/wora/releases/download/v0.4.0-beta2/Wora.v0.4.0-beta2.AppImage" target="_blank">}}
+https://github.com/playwora/wora/releases/download/v0.4.0-beta2/Wora.v0.4.0-beta2.AppImage
 Download
-{{< /button >}}
+

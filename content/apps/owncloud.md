@@ -20,6 +20,5 @@ Source code: <https://github.com/owncloud/client>
 Translate: <https://www.transifex.com/projects/p/owncloud>  
 Report the bug: <https://github.com/owncloud/client/issues/new>  
 
-{{< button href="https://download.owncloud.com/desktop/ownCloud/stable/5.3.2.15463/linux-appimage/ownCloud-5.3.2.15463-x86_64.AppImage" target="_blank">}}
+https://download.owncloud.com/desktop/ownCloud/stable/5.3.2.15463/linux-appimage/ownCloud-5.3.2.15463-x86_64.AppImage
 Download
-{{< /button >}}

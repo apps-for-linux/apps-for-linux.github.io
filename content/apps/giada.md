@@ -11,7 +11,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://giadamusic.com/images/giada-canvas.png}" >}}
+https://giadamusic.com/images/giada-canvas.png
 
 Open source, minimalistic and hardcore music production tool
 
@@ -22,6 +22,5 @@ Source code: <https://github.com/monocasual/giada>
 
 Report the bug: <https://github.com/monocasual/giada/issues/new>
 
-{{< button href="https://github.com/monocasual/giada/releases/download/1.2.0/Giada-1.2.0-x86_64.AppImage" target="_blank">}}
+https://github.com/monocasual/giada/releases/download/1.2.0/Giada-1.2.0-x86_64.AppImage
 Download
-{{< /button >}}

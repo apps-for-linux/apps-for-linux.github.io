@@ -11,7 +11,7 @@ license: "MIT"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/altair-graphql/altair/refs/heads/master/packages/altair-docs/public/assets/img/app-shot.png}" >}}
+https://raw.githubusercontent.com/altair-graphql/altair/refs/heads/master/packages/altair-docs/public/assets/img/app-shot.png
 
 A beautiful feature-rich GraphQL Client
 
@@ -24,10 +24,9 @@ Become a sponsor: <https://opencollective.com/altair>
 Translate: <https://crwd.in/altair-gql>  
 Report the bug: <https://github.com/altair-graphql/altair/issues/new>  
 
-{{< button href="https://github.com/altair-graphql/altair/releases/download/v8.4.1/altair_8.4.1_x86_64_linux.AppImage" target="_blank">}}
+https://github.com/altair-graphql/altair/releases/download/v8.4.1/altair_8.4.1_x86_64_linux.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/altair-graphql/altair/releases/download/v8.4.1/altair_8.4.1_arm64_linux.AppImage" target="_blank">}}
+
+https://github.com/altair-graphql/altair/releases/download/v8.4.1/altair_8.4.1_arm64_linux.AppImage
 Download arm64
-{{< /button >}}

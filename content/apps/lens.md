@@ -20,6 +20,5 @@ Source code: <https://github.com/lensapp/lens>
 
 Report the bug: <https://github.com/lensapp/lens/issues/new>  
 
-{{< button href="https://api.k8slens.dev/binaries/Lens-2025.1.161916-latest.x86_64.AppImage" target="_blank">}}
+https://api.k8slens.dev/binaries/Lens-2025.1.161916-latest.x86_64.AppImage
 Download
-{{< /button >}}

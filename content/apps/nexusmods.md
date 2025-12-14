@@ -18,6 +18,5 @@ Source code: <https://github.com/Nexus-Mods/NexusMods.App>
 
 Report the bug: <https://github.com/Nexus-Mods/NexusMods.App/issues/new>  
 
-{{< button href="https://github.com/Nexus-Mods/NexusMods.App/releases/download/v0.8.3/NexusMods.App.x86_64.AppImage" target="_blank">}}
+https://github.com/Nexus-Mods/NexusMods.App/releases/download/v0.8.3/NexusMods.App.x86_64.AppImage
 Download
-{{< /button >}}

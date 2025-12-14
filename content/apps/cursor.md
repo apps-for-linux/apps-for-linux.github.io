@@ -20,10 +20,9 @@ Web page: <https://www.cursor.com/>
 
 Report the bug: <https://github.com/getcursor/cursor/issues/new>  
 
-{{< button href="https://downloads.cursor.com/production/5b19bac7a947f54e4caa3eb7e4c5fbf832389853/linux/x64/Cursor-1.1.6-x86_64.AppImage" target="_blank">}}
+https://downloads.cursor.com/production/5b19bac7a947f54e4caa3eb7e4c5fbf832389853/linux/x64/Cursor-1.1.6-x86_64.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://downloads.cursor.com/production/5b19bac7a947f54e4caa3eb7e4c5fbf832389853/linux/arm64/Cursor-1.1.6-aarch64.AppImage" target="_blank">}}
+
+https://downloads.cursor.com/production/5b19bac7a947f54e4caa3eb7e4c5fbf832389853/linux/arm64/Cursor-1.1.6-aarch64.AppImage
 Download ARM64
-{{< /button >}}

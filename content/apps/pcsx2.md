@@ -24,6 +24,5 @@ Become a sponsor: <https://github.com/sponsors/PCSX2>
 Translate: <https://crowdin.com/project/pcsx2-emulator>  
 Report the bug: <https://github.com/PCSX2/pcsx2/issues/new>  
 
-{{< button href="https://github.com/PCSX2/pcsx2/releases/download/v2.3.370/pcsx2-v2.3.370-linux-appimage-x64-Qt.AppImage" target="_blank">}}
+https://github.com/PCSX2/pcsx2/releases/download/v2.3.370/pcsx2-v2.3.370-linux-appimage-x64-Qt.AppImage
 Download
-{{< /button >}}

@@ -12,7 +12,7 @@ License: MPL-2.0
 draft: false
 ---
 
-{{< carousel images="{https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp}" >}}
+https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp
 
 
 Performance-optimized and privacy-focused browser built atop Firefox

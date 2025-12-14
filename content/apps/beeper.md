@@ -19,6 +19,5 @@ License: EULA
 
 Web: <https://www.beeper.com/>
 
-{{< button href="https://beeper-desktop.download.beeper.com/builds/Beeper-4.0.779.AppImage" target="_blank">}}
+https://beeper-desktop.download.beeper.com/builds/Beeper-4.0.779.AppImage
 Download
-{{< /button >}}

@@ -22,6 +22,5 @@ Become a sponsor: <https://ko-fi.com/davidotek>
 Translate: <https://hosted.weblate.org/projects/protonup-qt>  
 Report the bug: <https://github.com/DavidoTek/ProtonUp-Qt/issues/new>  
 
-{{< button href="https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.12.0/ProtonUp-Qt-2.12.0-x86_64.AppImage" target="_blank">}}
+https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.12.0/ProtonUp-Qt-2.12.0-x86_64.AppImage
 Download
-{{< /button >}}

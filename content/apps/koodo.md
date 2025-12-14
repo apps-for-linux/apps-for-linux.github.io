@@ -11,7 +11,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-{{< carousel images="{https://dl.koodoreader.com/screenshots/1.png}" >}}
+https://dl.koodoreader.com/screenshots/1.png
 
 A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 

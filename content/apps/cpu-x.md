@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/wiki/TheTumultuousUnicornOfDarkness/CPU-X/gallery/screenshots/v5.0.1_CPU_light.png}" >}}
+https://raw.githubusercontent.com/wiki/TheTumultuousUnicornOfDarkness/CPU-X/gallery/screenshots/v5.0.1_CPU_light.png
 
 Free software that gathers information on CPU, motherboard and more
 
@@ -22,10 +22,9 @@ Source code: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X>
 Translate: <https://hosted.weblate.org/engage/cpu-x/?utm_source=widget>  
 Report the bug: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/issues/new>  
 
-{{< button href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/5.3.1/CPU-X-5.3.1-x86_64.AppImage" target="_blank">}}
+https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/5.3.1/CPU-X-5.3.1-x86_64.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/5.3.1/CPU-X-5.3.1-aarch64.AppImage" target="_blank">}}
+
+https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/5.3.1/CPU-X-5.3.1-aarch64.AppImage
 Download arm64
-{{< /button >}}

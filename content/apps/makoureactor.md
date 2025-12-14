@@ -19,6 +19,5 @@ Source code: <https://github.com/myst6re/makoureactor>
 
 Report the bug: <https://github.com/myst6re/makoureactor/issues/new>  
 
-{{< button href="https://github.com/myst6re/makoureactor/releases/download/continuous/makoureactor-continuous-gui-linux64.AppImage" target="_blank">}}
+https://github.com/myst6re/makoureactor/releases/download/continuous/makoureactor-continuous-gui-linux64.AppImage
 Download
-{{< /button >}}

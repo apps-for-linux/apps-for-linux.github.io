@@ -18,6 +18,5 @@ License: EULA
 
 Web page: <https://mango3d.io/resin-sla-msla-3d-printers>  
 
-{{< button href="https://mango-lychee.nyc3.cdn.digitaloceanspaces.com/LycheeSlicer-7.3.1.AppImage" target="_blank">}}
+https://mango-lychee.nyc3.cdn.digitaloceanspaces.com/LycheeSlicer-7.3.1.AppImage
 Download
-{{< /button >}}

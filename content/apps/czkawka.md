@@ -11,7 +11,7 @@ license: "MIT"
 draft: false
 ---
 
-{{< carousel images="{https://user-images.githubusercontent.com/41945903/147875238-7f82fa27-c6dd-47e7-87ed-e253fb2cbc3e.png}" >}}
+https://user-images.githubusercontent.com/41945903/147875238-7f82fa27-c6dd-47e7-87ed-e253fb2cbc3e.png
 
 Multi functional app to find duplicates, empty folders, similar images etc.
 
@@ -23,6 +23,5 @@ Become a sponsor: <https://github.com/sponsors/qarmin>
 Translate: <https://crowdin.com/project/czkawka>  
 Report the bug: <https://github.com/qarmin/czkawka/issues/new>  
 
-{{< button href="https://github.com/qarmin/czkawka/releases/download/9.0.0/linux_czkawka_gui.AppImage" target="_blank">}}
+https://github.com/qarmin/czkawka/releases/download/9.0.0/linux_czkawka_gui.AppImage
 Download
-{{< /button >}}

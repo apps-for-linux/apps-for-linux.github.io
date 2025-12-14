@@ -20,6 +20,5 @@ Source code: <https://github.com/Sandakan/Nora>
 Translate: <https://crowdin.com/project/nora>  
 Report the bug: <https://github.com/Sandakan/Nora/issues/new>  
 
-{{< button href="https://github.com/Sandakan/Nora/releases/download/v3.1.0-stable/Nora.v3.1.0-stable-linux-x86_64.AppImage" target="_blank">}}
+https://github.com/Sandakan/Nora/releases/download/v3.1.0-stable/Nora.v3.1.0-stable-linux-x86_64.AppImage
 Download
-{{< /button >}}

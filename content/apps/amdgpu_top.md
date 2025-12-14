@@ -12,7 +12,7 @@ License: MIT
 draft: false
 ---
 
-{{< carousel images="{https://github.com/Umio-Yasuno/amdgpu_top/assets/53935716/e3ff372e-86f9-4b82-b3c9-910b638a3c90}" >}}
+https://github.com/Umio-Yasuno/amdgpu_top/assets/53935716/e3ff372e-86f9-4b82-b3c9-910b638a3c90
 
 
 amdgpu_top is tool that display AMD GPU utilization
@@ -24,10 +24,9 @@ Source code: <https://github.com/Umio-Yasuno/amdgpu_top>
 Translate: <https://github.com/Umio-Yasuno/amdgpu_top?tab=readme-ov-file#translations>  
 Report the bug: <https://github.com/Umio-Yasuno/amdgpu_top/issues/new>  
 
-{{< button href="https://github.com/Umio-Yasuno/amdgpu_top/releases/download/v0.11.0/amdgpu_top-x86_64.AppImage" target="_blank">}}
+https://github.com/Umio-Yasuno/amdgpu_top/releases/download/v0.11.0/amdgpu_top-x86_64.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/Umio-Yasuno/amdgpu_top/releases/download/v0.11.0/amdgpu_top-aarch64.AppImage" target="_blank">}}
+
+https://github.com/Umio-Yasuno/amdgpu_top/releases/download/v0.11.0/amdgpu_top-aarch64.AppImage
 Download arm64
-{{< /button >}}

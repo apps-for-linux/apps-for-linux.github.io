@@ -12,7 +12,7 @@ license: "MIT"
 draft: false
 ---
 
-{{< carousel images="{https://vscodium.com/img/vscodium.png}" >}}
+https://vscodium.com/img/vscodium.png
 
 Free/Libre Open Source Software Binaries of VS Code
 
@@ -23,6 +23,5 @@ Source code: <https://github.com/VSCodium/vscodium>
 
 Report the bug: <https://github.com/VSCodium/vscodium/issues/new>  
 
-{{< button href="https://github.com/VSCodium/vscodium/releases/download/1.100.13210/VSCodium-1.100.13210.glibc2.29-x86_64.AppImage" target="_blank">}}
+https://github.com/VSCodium/vscodium/releases/download/1.100.13210/VSCodium-1.100.13210.glibc2.29-x86_64.AppImage
 Download
-{{< /button >}}

@@ -22,6 +22,5 @@ Source code: <https://github.com/wireapp/wire-desktop>
 Translate: <https://crowdin.com/projects/wire>  
 Report the bug: <https://github.com/wireapp/wire-desktop/issues/new>  
 
-{{< button href="https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.40.3718/Wire-3.40.3718_x86_64.AppImage" target="_blank">}}
+https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.40.3718/Wire-3.40.3718_x86_64.AppImage
 Download
-{{< /button >}}

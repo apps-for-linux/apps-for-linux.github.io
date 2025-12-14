@@ -17,16 +17,16 @@ Open source cross-platform alternative to AirDrop
 
 License: MIT
 
-{{< button_outline href="<https://localsend.org>" target="_blank">}}
+{{< button_outline href="<https://localsend.org>
 Web page
-{{< /button_outline >}}  {{< button_outline href="<https://github.com/localsend/localsend>" target="_blank">}}
+{{< /button_outline >}}  {{< button_outline href="<https://github.com/localsend/localsend>
 Source code
-{{< /button_outline >}}  {{< button_outline href="<https://github.com/sponsors/Tienisto>" target="_blank">}}
+{{< /button_outline >}}  {{< button_outline href="<https://github.com/sponsors/Tienisto>
 Become a sponsor
-{{< /button_outline >}}  {{< button_outline href="<https://github.com/localsend/localsend?tab=readme-ov-file#translation>" target="_blank">}}
+{{< /button_outline >}}  {{< button_outline href="<https://github.com/localsend/localsend?tab=readme-ov-file#translation>
 Translate
-{{< /button_outline >}}  {{< button_outline href="<https://github.com/localsend/localsend/issues/new>" target="_blank">}}
+{{< /button_outline >}}  {{< button_outline href="<https://github.com/localsend/localsend/issues/new>
 Report the bug:
-{{< /button_outline >}}  {{< button href="https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-x86-64.AppImage" target="_blank">}}
+{{< /button_outline >}}  https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-x86-64.AppImage
 Download
-{{< /button >}}  
+  

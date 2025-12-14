@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/xpipe-io/.github/main/img/hub_shadow.png}" >}}
+https://raw.githubusercontent.com/xpipe-io/.github/main/img/hub_shadow.png
 
 XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine
 

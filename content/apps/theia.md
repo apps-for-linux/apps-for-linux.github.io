@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/eclipse-theia/theia/master/doc/images/theia-screenshot.png}" >}}
+https://raw.githubusercontent.com/eclipse-theia/theia/master/doc/images/theia-screenshot.png
 
 Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
@@ -22,6 +22,5 @@ Source code: <https://github.com/eclipse-theia/theia>
 
 Report the bug: <https://github.com/eclipse-theia/theia/issues/new>  
 
-{{< button href="https://ftp.halifax.rwth-aachen.de/eclipse/theia/ide/latest/linux/TheiaIDE.AppImage" target="_blank">}}
+https://ftp.halifax.rwth-aachen.de/eclipse/theia/ide/latest/linux/TheiaIDE.AppImage
 Download
-{{< /button >}}

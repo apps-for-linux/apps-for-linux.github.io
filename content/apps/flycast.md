@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/flyinghead/flycast/master/shell/imgs/screenshot1.png}" >}}
+https://raw.githubusercontent.com/flyinghead/flycast/master/shell/imgs/screenshot1.png
 
 Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast
 
@@ -22,6 +22,5 @@ Source code: <https://github.com/flyinghead/flycast>
 Become a sponsor: <https://www.paypal.com/paypalme/FlycastEmu>  
 Report the bug: <https://github.com/flyinghead/flycast/issues/new>  
 
-{{< button href="https://github.com/flyinghead/flycast/releases/download/v2.5/flycast-x86_64.AppImage" target="_blank">}}
+https://github.com/flyinghead/flycast/releases/download/v2.5/flycast-x86_64.AppImage
 Download
-{{< /button >}}

@@ -11,7 +11,7 @@ license: "Apache-2.0"
 draft: false
 ---
 
-{{< carousel images="{https://www.drawio.com/assets/svg/home-dia1.svg}" >}}
+https://www.drawio.com/assets/svg/home-dia1.svg
 
 Security-first diagramming for teams
 
@@ -23,10 +23,9 @@ Source code: <https://github.com/jgraph/drawio-desktop>
 Report the bug: <https://github.com/jgraph/drawio-desktop/issues/new>  
 
 
-{{< button href="https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-x86_64-27.0.9.AppImage" target="_blank">}}
+https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-x86_64-27.0.9.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-arm64-27.0.9.AppImage" target="_blank">}}
+
+https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-arm64-27.0.9.AppImage
 Download arm64
-{{< /button >}}

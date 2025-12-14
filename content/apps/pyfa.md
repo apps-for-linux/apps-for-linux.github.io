@@ -20,6 +20,5 @@ Source code: <https://github.com/pyfa-org/Pyfa>
 Translate: <https://crowdin.com/project/pyfa>  
 Report the bug: <https://github.com/pyfa-org/Pyfa/issues/new>  
 
-{{< button href="https://github.com/pyfa-org/Pyfa/releases/download/v2.63.0dev1/pyfa-v2.63.0dev1-linux.AppImage" target="_blank">}}
+https://github.com/pyfa-org/Pyfa/releases/download/v2.63.0dev1/pyfa-v2.63.0dev1-linux.AppImage
 Download
-{{< /button >}}

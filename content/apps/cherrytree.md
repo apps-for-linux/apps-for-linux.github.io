@@ -11,7 +11,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/giuspen/cherrytree/refs/heads/master/docs/cherrytree-main_window_text.png}" >}}
+https://raw.githubusercontent.com/giuspen/cherrytree/refs/heads/master/docs/cherrytree-main_window_text.png
 
 A hierarchical note taking application, featuring rich text and syntax highlighting
 
@@ -23,6 +23,5 @@ Source code: <https://github.com/giuspen/cherrytree>
 Become a sponsor: <https://www.giuspen.net/cherrytree>  
 Report the bug: <https://github.com/giuspen/cherrytree/issues/new>  
 
-{{< button href="https://github.com/giuspen/cherrytree/releases/download/v1.5.0/CherryTree-1.5.0-x86_64.AppImage" target="_blank">}}
+https://github.com/giuspen/cherrytree/releases/download/v1.5.0/CherryTree-1.5.0-x86_64.AppImage
 Download
-{{< /button >}}

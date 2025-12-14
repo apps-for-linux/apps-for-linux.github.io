@@ -21,6 +21,5 @@ Source code: <https://github.com/lxgr-linux/pokete>
 
 Report the bug: <https://github.com/lxgr-linux/pokete/issues/new>  
 
-{{< button href="https://github.com/lxgr-linux/pokete/releases/download/0.9.2/Pokete-0.9.2-x86_64.AppImage" target="_blank">}}
+https://github.com/lxgr-linux/pokete/releases/download/0.9.2/Pokete-0.9.2-x86_64.AppImage
 Download
-{{< /button >}}

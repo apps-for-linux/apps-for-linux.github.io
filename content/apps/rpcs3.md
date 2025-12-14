@@ -21,6 +21,5 @@ Source code: <https://github.com/RPCS3/rpcs3>
 Become a sponsor: <https://www.patreon.com/Nekotekina>  
 Report the bug: <https://github.com/RPCS3/rpcs3/issues/new>  
 
-{{< button href="https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-3dca4dd4bbb233746a7c008d1e7bc03bd128ad7f/rpcs3-v0.0.36-17944-3dca4dd4_linux64.AppImage" target="_blank">}}
+https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-3dca4dd4bbb233746a7c008d1e7bc03bd128ad7f/rpcs3-v0.0.36-17944-3dca4dd4_linux64.AppImage
 Download
-{{< /button >}}

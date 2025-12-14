@@ -17,6 +17,5 @@ License: EULA
 
 Web page: <https://gitbreeze.dev/>  
 
-{{< button href="https://gitbreeze.ams3.digitaloceanspaces.com/releases/latest/linux/GitBreeze.AppImage" target="_blank">}}
+https://gitbreeze.ams3.digitaloceanspaces.com/releases/latest/linux/GitBreeze.AppImage
 Download
-{{< /button >}}

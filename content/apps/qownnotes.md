@@ -21,6 +21,5 @@ Become a sponsor: <https://github.com/sponsors/pbek>
 Translate: <https://crowdin.com/project/qownnotes>  
 Report the bug: <https://github.com/pbek/QOwnNotes/issues/new>  
 
-{{< button href="https://github.com/pbek/QOwnNotes/releases/download/v25.5.10/QOwnNotes-x86_64-Qt6.AppImage" target="_blank">}}
+https://github.com/pbek/QOwnNotes/releases/download/v25.5.10/QOwnNotes-x86_64-Qt6.AppImage
 Download
-{{< /button >}}

@@ -11,7 +11,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-{{< carousel images="{https://user-images.githubusercontent.com/29507195/207267857-4ae48890-3fb2-4046-80cf-3256b46c72a0.png}" >}}
+https://user-images.githubusercontent.com/29507195/207267857-4ae48890-3fb2-4046-80cf-3256b46c72a0.png
 
 Simple, well-designed, free desktop accounting software for freelancers and small businesses
 
@@ -23,6 +23,5 @@ Source code: <https://github.com/frappe/books>
 Translate: <https://github.com/frappe/books/wiki/Contributing-Translations>  
 Report the bug: <https://github.com/frappe/books/issues/new>  
 
-{{< button href="https://github.com/frappe/books/releases/download/v0.30.0/Frappe-Books-0.30.0.AppImage" target="_blank">}}
+https://github.com/frappe/books/releases/download/v0.30.0/Frappe-Books-0.30.0.AppImage
 Download
-{{< /button >}}

@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/ente-io/ente/main/.github/assets/photos.png}" >}}
+https://raw.githubusercontent.com/ente-io/ente/main/.github/assets/photos.png
 
 End-to-end encryption for photos and more
 
@@ -24,10 +24,9 @@ Source code: <https://github.com/ente-io/photos-desktop>
 Translate: <https://crowdin.com/project/ente-photos-web>
 Report the bug: <https://github.com/ente-io/photos-desktop/issues/new>  
 
-{{< button href="https://github.com/ente-io/photos-desktop/releases/download/v1.7.14/ente-1.7.14-x86_64.AppImage" target="_blank">}}
+https://github.com/ente-io/photos-desktop/releases/download/v1.7.14/ente-1.7.14-x86_64.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/ente-io/photos-desktop/releases/download/v1.7.14/ente-1.7.14-arm64.AppImage" target="_blank">}}
+
+https://github.com/ente-io/photos-desktop/releases/download/v1.7.14/ente-1.7.14-arm64.AppImage
 Download arm64
-{{< /button >}}

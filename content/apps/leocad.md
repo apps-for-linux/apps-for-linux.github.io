@@ -20,6 +20,5 @@ Source code: <https://github.com/leozide/leocad>
 
 Report the bug: <https://github.com/leozide/leocad/issues/new>  
 
-{{< button href="https://github.com/leozide/leocad/releases/download/continuous/LeoCAD-Linux-d31b9d9b-x86_64.AppImage" target="_blank">}}
+https://github.com/leozide/leocad/releases/download/continuous/LeoCAD-Linux-d31b9d9b-x86_64.AppImage
 Download
-{{< /button >}}

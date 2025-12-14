@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://glint.info/assets/screenshot-1536.webp}" >}}
+https://glint.info/assets/screenshot-1536.webp
 
 A Graphical interface for Git
 
@@ -19,6 +19,5 @@ License: EULA
 
 Report the bug: <https://github.com/LogicOverSnacks/glint-release/issues/new>  
 
-{{< button href="https://github.com/LogicOverSnacks/glint-release/releases/download/v1.9.1/Glint-1.9.1.AppImage" target="_blank">}}
+https://github.com/LogicOverSnacks/glint-release/releases/download/v1.9.1/Glint-1.9.1.AppImage
 Download
-{{< /button >}}

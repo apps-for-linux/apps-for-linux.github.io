@@ -20,6 +20,5 @@ Source code: <https://github.com/nextcloud-releases/desktop>
 Translate: <https://www.transifex.com/nextcloud/nextcloud>  
 Report the bug: <https://github.com/nextcloud/desktop/issues/new>  
 
-{{< button href="https://github.com/nextcloud-releases/desktop/releases/download/v3.16.2/Nextcloud-3.16.2-x86_64.AppImage" target="_blank">}}
+https://github.com/nextcloud-releases/desktop/releases/download/v3.16.2/Nextcloud-3.16.2-x86_64.AppImage
 Download
-{{< /button >}}

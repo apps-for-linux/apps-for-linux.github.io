@@ -20,6 +20,5 @@ Source code: <https://github.com/ooni/probe-desktop>
 
 Report the bug: <https://github.com/ooni/probe-desktop>  
 
-{{< button href="https://github.com/ooni/probe-desktop/releases/download/v3.9.9/OONI-Probe-3.9.9.AppImage" target="_blank">}}
+https://github.com/ooni/probe-desktop/releases/download/v3.9.9/OONI-Probe-3.9.9.AppImage
 Download
-{{< /button >}}

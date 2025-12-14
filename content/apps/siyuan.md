@@ -12,7 +12,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-{{< carousel images="{https://b3log.org/siyuan/static/home-img.png}" >}} 
+https://b3log.org/siyuan/static/home-img.png 
 
 A privacy-first, self-hosted, fully open source personal knowledge management software.
 

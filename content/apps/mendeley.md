@@ -17,6 +17,5 @@ License: EULA
 
 Web page: <https://www.mendeley.com>  
 
-{{< button href="https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.131.0-x86_64.AppImage" target="_blank">}}
+https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.131.0-x86_64.AppImage
 Download
-{{< /button >}}

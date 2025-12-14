@@ -22,6 +22,5 @@ Become a sponsor: <https://github.com/sponsors/LizardByte>
 Translate: <https://translate.lizardbyte.dev>  
 Report the bug: <https://github.com/LizardByte/Sunshine/issues/new>  
 
-{{< button href="https://github.com/LizardByte/Sunshine/releases/download/v2025.514.173708/sunshine.AppImage" target="_blank">}}
+https://github.com/LizardByte/Sunshine/releases/download/v2025.514.173708/sunshine.AppImage
 Download
-{{< /button >}}

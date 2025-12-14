@@ -20,6 +20,5 @@ Source code: <https://github.com/jurplel/qView>
 Translate: <https://hosted.weblate.org/projects/qview/qview>  
 Report the bug: <https://github.com/jurplel/qView/issues/new>  
 
-{{< button href="https://github.com/jurplel/qView/releases/download/7.0-rc1/qView-7.0-x86_64.AppImage" target="_blank">}}
+https://github.com/jurplel/qView/releases/download/7.0-rc1/qView-7.0-x86_64.AppImage
 Download
-{{< /button >}}

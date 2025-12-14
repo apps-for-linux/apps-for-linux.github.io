@@ -21,14 +21,13 @@ Report the bug: <https://github.com/TheAssassin/appimagecraft/issues/new>
 Download:   x86_64: <>  
             i386: <https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-i386.AppImage>
 
-{{< button href="https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-x86_64.AppImage" target="_blank">}}
+https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-x86_64.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-i386.AppImage" target="_blank">}}
+
+https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-i386.AppImage
 Download x86
-{{< /button >}}
 
-{{< button href="https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-aarch64.AppImage" target="_blank">}}
+
+https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-aarch64.AppImage
 Download arm64
-{{< /button >}}

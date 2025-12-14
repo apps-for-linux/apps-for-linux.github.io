@@ -11,7 +11,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/86Box/86Box/master/src/unix/assets/screenshots/86Box.png}" >}}
+https://raw.githubusercontent.com/86Box/86Box/master/src/unix/assets/screenshots/86Box.png
 
 
 Emulator of x86-based machines based on PCem

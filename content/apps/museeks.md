@@ -19,6 +19,5 @@ Source code: <https://github.com/martpie/museeks>
 
 Report the bug: <https://github.com/martpie/museeks/issues/new>  
 
-{{< button href="https://github.com/martpie/museeks/releases/download/0.20.9/Museeks_0.20.9_amd64.AppImage" target="_blank">}}
+https://github.com/martpie/museeks/releases/download/0.20.9/Museeks_0.20.9_amd64.AppImage
 Download
-{{< /button >}}

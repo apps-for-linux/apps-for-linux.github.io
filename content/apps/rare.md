@@ -22,6 +22,5 @@ Source code: <https://github.com/RareDevs/Rare>
 Translate: <https://www.transifex.com/rare-1/rare>  
 Report the bug: <https://github.com/RareDevs/Rare/issues/new>  
 
-{{< button href="https://github.com/RareDevs/Rare/releases/download/1.11.3.125/Rare-1.11.3.125.AppImage" target="_blank">}}
+https://github.com/RareDevs/Rare/releases/download/1.11.3.125/Rare-1.11.3.125.AppImage
 Download
-{{< /button >}}

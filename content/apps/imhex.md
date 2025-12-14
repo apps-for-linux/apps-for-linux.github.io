@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://github.com/user-attachments/assets/902a7c4c-410d-490f-999e-14c856fec027}" >}}
+https://github.com/user-attachments/assets/902a7c4c-410d-490f-999e-14c856fec027
 
 ImHex is a feature-rich Hex Editor aimed towards Reverse Engineers working with foreign data formats, malware, executables and raw memory.
 
@@ -23,6 +23,5 @@ Become a sponsor: <https://github.com/sponsors/WerWolv>
 Translate: <https://weblate.werwolv.net/projects/imhex>  
 Report the bug: <https://github.com/WerWolv/ImHex/issues/new>  
 
-{{< button href="https://github.com/WerWolv/ImHex/releases/download/v1.36.2/imhex-1.36.2-x86_64.AppImage" target="_blank">}}
+https://github.com/WerWolv/ImHex/releases/download/v1.36.2/imhex-1.36.2-x86_64.AppImage
 Download
-{{< /button >}}

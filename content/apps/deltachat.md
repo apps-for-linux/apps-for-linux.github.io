@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/deltachat/deltachat-desktop/refs/heads/main/README_ASSETS/desktop.png}" >}}
+https://raw.githubusercontent.com/deltachat/deltachat-desktop/refs/heads/main/README_ASSETS/desktop.png
 
 Email-based instant messaging for Desktop
 
@@ -25,10 +25,9 @@ Translate: <https://www.transifex.com/delta-chat/public>
 Become a sponsor: <https://delta.chat/en/donate>  
 Report the bug: <https://github.com/deltachat/deltachat-desktop/issues/new>  
 
-{{< button href="https://github.com/deltachat/deltachat-desktop/releases/download/v1.58.2/DeltaChat-1.58.2-x86_64.AppImage" target="_blank">}}
+https://github.com/deltachat/deltachat-desktop/releases/download/v1.58.2/DeltaChat-1.58.2-x86_64.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/deltachat/deltachat-desktop/releases/download/v1.58.2/DeltaChat-1.58.2-arm64.AppImage" target="_blank">}}
+
+https://github.com/deltachat/deltachat-desktop/releases/download/v1.58.2/DeltaChat-1.58.2-arm64.AppImage
 Download arm64
-{{< /button >}}

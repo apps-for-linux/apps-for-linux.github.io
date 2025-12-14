@@ -18,6 +18,6 @@ License: EULA
 
 Web page: <https://lunatask.app>  
 
-{{< button href="<https://github.com/lunatask/lunatask/releases/download/v2.0.15/Lunatask-2.0.15.AppImage>" target="_blank">}}
+<https://github.com/lunatask/lunatask/releases/download/v2.0.15/Lunatask-2.0.15.AppImage>
 Download
-{{< /button >}}
+

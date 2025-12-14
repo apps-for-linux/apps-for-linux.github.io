@@ -22,6 +22,5 @@ Become a sponsor: <https://www.smplayer.info/en/contribute>
 Translate: <https://explore.transifex.com/rvm/smplayer>  
 Report the bug: <https://github.com/smplayer-dev/smplayer/issues/new>  
 
-{{< button href="https://github.com/smplayer-dev/smplayer/releases/download/v24.5.0.10354/SMPlayer-24.5.0.10354-x86_64.AppImage" target="_blank">}}
+https://github.com/smplayer-dev/smplayer/releases/download/v24.5.0.10354/SMPlayer-24.5.0.10354-x86_64.AppImage
 Download
-{{< /button >}}

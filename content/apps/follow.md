@@ -22,6 +22,5 @@ Source code: <https://github.com/RSSNext/Follow/>
 Translate: <https://github.com/RSSNext/Follow/blob/dev/wiki/contribute-i18n.md>  
 Report the bug: <https://github.com/RSSNext/Follow//issues/new>  
 
-{{< button href="https://github.com/RSSNext/Folo/releases/download/v0.4.7/Folo-0.4.7-linux-x64.AppImage" target="_blank">}}
+https://github.com/RSSNext/Folo/releases/download/v0.4.7/Folo-0.4.7-linux-x64.AppImage
 Download
-{{< /button >}}

@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://www.budgetwithbuckets.com/images/main-screenshot-hires.png}" >}}
+https://www.budgetwithbuckets.com/images/main-screenshot-hires.png
 
 Make your budget quick, simple and private
 
@@ -22,10 +22,10 @@ Translate: <https://github.com/buckets/translations>
 Become a sponsor: <https://www.patreon.com/iffy>  
 Report the bug: <https://github.com/buckets/application/issues/new>  
 
-{{< button href="https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-amd64-0.80.0.AppImage" target="_blank">}}
+https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-amd64-0.80.0.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-arm64-0.80.0.AppImage" target="_blank">}}
+
+https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-arm64-0.80.0.AppImage
 Download arm64
-{{< /button >}}
+

@@ -20,6 +20,5 @@ Source code: <https://github.com/LinwoodDev/Flow>
 Translate: <https://translate.linwood.dev/butterfly>  
 Report the bug: <https://github.com/LinwoodDev/Flow/issues/new>  
 
-{{< button href="https://github.com/LinwoodDev/Flow/releases/download/v0.4.2/linwood-flow-linux-x86_64.AppImage" target="_blank">}}
+https://github.com/LinwoodDev/Flow/releases/download/v0.4.2/linwood-flow-linux-x86_64.AppImage
 Download
-{{< /button >}}

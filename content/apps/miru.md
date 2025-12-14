@@ -21,6 +21,5 @@ Source code: <https://github.com/ThaUnknown/miru>
 Become a sponsor: <https://github.com/sponsors/ThaUnknown>  
 Report the bug: <https://github.com/ThaUnknown/miru/issues/new>  
 
-{{< button href="https://github.com/ThaUnknown/miru/releases/download/v5.5.10/linux-Miru-5.5.10.AppImage" target="_blank">}}
+https://github.com/ThaUnknown/miru/releases/download/v5.5.10/linux-Miru-5.5.10.AppImage
 Download
-{{< /button >}}

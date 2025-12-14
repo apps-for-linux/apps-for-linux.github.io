@@ -21,6 +21,5 @@ Source code: <https://github.com/lite-xl/lite-xl>
 Become a sponsor: <https://github.com/franko>  
 Report the bug: <https://github.com/lite-xl/lite-xl/issues/new>  
 
-{{< button href="https://github.com/lite-xl/lite-xl/releases/download/v2.1.7/LiteXL-v2.1.7-addons-x86_64.AppImage" target="_blank">}}
+https://github.com/lite-xl/lite-xl/releases/download/v2.1.7/LiteXL-v2.1.7-addons-x86_64.AppImage
 Download
-{{< /button >}}

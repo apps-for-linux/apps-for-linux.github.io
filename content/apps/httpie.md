@@ -11,7 +11,7 @@ license: "EULA"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/httpie/desktop/refs/heads/master/.github/httpie-desktop.png}" >}}
+https://raw.githubusercontent.com/httpie/desktop/refs/heads/master/.github/httpie-desktop.png
 
 Cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs
 

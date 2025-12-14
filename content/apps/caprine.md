@@ -12,7 +12,7 @@ license: "MIT"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/sindresorhus/caprine/refs/heads/main/media/screenshot.png}" >}}
+https://raw.githubusercontent.com/sindresorhus/caprine/refs/heads/main/media/screenshot.png
 
 Caprine is an unofficial and privacy-focused Facebook Messenger app with many useful features
 
@@ -23,6 +23,5 @@ Source code: <https://github.com/sindresorhus/caprine>
 Become a sponsor: <https://opencollective.com/sindresorhus>  
 Report the bug: <https://github.com/sindresorhus/caprine/issues/new>  
 
-{{< button href="https://github.com/sindresorhus/caprine/releases/download/v2.60.3/Caprine-2.60.3.AppImage" target="_blank">}}
+https://github.com/sindresorhus/caprine/releases/download/v2.60.3/Caprine-2.60.3.AppImage
 Download
-{{< /button >}}

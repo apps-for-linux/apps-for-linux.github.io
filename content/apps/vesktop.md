@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png}" >}}
+https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png
 
 Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 

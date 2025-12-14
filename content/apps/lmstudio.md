@@ -18,6 +18,5 @@ Web page: <https://lmstudio.ai/>
 
 Report the bug: <https://github.com/lmstudio-ai/lmstudio-bug-tracker/issues>  
 Translate: https://github.com/lmstudio-ai/localization
-{{< button href="<https://installers.lmstudio.ai/linux/x64/0.3.9-6/LM-Studio-0.3.9-6-x64.AppImage>" target="_blank">}}
+<https://installers.lmstudio.ai/linux/x64/0.3.9-6/LM-Studio-0.3.9-6-x64.AppImage>
 Download
-{{< /button >}}

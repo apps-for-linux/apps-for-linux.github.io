@@ -19,6 +19,5 @@ Source code: <https://github.com/ArchipelagoMW/Archipelago>
 
 Report the bug: <https://github.com/ArchipelagoMW/Archipelago/issues/new>  
 
-{{< button href="https://github.com/ArchipelagoMW/Archipelago/releases/download/0.6.2-rc3/Archipelago_0.6.2_linux-x86_64.AppImage" target="_blank">}}
+https://github.com/ArchipelagoMW/Archipelago/releases/download/0.6.2-rc3/Archipelago_0.6.2_linux-x86_64.AppImage
 Download
-{{< /button >}}

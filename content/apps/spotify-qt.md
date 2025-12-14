@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/kraxarn/spotify-qt/refs/heads/develop/.github/img/spotify-qt.png}" >}}
+https://raw.githubusercontent.com/kraxarn/spotify-qt/refs/heads/develop/.github/img/spotify-qt.png
 
 Lightweight Spotify client using Qt.
 
@@ -22,6 +22,5 @@ Source code: <https://github.com/kraxarn/spotify-qt>
 
 Report the bug: <https://github.com/kraxarn/spotify-qt/issues/new>  
 
-{{< button href="https://github.com/kraxarn/spotify-qt/releases/download/v4.0.0/spotify-qt-v4.0.0.AppImage" target="_blank">}}
+https://github.com/kraxarn/spotify-qt/releases/download/v4.0.0/spotify-qt-v4.0.0.AppImage
 Download
-{{< /button >}}

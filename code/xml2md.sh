@@ -26,7 +26,7 @@ license: $license
 draft: false
 ---
 
-{{< carousel images="{$screenshot}" >}}
+$screenshot
 
 $summary
  
@@ -39,8 +39,8 @@ Become a sponsor: <$donation>
 Translate: 
 Report the bug: <$bugtracker>
 
-{{< button href="<https://>" target="_blank">}}
+<https://>
 Download
-{{< /button >}}
+
 
 EOF

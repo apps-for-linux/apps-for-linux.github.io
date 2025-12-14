@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/wiki/brndnmtthws/conky/configs/brenden/screenshot.png}" >}}
+https://raw.githubusercontent.com/wiki/brndnmtthws/conky/configs/brenden/screenshot.png
 
 Light-weight system monitor for X, Wayland, and other things, too
 
@@ -24,6 +24,5 @@ Source code: <https://github.com/brndnmtthws/conky>
 Become a sponsor: <https://github.com/sponsors/brndnmtthws>  
 Report the bug: <https://github.com/brndnmtthws/conky/issues/new>  
 
-{{< button href="https://github.com/brndnmtthws/conky/releases/download/v1.22.1/conky-ubuntu-24.04-x86_64-v1.22.1.AppImage" target="_blank">}}
+https://github.com/brndnmtthws/conky/releases/download/v1.22.1/conky-ubuntu-24.04-x86_64-v1.22.1.AppImage
 Download
-{{< /button >}}

@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://github.com/rivafarabi/deckboard/blob/master/01.PNG}" >}}
+https://github.com/rivafarabi/deckboard/blob/master/01.PNG
 
 Control your PC with your phone in easy way possible
 
@@ -23,6 +23,5 @@ Source code: <https://github.com/rivafarabi/deckboard>
 Become a sponsor: <https://ko-fi.com/rivafarabi>  
 Report the bug: <https://github.com/rivafarabi/deckboard/issues/new>  
 
-{{< button href="https://github.com/rivafarabi/deckboard/releases/download/v3.1.2/Deckboard-3.1.2.AppImage" target="_blank">}}
+https://github.com/rivafarabi/deckboard/releases/download/v3.1.2/Deckboard-3.1.2.AppImage
 Download
-{{< /button >}}

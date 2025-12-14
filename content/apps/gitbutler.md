@@ -11,7 +11,7 @@ License: FSL-1.0-MIT
 draft: false
 ---
 
-{{< carousel images="{https://github.com/gitbutlerapp/gitbutler/assets/16262535/0d180bfd-7a3c-4a66-a923-30534c5a8197}" >}}
+https://github.com/gitbutlerapp/gitbutler/assets/16262535/0d180bfd-7a3c-4a66-a923-30534c5a8197
 
 The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
@@ -22,6 +22,5 @@ Source code: <https://github.com/gitbutlerapp/gitbutler>
 
 Report the bug: <https://github.com/gitbutlerapp/gitbutler/issues/new>  
 
-{{< button href="https://releases.gitbutler.com/releases/release/0.14.25-1986/linux/x86_64/GitButler_0.14.25_amd64.AppImage.tar.gz" target="_blank">}}
+https://releases.gitbutler.com/releases/release/0.14.25-1986/linux/x86_64/GitButler_0.14.25_amd64.AppImage.tar.gz
 Download
-{{< /button >}}

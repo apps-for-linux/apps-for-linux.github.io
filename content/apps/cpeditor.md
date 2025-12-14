@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/cpeditor/cpeditor/refs/heads/master/assets/demo.gif}" >}}
+https://raw.githubusercontent.com/cpeditor/cpeditor/refs/heads/master/assets/demo.gif
 
 The IDE for competitive programming
 
@@ -25,6 +25,5 @@ Become a sponsor: <https://github.com/sponsors/cpeditor>
 Translate: <https://github.com/cpeditor/cpeditor/blob/master/CONTRIBUTING.md#translations>  
 Report the bug: <https://github.com/cpeditor/cpeditor/issues/new>  
 
-{{< button href="https://github.com/cpeditor/cpeditor/releases/download/7.0.1/cpeditor-7.0.1-linux-x86_64.AppImage" target="_blank">}}
+https://github.com/cpeditor/cpeditor/releases/download/7.0.1/cpeditor-7.0.1-linux-x86_64.AppImage
 Download
-{{< /button >}}

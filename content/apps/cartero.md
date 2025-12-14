@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/danirod/cartero/trunk/data/screenshots/cartero-payload.png}" >}}
+https://raw.githubusercontent.com/danirod/cartero/trunk/data/screenshots/cartero-payload.png
 
 Native, lightweight, multiplatform and free HTTP client that you can use to test your APIs
 
@@ -22,6 +22,5 @@ Source code: <https://github.com/danirod/cartero>
 Translate: <https://hosted.weblate.org/projects/cartero/cartero/>  
 Report the bug: <https://github.com/danirod/cartero/issues/new>  
 
-{{< button href="https://github.com/danirod/cartero/releases/download/v0.2.2/Cartero-0.2.2-x86_64.AppImage" target="_blank">}}
+https://github.com/danirod/cartero/releases/download/v0.2.2/Cartero-0.2.2-x86_64.AppImage
 Download
-{{< /button >}}

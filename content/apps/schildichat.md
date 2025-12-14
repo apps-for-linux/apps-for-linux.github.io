@@ -12,7 +12,7 @@ license: "Apache-2.0"
 draft: false
 ---
 
-{{< carousel images="{https://schildi.chat/desktop/img/1.png}" >}} 
+https://schildi.chat/desktop/img/1.png 
 
 Matrix client / Element Desktop fork
 
@@ -24,6 +24,5 @@ Source code: <https://github.com/SchildiChat/schildichat-desktop>
 Translate: <https://weblate.spiritcroc.de/projects/schildichat>  
 Report the bug: <https://github.com/SchildiChat/schildichat-desktop/issues/new>  
 
-{{< button href="https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.97-sc.0.test.0/SchildiChatAlpha-1.11.97-sc.0.test.0.AppImage" target="_blank">}}
+https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.97-sc.0.test.0/SchildiChatAlpha-1.11.97-sc.0.test.0.AppImage
 Download
-{{< /button >}}

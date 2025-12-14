@@ -22,6 +22,5 @@ Become a sponsor: <https://github.com/sponsors/nukeop>
 Translate: <https://crowdin.com/project/nuclear>  
 Report the bug: <https://github.com/nukeop/nuclear/issues/new>  
 
-{{< button href="https://github.com/nukeop/nuclear/releases/download/v0.6.44/nuclear-v0.6.44-x86_64.AppImage" target="_blank">}}
+https://github.com/nukeop/nuclear/releases/download/v0.6.44/nuclear-v0.6.44-x86_64.AppImage
 Download
-{{< /button >}}

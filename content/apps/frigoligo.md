@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/casimir/frigoligo/refs/heads/main/assets/screenshots/desktop.png}" >}}
+https://raw.githubusercontent.com/casimir/frigoligo/refs/heads/main/assets/screenshots/desktop.png
 
 Frigoligo is a wallabag client crafted using Flutter
 

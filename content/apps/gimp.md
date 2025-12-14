@@ -11,7 +11,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://www.phoronix.net/image.php?id=2025&image=gimp_30_rc3_1_show}" >}}
+https://www.phoronix.net/image.php?id=2025&image=gimp_30_rc3_1_show
 
 The Free & Open Source Image Editor
 

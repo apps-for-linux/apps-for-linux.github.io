@@ -20,10 +20,9 @@ Source code: <https://github.com/ossia/score>
 Become a sponsor: <https://opencollective.com/ossia>  
 Report the bug: <https://github.com/ossia/score/issues/new>  
 
-{{< button href="https://github.com/ossia/score/releases/download/v3.5.2/ossia.score-3.5.2-linux-x86_64.AppImage" target="_blank">}}
+https://github.com/ossia/score/releases/download/v3.5.2/ossia.score-3.5.2-linux-x86_64.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/ossia/score/releases/download/v3.5.2/ossia.score-3.5.2-linux-aarch64.AppImage" target="_blank">}}
+
+https://github.com/ossia/score/releases/download/v3.5.2/ossia.score-3.5.2-linux-aarch64.AppImage
 Download ARM64
-{{< /button >}}

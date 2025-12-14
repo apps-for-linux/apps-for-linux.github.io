@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/stenzek/duckstation/md-images/main-qt.png}" >}}
+https://raw.githubusercontent.com/stenzek/duckstation/md-images/main-qt.png
 
 Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 
@@ -24,14 +24,13 @@ Source code: <https://github.com/stenzek/duckstation>
 
 Translate: <https://github.com/stenzek/duckstation/wiki/Translating-to-new-languages#linux>
 
-{{< button href="https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage" target="_blank">}}
+https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-arm64.AppImage" target="_blank">}}
+
+https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-arm64.AppImage
 Download arm64
-{{< /button >}}
 
-{{< button href="https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-armhf.AppImage" target="_blank">}}
+
+https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-armhf.AppImage
 Download arm86
-{{< /button >}}

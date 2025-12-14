@@ -12,7 +12,7 @@ License: LGPL-3.0
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/Ultimaker/Cura/main/cura-logo.PNG}" >}}
+https://raw.githubusercontent.com/Ultimaker/Cura/main/cura-logo.PNG
 
 3D printer / slicing GUI built on top of the Uranium framework
 
@@ -25,6 +25,5 @@ Become a sponsor: <https://github.com/sponsors/Ultimaker>
 Translate: <https://github.com/Ultimaker/Cura/wiki/Translating-Cura>  
 Report the bug: <https://github.com/Ultimaker/Cura/issues/new>  
 
-{{< button href="https://github.com/Ultimaker/Cura/releases/download/5.10.1/UltiMaker-Cura-5.10.1-linux-X64.AppImage" target="_blank">}}
+https://github.com/Ultimaker/Cura/releases/download/5.10.1/UltiMaker-Cura-5.10.1-linux-X64.AppImage
 Download
-{{< /button >}}

@@ -22,6 +22,5 @@ Become a sponsor: <https://opencollective.com/logseq>
 Translate: <https://github.com/logseq/logseq/blob/master/docs/contributing-to-translations.md>  
 Report the bug: <https://github.com/logseq/logseq/issues/new>  
 
-{{< button href="https://github.com/logseq/logseq/releases/download/nightly/Logseq-linux-x64-0.10.10-alpha+nightly.20241216.AppImage" target="_blank">}}
+https://github.com/logseq/logseq/releases/download/nightly/Logseq-linux-x64-0.10.10-alpha+nightly.20241216.AppImage
 Download
-{{< /button >}}

@@ -20,6 +20,5 @@ Source code: <https://github.com/OneKeePass/desktop>
 
 Report the bug: <https://github.com/OneKeePass/desktop/issues/new>  
 
-{{< button href="https://github.com/OneKeePass/desktop/releases/download/v0.15.0/OneKeePass_0.15.0_linux_x86_64.AppImage" target="_blank">}}
+https://github.com/OneKeePass/desktop/releases/download/v0.15.0/OneKeePass_0.15.0_linux_x86_64.AppImage
 Download
-{{< /button >}}

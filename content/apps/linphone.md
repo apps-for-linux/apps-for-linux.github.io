@@ -21,6 +21,5 @@ Source code: <https://gitlab.linphone.org/BC/public/linphone-desktop>
 Translate: <https://weblate.linphone.org/projects/linphone-desktop>  
 Report the bug: <https://gitlab.linphone.org/BC/public/linphone-desktop/-/issues/new>  
 
-{{< button href="https://download.linphone.org/releases/linux/app/Linphone-5.2.6.AppImage" target="_blank">}}
+https://download.linphone.org/releases/linux/app/Linphone-5.2.6.AppImage
 Download
-{{< /button >}}

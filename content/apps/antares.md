@@ -11,7 +11,7 @@ license: "MIT"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/antares-sql/antares/master/docs/gh-logo.png}" >}}
+https://raw.githubusercontent.com/antares-sql/antares/master/docs/gh-logo.png
 
 
 A modern, fast and productivity driven SQL client with a focus in UX

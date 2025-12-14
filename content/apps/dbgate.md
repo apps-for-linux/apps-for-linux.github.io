@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/dbgate/dbgate/master/img/screenshot1.png}" >}}
+https://raw.githubusercontent.com/dbgate/dbgate/master/img/screenshot1.png
 
 Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others
 
@@ -23,10 +23,9 @@ Source code: <https://github.com/dbgate/dbgate>
 Become a sponsor: <https://github.com/sponsors/dbgate>  
 Report the bug: <https://github.com/dbgate/dbgate/issues/new>  
 
-{{< button href="https://github.com/dbgate/dbgate/releases/download/latest/dbgate-latest.AppImage" target="_blank">}}
+https://github.com/dbgate/dbgate/releases/download/latest/dbgate-latest.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/dbgate/dbgate/releases/download/latest/dbgate-latest-arm64.AppImage" target="_blank">}}
+
+https://github.com/dbgate/dbgate/releases/download/latest/dbgate-latest-arm64.AppImage
 Download arm64
-{{< /button >}}

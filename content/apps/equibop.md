@@ -19,10 +19,9 @@ Source code: <https://github.com/Equicord/Equibop>
 
 Report the bug: <https://github.com/Equicord/Equibop/issues/new>  
 
-{{< button href="https://github.com/Equicord/Equibop/releases/latest/download/Equibop-linux-x86_64.AppImage" target="_blank">}}
+https://github.com/Equicord/Equibop/releases/latest/download/Equibop-linux-x86_64.AppImage
 Download x86_64
-{{< /button >}}
 
-{{< button href="https://github.com/Equicord/Equibop/releases/latest/download/Equibop-linux-arm64.AppImage" target="_blank">}}
+
+https://github.com/Equicord/Equibop/releases/latest/download/Equibop-linux-arm64.AppImage
 Download arm64
-{{< /button >}}

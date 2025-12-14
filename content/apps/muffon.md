@@ -19,6 +19,5 @@ Source code: <https://github.com/staniel359/muffon>
 Become a sponsor: <https://ko-fi.com/staniel359>  
 Report the bug: <https://github.com/staniel359/muffon/issues>  
 
-{{< button href="https://github.com/staniel359/muffon/releases/download/v2.1.0/muffon-2.1.0-linux-x86_64.AppImage" target="_blank">}}
+https://github.com/staniel359/muffon/releases/download/v2.1.0/muffon-2.1.0-linux-x86_64.AppImage
 Download
-{{< /button >}}

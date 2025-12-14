@@ -21,6 +21,5 @@ Source code: <https://github.com/ONLYOFFICE/DesktopEditors>
 Translate: <https://helpcenter.onlyoffice.com/guides/become-translator.aspx>  
 Report the bug: <https://github.com/ONLYOFFICE/DesktopEditors/issues/new>  
 
-{{< button href="https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.2/DesktopEditors-x86_64.AppImage" target="_blank">}}
+https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.2/DesktopEditors-x86_64.AppImage
 Download
-{{< /button >}}

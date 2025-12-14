@@ -18,6 +18,5 @@ Source code: <https://github.com/NordicSemiconductor/pc-nrfconnect-launcher>
 
 Report the bug: <https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/issues/new>  
 
-{{< button href="https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/releases/download/v5.1.0/nrfconnect-5.1.0-x86_64.AppImage" target="_blank">}}
+https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/releases/download/v5.1.0/nrfconnect-5.1.0-x86_64.AppImage
 Download
-{{< /button >}}

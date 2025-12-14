@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/gdm-settings/screenshots/v5.0/light/default.png}" >}}
+https://raw.githubusercontent.com/gdm-settings/screenshots/v5.0/light/default.png
 
 A settings app for GNOME's Login Manager, GDM
 
@@ -23,6 +23,5 @@ Become a sponsor: <https://github.com/sponsors/gdm-settings>
 Translate: <https://hosted.weblate.org/engage/gdm-settings>  
 Report the bug: <https://github.com/gdm-settings/gdm-settings/issues/new>  
 
-{{< button href="https://github.com/gdm-settings/gdm-settings/releases/download/v5.0/GDM_Settings.AppImage" target="_blank">}}
+https://github.com/gdm-settings/gdm-settings/releases/download/v5.0/GDM_Settings.AppImage
 Download
-{{< /button >}}

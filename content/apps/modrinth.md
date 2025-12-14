@@ -22,6 +22,5 @@ Source code: <https://github.com/modrinth/code>
 Translate: <https://crowdin.com/project/modrinth>  
 Report the bug: <https://github.com/modrinth/code/issues/new>  
 
-{{< button href="https://launcher-files.modrinth.com/versions/0.9.3/linux/Modrinth%20App_0.9.3_amd64.AppImage" target="_blank">}}
+https://launcher-files.modrinth.com/versions/0.9.3/linux/Modrinth%20App_0.9.3_amd64.AppImage
 Download
-{{< /button >}}

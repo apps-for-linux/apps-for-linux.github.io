@@ -22,6 +22,5 @@ Source code: <https://github.com/jpd002/Play->
 Become a sponsor: <https://github.com/sponsors/jpd002>  
 Report the bug: <https://github.com/jpd002/Play-/issues/new>  
 
-{{< button href="https://purei.org/downloads/play/stable/0.69/Play!-ae20e1ee-x86_64.AppImage" target="_blank">}}
+https://purei.org/downloads/play/stable/0.69/Play!-ae20e1ee-x86_64.AppImage
 Download
-{{< /button >}}

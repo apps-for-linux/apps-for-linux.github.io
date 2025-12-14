@@ -20,6 +20,5 @@ Become a sponsor: <https://github.com/sponsors/johannesjo>
 Translate: <https://fink.inlang.com/github.com/johannesjo/super-productivity>  
 Report the bug: <https://github.com/johannesjo/super-productivity/issues/new>  
 
-{{< button href="https://github.com/johannesjo/super-productivity/releases/download/v13.0.4/superProductivity-x86_64.AppImage" target="_blank">}}
+https://github.com/johannesjo/super-productivity/releases/download/v13.0.4/superProductivity-x86_64.AppImage
 Download
-{{< /button >}}

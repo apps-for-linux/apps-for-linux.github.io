@@ -17,6 +17,5 @@ License: EULA
 
 Web page: <https://mochi.cards>  
 
-{{< button href="https://mochi.cards/releases/Mochi-1.18.9.AppImage" target="_blank">}}
+https://mochi.cards/releases/Mochi-1.18.9.AppImage
 Download
-{{< /button >}}

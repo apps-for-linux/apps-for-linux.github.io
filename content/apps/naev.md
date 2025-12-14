@@ -20,6 +20,5 @@ Become a sponsor: <https://www.libreoffice.org/donate>
 Translate: <https://hosted.weblate.org/projects/naev/naev>  
 Report the bug: <https://github.com/naev/naev/issues/new>  
 
-{{< button href="https://github.com/naev/naev/releases/download/v0.12.3/naev-0.12.3-linux-x86-64.AppImage" target="_blank">}}
+https://github.com/naev/naev/releases/download/v0.12.3/naev-0.12.3-linux-x86-64.AppImage
 Download
-{{< /button >}}

@@ -11,7 +11,7 @@ license: "MIT"
 draft: false
 ---
 
-{{< carousel images="{https://raw.githubusercontent.com/4ian/GDevelop/master/newIDE/GDevelop%20screenshot.png}" >}}
+https://raw.githubusercontent.com/4ian/GDevelop/master/newIDE/GDevelop%20screenshot.png
 
 Full-featured, no-code, open-source game development software
 
