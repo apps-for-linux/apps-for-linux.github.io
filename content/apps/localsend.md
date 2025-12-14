@@ -17,16 +17,16 @@ Open source cross-platform alternative to AirDrop
 
 License: MIT
 
-{{< button_outline href="<https://localsend.org>
+<https://localsend.org>
 Web page
-{{< /button_outline >}}  {{< button_outline href="<https://github.com/localsend/localsend>
+<https://github.com/localsend/localsend>
 Source code
-{{< /button_outline >}}  {{< button_outline href="<https://github.com/sponsors/Tienisto>
+<https://github.com/sponsors/Tienisto>
 Become a sponsor
-{{< /button_outline >}}  {{< button_outline href="<https://github.com/localsend/localsend?tab=readme-ov-file#translation>
+<https://github.com/localsend/localsend?tab=readme-ov-file#translation>
 Translate
-{{< /button_outline >}}  {{< button_outline href="<https://github.com/localsend/localsend/issues/new>
+<https://github.com/localsend/localsend/issues/new>
 Report the bug:
-{{< /button_outline >}}  https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-x86-64.AppImage
+https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-x86-64.AppImage
 Download
   
