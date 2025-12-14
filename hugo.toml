@@ -2,3 +2,6 @@ baseURL = 'https://apps-for-linux.github.io/'
 languageCode = 'en-us'
 title = 'Apps for Linux'
 theme = 'blist'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
