@@ -4,7 +4,8 @@ description: |
  "Actual Budget is a super fast and privacy-focused app for managing your finances"
 pubDate: 2025-10-02T14:34:00Z
 categories: ["Finance"]
-authors: James Long
+authors: 
+- "James Long"
 tags: 
 - "Budget software"
 license: "MIT"
