@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-11-11T19:39:00Z
 categories: ["Development"]
 authors: ["NordicSemiconductor"]
-tags:["Official"]
+tags: ["Official"]
 draft: false
 ---
 
