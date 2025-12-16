@@ -4,7 +4,7 @@ description: |
  "Video stabilization using gyroscope data"
 pubDate: 2025-04-08T00:28:00Z
 categories: ["Audio & Video"]
-authors: "Gyroflow Team"
+authors: Gyroflow Team
 tags: ["Official"]
 license: "GPL-3.0"
 draft: false

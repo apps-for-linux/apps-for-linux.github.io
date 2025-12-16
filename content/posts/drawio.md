@@ -4,7 +4,7 @@ description: |
  "Security-first diagramming for teams."
 pubDate: 2025-05-26T19:49:00Z
 categories: ["Graphics"]
-authors: "JGraph"
+authors: JGraph
 tags:
 - "Diagramming tool"
 license: "Apache-2.0"

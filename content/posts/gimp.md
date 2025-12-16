@@ -4,7 +4,7 @@ description: |
  "The Free & Open Source Image Editor"
 pubDate: 2025-05-18T01:51:00Z
 categories: ["Graphics"]
-authors: "GIMP’s Team"
+authors: GIMP’s Team
 tags: 
 - "Image editing"
 license: "GPL-3.0"

@@ -4,7 +4,7 @@ description: |
  "ImHex is a feature-rich Hex Editor."
 pubDate: 2024-12-28T18:37:00Z
 categories: ["Development"]
-authors: "WerWolv"
+authors: WerWolv
 tags: 
 - "Hex editor"
 draft: false

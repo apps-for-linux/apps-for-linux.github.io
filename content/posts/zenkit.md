@@ -4,7 +4,7 @@ description: |
  "Project Management, Processes, Communication, Scheduling, Documents, and Knowledge Sharing – all in one platform."
 pubDate: 2024-09-20T15:10:00Z
 categories: ["Productivity"]
-authors: "Axonic"
+authors: Axonic
 tags: 
 - "Project Management"
 license: "EULA"

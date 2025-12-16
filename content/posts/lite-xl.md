@@ -4,7 +4,7 @@ description: |
  "A lightweight text editor written in Lua"
 pubDate: 2024-12-05T17:34:00Z
 categories: ["Development"]
-authors: "Lite XL Team"
+authors: Lite XL Team
 tags: 
 - "Code editor"
 license: "MIT"

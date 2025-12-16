@@ -4,7 +4,7 @@ description: |
  "RetroArch is the reference frontend for the libretro API"
 pubDate: 2025-01-14T02:16:00Z
 categories: ["Games"]
-authors: "Florian Märkl"
+authors: Florian Märkl
 tags: 
 - Game Simulator
 - Retro Game Simulator

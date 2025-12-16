@@ -4,7 +4,7 @@ description: |
  "A Graphical interface for Git"
 pubDate: 2025-02-17T11:02:00Z
 categories: ["Development"]
-authors: "Logic Over Snacks"
+authors: Logic Over Snacks
 tags: 
 - "Git client"
 draft: false

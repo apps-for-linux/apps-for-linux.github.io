@@ -4,7 +4,7 @@ description: |
  "Feature rich event, group and time managment system"
 pubDate: 2025-04-28T20:01:00Z
 categories: ["Productivity"]
-authors: "LinwoodDev"
+authors: LinwoodDev
 tags: 
 - "Time management system"
 draft: false

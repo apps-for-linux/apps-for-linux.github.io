@@ -4,7 +4,7 @@ description: |
  "Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas"
 pubDate: 2025-01-22T04:15:00Z
 categories: ["Science"]
-authors: "Open Chemistry"
+authors: Open Chemistry
 tags: ["Chemistry"]
 License: BSD-3-Clause
 draft: false

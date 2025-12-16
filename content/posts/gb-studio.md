@@ -4,7 +4,7 @@ description: |
  "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system"
 pubDate: 2024-09-16T13:18:00Z
 categories: ["Development"]
-authors: "Chris Maltby"
+authors: Chris Maltby
 tags: 
 - "Game development"
 license: "MIT"

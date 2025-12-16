@@ -4,7 +4,7 @@ description: |
  "Free office suite that combines text, spreadsheet and presentation editors"
 pubDate: 2025-03-20T13:42:00Z
 categories: ["Productivity"]
-authors: "Ascensio System"
+authors: Ascensio System
 tags: 
 - "Office Suite"
 License: AGPL-3.0

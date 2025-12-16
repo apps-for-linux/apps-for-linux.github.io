@@ -4,7 +4,7 @@ description: |
  "End-to-end encrypted note-taking app for digitalists and professionals"
 pubDate: 2025-05-12T20:27:00Z
 categories: ["Productivity"]
-authors: "Standard Notes"
+authors: Standard Notes
 tags: 
 - "Notes"
 License: AGPL-3.0

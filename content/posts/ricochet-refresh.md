@@ -4,7 +4,7 @@ description: |
  "Anonymous peer-to-peer instant messaging"
 pubDate: 2025-04-17T19:39:00Z
 categories: ["Network"]
-authors: "Blueprint for Free Speech"
+authors: Blueprint for Free Speech
 tags: 
 - "Messenger"
 - "Censorship-resistance software"

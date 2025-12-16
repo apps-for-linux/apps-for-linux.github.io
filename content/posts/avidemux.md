@@ -4,7 +4,7 @@ description: |
  "Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks"
 pubDate: 2022-10-22T16:46:00Z
 categories: ["Audio & Video"]
-authors: "Avidemux Authors"
+authors: Avidemux Authors
 tags: ["Video editor"]
 license: "GPL-2.0"
 draft: false

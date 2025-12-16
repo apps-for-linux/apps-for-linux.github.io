@@ -4,7 +4,7 @@ description: |
  "Matrix client focusing primarly on simple, elegant and secure interface"
 pubDate: 2025-06-10T17:02:00Z
 categories: ["Network"]
-authors: "Ajay Bura"
+authors: Ajay Bura
 tags: 
 - "Matrix"
 - "Messenger"

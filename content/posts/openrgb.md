@@ -4,7 +4,7 @@ description: |
  "Open source RGB lighting control that doesn't depend on manufacturer software"
 pubDate: 2025-02-22T20:06:00Z
 categories: ["Utilities"]
-authors: "Adam Honse"
+authors: Adam Honse
 tags:
 - "Hardware controller"
 license: "GPL-2.0"

@@ -4,7 +4,7 @@ description: |
  "Simple and easy to use anime streaming desktop app without ads."
 pubDate: 2025-02-14T05:45:00Z
 categories: ["Audio & Video"]
-authors: "Alessio Ganzarolli"
+authors: Alessio Ganzarolli
 tags: 
 - "Anime"
 license: "GPL-3.0"

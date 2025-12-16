@@ -4,7 +4,7 @@ description: |
  "A hierarchical note taking application, featuring rich text and syntax highlighting"
 pubDate: 2025-06-04T00:47:00Z
 categories: ["Productivity"]
-authors: "Giuseppe Penone"
+authors: Giuseppe Penone
 tags: 
 - "Notes"
 license: "GPL-3.0"

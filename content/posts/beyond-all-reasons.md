@@ -4,7 +4,7 @@ description: |
  "Free Real Time Strategy Game with a grand scale and full physical simulation in a sci-fi setting."
 pubDate: 2024-03-02T20:40:00Z
 categories: ["Games"]
-authors: "Beyond-All-Reason Team"
+authors: Beyond-All-Reason Team
 tags: 
 - "Game"
 draft: false

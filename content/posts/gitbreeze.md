@@ -4,7 +4,7 @@ description: |
  "Free AI Git GUI for Windows, Mac, Linux."
 pubDate: 2025-03-14T00:00:00Z
 categories: ["Development"]
-authors: "GitBreeze"
+authors: GitBreeze
 tags: 
 - "Git client"
 License: EULA

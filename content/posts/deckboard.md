@@ -4,7 +4,7 @@ description: |
  "Control your PC with your phone in easy way possible"
 pubDate: 2025-03-14T09:27:00Z
 categories: ["Games"]
-authors: "Riva Farabi"
+authors: Riva Farabi
 tags:
 - "Monitor resource"
 - "Remote control"

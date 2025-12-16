@@ -4,7 +4,7 @@ description: |
  "Yasumu is a customizable, free and open-source application to test various types of APIs"
 pubDate: 2024-10-06T09:02:00Z
 categories: ["Development"]
-authors: "Yasumu Developers"
+authors: Yasumu Developers
 tags: 
 - "API Testing"
 license: "MIT"

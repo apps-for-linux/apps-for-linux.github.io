@@ -4,7 +4,7 @@ description: |
  "Geodata collection app."
 pubDate: 2025-05-21T05:46:00Z
 categories: ["Science"]
-authors: "OPENGIS.ch"
+authors: OPENGIS.ch
 tags: 
 - "Geodata"
 license: "GPL-2.0"

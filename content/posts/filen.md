@@ -4,7 +4,7 @@ description: |
  "Desktop client for filen.io."
 pubDate: 2025-02-09T19:36:00Z
 categories: ["Network"]
-authors: "Filen-Cloud-Dienste"
+authors: Filen-Cloud-Dienste
 tags: 
 - "Cloud client"
 draft: false

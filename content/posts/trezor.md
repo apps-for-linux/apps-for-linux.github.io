@@ -4,7 +4,7 @@ description: |
  "Trezor desktop and web application for managing Trezor hardware wallet"
 pubDate: 2025-04-16T15:38:00Z
 categories: ["Finance"]
-authors: "Trezor company"
+authors: Trezor company
 tags: 
 - "Cryptocurrency"
 license: "Custom"

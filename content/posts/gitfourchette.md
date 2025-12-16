@@ -4,7 +4,7 @@ description: |
  "The comfortable Git UI for Linux."
 pubDate: 2025-05-03T20:05:00Z
 categories: ["Development"]
-authors: Iliyas Jorio"
+authors: Iliyas Jorio
 tags: 
 - "Git client"
 License: GPL-3.0

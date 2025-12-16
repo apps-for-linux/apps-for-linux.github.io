@@ -4,7 +4,7 @@ description: |
  "A terminal based Pokemon like game"
 pubDate: 2024-06-15T04:15:00Z
 categories: ["Games"]
-authors: "Peer Meyer"
+authors: Peer Meyer
 tags:
 - Game
 - TUI

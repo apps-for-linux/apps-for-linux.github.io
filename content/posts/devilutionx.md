@@ -4,7 +4,7 @@ description: |
  "Port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features"
 pubDate: 2025-02-08T23:47:00Z
 categories: ["Games"]
-authors: "diasurgical"
+authors: diasurgical
 tags: 
 - Games
 license: "Custom"

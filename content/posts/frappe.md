@@ -4,7 +4,7 @@ description: |
  "Simple, well-designed, free desktop accounting software for freelancers and small businesses"
 pubDate: 2025-05-15T08:54:00Z
 categories: ["Finance"]
-authors: "Frappe Technologies"
+authors: Frappe Technologies
 tags:
 - "Budget software"
 License: AGPL-3.0

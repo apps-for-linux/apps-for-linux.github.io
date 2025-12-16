@@ -4,7 +4,7 @@ description: |
  "Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI"
 pubDate: 2025-05-09T00:30:00Z
 categories: ["Graphics"]
-authors: "Reiner Prokein"
+authors: Reiner Prokein
 tags: 
 - "3D"
 license: "GPL-2.0"

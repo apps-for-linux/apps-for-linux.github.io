@@ -4,7 +4,7 @@ description: |
  "A fast and dead-simple painting app for artists"
 pubDate: 2020-07-10T12:28:00Z
 categories: ["Graphics"]
-authors: "MyPaint Development Team"
+authors: MyPaint Development Team
 tags: ["Official"]
 draft: false
 ---

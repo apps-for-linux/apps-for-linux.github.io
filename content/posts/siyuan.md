@@ -4,7 +4,7 @@ description: |
  "A privacy-first, self-hosted, fully open source personal knowledge management software."
 pubDate: 2025-01-16T06:13:00Z
 categories: ["Productivity"]
-authors: "Yunnan Liandi Technology"
+authors: Yunnan Liandi Technology
 tags: 
 - "Knowledge base"
 - "AI-powered software"

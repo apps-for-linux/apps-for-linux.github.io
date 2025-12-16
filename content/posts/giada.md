@@ -4,7 +4,7 @@ description: |
  "Open source, minimalistic and hardcore music production tool"
 pubDate: 2025-05-21T20:08:00Z
 categories: ["Audio & Video"]
-authors: "monocasual laboratories"
+authors: monocasual laboratories
 tags: 
 - "Loop machine"
 license: "GPL-3.0"

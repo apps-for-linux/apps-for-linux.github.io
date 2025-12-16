@@ -4,7 +4,7 @@ description: |
  "Free and Open-source PlayStation 3 emulator/debugger"
 pubDate: 2025-05-14T22:15:00Z
 categories: ["Games"]
-authors: "RPCS3 Authors"
+authors: RPCS3 Authors
 tags: 
 - "Game emulator"
 - "PlayStation emulator"

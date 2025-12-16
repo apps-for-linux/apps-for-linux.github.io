@@ -4,7 +4,7 @@ description: |
  "Easy-to-use, multi-track audio editor and recorder"
 pubDate: 2025-06-10T17:31:00Z
 categories: ["Audio & Video"]
-authors: "Audacity Developer Team"
+authors: Audacity Developer Team
 tags: 
 - "Audio recording"
 - "DAW"

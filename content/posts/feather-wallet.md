@@ -4,7 +4,7 @@ description: |
  "A free and open-source Monero desktop wallet"
 pubDate: 2024-10-11T11:11:00Z
 categories: ["Finance"]
-authors: "Feather Wallet"
+authors: Feather Wallet
 tags: 
 - "Cryptocurrency"
 License: BSD-3-Clause

@@ -4,7 +4,7 @@ description: |
  "Open Source Client for PlayStation 4 and PlayStation 5 Remote Play"
 pubDate: 2025-05-19T12:39:00Z
 categories: ["Games"]
-authors: "Street Pea"
+authors: Street Pea
 tags: 
 - "PlayStation"
 - "Remote control"

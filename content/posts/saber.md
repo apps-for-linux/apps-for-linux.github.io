@@ -4,7 +4,7 @@ description: |
  "Cross-platform libre handwritten notes app"
 pubDate: 2025-05-12T12:57:00Z
 categories: ["Productivity"]
-authors: "Adil Hanney"
+authors: Adil Hanney
 tags: 
 - "Notes"
 - "Handwriting"

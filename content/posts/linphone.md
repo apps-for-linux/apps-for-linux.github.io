@@ -4,7 +4,7 @@ description: |
  "Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling"
 pubDate: 2024-07-22T12:08:00Z
 categories: ["Network"]
-authors: "Belledonne Communications"
+authors: Belledonne Communications
 tags: 
 - "SIP Phone"
 - "Conference calling"

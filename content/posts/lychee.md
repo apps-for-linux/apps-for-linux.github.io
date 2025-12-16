@@ -4,7 +4,7 @@ description: |
  "Lychee simplifies the printing process and makes 3D printing accessible to everyone by offering the most innovative and user-friendly solutions."
 pubDate: 2025-03-26T00:00:00Z
 categories: ["Graphics"]
-authors: "Mango 3D"
+authors: Mango 3D
 tags: 
 - "3D"
 - "Slicing software"

@@ -4,7 +4,7 @@ description: |
  "A simple, clean and cross-platform music player"
 pubDate: 2025-03-07T20:00:00Z
 categories: ["Audio & Video"]
-authors: "Pierre de la Martinière"
+authors: Pierre de la Martinière
 tags: 
 - "YouTube Client"
 draft: false

@@ -4,7 +4,7 @@ description: |
  "Lightweight Spotify client using Qt."
 pubDate: 2025-04-28T22:58:00Z
 categories: ["Audio & Video"]
-authors: "kraxie"
+authors: kraxie
 tags: 
 - "Music streaming client"
 - "Spotify"

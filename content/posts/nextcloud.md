@@ -4,7 +4,7 @@ description: |
  "Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform."
 pubDate: 2025-03-19T08:17:00Z
 categories: ["Network"]
-authors: "Nextcloud"
+authors: Nextcloud
 tags: 
 - "Collaboration platform"
 draft: false

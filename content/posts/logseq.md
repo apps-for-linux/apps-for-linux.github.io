@@ -4,7 +4,7 @@ description: |
  "A privacy-first, open-source platform for knowledge management and collaboration"
 pubDate: 2024-12-16T17:29:00Z
 categories: ["Productivity"]
-authors: "Logseq"
+authors: Logseq
 tags: 
 - "Knowledge base"
 License: AGPL-3.0

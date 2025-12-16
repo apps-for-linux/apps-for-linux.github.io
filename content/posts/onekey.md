@@ -4,7 +4,7 @@ description: |
  "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions"
 pubDate: 2025-01-24T08:09:00Z
 categories: ["Finance"]
-authors: "OneKey"
+authors: OneKey
 tags: 
 - "Cryptocurrency"
 license: "Apache-2.0"

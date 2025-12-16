@@ -4,7 +4,7 @@ description: |
  "Converseen is a batch image converter and resizer"
 pubDate: 2025-04-25T19:17:00Z
 categories: ["Graphics"]
-authors: "Francesco Mondello"
+authors: Francesco Mondello
 tags: 
 - "Image converter"
 license: "GPL-3.0"

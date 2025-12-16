@@ -4,7 +4,7 @@ description: |
  "Open-source IDE for exploring and testing APIs"
 pubDate: 2025-06-18T19:22:00Z
 categories: ["Development"]
-authors: "Bruno Authors"
+authors: Bruno Authors
 tags: 
 - "API Testing"
 - "IDE"

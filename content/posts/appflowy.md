@@ -4,7 +4,7 @@ description: |
  "Open-source alternative to Notion. You are in charge of your data and customizations"
 pubDate: 2025-10-24T12:40:00Z
 categories: ["Productivity"]
-authors: "AppFlowy"
+authors: AppFlowy
 tags: 
 - "Knowledge Base"
 License: AGPL-3.0

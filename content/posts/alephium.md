@@ -4,7 +4,7 @@ description: |
  "The official Alephium desktop wallet."
 pubDate: 2025-10-07T19:45:00Z
 categories: ["Finance"]
-authors: "Alephium Team"
+authors: Alephium Team
 tags: 
 -   "Cryptocurrency"
 License: LGPL-3.0

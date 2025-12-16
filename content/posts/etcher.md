@@ -4,7 +4,7 @@ description: |
  "Flash OS images to SD cards & USB drives, safely and easily."
 pubDate: 2025-05-15T21:10:00Z
 categories: ["Utilities"]
-authors: "Balena"
+authors: Balena
 tags: 
 - "Flashing software"
 draft: false

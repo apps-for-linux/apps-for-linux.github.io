@@ -4,7 +4,7 @@ description: |
  "Mendeley Reference Manager simplifies your workflow, so you can focus on achieving your goals"
 pubDate: 2025-03-10T00:00:00Z
 categories: ["Productivity"]
-authors: "Elsevier"
+authors: Elsevier
 tags: 
 - "Reference manager"
 license: "EULA"

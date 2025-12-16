@@ -4,7 +4,7 @@ description: |
  "Powerful and versatile free and open-source motion graphics application."
 pubDate: 2025-03-11T22:16:00Z
 categories: ["Graphics"]
-authors: "Friction contributors"
+authors: Friction contributors
 tags: 
 - "2D"
 draft: false

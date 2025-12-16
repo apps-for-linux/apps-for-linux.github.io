@@ -4,7 +4,7 @@ description: |
  "Free and open source audio converter"
 pubDate: 2025-05-04T18:42:00Z
 categories: ["Audio & Video"]
-authors: "Robert Kausch"
+authors: Robert Kausch
 tags:
 - "Audio Converter"
 license: "GPL-2.0"

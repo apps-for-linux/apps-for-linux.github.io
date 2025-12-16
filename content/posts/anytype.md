@@ -4,7 +4,7 @@ description: |
  "Anytype is a personal knowledge base"
 pubDate: 2025-06-30T18:39:00Z
 categories: ["Productivity"]
-authors: "Anytype"
+authors: Anytype
 tags: 
 - "Knowledge base"
 license: "Custom"
