@@ -4,8 +4,8 @@ description: |
  "A custom version of Firefox, focused on privacy, security and freedom."
 pubDate: 2025-01-26T23:59:00Z
 categories: ["Network"]
-authors: LibreWolf
-tags: 
+authors: ["LibreWolf"]
+tags 
 - "Firefox-based"
 - "Browser"
 License: MPL-2.0

@@ -4,8 +4,8 @@ description: |
  "An elegant music player built using Electron and React"
 pubDate: 2025-03-29T14:40:00Z
 categories: ["Audio & Video"]
-authors: Sandakan Nipunajith
-tags: 
+authors: ["Sandakan Nipunajith"]
+tags 
 - "Official"
 draft: false
 ---

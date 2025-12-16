@@ -4,8 +4,8 @@ description: |
  "Powerful, minimalistic, cross-platform, opensource note-taking app"
 pubDate: 2025-06-23T07:57:00Z
 categories: ["Productivity"]
-authors: LinwoodDev
-tags: 
+authors: ["LinwoodDev"]
+tags 
 - "Notes"
 - "Handwriting"
 License: AGPL-3.0

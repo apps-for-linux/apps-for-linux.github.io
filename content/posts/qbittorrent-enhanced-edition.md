@@ -4,8 +4,8 @@ description: |
  "qBittorrent is a bittorrent client programmed in C++ / Qt"
 pubDate: 2025-05-24T18:04:00Z
 categories: ["Network"]
-authors: c0re100
-tags: 
+authors: ["c0re100"]
+tags 
 - "Torrent"
 - "Download manager"
 license: "GPL-2.0"

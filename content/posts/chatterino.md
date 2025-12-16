@@ -4,8 +4,8 @@ description: |
  "Chat client for Twitch.tv"
 pubDate: 2025-03-23T18:36:00Z
 categories: ["Network"]
-authors: Chatterino2 Authors
-tags: 
+authors: ["Chatterino2 Authors"]
+tags 
 - "Twitch"
 - "Stream management"
 draft: false

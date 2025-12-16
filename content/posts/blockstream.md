@@ -4,8 +4,8 @@ description: |
  "Non-custodial Bitcoin wallet"
 pubDate: 2025-04-24T15:20:00Z
 categories: ["Finance"]
-authors: Blockstream
-tags: ["Cryptocurrency"]
+authors: ["Blockstream"]
+tags ["Cryptocurrency"]
 license: "GPL-3.0"
 draft: false
 ---

@@ -4,8 +4,8 @@ description: |
  "appimagecraft completely automates the AppImage build process"
 pubDate: 2025-03-25T22:26:00Z
 categories: ["Development"]
-authors: TheAssassin
-tags: 
+authors: ["TheAssassin"]
+tags 
 - "AppImage"
 license: "MIT"
 draft: false

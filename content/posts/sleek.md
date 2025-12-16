@@ -4,8 +4,8 @@ description: |
  "Open-source (FOSS) todo manager based on the todo.txt syntax"
 pubDate: 2025-03-06T20:29:00Z
 categories: ["Productivity"]
-authors: Robin Ahle
-tags: 
+authors: ["Robin Ahle"]
+tags 
 - "To-do"
 - "Agenda"
 license: "MIT"

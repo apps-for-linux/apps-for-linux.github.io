@@ -4,8 +4,8 @@ description: |
  "GPUs process monitoring for AMD, Intel and NVIDIA"
 pubDate: 2025-03-29T14:26:00Z
 categories: ["Utilities"]
-authors: Maxime Schmitt
-tags: 
+authors: ["Maxime Schmitt"]
+tags 
 - "Resource Monitor"
 license: "GPL-3.0"
 draft: false

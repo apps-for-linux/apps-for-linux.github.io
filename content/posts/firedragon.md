@@ -4,8 +4,8 @@ description: |
  "A Floorp fork with custom branding and opinionated settings."
 pubDate: 2025-05-21T11:18:00Z
 categories: ["Network"]
-authors: Nico Jensch
-tags: 
+authors: ["Nico Jensch"]
+tags 
 - "Browser"
 - "Firefox-based"
 draft: false

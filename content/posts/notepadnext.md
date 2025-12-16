@@ -4,8 +4,8 @@ description: |
  "A cross-platform, reimplementation of Notepad++"
 pubDate: 2025-01-15T06:06:00Z
 categories: ["Development"]
-authors: Justin Dailey
-tags: 
+authors: ["Justin Dailey"]
+tags 
 - "Code editor"
 draft: false
 ---

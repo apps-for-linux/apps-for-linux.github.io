@@ -4,8 +4,8 @@ description: |
  "Krita is a professional free and open source painting program"
 pubDate: 2024-09-30T18:14:00Z
 categories: ["Graphics"]
-authors: Stichting Krita Foundation
-tags: 
+authors: ["Stichting Krita Foundation"]
+tags 
 - "Painting tool"
 - "Photo editor"
 license: "GPL-3.0"

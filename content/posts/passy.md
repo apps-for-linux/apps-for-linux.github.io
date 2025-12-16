@@ -4,8 +4,8 @@ description: |
  "Offline password manager with cross-platform synchronization"
 pubDate: 2025-05-24T23:59:00Z
 categories: ["Utilities"]
-authors: GlitterWare
-tags: 
+authors: ["GlitterWare"]
+tags 
 - "Offline password manager"
 draft: false
 ---

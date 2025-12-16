@@ -4,8 +4,8 @@ description: |
  "Your One-Stop Publication Workbench"
 pubDate: 2025-04-16T14:55:00Z
 categories: ["Productivity"]
-authors: Hendrik Erz
-tags: 
+authors: ["Hendrik Erz"]
+tags 
 - "Writer"
 - "Office software"
 license: "GPL-3.0"

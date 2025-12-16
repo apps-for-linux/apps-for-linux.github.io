@@ -4,8 +4,8 @@ description: |
  "Figma is the first interface design tool based in the browser, making it easier for teams to create software"
 pubDate: 2024-10-10T22:53:00Z
 categories: ["Graphics"]
-authors: Roman Chugunov
-tags: 
+authors: ["Roman Chugunov"]
+tags 
 - "UX/UI software"
 draft: false
 ---

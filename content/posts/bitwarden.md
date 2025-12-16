@@ -4,8 +4,8 @@ description: |
  "Open source password management solutions for individuals, teams, and business organizations."
 pubDate: 2025-06-26T22:13:00Z
 categories: ["Utilities"]
-authors: BitWarden
-tags: 
+authors: ["BitWarden"]
+tags 
 - "Password management"
 license: "GPL-3.0"
 draft: false

@@ -4,8 +4,8 @@ description: |
  "Free and open-source music sequencer for desktop and mobile platforms"
 pubDate: 2025-04-20T15:20:00Z
 categories: ["Audio & Video"]
-authors: Peter Rudenko and contributors
-tags: 
+authors: ["Peter Rudenko and contributors"]
+tags 
 - "Audio editor"
 draft: false
 ---

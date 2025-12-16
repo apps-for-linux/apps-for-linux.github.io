@@ -4,8 +4,8 @@ description: |
  "Simple cross-platform two-factor (2FA) authenticator app for desktop."
 pubDate: 2025-06-11T00:01:00Z
 categories: ["Productivity"]
-authors: Lőrik Levente
-tags:
+authors: ["Lőrik Levente"]
+tags
 - "Authentificator"
 license: "GPL-3.0"
 draft: false

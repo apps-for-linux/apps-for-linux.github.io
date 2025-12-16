@@ -4,8 +4,8 @@ description: |
  "Light-weight system monitor for X, Wayland, and other things, too"
 pubDate: 2025-03-16T15:46:00Z
 categories: ["Utilities"]
-authors: Brenden Matthews
-tags: 
+authors: ["Brenden Matthews"]
+tags 
 - "System Monitor"
 - "OSD"
 license: "GPL-3.0"

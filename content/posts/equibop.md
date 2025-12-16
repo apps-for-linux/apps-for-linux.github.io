@@ -4,8 +4,8 @@ description: |
  "Equibop is a fork of Vesktop."
 pubDate: 2025-06-25T01:23:00Z
 categories: ["Network"]
-authors: Equicord
-tags: 
+authors: ["Equicord"]
+tags 
 - "Messenger"
 - "Discord client"
 draft: false

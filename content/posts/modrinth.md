@@ -4,8 +4,8 @@ description: |
  "Open-source mod platform, built by the community, for the community."
 pubDate: 2025-02-06T00:41:00Z
 categories: ["Games"]
-authors: Rinth
-tags: 
+authors: ["Rinth"]
+tags 
 - "Gaming tool"
 - "Mod marketplace"
 License: AGPL-3.0

@@ -4,8 +4,8 @@ description: |
  "A beautiful feature-rich GraphQL Client"
 pubDate: 2025-10-29T11:13:00Z
 categories: ["Development"]
-authors: Samuel Imolorhe
-tags: 
+authors: ["Samuel Imolorhe"]
+tags 
 - "GraphQL"
 license: "MIT"
 draft: false

@@ -4,8 +4,8 @@ description: |
  "An open-source remote desktop, and alternative to TeamViewer"
 pubDate: 2025-02-22T14:56:00Z
 categories: ["Utilities"]
-authors: RustDesk
-tags: 
+authors: ["RustDesk"]
+tags 
 - "Remote desktop"
 - "Remote control"
 License: AGPL-3.0

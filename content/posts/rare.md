@@ -4,8 +4,8 @@ description: |
  "Frontend for legendary, the open source Epic Games Launcher alternative"
 pubDate: 2025-05-22T12:53:00Z
 categories: ["Games"]
-authors: Rare Devs
-tags:
+authors: ["Rare Devs"]
+tags
 - "Epic Games"
 - "Legendary"
 license: gpl-3.0

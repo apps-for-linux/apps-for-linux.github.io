@@ -4,8 +4,8 @@ description: |
  "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)"
 pubDate: 2024-04-07T20:06:00Z
 categories: ["Games"]
-authors: Prism Launcher Contributors
-tags: 
+authors: ["Prism Launcher Contributors"]
+tags 
 - "Minecraft launcher"
 license: "GPL-3.0"
 draft: false

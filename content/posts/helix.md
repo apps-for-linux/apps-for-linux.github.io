@@ -4,8 +4,8 @@ description: |
  "A post-modern modal text editor."
 pubDate: 2025-01-20T12:31:00Z
 categories: ["Development"]
-authors: Blaž Hrastnik
-tags: 
+authors: ["Blaž Hrastnik"]
+tags 
 - "Code editor"
 draft: false
 ---

@@ -4,8 +4,8 @@ description: |
  "End-to-end encrypted note taking alternative to Evernote."
 pubDate: 2025-05-22T09:42:00Z
 categories: ["Productivity"]
-authors: Streetwriters
-tags:
+authors: ["Streetwriters"]
+tags
 - "Notes"
 license: "GPL-3.0"
 draft: false

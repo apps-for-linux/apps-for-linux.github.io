@@ -4,8 +4,8 @@ description: |
  "Professional Photo Management with Power of Open Source"
 pubDate: 2025-06-29T12:50:00Z
 categories: ["Graphics"]
-authors: digiKam Team
-tags: 
+authors: ["digiKam Team"]
+tags 
 - "Photo Management"
 license: "GPL-2.0"
 draft: false

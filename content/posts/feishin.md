@@ -4,8 +4,8 @@ description: |
  "A modern self-hosted music player"
 pubDate: 2025-06-30T08:19:00Z
 categories: ["Audio & Video"]
-authors: Jeff
-tags: 
+authors: ["Jeff"]
+tags 
 - "Self-hosted"
 - "Music streaming client"
 license: "GPL-3.0"

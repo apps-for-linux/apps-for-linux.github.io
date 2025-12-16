@@ -4,8 +4,8 @@ description: |
  "3D printer / slicing GUI built on top of the Uranium framework"
 pubDate: 2025-06-03T14:38:00Z
 categories: ["Graphics"]
-authors: Ultimaker
-tags: 
+authors: ["Ultimaker"]
+tags 
 - "Slicing software"
 - "3D"
 License: LGPL-3.0

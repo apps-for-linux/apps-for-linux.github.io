@@ -4,8 +4,8 @@ description: |
  "A beautiful player for audiophiles."
 pubDate: 2025-01-25T13:58:00Z
 categories: ["Audio & Video"]
-authors: Aaryan Kapoor
-tags: 
+authors: ["Aaryan Kapoor"]
+tags 
 - "Music player"
 license: "MIT"
 draft: false

@@ -4,8 +4,8 @@ description: |
  "Free-to-win rhythm game"
 pubDate: 2025-04-24T10:06:00Z
 categories: ["Games"]
-authors: Dean Herbert
-tags: 
+authors: ["Dean Herbert"]
+tags 
 - "Game"
 license: "MIT"
 draft: false

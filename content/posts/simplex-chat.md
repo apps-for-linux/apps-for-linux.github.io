@@ -4,8 +4,8 @@ description: |
  "First messaging platform that has no user identifiers of any kind"
 pubDate: 2025-05-13T20:54:00Z
 categories: ["Network"]
-authors: SimpleX Chat
-tags: 
+authors: ["SimpleX Chat"]
+tags 
 - "Messenger"
 
 - "Censorship-resistance software"

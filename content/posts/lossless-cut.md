@@ -4,8 +4,8 @@ description: |
  "Simple and ultra fast cross platform tool for lossless trimming/cutting of video and audio files."
 pubDate: 2024-03-19T08:32:00Z
 categories: ["Audio & Video"]
-authors: Mikael Finstad
-tags: 
+authors: ["Mikael Finstad"]
+tags 
 - "Video editor"
 license: "GPL-2.0"
 draft: false

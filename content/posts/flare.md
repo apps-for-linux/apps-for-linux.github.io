@@ -4,8 +4,8 @@ description: |
  "Fantasy action RPG using the FLARE engine"
 pubDate: 2022-12-26T08:48:00Z
 categories: ["Games"]
-authors: FLARE Team
-tags: 
+authors: ["FLARE Team"]
+tags 
 - Game
 - OSS Game
 draft: false

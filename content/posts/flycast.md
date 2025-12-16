@@ -4,8 +4,8 @@ description: |
  "Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast"
 pubDate: 2025-05-07T12:36:00Z
 categories: ["Games"]
-authors: Flyinghead
-tags: 
+authors: ["Flyinghead"]
+tags 
 - "Sega Emulator"
 - "Game Emulator"
 draft: false

@@ -4,8 +4,8 @@ description: |
  "An advanced todo list app with timeboxing & time tracking capabilities that supports importing tasks from your calendar, Jira, GitHub and others"
 pubDate: 2025-05-14T19:13:00Z
 categories: ["Productivity"]
-authors: Johannes Millan
-tags: ["Official"]
+authors: ["Johannes Millan"]
+tags ["Official"]
 draft: false
 ---
 

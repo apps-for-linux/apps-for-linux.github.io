@@ -4,8 +4,8 @@ description: |
  "MuseScore is an open source and free music notation software"
 pubDate: 2024-12-11T20:02:00Z
 categories: ["Audio & Video"]
-authors: MuseScore BVBA
-tags:
+authors: ["MuseScore BVBA"]
+tags
 - "Audio editor"
 draft: false
 ---

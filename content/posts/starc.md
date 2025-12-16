@@ -4,8 +4,8 @@ description: |
  "All in one screenwriting app"
 pubDate: 2025-03-10T13:20:00Z
 categories: ["Productivity"]
-authors: Story Apps
-tags: 
+authors: ["Story Apps"]
+tags 
 - "Screenwriting"
 license: "GPL-3.0"
 draft: false

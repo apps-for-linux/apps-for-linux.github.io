@@ -4,8 +4,8 @@ description: |
  "A simple open-source disk benchmark tool for Linux distros"
 pubDate: 2023-06-19T10:31:00Z
 categories: ["Utilities"]
-authors: Dmitry Sidorov
-tags: 
+authors: ["Dmitry Sidorov"]
+tags 
 - "Benchmarking"
 - "Resource monitor"
 license: "GPL-3.0"

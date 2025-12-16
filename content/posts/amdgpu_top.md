@@ -4,8 +4,8 @@ description: |
  "amdgpu_top is tool that display AMD GPU utilization."
 pubDate: 2025-09-02T02:43:00Z
 categories: ["Utilities"]
-authors: Umio Yasuno
-tags: 
+authors: ["Umio Yasuno"]
+tags 
 - "GPU"
 - "fetch tool"
 License: MIT  

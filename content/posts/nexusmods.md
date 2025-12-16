@@ -4,8 +4,8 @@ description: |
  "Mod installer, creator and manager for all your popular games."
 pubDate: 2025-03-24T12:16:00Z
 categories: ["Games"]
-authors: Black Tree Gaming Ltd
-tags: ["Official"]
+authors: ["Black Tree Gaming Ltd"]
+tags ["Official"]
 draft: false
 ---
 

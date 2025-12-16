@@ -4,8 +4,8 @@ description: |
  "High quality, visual, open source tool to create, design, and edit database files compatible with SQLite"
 pubDate: 2025-01-18T02:49:00Z
 categories: ["Development"]
-authors: DB Browser for SQLite Team
-tags: 
+authors: ["DB Browser for SQLite Team"]
+tags 
 - "Database"
 - "SQL"
 license: "GPL-3.0"

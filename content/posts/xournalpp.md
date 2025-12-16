@@ -4,8 +4,8 @@ description: |
  "Handwriting notetaking software with PDF annotation support"
 pubDate: 2025-02-19T23:01:00Z
 categories: ["Productivity"]
-authors: Xournal Team
-tags: 
+authors: ["Xournal Team"]
+tags 
 - "Notes"
 - "Handwriting"
 license: "GPL-2.0"

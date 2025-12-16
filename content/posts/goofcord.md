@@ -4,8 +4,8 @@ description: |
  "Take control of your Discord experience with GoofCord – the highly configurable and privacy-focused Discord client"
 pubDate: 2025-04-15T23:43:00Z
 categories: ["Network"]
-authors: Milkshift
-tags: 
+authors: ["Milkshift"]
+tags 
 - "Messenger"
 - "Discord client"
 License: OSL-3.0

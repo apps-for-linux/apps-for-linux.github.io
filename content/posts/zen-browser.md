@@ -4,8 +4,8 @@ description: |
  "Performance-optimized and privacy-focused browser built atop Firefox"
 pubDate: 2025-05-14T11:50:00Z
 categories: ["Network"]
-authors: Zen Browser Team
-tags: 
+authors: ["Zen Browser Team"]
+tags 
 - "Browser"
 - "Firefox-based"
 License: MPL-2.0

@@ -4,8 +4,8 @@ description: |
  "A lightweight and user-focused web browser powered by Electron"
 pubDate: 2024-12-26T02:25:00Z
 categories: ["Network"]
-authors: Catalyst Developers
-tags: 
+authors: ["Catalyst Developers"]
+tags 
 - "Browser"
 draft: false
 ---

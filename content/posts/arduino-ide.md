@@ -4,8 +4,8 @@ description: |
  "The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board"
 pubDate: 2025-04-09T14:44:00Z
 categories: ["Development"]
-authors: Arduino
-tags: 
+authors: ["Arduino"]
+tags 
 - "IDE"
 License: AGPL-3.0
 draft: false

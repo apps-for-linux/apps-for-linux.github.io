@@ -4,8 +4,8 @@ description: |
  "A CAD application for creating virtual LEGO models"
 pubDate: 2025-01-21T03:49:00Z
 categories: ["Graphics"]
-authors: Leonardo Zide
-tags: 
+authors: ["Leonardo Zide"]
+tags 
 - "CAD"
 license: "GPL-2.0"
 draft: false

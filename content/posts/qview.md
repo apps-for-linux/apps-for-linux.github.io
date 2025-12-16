@@ -4,8 +4,8 @@ description: |
  "Practical and minimal image viewer"
 pubDate: 2025-03-10T07:18:00Z
 categories: ["Graphics"]
-authors: Benjamin O
-tags: 
+authors: ["Benjamin O"]
+tags 
 - "Image Viewer"
 draft: false
 ---

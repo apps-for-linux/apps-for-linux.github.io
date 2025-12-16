@@ -4,8 +4,8 @@ description: |
  "Open source cross-platform alternative to AirDrop"
 pubDate: 2025-02-20T04:23:00Z
 categories: ["Network"]
-authors: Tien Do Nam
-tags: 
+authors: ["Tien Do Nam"]
+tags 
 - "Sending files"
 license: "MIT"
 draft: false

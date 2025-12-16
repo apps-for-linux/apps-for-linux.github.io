@@ -4,8 +4,8 @@ description: |
  "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte."
 pubDate: 2025-05-20T19:41:00Z
 categories: ["Development"]
-authors: GitButler
-tags: 
+authors: ["GitButler"]
+tags 
 - "Git client"
 License: FSL-1.0-MIT
 draft: false

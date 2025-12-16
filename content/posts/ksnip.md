@@ -4,8 +4,8 @@ description: |
  "ksnip the cross-platform screenshot and annotation tool"
 pubDate: 2024-01-20T01:49:00Z
 categories: ["Graphics"]
-authors: Damir Porobić
-tags: 
+authors: ["Damir Porobić"]
+tags 
 - "Screenshot tool"
 license: "GPL-3.0"
 draft: false

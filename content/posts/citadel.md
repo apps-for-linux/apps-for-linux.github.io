@@ -4,8 +4,8 @@ description: |
  "Manage your ebook library without frustrations. Calibre compatible."
 pubDate: 2024-10-29T10:25:00Z
 categories: ["Productivity"]
-authors: Phil Denhoff
-tags: 
+authors: ["Phil Denhoff"]
+tags 
 - "eBook reader"
 license: "MIT"
 draft: false

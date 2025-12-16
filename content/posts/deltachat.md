@@ -4,8 +4,8 @@ description: |
  "Email-based instant messaging for Desktop."
 pubDate: 2025-05-15T13:43:00Z
 categories: ["Network"]
-authors: Delta Chat contributors
-tags: 
+authors: ["Delta Chat contributors"]
+tags 
 - "Messenger"
 - "eMail client"
 license: "GPL-3.0"

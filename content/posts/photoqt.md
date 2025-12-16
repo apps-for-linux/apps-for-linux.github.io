@@ -4,8 +4,8 @@ description: |
  "PhotoQt is a simple yet powerful and good looking image viewer, based on Qt/QML, published as open-source and completely free"
 pubDate: 2025-05-06T12:16:00Z
 categories: ["Graphics"]
-authors: Lukas Spies
-tags: 
+authors: ["Lukas Spies"]
+tags 
 - "Image viewer"
 license: "GPL-2.0"
 draft: false

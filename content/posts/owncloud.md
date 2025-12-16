@@ -4,8 +4,8 @@ description: |
  "Open-source software for highly secure, borderless collaboration and filesharing on any device"
 pubDate: 2025-01-23T08:47:00Z
 categories: ["Network"]
-authors: ownCloud
-tags: 
+authors: ["ownCloud"]
+tags 
 - "Collaboration platform"
 draft: false
 ---

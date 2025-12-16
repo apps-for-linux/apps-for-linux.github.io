@@ -4,8 +4,8 @@ description: |
  "An outline font editor"
 pubDate: 2023-01-01T09:00:00Z
 categories: ["Graphics"]
-authors: FontForge Project contributors
-tags: 
+authors: ["FontForge Project contributors"]
+tags 
 - "Font editor"
 license: "GPL-3.0"
 draft: false

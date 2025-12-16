@@ -4,8 +4,8 @@ description: |
  "Free/Libre Open Source Software Binaries of VS Code"
 pubDate: 2025-05-13T21:21:00Z
 categories: ["Development"]
-authors: The VSCodium contributors
-tags: 
+authors: ["The VSCodium contributors"]
+tags 
 - "Text editor"
 - "VSCode fork"
 license: "MIT"

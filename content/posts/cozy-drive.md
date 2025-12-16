@@ -4,8 +4,8 @@ description: |
  "File Synchronisation for Cozy on Desktop and Laptop"
 pubDate: 2025-01-22T16:17:00Z
 categories: ["Utilities"]
-authors: Cozy Labs
-tags:
+authors: ["Cozy Labs"]
+tags
 - "Cloud client"
 License: AGPL-3.0
 draft: false

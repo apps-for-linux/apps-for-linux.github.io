@@ -4,8 +4,8 @@ description: |
  "A Free and open source vector graphics editor"
 pubDate: 2025-05-09T00:24:00Z
 categories: ["Graphics"]
-authors: Inkscape Authors
-tags: 
+authors: ["Inkscape Authors"]
+tags 
 - "Vetor graphics editor"
 draft: false
 ---

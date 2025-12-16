@@ -4,8 +4,8 @@ description: |
  "Tool to make sandboxing AppImages easy"
 pubDate: 2024-12-03T02:26:00Z
 categories: ["Development"]
-authors: mgord9518
-tags: 
+authors: ["mgord9518"]
+tags 
  - "Sandbox"
  - "AppImage"
 license: "MIT"

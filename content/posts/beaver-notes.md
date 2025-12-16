@@ -4,8 +4,8 @@ description: |
  "Privacy-focused note-taking application"
 pubDate: 2025-06-29T18:50:00Z
 categories: ["Productivity"]
-authors: Daniele Rolli
-tags: 
+authors: ["Daniele Rolli"]
+tags 
 - "Notes"
 License: MIT
 draft: false

@@ -4,8 +4,8 @@ description: |
  "Daily journaling without distraction"
 pubDate: 2023-06-29T22:52:00Z
 categories: ["Productivity"]
-authors: André Weller
-tags: 
+authors: ["André Weller"]
+tags 
 - "Jorunaling"
 - "Notes"
 license: "GPL-3.0"

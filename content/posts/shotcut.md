@@ -4,8 +4,8 @@ description: |
  "Free, open source, cross-platform video editor"
 pubDate: 2025-05-12T17:34:00Z
 categories: ["Audio & Video"]
-authors: Meltytech
-tags: 
+authors: ["Meltytech"]
+tags 
 - "Video Editor"
 license: "GPL-3.0"
 draft: false

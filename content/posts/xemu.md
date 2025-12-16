@@ -4,8 +4,8 @@ description: |
  "Free and open-source original Xbox game console emulation"
 pubDate: 2025-02-05T04:18:00Z
 categories: ["Games"]
-authors: xemu Project
-tags: 
+authors: ["xemu Project"]
+tags 
 - "Xbox emulator"
 - "Game emulator"
 

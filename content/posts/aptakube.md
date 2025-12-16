@@ -4,8 +4,8 @@ description: |
  "Modern, lightweight and multi-cluster Kubernetes GUI"
 pubDate: 2025-06-19T13:43:00Z
 categories: ["Development"]
-authors: Sumbit Labs Limited
-tags: 
+authors: ["Sumbit Labs Limited"]
+tags 
 - "Kubernetes"
 - "IDE"
 license: "EULA"
