@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-01-20T01:49:00Z
 categories: ["Graphics"]
 authors: ["Damir Porobić"]
-tags 
+tags:
 - "Screenshot tool"
 license: "GPL-3.0"
 draft: false

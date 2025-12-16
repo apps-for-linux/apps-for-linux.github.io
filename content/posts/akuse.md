@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-14T05:45:00Z
 categories: ["Audio & Video"]
 authors: ["Alessio Ganzarolli"]
-tags 
+tags:
 - "Anime"
 license: "GPL-3.0"
 draft: false

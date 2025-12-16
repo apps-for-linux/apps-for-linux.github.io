@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-16T15:38:00Z
 categories: ["Finance"]
 authors: ["Trezor company"]
-tags 
+tags:
 - "Cryptocurrency"
 license: "Custom"
 draft: false

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-09T21:13:00Z
 categories: ["Network"]
 authors: ["Alexander Frick"]
-tags 
+tags:
 - "Browser"
 - "Chromium"
 draft: false

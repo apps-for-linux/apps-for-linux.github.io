@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-01T09:25:00Z
 categories: ["Development"]
 authors: ["Pulsar-Edit Original work"]
-tags 
+tags:
 - "Code editor"
 draft: false
 ---

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-17T19:39:00Z
 categories: ["Network"]
 authors: ["Blueprint for Free Speech"]
-tags 
+tags:
 - "Messenger"
 - "Censorship-resistance software"
 license: "GPL-3.0"

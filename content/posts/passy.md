@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-24T23:59:00Z
 categories: ["Utilities"]
 authors: ["GlitterWare"]
-tags 
+tags:
 - "Offline password manager"
 draft: false
 ---

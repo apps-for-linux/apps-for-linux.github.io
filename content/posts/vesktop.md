@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-06T07:49:00Z
 categories: ["Network"]
 authors: ["Vendicated"]
-tags 
+tags:
 - "Messenger"
 - "Discord client"
 license: "GPL-3.0"

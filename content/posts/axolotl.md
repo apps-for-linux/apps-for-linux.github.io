@@ -5,7 +5,7 @@ description: |
 pubDate: 2023-10-27T23:04:00Z
 categories: ["Network"]
 authors: ["Aaron Kimmig"]
-tags 
+tags:
 - "Signal Client"
 - "Messenger"
 license: "GPL-3.0"

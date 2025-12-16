@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-09T14:44:00Z
 categories: ["Development"]
 authors: ["Arduino"]
-tags 
+tags:
 - "IDE"
 License: AGPL-3.0
 draft: false

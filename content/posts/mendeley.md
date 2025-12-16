@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-10T00:00:00Z
 categories: ["Productivity"]
 authors: ["Elsevier"]
-tags 
+tags:
 - "Reference manager"
 license: "EULA"
 draft: false

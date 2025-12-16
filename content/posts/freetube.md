@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-01T22:32:00Z
 categories: ["Network"]
 authors: ["FreeTube Authors"]
-tags 
+tags:
 - "Youtube client"
 draft: false
 ---

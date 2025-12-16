@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-06T11:36:00Z
 categories: ["Network"]
 authors: ["Wavebox"]
-tags 
+tags:
 - "Web apps"
 - "Browser"
 license: "EULA"

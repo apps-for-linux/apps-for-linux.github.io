@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-30T18:39:00Z
 categories: ["Productivity"]
 authors: ["Anytype"]
-tags 
+tags:
 - "Knowledge base"
 license: "Custom"
 draft: false

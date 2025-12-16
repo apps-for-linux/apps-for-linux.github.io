@@ -5,8 +5,8 @@ description: |
 pubDate: 2024-09-01T18:48:00Z
 slug: 86box
 categories: ["Games"]
-authors: ["86box"]"
-tags ["Official"]
+authors: ["86box"]
+tags:["Official"]
 license: "GPL-2.0"
 draft: false
 ---

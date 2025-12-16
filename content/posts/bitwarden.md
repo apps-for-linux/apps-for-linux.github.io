@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-26T22:13:00Z
 categories: ["Utilities"]
 authors: ["BitWarden"]
-tags 
+tags:
 - "Password management"
 license: "GPL-3.0"
 draft: false

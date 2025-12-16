@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-14T22:59:00Z
 categories: ["Science"]
 authors: ["Open Observatory of Network Interference (OONI)"]
-tags
+tags:
 - "Censorship-resistance"
 License: BSD-3-Clause
 draft: false

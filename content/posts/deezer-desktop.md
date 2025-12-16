@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-30T14:35:00Z
 categories: ["Audio & Video"]
 authors: ["Aurélien Hamy"]
-tags 
+tags:
 - "Deezer"
 - "Music Streaming"
 license: "MIT"

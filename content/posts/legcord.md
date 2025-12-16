@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-21T18:43:00Z
 categories: ["Network"]
 authors: ["Legcord"]
-tags
+tags:
 - "Messenger" 
 - "Discord client"
 License: OSL-3.0

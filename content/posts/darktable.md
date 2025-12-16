@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-21T13:50:00Z
 categories: ["Network"]
 authors: ["the darktable team"]
-tags
+tags:
 - "RAW processing"
 - "Image editor"
 license: "GPL-3.0"

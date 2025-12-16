@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-11-27T22:19:00Z
 categories: ["System"]
 authors: ["Mazhar Hussain"]
-tags 
+tags:
 - "Appearance"
 draft: false
 ---

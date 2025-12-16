@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-11-20T22:52:00Z
 categories: ["Productivity"]
 authors: ["KOReader Community"]
-tags
+tags:
 - "eBook reader"
 License: AGPL-3.0
 draft: false

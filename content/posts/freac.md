@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-04T18:42:00Z
 categories: ["Audio & Video"]
 authors: ["Robert Kausch"]
-tags
+tags:
 - "Audio Converter"
 license: "GPL-2.0"
 draft: false

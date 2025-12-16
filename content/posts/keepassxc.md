@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-06-20T12:42:00Z
 categories: ["Utilities"]
 authors: ["KeePassXC Team"]
-tags 
+tags:
 - "Password Management"
 license: "GPL-3.0"
 draft: false

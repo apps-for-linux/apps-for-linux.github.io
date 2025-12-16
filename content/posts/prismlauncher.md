@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-04-07T20:06:00Z
 categories: ["Games"]
 authors: ["Prism Launcher Contributors"]
-tags 
+tags:
 - "Minecraft launcher"
 license: "GPL-3.0"
 draft: false

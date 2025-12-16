@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-18T19:22:00Z
 categories: ["Development"]
 authors: ["Bruno Authors"]
-tags 
+tags:
 - "API Testing"
 - "IDE"
 license: "MIT"

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-28T20:01:00Z
 categories: ["Productivity"]
 authors: ["LinwoodDev"]
-tags 
+tags:
 - "Time management system"
 draft: false
 ---

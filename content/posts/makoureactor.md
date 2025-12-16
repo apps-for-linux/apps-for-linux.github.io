@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-02T00:21:00Z
 categories: ["Games"]
 authors: ["Jérôme Arzel"]
-tags 
+tags:
 - Games
 license: "GPL-3.0"
 draft: false

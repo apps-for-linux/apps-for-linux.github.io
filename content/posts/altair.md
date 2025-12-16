@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-10-29T11:13:00Z
 categories: ["Development"]
 authors: ["Samuel Imolorhe"]
-tags 
+tags:
 - "GraphQL"
 license: "MIT"
 draft: false

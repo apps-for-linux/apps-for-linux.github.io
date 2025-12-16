@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-13T20:54:00Z
 categories: ["Network"]
 authors: ["SimpleX Chat"]
-tags 
+tags:
 - "Messenger"
 
 - "Censorship-resistance software"

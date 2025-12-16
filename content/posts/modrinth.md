@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-06T00:41:00Z
 categories: ["Games"]
 authors: ["Rinth"]
-tags 
+tags:
 - "Gaming tool"
 - "Mod marketplace"
 License: AGPL-3.0

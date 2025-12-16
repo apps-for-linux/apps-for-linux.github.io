@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-22T12:53:00Z
 categories: ["Games"]
 authors: ["Rare Devs"]
-tags
+tags:
 - "Epic Games"
 - "Legendary"
 license: gpl-3.0

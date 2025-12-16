@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-26T23:59:00Z
 categories: ["Network"]
 authors: ["LibreWolf"]
-tags 
+tags:
 - "Firefox-based"
 - "Browser"
 License: MPL-2.0

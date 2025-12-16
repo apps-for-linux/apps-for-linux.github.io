@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-10T11:05:00Z
 categories: ["Productivity"]
 authors: ["Maigo Erit"]
-tags 
+tags:
 - "Time control"
 draft: false
 ---

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-24T17:41:00Z
 categories: ["Productivity"]
 authors: ["Skymatic"]
-tags 
+tags:
 - "Cloud encryption"
 draft: false
 ---

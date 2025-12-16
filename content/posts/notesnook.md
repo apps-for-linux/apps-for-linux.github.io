@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-22T09:42:00Z
 categories: ["Productivity"]
 authors: ["Streetwriters"]
-tags
+tags:
 - "Notes"
 license: "GPL-3.0"
 draft: false

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-15T23:43:00Z
 categories: ["Network"]
 authors: ["Milkshift"]
-tags 
+tags:
 - "Messenger"
 - "Discord client"
 License: OSL-3.0

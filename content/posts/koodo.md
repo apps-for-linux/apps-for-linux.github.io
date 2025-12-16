@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-24T14:13:00Z
 categories: ["Productivity"]
 authors: ["App by Troye"]
-tags 
+tags:
 - "eBook reader"
 License: AGPL-3.0
 draft: false

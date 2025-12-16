@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-07-12T11:36:00Z
 categories: ["Graphics"]
 authors: ["Pencil2D"]
-tags
+tags:
 - "2D"
 license: "GPL-2.0"
 draft: false

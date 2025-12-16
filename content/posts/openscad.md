@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-20T22:29:00Z
 categories: ["Graphics"]
 authors: ["Marius Kintel"]
-tags 
+tags:
 - "3D"
 - "CAD"
 license: "GPL-3.0"

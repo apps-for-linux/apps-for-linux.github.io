@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-12-01T14:29:00Z
 categories: ["Utilities"]
 authors: ["The Tumultuous Unicorn Of Darkness"]
-tags 
+tags:
 - "System Monitor"
 draft: false
 ---

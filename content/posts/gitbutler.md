@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-20T19:41:00Z
 categories: ["Development"]
 authors: ["GitButler"]
-tags 
+tags:
 - "Git client"
 License: FSL-1.0-MIT
 draft: false

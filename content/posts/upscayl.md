@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-06-01T17:48:00Z
 categories: ["Graphics"]
 authors: ["Nayam Amarshe"]
-tags 
+tags:
 - "Upscaling software"
 - "AI-powered software"
 License: AGPL-3.0

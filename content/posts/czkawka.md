@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-16T10:59:00Z
 categories: ["System"]
 authors: ["Rafał Mikrut"]
-tags 
+tags:
 - "System cleaner"
 license: "MIT"
 draft: false

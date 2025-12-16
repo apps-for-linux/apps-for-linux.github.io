@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-19T13:43:00Z
 categories: ["Development"]
 authors: ["Sumbit Labs Limited"]
-tags 
+tags:
 - "Kubernetes"
 - "IDE"
 license: "EULA"

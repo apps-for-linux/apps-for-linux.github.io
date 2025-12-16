@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-26T00:00:00Z
 categories: ["Productivity"]
 authors: ["Mochi Cards"]
-tags 
+tags:
 - "Notes"
 license: "EULA"
 draft: false

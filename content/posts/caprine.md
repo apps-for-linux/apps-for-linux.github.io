@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-12-01T22:28:00Z
 categories: ["Network"]
 authors: ["Sindre Sorhus"]
-tags 
+tags:
 - "Messenger"
 - "Facebook"
 license: "MIT"

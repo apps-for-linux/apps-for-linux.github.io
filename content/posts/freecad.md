@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-15T16:33:00Z
 categories: ["Graphics"]
 authors: ["The FreeCAD Team"]
-tags 
+tags:
 - "CAD"
 draft: false
 ---

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-15T08:54:00Z
 categories: ["Finance"]
 authors: ["Frappe Technologies"]
-tags
+tags:
 - "Budget software"
 License: AGPL-3.0
 draft: false

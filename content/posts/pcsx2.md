@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-24T13:47:00Z
 categories: ["Games"]
 authors: ["PCSX2 Team"]
-tags
+tags:
 - "PlayStation Emulator"
 - "Game Emulator"
 

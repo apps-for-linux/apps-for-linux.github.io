@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-12T00:00:00Z
 categories: ["Development"]
 authors: ["Anysphere"]
-tags 
+tags:
 - "AI-powered software"
 - "Code editor"
 license: "EULA"

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-09T00:24:00Z
 categories: ["Graphics"]
 authors: ["Inkscape Authors"]
-tags 
+tags:
 - "Vetor graphics editor"
 draft: false
 ---

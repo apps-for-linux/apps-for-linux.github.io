@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-19T12:39:00Z
 categories: ["Games"]
 authors: ["Street Pea"]
-tags 
+tags:
 - "PlayStation"
 - "Remote control"
 License: AGPL-3.0

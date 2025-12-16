@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-14T20:30:00Z
 categories: ["Network"]
 authors: ["Martin Chaine"]
-tags 
+tags:
 - "Bookmark manager"
 draft: false
 ---

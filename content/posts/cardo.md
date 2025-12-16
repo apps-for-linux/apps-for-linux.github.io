@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-29T18:28:00Z
 categories: ["Network"]
 authors: ["n0vella"]
-tags 
+tags:
 - "Podcasts"
 License: GPL-3.0 
 draft: false

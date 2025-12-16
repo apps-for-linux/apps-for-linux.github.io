@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-20T13:42:00Z
 categories: ["Productivity"]
 authors: ["Ascensio System"]
-tags 
+tags:
 - "Office Suite"
 License: AGPL-3.0
 draft: false

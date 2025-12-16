@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-20T23:56:00Z
 categories: ["Network"]
 authors: ["Cas"]
-tags 
+tags:
 - "Anime"
 license: "GPL-3.0"
 draft: false

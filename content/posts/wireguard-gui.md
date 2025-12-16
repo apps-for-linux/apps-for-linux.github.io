@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-02T19:14:00Z
 categories: ["Network"]
 authors: ["Wireguard GUI Contributors"]
-tags 
+tags:
 - "VPN Client"
 - "Censorship-resistance software"
 License: Apache 2.0

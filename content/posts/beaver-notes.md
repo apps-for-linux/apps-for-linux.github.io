@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-29T18:50:00Z
 categories: ["Productivity"]
 authors: ["Daniele Rolli"]
-tags 
+tags:
 - "Notes"
 License: MIT
 draft: false

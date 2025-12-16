@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-06T16:18:00Z
 categories: ["Games"]
 authors: ["Cemu Project"]
-tags 
+tags:
 - "Game Emulator"
 - "Nintendo Emulator"
 License: MPL-2.0

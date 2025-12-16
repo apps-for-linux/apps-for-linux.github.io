@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-18T02:49:00Z
 categories: ["Development"]
 authors: ["DB Browser for SQLite Team"]
-tags 
+tags:
 - "Database"
 - "SQL"
 license: "GPL-3.0"

@@ -5,7 +5,7 @@ description: |
 pubDate: 2021-12-13T02:07:00Z
 categories: ["Audio & Video"]
 authors: ["LMMS"]
-tags 
+tags:
 - "DAW"
 - "Audio Editor"
 license: "GPL-2.0"

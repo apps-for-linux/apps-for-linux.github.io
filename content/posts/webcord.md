@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-13T01:59:00Z
 categories: ["Network"]
 authors: ["SpacingBat3"]
-tags 
+tags:
 - "Messenger"
 - "Discord client"
 license: "MIT"

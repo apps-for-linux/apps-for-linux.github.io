@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-22T20:06:00Z
 categories: ["Utilities"]
 authors: ["Adam Honse"]
-tags
+tags:
 - "Hardware controller"
 license: "GPL-2.0"
 draft: false

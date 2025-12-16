@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-21T11:18:00Z
 categories: ["Network"]
 authors: ["Nico Jensch"]
-tags 
+tags:
 - "Browser"
 - "Firefox-based"
 draft: false

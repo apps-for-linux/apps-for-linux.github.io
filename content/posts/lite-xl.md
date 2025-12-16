@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-12-05T17:34:00Z
 categories: ["Development"]
 authors: ["Lite XL Team"]
-tags 
+tags:
 - "Code editor"
 license: "MIT"
 draft: false

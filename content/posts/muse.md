@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-21T00:59:00Z
 categories: ["Audio & Video"]
 authors: ["The MusE development team"]
-tags 
+tags:
 - "Audio editor"
 - "DAW"
 draft: false

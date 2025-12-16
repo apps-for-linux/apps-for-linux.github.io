@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-02-03T21:32:00Z
 categories: ["System"]
 authors: ["Wez Furlong"]
-tags 
+tags:
 - "Terminal"
 draft: false
 ---

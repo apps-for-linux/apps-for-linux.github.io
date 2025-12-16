@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-03T14:38:00Z
 categories: ["Graphics"]
 authors: ["Ultimaker"]
-tags 
+tags:
 - "Slicing software"
 - "3D"
 License: LGPL-3.0

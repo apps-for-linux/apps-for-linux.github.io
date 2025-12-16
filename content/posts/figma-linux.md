@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-10-10T22:53:00Z
 categories: ["Graphics"]
 authors: ["Roman Chugunov"]
-tags 
+tags:
 - "UX/UI software"
 draft: false
 ---

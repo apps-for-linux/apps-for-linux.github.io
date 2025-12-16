@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-12-28T18:37:00Z
 categories: ["Development"]
 authors: ["WerWolv"]
-tags 
+tags:
 - "Hex editor"
 draft: false
 ---

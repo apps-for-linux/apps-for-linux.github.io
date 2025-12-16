@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-01T00:00:00Z
 categories: ["Graphics"]
 authors: ["Quixel"]
-tags 
+tags:
 - "3D"
 - "Assets Manager"
 license: "EULA"

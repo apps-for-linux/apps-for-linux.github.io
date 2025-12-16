@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-07T20:00:00Z
 categories: ["Audio & Video"]
 authors: ["Pierre de la Martinière"]
-tags 
+tags:
 - "YouTube Client"
 draft: false
 ---

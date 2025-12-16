@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-25T19:17:00Z
 categories: ["Graphics"]
 authors: ["Francesco Mondello"]
-tags 
+tags:
 - "Image converter"
 license: "GPL-3.0"
 draft: false

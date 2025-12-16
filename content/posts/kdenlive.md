@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-07T18:22:00Z 	
 categories: ["Audio & Video"]
 authors: ["Kdenlive Team"]
-tags ["Official"]
+tags:["Official"]
 draft: false
 ---
 

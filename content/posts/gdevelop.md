@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-07T10:50:00Z
 categories: ["Development"]
 authors: ["Florian Rival"]
-tags
+tags:
 - "Game development"
 license: "MIT"
 draft: false

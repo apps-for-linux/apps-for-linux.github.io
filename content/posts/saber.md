@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-12T12:57:00Z
 categories: ["Productivity"]
 authors: ["Adil Hanney"]
-tags 
+tags:
 - "Notes"
 - "Handwriting"
 license: "GPL-3.0"

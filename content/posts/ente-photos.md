@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-07-01T13:22:00Z
 categories: ["Network"]
 authors: ["Ente"]
-tags 
+tags:
 - "Photo Management"
 - "Cloud client"
 license: "GPL-3.0"

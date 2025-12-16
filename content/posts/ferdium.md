@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-26T09:16:00Z
 categories: ["Network"]
 authors: ["Ferdium Team"]
-tags 
+tags:
 - "Web apps"
 - "Browser"
 license: "Apache-2.0"

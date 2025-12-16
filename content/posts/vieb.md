@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-08T05:21:00Z
 categories: ["Network"]
 authors: ["Jelmer van Arnhem"]
-tags 
+tags:
 - "Browser"
 license: "GPL-3.0"
 draft: false

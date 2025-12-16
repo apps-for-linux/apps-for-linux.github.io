@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-23T15:43:00Z
 categories: ["Science"]
 authors: ["Stellarium contributors"]
-tags 
+tags:
 - "Planetarium"
 license: "GPL-2.0"
 draft: false

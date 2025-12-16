@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-16T06:13:00Z
 categories: ["Productivity"]
 authors: ["Yunnan Liandi Technology"]
-tags 
+tags:
 - "Knowledge base"
 - "AI-powered software"
 License: AGPL-3.0

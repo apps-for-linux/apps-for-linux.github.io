@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-14T14:11:00Z
 categories: ["Network"]
 authors: ["Wire Swiss"]
-tags 
+tags:
 - "Messenger"
 - "Censorship-resistance software"
 license: "GPL-3.0"

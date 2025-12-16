@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-24T14:45:00Z
 categories: ["Development"]
 authors: ["GAMS Development"]
-tags 
+tags:
 - "Algebra"
 - "Mathematical models"
 draft: false

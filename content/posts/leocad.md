@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-21T03:49:00Z
 categories: ["Graphics"]
 authors: ["Leonardo Zide"]
-tags 
+tags:
 - "CAD"
 license: "GPL-2.0"
 draft: false

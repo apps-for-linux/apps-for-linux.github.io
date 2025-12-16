@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-11-18T18:38:00Z
 categories: ["Productivity"]
 authors: ["Obsidian Team"]
-tags 
+tags:
 - "Knowledge Base"
 license: "EULA"
 draft: false

@@ -5,7 +5,7 @@ description: |
 pubDate: 2022-10-22T16:46:00Z
 categories: ["Audio & Video"]
 authors: ["Avidemux Authors"]
-tags ["Video editor"]
+tags:["Video editor"]
 license: "GPL-2.0"
 draft: false
 ---

@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-10-25T23:03:00Z
 categories: ["Graphics"]
 authors: ["Pablo Ivan Fonovich"]
-tags 
+tags:
 - "Gaming tool"
 - "Game development"
 license: "GPL-3.0"

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-06T12:16:00Z
 categories: ["Graphics"]
 authors: ["Lukas Spies"]
-tags 
+tags:
 - "Image viewer"
 license: "GPL-2.0"
 draft: false

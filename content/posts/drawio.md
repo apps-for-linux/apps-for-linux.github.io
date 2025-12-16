@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-26T19:49:00Z
 categories: ["Graphics"]
 authors: ["JGraph"]
-tags
+tags:
 - "Diagramming tool"
 license: "Apache-2.0"
 draft: false

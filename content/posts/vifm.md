@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-07T19:03:00Z
 categories: ["System"]
 authors: ["vifm Authors"]
-tags 
+tags:
 - "File Manager"
 license: "GPL-2.0"
 draft: false

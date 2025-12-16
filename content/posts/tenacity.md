@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-01T09:22:00Z
 categories: ["Audio & Video"]
 authors: ["Tenacity community"]
-tags 
+tags:
 - "Audio editor"
 - "DAW"
 license: "GPL-2.0"

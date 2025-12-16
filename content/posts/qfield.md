@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-21T05:46:00Z
 categories: ["Science"]
 authors: ["OPENGIS.ch"]
-tags 
+tags:
 - "Geodata"
 license: "GPL-2.0"
 draft: false

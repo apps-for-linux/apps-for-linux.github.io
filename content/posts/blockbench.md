@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-18T00:06:00Z
 categories: ["Graphics"]
 authors: ["Jannis Petersen"]
-tags 
+tags:
 - "3D"
 license: "GPL-3.0"
 draft: false

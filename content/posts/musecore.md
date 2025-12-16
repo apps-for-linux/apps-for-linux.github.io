@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-12-11T20:02:00Z
 categories: ["Audio & Video"]
 authors: ["MuseScore BVBA"]
-tags
+tags:
 - "Audio editor"
 draft: false
 ---

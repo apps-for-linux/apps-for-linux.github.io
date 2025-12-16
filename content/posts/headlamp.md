@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-07T17:18:00Z
 categories: ["Development"]
 authors: ["The Headlamp Contributors"]
-tags 
+tags:
 - "DevOps"
 - "Kubernetes"
 draft: false

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-14T15:23:00Z
 categories: ["Development"]
 authors: ["Eclipse Foundation"]
-tags 
+tags:
 - "IDE"
 - "VSCode fork"
 draft: false

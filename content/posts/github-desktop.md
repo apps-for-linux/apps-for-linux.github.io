@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-09T21:00:00Z
 categories: ["Development"]
 authors: ["Brendan Forster"]
-tags 
+tags:
 - "Git client"
 - "GitHub client"
 draft: false

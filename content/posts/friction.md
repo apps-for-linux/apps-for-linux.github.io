@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-11T22:16:00Z
 categories: ["Graphics"]
 authors: ["Friction contributors"]
-tags 
+tags:
 - "2D"
 draft: false
 ---

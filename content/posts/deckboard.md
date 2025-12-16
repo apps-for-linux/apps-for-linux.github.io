@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-14T09:27:00Z
 categories: ["Games"]
 authors: ["Riva Farabi"]
-tags
+tags:
 - "Monitor resource"
 - "Remote control"
 draft: false

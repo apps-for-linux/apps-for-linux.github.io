@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-04T14:06:00Z
 categories: ["Games"]
 authors: ["Jean-Philip Desjardins"]
-tags
+tags:
 - "PlayStation Emulator"
 - "Game Emulator"
 License: BSD-2-Clause

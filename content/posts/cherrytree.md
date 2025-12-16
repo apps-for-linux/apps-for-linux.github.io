@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-04T00:47:00Z
 categories: ["Productivity"]
 authors: ["Giuseppe Penone"]
-tags 
+tags:
 - "Notes"
 license: "GPL-3.0"
 draft: false

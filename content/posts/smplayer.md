@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-12T11:30:00Z
 categories: ["Audio & Video"]
 authors: ["Ricardo Villalba"]
-tags 
+tags:
 - "Media player"
 license: "GPL-2.0"
 draft: false

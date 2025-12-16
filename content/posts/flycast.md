@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-07T12:36:00Z
 categories: ["Games"]
 authors: ["Flyinghead"]
-tags 
+tags:
 - "Sega Emulator"
 - "Game Emulator"
 draft: false

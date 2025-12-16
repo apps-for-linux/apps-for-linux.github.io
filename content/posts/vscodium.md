@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-13T21:21:00Z
 categories: ["Development"]
 authors: ["The VSCodium contributors"]
-tags 
+tags:
 - "Text editor"
 - "VSCode fork"
 license: "MIT"

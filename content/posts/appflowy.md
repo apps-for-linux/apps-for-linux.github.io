@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-10-24T12:40:00Z
 categories: ["Productivity"]
 authors: ["AppFlowy"]
-tags 
+tags:
 - "Knowledge Base"
 License: AGPL-3.0
 draft: false

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-01T05:50:00Z
 categories: ["Games"]
 authors: ["Naev DevTeam"]
-tags ["Official"]
+tags:["Official"]
 draft: false
 ---
 

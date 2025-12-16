@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-10-07T19:45:00Z
 categories: ["Finance"]
 authors: ["Alephium Team"]
-tags 
+tags:
 -   "Cryptocurrency"
 License: LGPL-3.0
 draft: false

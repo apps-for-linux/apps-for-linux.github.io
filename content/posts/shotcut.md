@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-12T17:34:00Z
 categories: ["Audio & Video"]
 authors: ["Meltytech"]
-tags 
+tags:
 - "Video Editor"
 license: "GPL-3.0"
 draft: false

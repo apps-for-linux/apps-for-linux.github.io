@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-15T22:51:00Z
 categories: ["Productivity"]
 authors: ["Michal Krejci"]
-tags 
+tags:
 - "Notes"
 - "To-do list"
 license: "EULA"

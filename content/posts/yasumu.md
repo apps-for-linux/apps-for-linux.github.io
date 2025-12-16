@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-10-06T09:02:00Z
 categories: ["Development"]
 authors: ["Yasumu Developers"]
-tags 
+tags:
 - "API Testing"
 license: "MIT"
 draft: false

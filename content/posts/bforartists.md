@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-09T00:30:00Z
 categories: ["Graphics"]
 authors: ["Reiner Prokein"]
-tags 
+tags:
 - "3D"
 license: "GPL-2.0"
 draft: false

@@ -5,7 +5,7 @@ description: |
 pubDate: 2023-01-01T09:00:00Z
 categories: ["Graphics"]
 authors: ["FontForge Project contributors"]
-tags 
+tags:
 - "Font editor"
 license: "GPL-3.0"
 draft: false

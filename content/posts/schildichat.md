@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-20T17:59:00Z
 categories: ["Network"]
 authors: ["SchildiChat"]
-tags
+tags:
 - "Matrix"
 - "IM"
 license: "Apache-2.0"

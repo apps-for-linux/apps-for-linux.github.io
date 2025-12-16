@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-19T20:19:00Z
 categories: ["Games"]
 authors: ["Archipelago"]
-tags ["Game Engine"]
+tags:["Game Engine"]
 license: "GPL-3.0"
 draft: false
 ---

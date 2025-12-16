@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-07T02:13:00Z
 categories: ["Graphics"]
 authors: ["Simon Peter"]
-tags 
+tags:
 - "3D"
 - "Slicing software"
 draft: false

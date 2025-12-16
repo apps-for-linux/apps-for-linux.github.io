@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-05T04:18:00Z
 categories: ["Games"]
 authors: ["xemu Project"]
-tags 
+tags:
 - "Xbox emulator"
 - "Game emulator"
 

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-25T01:23:00Z
 categories: ["Network"]
 authors: ["Equicord"]
-tags 
+tags:
 - "Messenger"
 - "Discord client"
 draft: false

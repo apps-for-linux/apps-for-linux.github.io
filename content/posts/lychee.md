@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-26T00:00:00Z
 categories: ["Graphics"]
 authors: ["Mango 3D"]
-tags 
+tags:
 - "3D"
 - "Slicing software"
 license: "EULA"

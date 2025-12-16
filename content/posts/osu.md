@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-24T10:06:00Z
 categories: ["Games"]
 authors: ["Dean Herbert"]
-tags 
+tags:
 - "Game"
 license: "MIT"
 draft: false

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-20T00:00:00Z
 categories: ["Network"]
 authors: ["Automattic"]
-tags 
+tags:
 - "Messenger"
 - "Matrix"
 License: EULA

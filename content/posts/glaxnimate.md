@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-03T11:47:00Z
 categories: ["Graphics"]
 authors: ["Mattia Basaglia"]
-tags 
+tags:
 - "2D"
 license: "GPL-3.0"
 draft: false

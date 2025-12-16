@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-25T22:26:00Z
 categories: ["Development"]
 authors: ["TheAssassin"]
-tags 
+tags:
 - "AppImage"
 license: "MIT"
 draft: false

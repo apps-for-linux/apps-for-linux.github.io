@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-16T00:00:00Z
 categories: ["Development"]
 authors: ["OpenLens Authors"]
-tags 
+tags:
 - "IDE"
 license: "MIT"
 draft: false

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-19T08:17:00Z
 categories: ["Network"]
 authors: ["Nextcloud"]
-tags 
+tags:
 - "Collaboration platform"
 draft: false
 ---

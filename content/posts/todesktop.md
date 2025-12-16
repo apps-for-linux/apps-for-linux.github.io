@@ -4,7 +4,7 @@ description: "Web app to desktop app in minutes"
 pubDate: 2025-04-11T00:00:00Z
 categories: ["Network"]
 authors: ["ToDesktop"]
-tags 
+tags:
 - "Web apps management"
 draft: false
 ---

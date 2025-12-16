@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-23T07:57:00Z
 categories: ["Productivity"]
 authors: ["LinwoodDev"]
-tags 
+tags:
 - "Notes"
 - "Handwriting"
 License: AGPL-3.0

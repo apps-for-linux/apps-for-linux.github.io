@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-01-29T05:52:00Z
 categories: ["Audio & Video"]
 authors: ["Stargate Audio"]
-tags 
+tags:
 - "DAW"
 - "Audio Editor"
 license: "GPL-3.0"

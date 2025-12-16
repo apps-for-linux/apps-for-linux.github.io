@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-07-05T17:56:00Z
 categories: ["Finance"]
 authors: ["One Part Rain"]
-tags 
+tags:
 - "Budget software"
 draft: false
 ---

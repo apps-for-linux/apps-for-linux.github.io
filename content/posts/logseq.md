@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-12-16T17:29:00Z
 categories: ["Productivity"]
 authors: ["Logseq"]
-tags 
+tags:
 - "Knowledge base"
 License: AGPL-3.0
 draft: false

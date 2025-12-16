@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-07-22T12:08:00Z
 categories: ["Network"]
 authors: ["Belledonne Communications"]
-tags 
+tags:
 - "SIP Phone"
 - "Conference calling"
 draft: false

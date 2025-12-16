@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-20T15:20:00Z
 categories: ["Audio & Video"]
 authors: ["Peter Rudenko and contributors"]
-tags 
+tags:
 - "Audio editor"
 draft: false
 ---

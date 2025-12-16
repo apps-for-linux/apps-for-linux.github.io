@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-15T02:02:00Z
 categories: ["Development"]
 authors: ["Matthew Rathbone"]
-tags 
+tags:
 - "Database"
 - "SQL"
 license: "GPL-3.0"

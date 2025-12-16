@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-09-26T00:00:00Z
 categories: ["Utilities"]
 authors: ["Warp"]
-tags 
+tags:
 - "Terminal"
 - "AI-powered software"
 draft: false

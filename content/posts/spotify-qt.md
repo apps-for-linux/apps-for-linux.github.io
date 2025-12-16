@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-04-28T22:58:00Z
 categories: ["Audio & Video"]
 authors: ["kraxie"]
-tags 
+tags:
 - "Music streaming client"
 - "Spotify"
 license: "GPL-3.0"

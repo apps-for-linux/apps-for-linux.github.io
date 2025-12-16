@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-20T10:32:00Z
 categories: ["Development"]
 authors: ["Fabio Di Stasio"]
-tags 
+tags:
 - "SQL"
 license: "MIT"
 draft: false

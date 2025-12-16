@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-09-22T04:04:00Z
 categories: ["Games"]
 authors: ["Michael Rosack"]
-tags 
+tags:
 - "Game client"
 license: "MIT"
 draft: false

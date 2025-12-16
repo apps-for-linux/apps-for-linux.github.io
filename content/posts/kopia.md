@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-24T04:49:00Z
 categories: ["Network"]
 authors: ["Kopia Authors"]
-tags 
+tags:
 - "Backup tool"
 license: "Apache-2.0"
 draft: false

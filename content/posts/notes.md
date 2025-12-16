@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-10-01T15:59:00Z
 categories: ["Productivity"]
 authors: ["Ruby Mamistvalove"]
-tags 
+tags:
 - "Notes"
 License: MPL-2.0
 draft: false

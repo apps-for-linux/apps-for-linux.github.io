@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-23T08:47:00Z
 categories: ["Network"]
 authors: ["ownCloud"]
-tags 
+tags:
 - "Collaboration platform"
 draft: false
 ---

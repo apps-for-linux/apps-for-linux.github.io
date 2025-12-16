@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-31T08:13:00Z
 categories: ["Development"]
 authors: ["Neovim contributors"]
-tags 
+tags:
 - "Code editor"
 draft: false
 ---

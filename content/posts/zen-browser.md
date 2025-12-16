@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-14T11:50:00Z
 categories: ["Network"]
 authors: ["Zen Browser Team"]
-tags 
+tags:
 - "Browser"
 - "Firefox-based"
 License: MPL-2.0

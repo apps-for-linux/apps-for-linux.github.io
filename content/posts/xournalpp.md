@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-19T23:01:00Z
 categories: ["Productivity"]
 authors: ["Xournal Team"]
-tags 
+tags:
 - "Notes"
 - "Handwriting"
 license: "GPL-2.0"

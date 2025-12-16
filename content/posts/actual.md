@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-10-02T14:34:00Z
 categories: ["Finance"]
 authors: ["James Long"]
-tags 
+tags:
 - "Budget software"
 license: "MIT"
 draft: false

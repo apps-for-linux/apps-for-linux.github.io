@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-15T21:10:00Z
 categories: ["Utilities"]
 authors: ["Balena"]
-tags 
+tags:
 - "Flashing software"
 draft: false
 ---

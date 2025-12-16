@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-30T08:19:00Z
 categories: ["Audio & Video"]
 authors: ["Jeff"]
-tags 
+tags:
 - "Self-hosted"
 - "Music streaming client"
 license: "GPL-3.0"

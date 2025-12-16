@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-12T20:27:00Z
 categories: ["Productivity"]
 authors: ["Standard Notes"]
-tags 
+tags:
 - "Notes"
 License: AGPL-3.0
 draft: false

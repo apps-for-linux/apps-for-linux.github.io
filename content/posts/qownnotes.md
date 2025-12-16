@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-20T22:41:00Z
 categories: ["Productivity"]
 authors: ["Patrizio Bekerle"]
-tags
+tags:
 - "Notes"
 draft: false
 ---

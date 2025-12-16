@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-11T17:58:00Z
 categories: ["Development"]
 authors: ["Rizin"]
-tags 
+tags:
 - "Reverse Engineering"
 license: "GPL-3.0"
 draft: false

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-14T10:36:00Z
 categories: ["Network"]
 authors: ["Tutao"]
-tags 
+tags:
 - "Mail Client"
 - "Censorship-resistance software"
 license: "GPL-3.0"

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-08T23:47:00Z
 categories: ["Games"]
 authors: ["diasurgical"]
-tags 
+tags:
 - Games
 license: "Custom"
 draft: false

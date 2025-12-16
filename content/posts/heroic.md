@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-22T23:52:00Z
 categories: ["Games"]
 authors: ["Heroic Games Launcher Authors"]
-tags 
+tags:
 - "Games Launcher"
 draft: false
 ---

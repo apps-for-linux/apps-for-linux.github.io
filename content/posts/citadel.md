@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-10-29T10:25:00Z
 categories: ["Productivity"]
 authors: ["Phil Denhoff"]
-tags 
+tags:
 - "eBook reader"
 license: "MIT"
 draft: false

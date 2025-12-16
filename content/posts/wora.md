@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-25T13:58:00Z
 categories: ["Audio & Video"]
 authors: ["Aaryan Kapoor"]
-tags 
+tags:
 - "Music player"
 license: "MIT"
 draft: false

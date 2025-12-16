@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-24T05:35:00Z
 categories: ["Games"]
 authors: ["Diego Duclos"]
-tags
+tags:
 - "Game client"
 License: "GPL-3.0"
 draft: false

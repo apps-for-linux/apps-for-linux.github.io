@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-09-16T13:18:00Z
 categories: ["Development"]
 authors: ["Chris Maltby"]
-tags 
+tags:
 - "Game development"
 license: "MIT"
 draft: false

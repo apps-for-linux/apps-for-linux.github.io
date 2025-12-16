@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-29T20:59:00Z
 categories: ["Games"]
 authors: ["DavidoTek"]
-tags 
+tags:
 - "Wine version manager"
 license: GPL-3.0
 draft: false

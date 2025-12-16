@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-10T17:31:00Z
 categories: ["Audio & Video"]
 authors: ["Audacity Developer Team"]
-tags 
+tags:
 - "Audio recording"
 - "DAW"
 license: "GPL-3.0"

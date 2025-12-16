@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-12-22T21:40:00Z
 categories: ["Audio & Video"]
 authors: ["OpenShot Studios"]
-tags 
+tags:
 - "Video Editor"
 license: "GPL-3.0"
 draft: false

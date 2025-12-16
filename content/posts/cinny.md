@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-10T17:02:00Z
 categories: ["Network"]
 authors: ["Ajay Bura"]
-tags 
+tags:
 - "Matrix"
 - "Messenger"
 License: AGPL-3.0

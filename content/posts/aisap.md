@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-12-03T02:26:00Z
 categories: ["Development"]
 authors: ["mgord9518"]
-tags 
+tags:
  - "Sandbox"
  - "AppImage"
 license: "MIT"

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-10T07:18:00Z
 categories: ["Graphics"]
 authors: ["Benjamin O"]
-tags 
+tags:
 - "Image Viewer"
 draft: false
 ---

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-25T04:46:00Z
 categories: ["Audio & Video"]
 authors: ["nukeop"]
-tags
+tags:
 - "Music Player"
 License: AGPL-3.0
 draft: false

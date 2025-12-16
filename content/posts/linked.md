@@ -5,7 +5,7 @@ description: |
 pubDate: 2023-06-29T22:52:00Z
 categories: ["Productivity"]
 authors: ["André Weller"]
-tags 
+tags:
 - "Jorunaling"
 - "Notes"
 license: "GPL-3.0"

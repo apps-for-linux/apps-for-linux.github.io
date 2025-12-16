@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-01-23T11:01:00Z
 categories: ["Games"]
 authors: ["Gorilla Devs"]
-tags 
+tags:
 - "Minecraft Launcher"
 draft: false
 ---

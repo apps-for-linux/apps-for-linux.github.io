@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-07T06:40:00Z
 categories: ["Network"]
 authors: ["The Oxen Project"]
-tags 
+tags:
 - "Messenger"
 - "Censorship-resistance software"
 license: "GPL-3.0"

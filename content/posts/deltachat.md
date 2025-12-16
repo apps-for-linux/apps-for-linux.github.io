@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-15T13:43:00Z
 categories: ["Network"]
 authors: ["Delta Chat contributors"]
-tags 
+tags:
 - "Messenger"
 - "eMail client"
 license: "GPL-3.0"

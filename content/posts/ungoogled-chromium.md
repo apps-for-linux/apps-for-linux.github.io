@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-05-08T08:34:00Z
 categories: ["Network"]
 authors: ["The ungoogled-chromium Authors"]
-tags 
+tags:
 - "Browser"
 - "Chromium"
 License: BSD-3-Clause

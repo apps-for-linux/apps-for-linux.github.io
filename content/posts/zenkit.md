@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-09-20T15:10:00Z
 categories: ["Productivity"]
 authors: ["Axonic"]
-tags 
+tags:
 - "Project Management"
 license: "EULA"
 draft: false

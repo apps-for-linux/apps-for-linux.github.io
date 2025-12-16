@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-03-19T08:32:00Z
 categories: ["Audio & Video"]
 authors: ["Mikael Finstad"]
-tags 
+tags:
 - "Video editor"
 license: "GPL-2.0"
 draft: false

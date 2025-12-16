@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-11T00:01:00Z
 categories: ["Productivity"]
 authors: ["Lőrik Levente"]
-tags
+tags:
 - "Authentificator"
 license: "GPL-3.0"
 draft: false

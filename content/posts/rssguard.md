@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-12-20T09:58:00Z
 categories: ["Network"]
 authors: ["Martin Rotter"]
-tags 
+tags:
 - "Feed reader"
 - "RSS"
 license: "GPL-3.0"

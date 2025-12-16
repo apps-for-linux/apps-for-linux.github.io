@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-03-16T01:13:00Z
 categories: ["Development"]
 authors: ["Toby Suggate"]
-tags 
+tags:
 - "Git client"
 License: Unknown
 draft: false

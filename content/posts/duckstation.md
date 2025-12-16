@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-06-28T03:06:00Z
 categories: ["Games"]
 authors: ["Connor McLaughlin"]
-tags 
+tags:
 - "Game emulator"
 - "PlayStation Emulator"
 

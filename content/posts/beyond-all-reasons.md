@@ -5,7 +5,7 @@ description: |
 pubDate: 2024-03-02T20:40:00Z
 categories: ["Games"]
 authors: ["Beyond-All-Reason Team"]
-tags 
+tags:
 - "Game"
 draft: false
 ---

@@ -5,7 +5,7 @@ description: |
 pubDate: 2025-02-22T14:56:00Z
 categories: ["Utilities"]
 authors: ["RustDesk"]
-tags 
+tags:
 - "Remote desktop"
 - "Remote control"
 License: AGPL-3.0
