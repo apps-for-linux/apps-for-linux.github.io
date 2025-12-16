@@ -28,7 +28,6 @@ enableEmoji = true
   tag = "tags"
   category = "categories"
   author = "authors"
-  series = "series"
 
 [sitemap]
   changefreq = 'daily'
@@ -49,10 +48,6 @@ enableEmoji = true
     [[related.indices]]
         name = "categories"
         weight = 100
-
-    [[related.indices]]
-        name = "series"
-        weight = 50
 
     [[related.indices]]
         name = "authors"
