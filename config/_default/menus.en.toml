@@ -17,67 +17,67 @@
 
 [[main]]
   name = "Categories"
-  pageRef = "/posts/categories"
+  pageRef = "/categories"
   weight = 20
 
 [[main]]
   name = "Audio & Video"
   parent = "Catergories"
-  pageRef = "/posts/categories/AudioVideo"
+  pageRef = "/categories/AudioVideo"
   weight = 20
 
 [[main]]
   name = "Development"
   parent = "Catergories"
-  pageRef = "/posts/categories/development"
+  pageRef = "/categories/development"
   weight = 20
 
 [[main]]
   name = "Finance"
   parent = "Catergories"
-  pageRef = "/posts/categories/finance"
+  pageRef = "/categories/finance"
   weight = 20
 
 [[main]]
   name = "Audio & Video"
   parent = "Catergories"
-  pageRef = "/posts/categories/Games"
+  pageRef = "/categories/Games"
   weight = 20
 
 [[main]]
   name = "Audio & Video"
   parent = "Catergories"
-  pageRef = "/posts/categories/Graphics"
+  pageRef = "/categories/Graphics"
   weight = 20
 
 [[main]]
   name = "Audio & Video"
   parent = "Catergories"
-  pageRef = "/posts/categories/Network"
+  pageRef = "/categories/Network"
   weight = 20
 
 [[main]]
   name = "Productivity"
   parent = "Catergories"
-  pageRef = "/posts/categories/productivity"
+  pageRef = "/categories/productivity"
   weight = 20
 
 [[main]]
   name = "Audio & Video"
   parent = "Catergories"
-  pageRef = "/posts/categories/Science"
+  pageRef = "/categories/Science"
   weight = 20
 
 [[main]]
   name = "System"
   parent = "Catergories"
-  pageRef = "/posts/categories/System"
+  pageRef = "/categories/System"
   weight = 20
 
 [[main]]
   name = "Utility"
   parent = "Catergories"
-  pageRef = "/posts/categories/Utility"
+  pageRef = "/categories/Utility"
   weight = 20
 
 #[[subnavigation]]
