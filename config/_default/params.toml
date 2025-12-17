@@ -57,7 +57,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showMoreLink = false
   showMoreLinkDest = "/posts/"
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
 
