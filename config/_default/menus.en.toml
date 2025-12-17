@@ -39,19 +39,19 @@
   weight = 20
 
 [[main]]
-  name = "Audio & Video"
+  name = "Games"
   parent = "Catergories"
   pageRef = "/categories/Games"
   weight = 20
 
 [[main]]
-  name = "Audio & Video"
+  name = "Graphics"
   parent = "Catergories"
   pageRef = "/categories/Graphics"
   weight = 20
 
 [[main]]
-  name = "Audio & Video"
+  name = "Network"
   parent = "Catergories"
   pageRef = "/categories/Network"
   weight = 20
@@ -63,7 +63,7 @@
   weight = 20
 
 [[main]]
-  name = "Audio & Video"
+  name = "Science"
   parent = "Catergories"
   pageRef = "/categories/Science"
   weight = 20
