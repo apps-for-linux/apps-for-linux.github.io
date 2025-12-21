@@ -9,7 +9,7 @@ tags: ["PasswordManagement"]
 draft: false
 ---
 
-https://camo.githubusercontent.com/6ae4fdbbee8b13c3db3b2fd5caf0854b01e88117903636b5685952b54c20d029/68747470733a2f2f692e696d6775722e636f6d2f5763614a4c32742e706e67
+<img src="https://camo.githubusercontent.com/6ae4fdbbee8b13c3db3b2fd5caf0854b01e88117903636b5685952b54c20d029/68747470733a2f2f692e696d6775722e636f6d2f5763614a4c32742e706e67" alt="Main Screen">
 
 Free and open-source application that can help you generate passwords and export them
 

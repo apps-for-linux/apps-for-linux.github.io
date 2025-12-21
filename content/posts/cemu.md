@@ -21,5 +21,5 @@ Source code: <https://github.com/cemu-project/Cemu>
 
 Report the bug: <https://github.com/cemu-project/Cemu/issues/new>  
 
-https://github.com/cemu-project/Cemu/releases/download/v2.6/Cemu-2.6-x86_64.AppImage
-Download
+Download: x86_64: https://github.com/cemu-project/Cemu/releases/download/v2.6/Cemu-2.6-x86_64.AppImage
+

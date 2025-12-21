@@ -2,7 +2,7 @@
 title: "Arduino IDE"
 description: |
  "The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board"
-pubDate: 2025-04-09T14:44:00Z
+pubDate: 2025-12-17T19:17:00Z
 categories: ["Development"]
 authors: ["Arduino"]
 tags:
@@ -24,5 +24,5 @@ Become a sponsor: <https://www.arduino.cc/en/donate>
 Translate: <https://explore.transifex.com/arduino-1/ide2>  
 Report the bug: <https://github.com/arduino/arduino-ide/issues/new>  
 
-https://github.com/arduino/arduino-ide/releases/download/2.3.6/arduino-ide_2.3.6_Linux_64bit.AppImage
-Download
+Download: x86_64: <https://github.com/arduino/arduino-ide/releases/download/2.3.7/arduino-ide_2.3.7_Linux_64bit.AppImage>
+

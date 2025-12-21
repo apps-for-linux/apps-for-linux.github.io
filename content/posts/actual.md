@@ -11,7 +11,7 @@ license: "MIT"
 draft: false
 ---
 
-https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png
+<img src="https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png" alt="Main Screen">
 
 Actual Budget is a super fast and privacy-focused app for managing your finances.
 
@@ -23,5 +23,5 @@ Source code: <https://github.com/actualbudget/actual>
 Become a sponsor: <https://github.com/sponsors/actualbudget>  
 Translate: <https://hosted.weblate.org/projects/actualbudget>  
 Report the bug: <https://github.com/actualbudget/actual/issues>  
-https://github.com/actualbudget/actual/releases/download/v25.10.0/Actual-linux-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/actualbudget/actual/releases/download/v25.12.0/Actual-linux-x86_64.AppImage>
+          arm64: <https://github.com/actualbudget/actual/releases/download/v25.12.0/Actual-linux-arm64.AppImage>

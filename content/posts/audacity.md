@@ -22,5 +22,4 @@ Source code: <https://github.com/audacity/audacity>
 Translate: <https://explore.transifex.com/audacity/audacity>  
 Report the bug: <https://github.com/audacity/audacity/issues/new>  
 
-https://github.com/audacity/audacity/releases/download/Audacity-3.7.4/audacity-linux-3.7.4-x64-22.04.AppImage
-Download
+Download x86_64: <https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-linux-3.7.7-x64-22.04.AppImage>

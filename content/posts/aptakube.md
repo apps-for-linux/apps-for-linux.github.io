@@ -2,7 +2,7 @@
 title: "Aptakube"
 description: |
  "Modern, lightweight and multi-cluster Kubernetes GUI"
-pubDate: 2025-06-19T13:43:00Z
+pubDate: 2025-12-10T14:07:00Z
 categories: ["Development"]
 authors: ["Sumbit Labs Limited"]
 tags:
@@ -21,5 +21,4 @@ Web page: <https://aptakube.com>
 
 Report the bug: <https://github.com/aptakube/aptakube/issues>  
 
-https://github.com/aptakube/aptakube/releases/download/1.11.10/aptakube_1.11.10_amd64.AppImage
-Download
+Download: x86_64: <https://github.com/aptakube/aptakube/releases/download/1.14.2/aptakube_1.14.2_amd64.AppImage>

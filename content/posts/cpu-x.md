@@ -2,7 +2,7 @@
 title: "CPU-X"
 description: |
  "Free software that gathers information on CPU, motherboard and more."
-pubDate: 2024-12-01T14:29:00Z
+pubDate: 2025-08-22T18:05:00Z
 categories: ["Utilities"]
 authors: ["The Tumultuous Unicorn Of Darkness"]
 tags:
@@ -22,9 +22,5 @@ Source code: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X>
 Translate: <https://hosted.weblate.org/engage/cpu-x/?utm_source=widget>  
 Report the bug: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/issues/new>  
 
-https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/5.3.1/CPU-X-5.3.1-x86_64.AppImage
-Download x86_64
-
-
-https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/5.3.1/CPU-X-5.3.1-aarch64.AppImage
-Download arm64
+Download: x86_64: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v5.4.0/CPU-X-5.4.0-x86_64.AppImage>
+          arm64: <https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v5.4.0/CPU-X-5.4.0-aarch64.AppImage>

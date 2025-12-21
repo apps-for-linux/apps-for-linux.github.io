@@ -21,5 +21,4 @@ Source code: <https://github.com/bambulab/BambuStudio>
 
 Report the bug: <https://github.com/bambulab/BambuStudio/issues/new>  
 
-https://github.com/bambulab/BambuStudio/releases/download/v02.01.01.52/Bambu_Studio_linux_fedora-v02.01.01.52.AppImage
-Download
+Download: x86_64: <https://github.com/bambulab/BambuStudio/releases/download/v02.04.00.70/Bambu_Studio_linux_fedora-v02.04.00.70.AppImage>

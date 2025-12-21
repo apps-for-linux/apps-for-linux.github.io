@@ -24,5 +24,5 @@ Source code: <https://github.com/LinwoodDev/Butterfly>
 Translate: <https://translate.linwood.dev/butterfly>  
 Report the bug: <https://github.com/LinwoodDev/Butterfly/issues/new>  
 
-https://github.com/LinwoodDev/Butterfly/releases/download/v2.3.2/linwood-butterfly-linux-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/LinwoodDev/Butterfly/releases/download/v2.4.2-rc.4/linwood-butterfly-linux-alternative-x86_64.AppImage>
+        arm64: <https://github.com/LinwoodDev/Butterfly/releases/download/v2.4.2-rc.4/linwood-butterfly-linux-alternative-arm64.AppImage>

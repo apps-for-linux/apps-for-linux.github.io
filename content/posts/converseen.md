@@ -23,5 +23,6 @@ Source code: <https://github.com/Faster3ck/Converseen>
 Become a sponsor: <https://ko-fi.com/faster3ck>  
 Report the bug: <https://github.com/Faster3ck/Converseen/issues/new>  
 
-https://github.com/Faster3ck/Converseen/releases/download/v0.14.0.0/Converseen-0.14.0.0-1-x86_64.AppImage
-Download
+Download: x86_64:
+<https://github.com/Faster3ck/Converseen/releases/download/v0.15.1.3/Converseen-0.15.1.3-1-anylinux-x86_64.AppImage>
+arm64: <https://github.com/Faster3ck/Converseen/releases/download/v0.15.1.3/Converseen-0.15.1.3-1-anylinux-aarch64.AppImage>

@@ -23,5 +23,4 @@ Source code: <https://github.com/JannisX11/blockbench>
 Translate: <https://blockbench.net/translations>  
 Report the bug: <https://github.com/JannisX11/blockbench/issues/new>  
 
-https://github.com/JannisX11/blockbench/releases/download/v4.12.5/Blockbench_4.12.5.AppImage
-Download
+Download: x86_64: <https://github.com/JannisX11/blockbench/releases/download/v5.0.6/Blockbench_5.0.6.AppImage>

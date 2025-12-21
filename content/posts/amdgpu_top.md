@@ -24,9 +24,5 @@ Source code: <https://github.com/Umio-Yasuno/amdgpu_top>
 Translate: <https://github.com/Umio-Yasuno/amdgpu_top?tab=readme-ov-file#translations>  
 Report the bug: <https://github.com/Umio-Yasuno/amdgpu_top/issues/new>  
 
-https://github.com/Umio-Yasuno/amdgpu_top/releases/download/v0.11.0/amdgpu_top-x86_64.AppImage
-Download x86_64
-
-
-https://github.com/Umio-Yasuno/amdgpu_top/releases/download/v0.11.0/amdgpu_top-aarch64.AppImage
-Download arm64
+Download x86_64: <https://github.com/Umio-Yasuno/amdgpu_top/releases/download/v0.11.0/amdgpu_top-x86_64.AppImage>
+        arm64: <https://github.com/Umio-Yasuno/amdgpu_top/releases/download/v0.11.0/amdgpu_top-aarch64.AppImage>

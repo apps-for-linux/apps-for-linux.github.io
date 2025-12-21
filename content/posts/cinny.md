@@ -2,7 +2,7 @@
 title: "Cinny"
 description: |
  "Matrix client focusing primarly on simple, elegant and secure interface"
-pubDate: 2025-06-10T17:02:00Z
+pubDate: 2025-11-05T10:24:00Z
 categories: ["Network"]
 authors: ["Ajay Bura"]
 tags:
@@ -24,5 +24,4 @@ Source code: <https://github.com/cinnyapp/cinny-desktop>
 Become a sponsor: <https://github.com/sponsors/ajbura>  
 Report the bug: <https://github.com/cinnyapp/cinny-desktop/issues/new>  
 
-https://github.com/cinnyapp/cinny-desktop/releases/download/v4.8.1/Cinny_desktop-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/cinnyapp/cinny-desktop/releases/latest/download/Cinny_desktop-x86_64.AppImage>
