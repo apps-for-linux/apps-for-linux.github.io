@@ -21,5 +21,4 @@ Source code: <https://github.com/friction2d/friction>
 
 Report the bug: <https://github.com/friction2d/friction/issues/new>  
 
-https://github.com/friction2d/friction/releases/download/v1.0.0-rc.1/Friction-1.0.0-rc.1-x86_64.AppImage
-Download
+DownloadL https://github.com/friction2d/friction/releases/download/v1.0.0-rc.2/Friction-1.0.0-rc.2-x86_64.AppImage

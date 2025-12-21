@@ -2,7 +2,7 @@
 title: "Freac"
 description: |
  "Free and open source audio converter"
-pubDate: 2025-05-04T18:42:00Z
+pubDate: 2025-12-21T03:13:00Z
 categories: ["Audio & Video"]
 authors: ["Robert Kausch"]
 tags:

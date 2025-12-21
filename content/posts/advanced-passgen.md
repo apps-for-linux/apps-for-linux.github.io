@@ -19,5 +19,5 @@ Source code: <https://github.com/CodeDead/Advanced-PassGen>
 
 Report the bug: <https://github.com/CodeDead/Advanced-PassGen/issues/new>  
 
-https://github.com/CodeDead/Advanced-PassGen/releases/download/v2.5.2/advanced-passgen_2.5.2_amd64.AppImage
-Download
+Download: <https://github.com/CodeDead/Advanced-PassGen/releases/download/v2.5.2/advanced-passgen_2.5.2_amd64.AppImage>
+
