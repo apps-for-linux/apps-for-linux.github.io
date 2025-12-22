@@ -2,8 +2,8 @@
 title: "Darktable"
 description: |
  "darktable is an open source photography workflow application and raw developer"
-pubDate: 2025-06-21T13:50:00Z
-categories: ["Network"]
+pubDate: 2025-12-21T11:46:00Z
+categories: ["Graphics"]
 authors: ["the darktable team"]
 tags:
 - "RAW processing"
@@ -24,5 +24,4 @@ Source code: <https://github.com/darktable-org/darktable>
 Translate: <https://github.com/darktable-org/darktable/blob/master/doc/TRANSLATORS.md>  
 Report the bug: <https://github.com/darktable-org/darktable//issues/new>  
 
-https://github.com/darktable-org/darktable/releases/download/release-5.2.0/Darktable-5.2.0-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/darktable-org/darktable/releases/download/release-5.4.0/Darktable-5.4.0-x86_64.AppImage>

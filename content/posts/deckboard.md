@@ -2,12 +2,12 @@
 title: "Deckboard"
 description: |
  "Control your PC with your phone in easy way possible"
-pubDate: 2025-03-14T09:27:00Z
+pubDate: 2025-09-26T09:11:00Z
 categories: ["Games"]
 authors: ["Riva Farabi"]
 tags:
-- "Monitor resource"
 - "Remote control"
+- "Streaming tools"
 draft: false
 ---
 
@@ -23,5 +23,4 @@ Source code: <https://github.com/rivafarabi/deckboard>
 Become a sponsor: <https://ko-fi.com/rivafarabi>  
 Report the bug: <https://github.com/rivafarabi/deckboard/issues/new>  
 
-https://github.com/rivafarabi/deckboard/releases/download/v3.1.2/Deckboard-3.1.2.AppImage
-Download
+Download: x86_64: <https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/Deckboard-3.1.4.AppImage>

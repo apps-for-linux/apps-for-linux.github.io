@@ -2,7 +2,7 @@
 title: "Ferdium"
 description: |
  "All your services in one place, built by the community."
-pubDate: 2025-05-26T09:16:00Z
+pubDate: 2025-10-08T01:05:00Z
 categories: ["Network"]
 authors: ["Ferdium Team"]
 tags:
@@ -23,5 +23,4 @@ Source code: <https://github.com/ferdium/ferdium-app>
 
 Report the bug: <https://github.com/ferdium/ferdium-app/issues/new>  
 
-https://github.com/ferdium/ferdium-app/releases/download/v7.1.0/Ferdium-linux-Portable-7.1.0-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/ferdium/ferdium-app/releases/download/v7.1.1/Ferdium-linux-Portable-7.1.1-x86_64.AppImage>

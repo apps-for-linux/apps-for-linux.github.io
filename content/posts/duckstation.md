@@ -2,7 +2,7 @@
 title: "DuckStation"
 description: |
  "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64"
-pubDate: 2025-06-28T03:06:00Z
+pubDate: 2025-12-20T05:46:00Z
 categories: ["Games"]
 authors: ["Connor McLaughlin"]
 tags:
@@ -24,13 +24,7 @@ Source code: <https://github.com/stenzek/duckstation>
 
 Translate: <https://github.com/stenzek/duckstation/wiki/Translating-to-new-languages#linux>
 
-https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage
-Download x86_64
-
-
-https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-arm64.AppImage
-Download arm64
-
-
-https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-armhf.AppImage
-Download arm86
+Download x86_64: <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage>
+x86_64 SSE2: <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64-SSE2.AppImage>
+arm64: <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-arm64.AppImage>
+armv7l<https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-armhf.AppImage>

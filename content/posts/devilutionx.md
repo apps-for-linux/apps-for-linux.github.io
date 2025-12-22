@@ -2,7 +2,7 @@
 title: "DevilutionX"
 description: |
  "Port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features"
-pubDate: 2025-02-08T23:47:00Z
+pubDate: 2025-10-30T20:00:00Z
 categories: ["Games"]
 authors: ["diasurgical"]
 tags:
@@ -22,5 +22,5 @@ Source code: <https://github.com/diasurgical/devilutionX>
 Translate: <https://github.com/diasurgical/devilutionX/wiki/Translation-Guide>  
 Report the bug: <https://github.com/diasurgical/devilutionX/issues/new>  
 
-https://github.com/diasurgical/devilutionX/releases/download/1.5.4/devilutionx-linux-x86_64.appimage
-Download
+Download: x86_64:
+<https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-linux-x86_64.appimage>

@@ -2,7 +2,7 @@
 title: "digiKam"
 description: |
  "Professional Photo Management with Power of Open Source"
-pubDate: 2025-06-29T12:50:00Z
+pubDate: 2025-10-17T15:56:00Z
 categories: ["Graphics"]
 authors: ["digiKam Team"]
 tags:
@@ -22,6 +22,5 @@ Become a sponsor: <https://www.digikam.org/donate>
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://bugs.kde.org/buglist.cgi?product=digikam&resolution=>  
 
-https://download.kde.org/stable/digikam/8.7.0/digiKam-8.7.0-Qt6-x86-64.appimage
-Download
+Download: x86_64: <https://download.kde.org/stable/digikam/8.8.0/digiKam-8.8.0-Qt6-x86-64.appimage>
 
