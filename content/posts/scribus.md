@@ -2,7 +2,7 @@
 title: "Scribus"
 description: |
  "Powerful desktop publishing software"
-pubDate: 2025-01-26T02:57:00Z
+pubDate: 2025-12-15T03:32:00Z
 categories: ["Productivity"]
 authors: ["The Scribus Team"]
 tags:
@@ -24,5 +24,4 @@ Source code: <https://github.com/scribusproject/scribus>
 Translate: <https://explore.transifex.com/scribus/scribus>  
 Report the bug: <http://bugs.scribus.net>  
 
-https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.0/scribus-1.7.0-linux-x86_64.AppImage
-Download
+Download: x86_64: <https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.1/scribus-1.7.1-linux-x86_64.AppImage>

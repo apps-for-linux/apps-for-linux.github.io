@@ -2,7 +2,7 @@
 title: "OpenShot"
 description: |
  "OpenShot Video Editor is an award-winning free and open-source video editor"
-pubDate: 2024-12-22T21:40:00Z
+pubDate: 2025-12-16T10:26:00Z
 categories: ["Audio & Video"]
 authors: ["OpenShot Studios"]
 tags:
@@ -22,5 +22,4 @@ Become a sponsor: <https://www.openshot.org/donate>
 Translate: <https://translations.launchpad.net/openshot/2.0/+translations>  
 Report the bug: <https://github.com/OpenShot/openshot-qt/issues/new>  
 
-https://github.com/OpenShot/openshot-qt/releases/download/v3.3.0/OpenShot-v3.3.0-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/OpenShot/openshot-qt/releases/download/v3.4.0/OpenShot-v3.4.0-x86_64.AppImage>

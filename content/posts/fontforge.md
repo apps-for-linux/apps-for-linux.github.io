@@ -2,7 +2,7 @@
 title: "FontForge"
 description: |
  "An outline font editor"
-pubDate: 2023-10-09T22:23:00Z
+pubDate: 2025-10-09T22:23:00Z
 categories: ["Graphics"]
 authors: ["FontForge Project contributors"]
 tags:
@@ -24,4 +24,4 @@ Become a sponsor: <https://fontforge.org/en-US/donate>
 Translate: <https://crowdin.com/project/fontforge>  
 Report the bug: <https://github.com/fontforge/fontforge/issues/new>  
 
-Download: x86_64: https://github.com/fontforge/fontforge/releases/download/20251009/FontForge-2025-10-09-Linux-x86_64.AppImage
+Download: x86_64: <https://github.com/fontforge/fontforge/releases/download/20251009/FontForge-2025-10-09-Linux-x86_64.AppImage>

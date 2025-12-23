@@ -2,7 +2,7 @@
 title: "Laigter"
 description: |
  "Laigter is a tool that automatically generates maps for dynamic lighting effects in games"
-pubDate: 2024-10-25T23:03:00Z
+pubDate: 2025-12-16T20:51:00Z
 categories: ["Graphics"]
 authors: ["Pablo Ivan Fonovich"]
 tags:
@@ -23,5 +23,4 @@ Become a sponsor: <https://www.patreon.com/jazagaya>
 Translate: <https://github.com/azagaya/laigter/blob/master/CONTRIBUTING.md#contributing-with-translation>  
 Report the bug: <https://github.com/azagaya/laigter/issues/new>  
 
-https://github.com/azagaya/laigter/releases/download/1.12.1/Laigter-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/azagaya/laigter/releases/download/1.13.1/Laigter-x86_64.AppImage>

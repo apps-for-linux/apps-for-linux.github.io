@@ -2,7 +2,7 @@
 title: "Glint"
 description: |
  "A Graphical interface for Git"
-pubDate: 2025-02-17T11:02:00Z
+pubDate: 2025-10-31T19:51:00Z
 categories: ["Development"]
 authors: ["Logic Over Snacks"]
 tags:
@@ -19,5 +19,4 @@ License: EULA
 
 Report the bug: <https://github.com/LogicOverSnacks/glint-release/issues/new>  
 
-https://github.com/LogicOverSnacks/glint-release/releases/download/v1.9.1/Glint-1.9.1.AppImage
-Download
+Download: x86_64: <https://github.com/LogicOverSnacks/glint-release/releases/download/v1.9.5/Glint-1.9.5.AppImage>

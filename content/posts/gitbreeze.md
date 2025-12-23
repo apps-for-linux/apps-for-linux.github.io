@@ -2,7 +2,7 @@
 title: "GitBreeze"
 description: |
  "Free AI Git GUI for Windows, Mac, Linux."
-pubDate: 2025-03-14T00:00:00Z
+pubDate: 2025-08-24T00:00:00Z
 categories: ["Development"]
 authors: ["GitBreeze"]
 tags:
@@ -17,5 +17,4 @@ License: EULA
 
 Web page: <https://gitbreeze.dev/>  
 
-https://gitbreeze.ams3.digitaloceanspaces.com/releases/latest/linux/GitBreeze.AppImage
-Download
+Download: x86_64: <https://gitbreeze.ams3.cdn.digitaloceanspaces.com/releases/latest/linux/GitBreeze.AppImage>

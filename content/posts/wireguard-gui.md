@@ -2,7 +2,7 @@
 title: "Wireguard GUI"
 description: |
  "A wireguard client GUI for Linux made with nextauri"
-pubDate: 2025-02-02T19:14:00Z
+pubDate: 2025-10-27T20:18:00Z
 categories: ["Network"]
 authors: ["Wireguard GUI Contributors"]
 tags:
@@ -23,6 +23,6 @@ Source code: <https://github.com/leon3s/wireguard-gui>
 Become a sponsor: <https://github.com/sponsors/leon3s>  
 Report the bug: <https://github.com/leon3s/wireguard-gui/issues>  
 
-https://github.com/leon3s/wireguard-gui/releases/download/0.1.6-stable/wireguard-gui_0.1.6_amd64.AppImage
-Download
+Download: x86_64: <https://github.com/0xle0ne/wireguard-gui/releases/download/0.1.8-stable/wireguard-gui_0.1.8_amd64.AppImage>
+arm64: <https://github.com/0xle0ne/wireguard-gui/releases/download/0.1.8-stable/wireguard-gui_0.1.8_aarch64.AppImage>
 

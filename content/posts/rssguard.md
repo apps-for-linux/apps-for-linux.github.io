@@ -6,8 +6,8 @@ pubDate: 2024-12-20T09:58:00Z
 categories: ["Network"]
 authors: ["Martin Rotter"]
 tags:
-- "Feed reader"
 - "RSS"
+- "News Reader"
 license: "GPL-3.0"
 draft: false
 ---

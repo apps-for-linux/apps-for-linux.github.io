@@ -2,7 +2,7 @@
 title: "Linphone"
 description: |
  "Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling"
-pubDate: 2024-07-22T12:08:00Z
+pubDate: 2025-11-12T14:16:00Z
 categories: ["Network"]
 authors: ["Belledonne Communications"]
 tags:
@@ -21,5 +21,4 @@ Source code: <https://gitlab.linphone.org/BC/public/linphone-desktop>
 Translate: <https://weblate.linphone.org/projects/linphone-desktop>  
 Report the bug: <https://gitlab.linphone.org/BC/public/linphone-desktop/-/issues/new>  
 
-https://download.linphone.org/releases/linux/app/Linphone-5.2.6.AppImage
-Download
+Download: x86_64: <https://download.linphone.org/releases/linux/app/Linphone-5.3.2.AppImage>

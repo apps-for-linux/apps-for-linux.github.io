@@ -2,7 +2,7 @@
 title: "KDiskMark"
 description: |
  "A simple open-source disk benchmark tool for Linux distros"
-pubDate: 2023-06-19T10:31:00Z
+pubDate: 2025-06-21T15:13:00Z
 categories: ["Utilities"]
 authors: ["Dmitry Sidorov"]
 tags:
@@ -23,5 +23,4 @@ Source code: <https://github.com/JonMagon/KDiskMark>
 Translate: <https://crowdin.com/project/kdiskmark>  
 Report the bug: <https://github.com/JonMagon/KDiskMark/issues/new>  
 
-https://github.com/JonMagon/KDiskMark/releases/download/3.1.4/KDiskMark-3.1.4-fio-3.35-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/JonMagon/KDiskMark/releases/download/3.2.0/KDiskMark-3.2.0-fio-3.40-x86_64.AppImage>

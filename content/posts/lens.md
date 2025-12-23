@@ -2,23 +2,22 @@
 title: "Lens"
 description: |
  "Lens is the most powerful IDE for Kubernetes developers and operators"
-pubDate: 2025-01-16T00:00:00Z
+pubDate: 2025-12-12T10:14:00Z
 categories: ["Development"]
 authors: ["OpenLens Authors"]
 tags:
 - "IDE"
-license: "MIT"
+license: "EULA"
 draft: false
 ---
 
 Lens is the most powerful IDE for Kubernetes developers and operators
 
-License: MIT
+License: EULA
 
 Web page: <https://k8slens.dev>  
 Source code: <https://github.com/lensapp/lens>
 
 Report the bug: <https://github.com/lensapp/lens/issues/new>  
 
-https://api.k8slens.dev/binaries/Lens-2025.1.161916-latest.x86_64.AppImage
-Download
+Download: x86_64: <https://api.k8slens.dev/binaries/Lens-2025.12.101934-latest.x86_64.AppImage>

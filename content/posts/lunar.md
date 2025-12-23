@@ -2,7 +2,7 @@
 title: "Lunar"
 description: |
  "A modpack for all modern versions of Minecraft"
-pubDate: 2024-06-15T04:15:00Z
+pubDate: 2025-12-18T00:00:00Z
 categories: ["Games"]
 authors: ["Moonsworth"]
 tags:
@@ -19,5 +19,4 @@ License: GPL-3.0
 
 Web: <https://www.lunarclient.com//>  
 
-https://launcherupdates.lunarclientcdn.com/Lunar%20Client-3.3.3-ow.AppImage
-Download
+Download: x86_64: <https://launcherupdates.lunarclientcdn.com/Lunar%20Client-3.5.15-ow.AppImage>

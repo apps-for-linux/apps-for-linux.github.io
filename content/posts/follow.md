@@ -2,7 +2,7 @@
 title: "Folo"
 description: |
  "Folo is the AI RSS Reader"
-pubDate: 2025-05-19T15:50:00Z
+pubDate: 2025-12-18T07:23:00Z
 categories: ["Network"]
 authors: ["Follow Team"]
 tags:

@@ -2,7 +2,7 @@
 title: "ImHex"
 description: |
  "ImHex is a feature-rich Hex Editor."
-pubDate: 2024-12-28T18:37:00Z
+pubDate: 2025-12-21T21:57:00Z
 categories: ["Development"]
 authors: ["WerWolv"]
 tags:
@@ -23,5 +23,5 @@ Become a sponsor: <https://github.com/sponsors/WerWolv>
 Translate: <https://weblate.werwolv.net/projects/imhex>  
 Report the bug: <https://github.com/WerWolv/ImHex/issues/new>  
 
-https://github.com/WerWolv/ImHex/releases/download/v1.36.2/imhex-1.36.2-x86_64.AppImage
-Download
+Download x86_64: <https://github.com/WerWolv/ImHex/releases/download/v1.38.1/imhex-1.38.1-x86_64.AppImage>  
+arm64: <https://github.com/WerWolv/ImHex/releases/download/v1.38.1/imhex-1.38.1-arm64.AppImage>

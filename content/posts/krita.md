@@ -23,5 +23,4 @@ Become a sponsor: <https://krita.org/en/support-us/donations>
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://bugs.kde.org/enter_bug.cgi>  
 
-https://download.kde.org/stable/krita/5.2.6/krita-5.2.6-x86_64.appimage
-Download
+Download: x86_64: <https://download.kde.org/stable/krita/5.2.14/krita-5.2.14-x86_64.AppImage>

@@ -2,7 +2,7 @@
 title: "GIMP"
 description: |
  "The Free & Open Source Image Editor"
-pubDate: 2025-05-18T01:51:00Z
+pubDate: 2025-12-14T22:32:00Z
 categories: ["Graphics"]
 authors: ["GIMP’s Team"]
 tags:
@@ -23,5 +23,5 @@ Source code: <https://gitlab.gnome.org/GNOME/gimp>
 Become a sponsor: <https://www.gimp.org/donating/>  
 Translate: <https://hosted.weblate.org/engage/mypaint/?utm_source=widget>  
 Report the bug: <https://gitlab.gnome.org/GNOME/gimp/-/issues/new>  
-Download:   x86_64: <https://download.gimp.org/gimp/v3.0/linux/GIMP-3.0.4-x86_64.AppImage>  
-            arm64: <https://download.gimp.org/gimp/v3.0/linux/GIMP-3.0.4-aarch64.AppImage>
+Download:   x86_64: <https://download.gimp.org/gimp/v3.2/linux/GIMP-3.2.0-RC2-x86_64.AppImage>  
+            arm64: <https://download.gimp.org/gimp/v3.2/linux/GIMP-3.2.0-RC2-aarch64.AppImage>

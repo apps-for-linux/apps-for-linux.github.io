@@ -2,7 +2,7 @@
 title: "Logseq"
 description: |
  "A privacy-first, open-source platform for knowledge management and collaboration"
-pubDate: 2024-12-16T17:29:00Z
+pubDate: 2025-12-01T15:33:00Z
 categories: ["Productivity"]
 authors: ["Logseq"]
 tags:
@@ -22,5 +22,4 @@ Become a sponsor: <https://opencollective.com/logseq>
 Translate: <https://github.com/logseq/logseq/blob/master/docs/contributing-to-translations.md>  
 Report the bug: <https://github.com/logseq/logseq/issues/new>  
 
-https://github.com/logseq/logseq/releases/download/nightly/Logseq-linux-x64-0.10.10-alpha+nightly.20241216.AppImage
-Download
+Download: x86_64: <https://github.com/logseq/logseq/releases/download/0.10.15/Logseq-linux-x64-0.10.15.AppImage>

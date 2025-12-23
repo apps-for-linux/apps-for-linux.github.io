@@ -2,7 +2,7 @@
 title: "Helio"
 description: |
  "Free and open-source music sequencer for desktop and mobile platforms"
-pubDate: 2025-04-20T15:20:00Z
+pubDate: 2025-12-07T19:29:00Z
 categories: ["Audio & Video"]
 authors: ["Peter Rudenko and contributors"]
 tags:
@@ -23,5 +23,4 @@ Become a sponsor: <https://www.patreon.com/peterrudenko>
 Translate: <https://docs.google.com/spreadsheets/d/1RBDyVUDZcx6Y_OZzicnfwaWSI5uAcPbHgByo6xiFhBQ/edit?gid=0#gid=0>  
 Report the bug: <https://github.com/helio-fm/helio-sequencer/issues/new>  
 
-https://ci.helio.fm/helio-3.15-x64.AppImage
-Download
+Download: x86_64: <https://ci.helio.fm/helio-3.17-x64.AppImage>

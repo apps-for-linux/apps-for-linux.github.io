@@ -2,7 +2,7 @@
 title: "GitFourchette"
 description: |
  "The comfortable Git UI for Linux."
-pubDate: 2025-05-03T20:05:00Z
+pubDate: 2025-09-08T21:41:00Z
 categories: ["Development"]
 authors: ["Iliyas Jorio"]
 tags:
@@ -24,5 +24,5 @@ Become a sponsor: <https://ko-fi.com/jorio>
 Translate: <https://hosted.weblate.org/projects/gitfourchette/gitfourchette/>  
 Report the bug: <https://github.com/jorio/gitfourchette/issues/new>  
 
-https://github.com/jorio/gitfourchette/releases/download/v1.3.0/GitFourchette-1.3.0-x86_64.AppImage.zip
-Download
+Download: x86_64: <https://github.com/jorio/gitfourchette/releases/download/v1.5.0/GitFourchette-1.5.0-x86_64.AppImage.zip>
+arm64: <https://github.com/jorio/gitfourchette/releases/download/v1.5.0/GitFourchette-1.5.0-aarch64.AppImage.zip>

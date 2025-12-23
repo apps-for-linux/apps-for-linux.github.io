@@ -22,5 +22,5 @@ Become a sponsor: <https://www.libreoffice.org/donate>
 Translate: <https://wiki.documentfoundation.org/Language>  
 Report the bug: <https://bugs.documentfoundation.org>  
 
-https://appimages.libreitalia.org/portable/LibreOffice-24.8.6.2.standard-x86_64.AppImage
-Download
+Download: x86_64:
+https://appimages.libreitalia.org/portable/LibreOffice-25.8.4.2.standard-x86_64.AppImage

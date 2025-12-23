@@ -2,7 +2,7 @@
 title: "Zettlr"
 description: |
  "Your One-Stop Publication Workbench"
-pubDate: 2025-04-16T14:55:00Z
+pubDate: 2025-12-19T11:49:00Z
 categories: ["Productivity"]
 authors: ["Hendrik Erz"]
 tags:
@@ -25,5 +25,5 @@ Source code: <https://github.com/Zettlr/Zettlr>
 Become a sponsor: <https://github.com/sponsors/nathanlesage>  
 Translate: <https://github.com/Zettlr/Zettlr?tab=readme-ov-file#translating>  
 Report the bug: <https://github.com/Zettlr/Zettlr/issues/new>  
-Download:   x86_64: <https://github.com/Zettlr/Zettlr/releases/download/v3.4.4/Zettlr-3.4.4-x86_64.AppImage>  
-            arm64: <https://github.com/Zettlr/Zettlr/releases/download/v3.4.4/Zettlr-3.4.4-arm64.AppImage>
+Download:   x86_64: <https://github.com/Zettlr/Zettlr/releases/download/v4.0.0-beta.5/Zettlr-4.0.0-beta.5-x86_64.AppImage>  
+            arm64: <https://github.com/Zettlr/Zettlr/releases/download/v4.0.0-beta.5/Zettlr-4.0.0-beta.5-arm64.AppImage>

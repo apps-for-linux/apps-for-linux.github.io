@@ -2,7 +2,7 @@
 title: "Kdenlive"
 description: |
  "Free and Open Source Video Editor"
-pubDate: 2025-06-07T18:22:00Z 	
+pubDate: 2025-12-18T16:44:00Z 	
 categories: ["Audio & Video"]
 authors: ["Kdenlive Team"]
 tags: ["Video Editor"]
@@ -22,6 +22,6 @@ Become a sponsor: <https://kdenlive.org/en/fund>
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://invent.kde.org/multimedia/kdenlive/-/issues/new>  
 
-https://download.kde.org/stable/kdenlive/25.04/linux/kdenlive-25.04.2-x86_64.AppImage
-Download
+Download: x86_64: <https://download.kde.org/stable/kdenlive/25.12/linux/kdenlive-25.12.0-B-x86_64.AppImage>
+
 

@@ -23,5 +23,5 @@ Become a sponsor: <https://lmms.io/get-involved/#donate>
 Translate: <https://explore.transifex.com/lmms/lmms>  
 Report the bug: <https://github.com/LMMS/lmms/issues/new>  
 
-https://lmms.io/download/artifact/2289646535
-Download
+Download: x86_64: <https://lmms.io/download/artifact/4948147759>
+arm64: <https://lmms.io/download/artifact/4948180663>

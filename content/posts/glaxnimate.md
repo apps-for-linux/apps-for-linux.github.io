@@ -2,7 +2,7 @@
 title: "Glaxnimate"
 description: |
  "Simple vector animation program."
-pubDate: 2025-02-03T11:47:00Z
+pubDate: 2025-02-05T17:25:00Z
 categories: ["Graphics"]
 authors: ["Mattia Basaglia"]
 tags:

@@ -2,7 +2,7 @@
 title: "KopiaUI"
 description: |
  "Cross-platform backup tool"
-pubDate: 2025-01-24T04:49:00Z
+pubDate: 2025-12-02T21:37:00Z
 categories: ["Network"]
 authors: ["Kopia Authors"]
 tags:
@@ -19,6 +19,6 @@ Web page: <https://kopia.io>
 Source code: <https://github.com/kopia/kopia>
 
 Report the bug: <https://github.com/kopia/kopia/issues/new>  
-Download:   x86_64: <https://github.com/kopia/kopia/releases/download/v0.19.0/KopiaUI-0.19.0.AppImage>  
-            arm64: <https://github.com/kopia/kopia/releases/download/v0.19.0/KopiaUI-0.19.0-arm64.AppImage>  
-            armv7l: <https://github.com/kopia/kopia/releases/download/v0.19.0/KopiaUI-0.19.0-armv7l.AppImage>
+Download:   x86_64: <https://github.com/kopia/kopia/releases/download/v0.22.3/KopiaUI-0.22.3.AppImage>  
+            arm64: <https://github.com/kopia/kopia/releases/download/v0.22.3/KopiaUI-0.22.3-arm64.AppImage>  
+            armv7l: <https://github.com/kopia/kopia/releases/download/v0.22.3/KopiaUI-0.22.3-armv7l.AppImage>

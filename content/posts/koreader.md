@@ -2,7 +2,7 @@
 title: "KOReader"
 description: |
  "An ebook reader application"
-pubDate: 2024-11-20T22:52:00Z
+pubDate: 2025-11-01T14:16:00Z
 categories: ["Productivity"]
 authors: ["KOReader Community"]
 tags:
@@ -22,5 +22,5 @@ Become a sponsor: <https://liberapay.com/KOReader>
 Translate: <https://hosted.weblate.org/engage/koreader>  
 Report the bug: <https://github.com/koreader/koreader/issues/new>  
 
-https://github.com/koreader/koreader/releases/download/v2024.11/koreader-appimage-x86_64-linux-gnu-v2024.11.AppImage
-Download
+Download: x86_64: <https://github.com/koreader/koreader/releases/download/v2025.10/koreader-appimage-x86_64-v2025.10.AppImage>
+          arm64: <https://github.com/koreader/koreader/releases/download/v2025.10/koreader-appimage-aarch64-v2025.10.AppImage>

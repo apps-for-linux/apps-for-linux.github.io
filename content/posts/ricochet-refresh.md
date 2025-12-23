@@ -2,7 +2,7 @@
 title: "Ricochet Refresh"
 description: |
  "Anonymous peer-to-peer instant messaging"
-pubDate: 2025-04-17T19:39:00Z
+pubDate: 2025-11-07T00:01:00Z
 categories: ["Network"]
 authors: ["Blueprint for Free Speech"]
 tags:
@@ -20,5 +20,5 @@ Web page: <https://www.ricochetrefresh.net>
 Source code: <https://github.com/blueprint-freespeech/ricochet-refresh>
 
 Report the bug: <https://github.com/blueprint-freespeech/ricochet-refresh/issues/new>  
-Download:   x86_64: <https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.33-release/ricochet-refresh-3.0.33-x86_64.appimage>  
-            x86: <https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.33-release/ricochet-refresh-3.0.33-i386.appimage>
+Download:   x86_64: <https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.38-release/ricochet-refresh-3.0.38-x86_64.appimage>  
+            x86: <https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.38-release/ricochet-refresh-3.0.38-i386.appimage>
