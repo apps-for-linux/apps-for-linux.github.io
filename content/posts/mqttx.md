@@ -2,7 +2,7 @@
 title: "MQTTX"
 description: |
  "MQTTX makes developing and testing MQTT applications faster and easier.."
-pubDate: 2024-12-13T13:19:00Z
+pubDate: 2025-09-30T12:09:00Z
 categories: ["Development"]
 authors: ["EMQX Team"]
 tags: ["Official"]
@@ -17,5 +17,5 @@ Web page: <https://mqttx.app>
 Source code: <https://github.com/emqx/MQTTX>
 
 Report the bug: <https://github.com/emqx/MQTTX/issues/new>  
-Download:   x86_64: <https://github.com/emqx/MQTTX/releases/download/v1.11.1/MQTTX-1.11.1.AppImage>  
-            arm64: <https://github.com/emqx/MQTTX/releases/download/v1.11.1/MQTTX-1.11.1-arm64.AppImage>
+Download:   x86_64: <https://github.com/emqx/MQTTX/releases/download/v1.12.1/MQTTX-1.12.1.AppImage>  
+            arm64: <https://github.com/emqx/MQTTX/releases/download/v1.12.1/MQTTX-1.12.1-arm64.AppImage>

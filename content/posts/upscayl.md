@@ -2,7 +2,7 @@
 title: "Upscayl"
 description: |
  "Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy."
-pubDate: 2024-06-01T17:48:00Z
+pubDate: 2024-12-25T16:44:00Z
 categories: ["Graphics"]
 authors: ["Nayam Amarshe"]
 tags:

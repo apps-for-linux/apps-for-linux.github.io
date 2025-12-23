@@ -2,7 +2,7 @@
 title: "tenacity"
 description: |
  "Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor."
-pubDate: 2025-01-01T09:22:00Z
+pubDate: 2025-10-12T18:38:00Z
 categories: ["Audio & Video"]
 authors: ["Tenacity community"]
 tags:
@@ -24,6 +24,5 @@ Source code: <https://codeberg.org/tenacityteam/tenacity>
 Translate: <https://hosted.weblate.org/projects/tenacity>  
 Report the bug: <https://codeberg.org/tenacityteam/tenacity/issues/new>  
 
-https://codeberg.org/tenacityteam/tenacity/releases/download/v1.3.4/tenacity-linux-v1.3.4.AppImage
-Download
+Download: x86_64: <https://codeberg.org/tenacityteam/tenacity/releases/download/v1.4-alpha1/tenacity-linux-1.4.0-x86_64.AppImage>
 

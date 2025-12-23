@@ -2,7 +2,7 @@
 title: "muffon"
 description: |
  "Advanced multi-source music streaming"
-pubDate: 2024-10-07T11:22:00Z
+pubDate: 2025-08-19T11:36:00Z
 categories: ["Audio & Video"]
 authors: ["Aleksey Shpakovsky"]
 tags: ["Official"]
@@ -19,5 +19,6 @@ Source code: <https://github.com/staniel359/muffon>
 Become a sponsor: <https://ko-fi.com/staniel359>  
 Report the bug: <https://github.com/staniel359/muffon/issues>  
 
-https://github.com/staniel359/muffon/releases/download/v2.1.0/muffon-2.1.0-linux-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/staniel359/muffon/releases/download/v2.3.0/muffon-2.3.0-linux-x86_64.AppImage>
+arm64: <https://github.com/staniel359/muffon/releases/download/v2.3.0/muffon-2.3.0-linux-arm64.AppImage>
+

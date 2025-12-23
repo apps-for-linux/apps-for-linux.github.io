@@ -22,5 +22,5 @@ Become a sponsor: <https://opencollective.com/prismlauncher>
 Translate: <https://hosted.weblate.org/projects/prismlauncher/launcher/>  
 Report the bug: <https://github.com/PrismLauncher/PrismLauncher/issues/new>  
 
-https://github.com/PrismLauncher/PrismLauncher/releases/download/9.4/PrismLauncher-Linux-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.0-pre1/PrismLauncher-Linux-x86_64.AppImage>  
+arm64: <https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.0-pre1/PrismLauncher-Linux-aarch64.AppImage>

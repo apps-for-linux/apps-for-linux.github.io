@@ -2,7 +2,7 @@
 title: "Nuclear"
 description: |
  "Streaming music player that finds free music for you"
-pubDate: 2025-03-25T04:46:00Z
+pubDate: 2025-06-11T01:31:00Z
 categories: ["Audio & Video"]
 authors: ["nukeop"]
 tags:
@@ -22,5 +22,4 @@ Become a sponsor: <https://github.com/sponsors/nukeop>
 Translate: <https://crowdin.com/project/nuclear>  
 Report the bug: <https://github.com/nukeop/nuclear/issues/new>  
 
-https://github.com/nukeop/nuclear/releases/download/v0.6.44/nuclear-v0.6.44-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/nukeop/nuclear/releases/download/v0.6.48/nuclear-v0.6.48-x86_64.AppImage>
