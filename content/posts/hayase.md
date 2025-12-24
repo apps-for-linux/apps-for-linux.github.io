@@ -1,5 +1,5 @@
 ---
-title: "Miru"
+title: "Hayase"
 description: |
  "Stream anime torrents, real-time with no waiting for downloads"
 pubDate: 2025-12-22T23:29:00Z
