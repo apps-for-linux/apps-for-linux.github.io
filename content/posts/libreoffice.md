@@ -2,7 +2,7 @@
 title: "LibreOffice"
 description: |
  "Free open source office suite"
-pubDate: 2025-03-27T14:28:00Z
+pubDate: 2025-12-18T14:18:00Z
 categories: ["Productivity"]
 authors: ["The Document Foundation"]
 tags:
@@ -22,5 +22,4 @@ Become a sponsor: <https://www.libreoffice.org/donate>
 Translate: <https://wiki.documentfoundation.org/Language>  
 Report the bug: <https://bugs.documentfoundation.org>  
 
-Download: x86_64:
-https://appimages.libreitalia.org/portable/LibreOffice-25.8.4.2.standard-x86_64.AppImage
+Download: x86_64: <https://appimages.libreitalia.org/portable/LibreOffice-25.8.4.2.standard-x86_64.AppImage>

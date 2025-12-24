@@ -2,11 +2,12 @@
 title: "Miru"
 description: |
  "Stream anime torrents, real-time with no waiting for downloads"
-pubDate: 2025-03-20T23:56:00Z
+pubDate: 2025-12-22T23:29:00Z
 categories: ["Network"]
 authors: ["Cas"]
 tags:
 - "Anime"
+- "Torrent client"
 license: "GPL-3.0"
 draft: false
 ---
@@ -15,11 +16,10 @@ Stream anime torrents, real-time with no waiting for downloads
 
 License: GPL-3.0
 
-Web page: <https://miru.watch>  
-Source code: <https://github.com/ThaUnknown/miru>
+Web page: <https://hayase.watch/>  
+Source code: <https://github.com/hayase-app/electron>
 
 Become a sponsor: <https://github.com/sponsors/ThaUnknown>  
-Report the bug: <https://github.com/ThaUnknown/miru/issues/new>  
+Report the bug: <https://github.com/hayase-app/electron/issues/new>  
 
-https://github.com/ThaUnknown/miru/releases/download/v5.5.10/linux-Miru-5.5.10.AppImage
-Download
+Download: x86_64: <https://api.hayase.watch/files/linux-hayase-6.4.43-linux.AppImage>

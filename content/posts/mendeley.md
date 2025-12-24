@@ -1,9 +1,9 @@
 ---
 title: "Mendeley"
 description: |
- "Mendeley Reference Manager simplifies your workflow, so you can focus on achieving your goals"
-pubDate: 2025-03-10T00:00:00Z
-categories: ["Productivity"]
+ "The free all-in-one reference manager"
+pubDate: 2025-12-16T00:00:00Z
+categories: ["Science"]
 authors: ["Elsevier"]
 tags:
 - "Reference manager"
@@ -11,11 +11,10 @@ license: "EULA"
 draft: false
 ---
 
-Mendeley Reference Manager simplifies your workflow, so you can focus on achieving your goals
+The free all-in-one reference manager
 
 License: EULA
 
 Web page: <https://www.mendeley.com>  
 
-https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.131.0-x86_64.AppImage
-Download
+Download: x86_64: <https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.2-x86_64.AppImage>

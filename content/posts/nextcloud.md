@@ -2,7 +2,7 @@
 title: "Nextcloud"
 description: |
  "Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform."
-pubDate: 2025-03-19T08:17:00Z
+pubDate: 2025-12-15T21:39:00Z
 categories: ["Network"]
 authors: ["Nextcloud"]
 tags:
@@ -20,5 +20,4 @@ Source code: <https://github.com/nextcloud-releases/desktop>
 Translate: <https://www.transifex.com/nextcloud/nextcloud>  
 Report the bug: <https://github.com/nextcloud/desktop/issues/new>  
 
-https://github.com/nextcloud-releases/desktop/releases/download/v3.16.2/Nextcloud-3.16.2-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/nextcloud-releases/desktop/releases/download/v4.0.4/Nextcloud-4.0.4-x86_64.AppImage>

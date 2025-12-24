@@ -21,5 +21,5 @@ Source code: <https://github.com/pencil2d/pencil>
 Translate: <https://www.transifex.com/pencil2d>  
 Report the bug: <https://github.com/pencil2d/pencil/issues/new>  
 
-https://github.com/pencil2d/pencil/releases/download/v0.7.0/pencil2d-linux-amd64-0.7.0.AppImage
-Download
+Download: x86_64: <https://github.com/pencil2d/pencil/releases/download/v0.7.0/pencil2d-linux-amd64-0.7.0.AppImage>
+

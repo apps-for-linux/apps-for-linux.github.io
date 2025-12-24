@@ -2,7 +2,7 @@
 title: "RawTherapee"
 description: |
  "RawTherapee is a free, cross-platform raw image processing program"
-pubDate: 2025-05-04T23:43:00Z
+pubDate: 2025-05-28T09:47:00Z
 categories: ["Graphics"]
 authors: ["The RawTherapee Team"]
 tags:
@@ -22,5 +22,4 @@ Become a sponsor: <https://pixls.us/support>
 Translate: <https://github.com/RawTherapee/RawTherapee/blob/dev/rtdata/languages/README>  
 Report the bug: <https://github.com/RawTherapee/RawTherapee/issues/new>  
 
-https://github.com/RawTherapee/RawTherapee/releases/download/5.12-rc2/RawTherapee_5.12-rc2_release.AppImage
-Download
+Download: x86_64: <https://github.com/RawTherapee/RawTherapee/releases/download/5.12/RawTherapee_5.12_release.AppImage>

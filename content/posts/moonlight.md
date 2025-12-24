@@ -6,6 +6,7 @@ pubDate: 2024-09-17T04:35:00Z
 categories: ["Games"]
 authors: ["Moonlight Game Streaming Project"]
 tags:
+- "Gaming tool"
 - "Steaming games"
 license: "GPL-3.0"
 draft: false

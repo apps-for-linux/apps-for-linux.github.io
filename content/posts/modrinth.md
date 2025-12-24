@@ -2,7 +2,7 @@
 title: "Modrinth"
 description: |
  "Open-source mod platform, built by the community, for the community."
-pubDate: 2025-02-06T00:41:00Z
+pubDate: 2025-12-12T23:55:00Z
 categories: ["Games"]
 authors: ["Rinth"]
 tags:
@@ -22,5 +22,4 @@ Source code: <https://github.com/modrinth/code>
 Translate: <https://crowdin.com/project/modrinth>  
 Report the bug: <https://github.com/modrinth/code/issues/new>  
 
-https://launcher-files.modrinth.com/versions/0.9.3/linux/Modrinth%20App_0.9.3_amd64.AppImage
-Download
+Download: x86_64: <https://launcher-files.modrinth.com/versions/0.10.24/linux/Modrinth%20App_0.10.24_amd64.AppImage>

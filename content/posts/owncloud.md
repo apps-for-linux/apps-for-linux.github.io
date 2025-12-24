@@ -2,7 +2,7 @@
 title: "ownCloud"
 description: |
  "Open-source software for highly secure, borderless collaboration and filesharing on any device"
-pubDate: 2025-01-23T08:47:00Z
+pubDate: 2025-11-11T16:04:00Z
 categories: ["Network"]
 authors: ["ownCloud"]
 tags:
@@ -20,5 +20,4 @@ Source code: <https://github.com/owncloud/client>
 Translate: <https://www.transifex.com/projects/p/owncloud>  
 Report the bug: <https://github.com/owncloud/client/issues/new>  
 
-https://download.owncloud.com/desktop/ownCloud/stable/5.3.2.15463/linux-appimage/ownCloud-5.3.2.15463-x86_64.AppImage
-Download
+Download: x86_64: <https://download.owncloud.com/desktop/ownCloud/stable/6.0.2.17506/linux-appimage/ownCloud-6.0.2.17506-x86_64.AppImage>

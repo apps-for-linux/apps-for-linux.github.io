@@ -2,7 +2,7 @@
 title: "The Nexus Mods app"
 description: |
  "Mod installer, creator and manager for all your popular games."
-pubDate: 2025-03-24T12:16:00Z
+pubDate: 2025-11-17T12:54:00Z
 categories: ["Games"]
 authors: ["Black Tree Gaming Ltd"]
 tags: ["Official"]
@@ -18,5 +18,5 @@ Source code: <https://github.com/Nexus-Mods/NexusMods.App>
 
 Report the bug: <https://github.com/Nexus-Mods/NexusMods.App/issues/new>  
 
-https://github.com/Nexus-Mods/NexusMods.App/releases/download/v0.8.3/NexusMods.App.x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/Nexus-Mods/NexusMods.App/releases/download/v0.8.3/NexusMods.App.x86_64.AppImage>
+

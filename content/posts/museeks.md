@@ -2,7 +2,7 @@
 title: "museeks"
 description: |
  "A simple, clean and cross-platform music player"
-pubDate: 2025-03-07T20:00:00Z
+pubDate: 2025-09-22T17:11:00Z
 categories: ["Audio & Video"]
 authors: ["Pierre de la Martinière"]
 tags:
@@ -19,5 +19,5 @@ Source code: <https://github.com/martpie/museeks>
 
 Report the bug: <https://github.com/martpie/museeks/issues/new>  
 
-https://github.com/martpie/museeks/releases/download/0.20.9/Museeks_0.20.9_amd64.AppImage
-Download
+Download: x86_64: <https://github.com/martpie/museeks/releases/download/0.23.1/Museeks_0.23.1_amd64.AppImage>
+arm64: <https://github.com/martpie/museeks/releases/download/0.23.1/Museeks_0.23.1_aarch64.AppImage>

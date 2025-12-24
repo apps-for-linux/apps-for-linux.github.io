@@ -2,7 +2,7 @@
 title: "Naev"
 description: |
  "Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres."
-pubDate: 2025-02-01T05:50:00Z
+pubDate: 2025-08-31T05:06:00Z
 categories: ["Games"]
 authors: ["Naev DevTeam"]
 tags: ["Official"]
@@ -20,5 +20,4 @@ Become a sponsor: <https://www.libreoffice.org/donate>
 Translate: <https://hosted.weblate.org/projects/naev/naev>  
 Report the bug: <https://github.com/naev/naev/issues/new>  
 
-https://github.com/naev/naev/releases/download/v0.12.3/naev-0.12.3-linux-x86-64.AppImage
-Download
+Download: x86_64: <https://github.com/naev/naev/releases/download/nightly/naev-0.13.0-alpha.9+367.g82e71ec1f2-linux-x86-64.AppImage>

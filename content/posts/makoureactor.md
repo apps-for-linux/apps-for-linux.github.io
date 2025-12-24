@@ -2,7 +2,7 @@
 title: "Makoureactor"
 description: |
  "Final Fantasy VII field archive editor"
-pubDate: 2025-03-02T00:21:00Z
+pubDate: 2025-08-17T19:54:00Z
 categories: ["Games"]
 authors: ["Jérôme Arzel"]
 tags:
@@ -19,5 +19,5 @@ Source code: <https://github.com/myst6re/makoureactor>
 
 Report the bug: <https://github.com/myst6re/makoureactor/issues/new>  
 
-https://github.com/myst6re/makoureactor/releases/download/continuous/makoureactor-continuous-gui-linux64.AppImage
-Download
+Download: x86_64: <https://github.com/myst6re/makoureactor/releases/download/continuous/makoureactor-continuous-gui-linux64.AppImage>
+arm64: <https://github.com/myst6re/makoureactor/releases/download/continuous/makoureactor-continuous-gui-linux_arm64.AppImage>
