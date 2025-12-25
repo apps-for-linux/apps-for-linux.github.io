@@ -10,18 +10,18 @@
   <_summary>Organize and develop images from digital cameras</_summary>
   <translation type="gettext">darktable</translation>
   <description>
-    <_p>
+    <p>
       darktable manages your camera raw files and images in a database, lets you
       view them through lighttable mode and develop/enhance them in darkroom mode.
-    </_p>
-    <_p>
+    </p>
+    <p>
       Other modes besides lighttable and darkroom are a map for geotagging,
       tethering, print and a slideshow.
-    </_p>
-    <_p>
+    </p>
+    <p>
       darktable supports most modern cameras' raw formats, and does all
       of its processing at very high precision.
-    </_p>
+    </p>
   </description>
   <screenshots>
     <screenshot width="1920" height="1080">
