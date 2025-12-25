@@ -2,7 +2,7 @@
 title: "Outer Wilds Mod Manager"
 description: |
  "The mod manager for the Outer Wilds Mod Loader"
-pubDate: 2025-01-25T16:08:00Z
+pubDate: 2025-07-25T05:34:00Z
 categories: ["Games"]
 authors: ["Outer Wilds Mods"]
 tags: ["Game Mods"]
@@ -20,5 +20,4 @@ Source code: <https://github.com/ow-mods/ow-mod-man>
 Translate: <https://github.com/ow-mods/ow-mod-man/blob/main/owmods_gui/TRANSLATIONS.md>  
 Report the bug: <https://github.com/ow-mods/ow-mod-man/issues/new>  
 
-https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.15.1/Outer.Wilds.Mod.Manager_0.15.1_amd64.AppImage
-Download
+Download: x86_64: <https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.15.3/Outer.Wilds.Mod.Manager_0.15.3_amd64.AppImage>

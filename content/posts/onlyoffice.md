@@ -2,7 +2,7 @@
 title: "OnlyOffice"
 description: |
  "Free office suite that combines text, spreadsheet and presentation editors"
-pubDate: 2025-03-20T13:42:00Z
+pubDate: 2025-12-01T16:25:00Z
 categories: ["Productivity"]
 authors: ["Ascensio System"]
 tags:
@@ -21,5 +21,4 @@ Source code: <https://github.com/ONLYOFFICE/DesktopEditors>
 Translate: <https://helpcenter.onlyoffice.com/guides/become-translator.aspx>  
 Report the bug: <https://github.com/ONLYOFFICE/DesktopEditors/issues/new>  
 
-https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.2/DesktopEditors-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.0/DesktopEditors-x86_64.AppImage>

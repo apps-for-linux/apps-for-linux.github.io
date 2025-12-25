@@ -2,7 +2,7 @@
 title: "PhotoQt"
 description: |
  "PhotoQt is a simple yet powerful and good looking image viewer, based on Qt/QML, published as open-source and completely free"
-pubDate: 2025-05-06T12:16:00Z
+pubDate: 2025-12-23T20:41:00Z
 categories: ["Graphics"]
 authors: ["Lukas Spies"]
 tags:
@@ -21,5 +21,4 @@ Source code: <https://gitlab.com/lspies/photoqt>
 Translate: <https://translate.photoqt.org>  
 Report the bug: <https://gitlab.com/lspies/photoqt/-/issues/new>  
 
-https://photoqt.org/downloads/appimages/PhotoQt-4.9.1.AppImage
-Download
+Download: x86_64: <https://photoqt.org/downloads/appimages/PhotoQt-5.0.AppImage>

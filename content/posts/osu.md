@@ -2,7 +2,7 @@
 title: "osu!"
 description: |
  "Free-to-win rhythm game"
-pubDate: 2025-04-24T10:06:00Z
+pubDate: 2025-12-17T20:32:00Z
 categories: ["Games"]
 authors: ["Dean Herbert"]
 tags:
@@ -21,5 +21,4 @@ Source code: <https://github.com/ppy/osu>
 Become a sponsor: <https://github.com/sponsors/ppy>  
 Report the bug: <https://github.com/ppy/osu/issues/new>  
 
-https://github.com/ppy/osu/releases/latest/download/osu.AppImage
-Download
+Download: x86_64: <https://github.com/ppy/osu/releases/latest/download/osu.AppImage>
