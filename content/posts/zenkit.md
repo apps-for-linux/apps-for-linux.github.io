@@ -2,7 +2,7 @@
 title: "Zenkit"
 description: |
  "Project Management, Processes, Communication, Scheduling, Documents, and Knowledge Sharing – all in one platform."
-pubDate: 18-12-2025T00:00:00Z
+pubDate: 2025-12-18T00:00:00Z
 categories: ["Productivity"]
 authors: ["Axonic"]
 tags:
