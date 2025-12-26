@@ -2,7 +2,7 @@
 title: "vifm"
 description: |
  "File manager with curses interface"
-pubDate: 2025-05-07T19:03:00Z
+pubDate: 2025-06-04T20:43:00Z
 categories: ["System"]
 authors: ["vifm Authors"]
 tags:
@@ -23,5 +23,4 @@ Source code: <https://github.com/vifm/vifm>
 Become a sponsor: <https://github.com/sponsors/vifm>  
 Report the bug: <https://github.com/vifm/vifm/issues/new>  
 
-https://github.com/vifm/vifm/releases/download/v0.14.2/vifm-v0.14.2-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/vifm/vifm/releases/download/v0.14.3/vifm-v0.14.3-x86_64.AppImage>

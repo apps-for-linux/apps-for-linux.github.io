@@ -2,7 +2,7 @@
 title: "Zenkit"
 description: |
  "Project Management, Processes, Communication, Scheduling, Documents, and Knowledge Sharing – all in one platform."
-pubDate: 2024-09-20T15:10:00Z
+pubDate: 18.12.2025T00:00:00Z
 categories: ["Productivity"]
 authors: ["Axonic"]
 tags:
@@ -21,5 +21,4 @@ Web page: <https://zenkit.com/>
 
 Report the bug: <https://help.zenkit.com/en/support/tickets/new>  
 
-https://static.zenkit.com/downloads/desktop-apps/base/zenkit-linux.AppImage
-Download
+Download: x86_64: <https://static.zenkit.com/downloads/desktop-apps/base/zenkit-linux.AppImage>

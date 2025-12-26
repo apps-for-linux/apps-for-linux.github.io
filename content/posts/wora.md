@@ -2,7 +2,7 @@
 title: "Wora"
 description: |
  "A beautiful player for audiophiles."
-pubDate: 2025-01-25T13:58:00Z
+pubDate: 2025-06-23T11:06:00Z
 categories: ["Audio & Video"]
 authors: ["Aaryan Kapoor"]
 tags:
@@ -22,6 +22,5 @@ Source code: <https://github.com/playwora/wora>
 Become a sponsor: <https://github.com/hiaaryan>  
 Report the bug: <https://github.com/playwora/wora/issues/new>  
 
-https://github.com/playwora/wora/releases/download/v0.4.0-beta2/Wora.v0.4.0-beta2.AppImage
-Download
+Download: x86_64: <https://github.com/playwora/wora/releases/download/v0.4.0-beta2/Wora.v0.4.0-beta2.AppImage>
 

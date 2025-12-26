@@ -1,7 +1,7 @@
 ---
 title: "ToDesktop"
 description: "Web app to desktop app in minutes"
-pubDate: 2025-04-11T00:00:00Z
+pubDate: 2025-12-11T00:00:00Z
 categories: ["Network"]
 authors: ["ToDesktop"]
 tags:
@@ -15,5 +15,4 @@ License: EULA
 
 Web page: <https://www.todesktop.com/>
 
-https://builder.todesktop.com/
-Download
+Download: x86_64: https://builder.todesktop.com/

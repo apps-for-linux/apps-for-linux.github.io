@@ -2,7 +2,7 @@
 title: "Wavebox"
 description: |
  "Connect all the apps and websites you need to run your business and stay signed-in to every account"
-pubDate: 2025-02-06T11:36:00Z
+pubDate: 2025-12-15T11:54:00Z
 categories: ["Network"]
 authors: ["Wavebox"]
 tags:
@@ -23,5 +23,4 @@ Source code: <https://github.com/wavebox/waveboxapp>
 
 Report the bug: <https://github.com/wavebox/issues/new>  
 
-https://download.wavebox.app/stable/linux/appimage/Wavebox_10.133.3-2_x86_64.AppImage
-Download
+Download: x86_64: <https://download.wavebox.app/stable/linux/appimage/Wavebox_10.143.21-2_x86_64.AppImage>

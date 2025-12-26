@@ -2,7 +2,7 @@
 title: "XPipe"
 description: |
  "XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine"
-pubDate: 2025-03-18T14:34:00Z
+pubDate: 2025-12-06T13:01:00Z
 categories: ["Development"]
 authors: ["XPipe UG"]
 tags:
@@ -21,5 +21,5 @@ Source code: <https://github.com/xpipe-io/xpipe>
 
 Translate: <https://github.com/xpipe-io/xpipe/tree/master/lang>  
 Report the bug: <https://github.com/xpipe-io/xpipe/issues/new>  
-Download:   x86_64: <https://github.com/xpipe-io/xpipe/releases/download/15.7.1/xpipe-portable-linux-x86_64.AppImage>  
-            arm64: <https://github.com/xpipe-io/xpipe/releases/download/15.7.1/xpipe-portable-linux-arm64.AppImage>
+Download:   x86_64: <https://github.com/xpipe-io/xpipe/releases/download/19.6/xpipe-portable-linux-x86_64.AppImage>  
+            arm64: <https://github.com/xpipe-io/xpipe/releases/download/19.6/xpipe-portable-linux-arm64.AppImage>

@@ -5,7 +5,8 @@ description: |
 pubDate: 2025-05-14T19:13:00Z
 categories: ["Productivity"]
 authors: ["Johannes Millan"]
-tags: ["Official"]
+tags:
+- "To-do list"
 draft: false
 ---
 
@@ -20,5 +21,5 @@ Become a sponsor: <https://github.com/sponsors/johannesjo>
 Translate: <https://fink.inlang.com/github.com/johannesjo/super-productivity>  
 Report the bug: <https://github.com/johannesjo/super-productivity/issues/new>  
 
-https://github.com/johannesjo/super-productivity/releases/download/v13.0.4/superProductivity-x86_64.AppImage
-Download
+Download: x86_64:
+<https://github.com/johannesjo/super-productivity/releases/download/v16.7.3/superProductivity-x86_64.AppImage>
