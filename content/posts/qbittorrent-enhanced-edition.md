@@ -2,7 +2,7 @@
 title: "qBittorrent-Enhanced-Edition"
 description: |
  "qBittorrent is a bittorrent client programmed in C++ / Qt"
-pubDate: 2025-05-24T18:04:00Z
+pubDate: 2025-11-15T19:20:00Z
 categories: ["Network"]
 authors: ["c0re100"]
 tags:
@@ -20,5 +20,4 @@ Source code: <https://github.com/c0re100/qBittorrent-Enhanced-Edition>
 
 Report the bug: <https://github.com/c0re100/qBittorrent-Enhanced-Edition/issues/new>  
 
-https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-5.1.0.11/qBittorrent-Enhanced-Edition-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-5.1.3.10/qBittorrent-Enhanced-Edition-x86_64.AppImage>

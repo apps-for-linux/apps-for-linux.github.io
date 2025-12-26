@@ -2,7 +2,7 @@
 title: "PYDT"
 description: |
  "Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management."
-pubDate: 2024-09-22T04:04:00Z
+pubDate: 2025-07-06T21:19:00Z
 categories: ["Games"]
 authors: ["Michael Rosack"]
 tags:
@@ -21,5 +21,4 @@ Source code: <https://github.com/pydt/client>
 Become a sponsor: <https://www.patreon.com/pydt>  
 Report the bug: <https://github.com/pydt/client/issues/new>  
 
-https://github.com/pydt/client/releases/download/v2.1.8/playyourdamnturn-linux-2.1.8-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/pydt/client/releases/download/v2.1.9/playyourdamnturn-linux-2.1.9-x86_64.AppImage>

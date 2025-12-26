@@ -2,11 +2,11 @@
 title: "VSCodium"
 description: |
  "Free/Libre Open Source Software Binaries of VS Code"
-pubDate: 2025-11-27T03:23:00Z
+pubDate: 2025-12-24T14:55:00Z
 categories: ["Development"]
 authors: ["The VSCodium contributors"]
 tags:
-- "Text editor"
+- "Code editor"
 - "VSCode fork"
 license: "MIT"
 draft: false
@@ -23,4 +23,4 @@ Source code: <https://github.com/VSCodium/vscodium>
 
 Report the bug: <https://github.com/VSCodium/vscodium/issues/new>  
 
-Download: x86_64: <https://github.com/VSCodium/vscodium/releases/download/1.106.37943/VSCodium-1.106.37943.glibc2.30-x86_64.AppImage>
+Download: x86_64: <https://github.com/VSCodium/vscodium/releases/download/1.107.18627/VSCodium-1.107.18627.glibc2.30-x86_64.AppImage>

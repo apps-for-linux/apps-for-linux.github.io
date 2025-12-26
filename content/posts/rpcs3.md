@@ -2,7 +2,7 @@
 title: "RPCS3"
 description: |
  "Free and Open-source PlayStation 3 emulator/debugger"
-pubDate: 2025-05-14T22:15:00Z
+pubDate: 2025-12-24T22:30:00Z
 categories: ["Games"]
 authors: ["RPCS3 Authors"]
 tags:
@@ -21,5 +21,5 @@ Source code: <https://github.com/RPCS3/rpcs3>
 Become a sponsor: <https://www.patreon.com/Nekotekina>  
 Report the bug: <https://github.com/RPCS3/rpcs3/issues/new>  
 
-https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-3dca4dd4bbb233746a7c008d1e7bc03bd128ad7f/rpcs3-v0.0.36-17944-3dca4dd4_linux64.AppImage
-Download
+Download: x86_64: <https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-77aa5d4bbfc9ab572b678f872bf8083e0dc0725e/rpcs3-v0.0.38-18547-77aa5d4b_linux64.AppImage>
+

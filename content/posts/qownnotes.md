@@ -2,7 +2,7 @@
 title: "QOwnNotes"
 description: |
  "Open source notepad with Markdown support and todo list manager for GNU/Linux"
-pubDate: 2025-05-20T22:41:00Z
+pubDate: 2025-12-22T21:43:00Z
 categories: ["Productivity"]
 authors: ["Patrizio Bekerle"]
 tags:
@@ -21,5 +21,4 @@ Become a sponsor: <https://github.com/sponsors/pbek>
 Translate: <https://crowdin.com/project/qownnotes>  
 Report the bug: <https://github.com/pbek/QOwnNotes/issues/new>  
 
-https://github.com/pbek/QOwnNotes/releases/download/v25.5.10/QOwnNotes-x86_64-Qt6.AppImage
-Download
+Download: x86_64: <https://github.com/pbek/QOwnNotes/releases/download/v25.12.7/QOwnNotes-x86_64-Qt6-experimental.AppImage>
