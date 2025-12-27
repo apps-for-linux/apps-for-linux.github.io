@@ -12,7 +12,7 @@
 
 [[main]]
   name = "All apps"
-  pageRef = "posts"
+  pageRef = "apps"
   weight = 10
 
 [[main]]
