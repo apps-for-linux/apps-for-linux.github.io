@@ -2,7 +2,7 @@
 title: "Buckets"
 description: |
  "Make your budget quick, simple and private"
-pubDate: 2024-07-05T17:56:00Z
+pubDate: 2025-05-15T17:51:00Z
 categories: ["Finance"]
 authors: ["One Part Rain"]
 tags:
@@ -22,10 +22,6 @@ Translate: <https://github.com/buckets/translations>
 Become a sponsor: <https://www.patreon.com/iffy>  
 Report the bug: <https://github.com/buckets/application/issues/new>  
 
-https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-amd64-0.80.0.AppImage
-Download x86_64
-
-
-https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-arm64-0.80.0.AppImage
-Download arm64
+Download: x86_64: <https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-amd64-0.80.0.AppImage>
+arm64: <https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-arm64-0.80.0.AppImage>
 
