@@ -10,7 +10,7 @@ License: BSD-3-Clause
 draft: false
 ---
 
-https://two.avogadro.cc/_images/home_screenshot_1.png
+<img src="https://two.avogadro.cc/_images/home_screenshot_1.png" alt="Main Window">
 
 Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas
 

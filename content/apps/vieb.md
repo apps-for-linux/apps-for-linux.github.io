@@ -11,7 +11,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png
+<img src="https://vieb.dev/img/1.png" alt="Main Screen">
 
 Vim Inspired Electron Browser - Vim bindings for the web by design
 

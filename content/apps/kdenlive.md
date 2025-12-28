@@ -9,7 +9,7 @@ tags: ["Video Editor"]
 draft: false
 ---
 
-https://kdenlive.org/k1_2979239690662228430_hu_948d68c2c89e727a.webp
+<img src="https://cdn.kde.org/screenshots/kdenlive/k6.pngalt="Main Screen">
 
 Free and Open Source Video Editor
 

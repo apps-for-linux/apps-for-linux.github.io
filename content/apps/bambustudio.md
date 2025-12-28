@@ -12,6 +12,8 @@ License: AGPL-3.0
 draft: false
 ---
 
+<img src="https://github.com/flathub/flathub/assets/769861/66ce77d0-a376-4f57-8840-c5c210e95411" alt="Preparing a print">
+
 Bambu Studio is an open-source, cutting-edge, feature-rich slicing software
 
 License: AGPL-3.0

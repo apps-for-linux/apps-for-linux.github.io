@@ -12,7 +12,7 @@ license: "MIT"
 draft: false
 ---
 
-https://vscodium.com/img/vscodium.png
+<img src="https://vscodium.com/img/vscodium.png" alt
 
 Free/Libre Open Source Software Binaries of VS Code
 

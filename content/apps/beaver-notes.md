@@ -11,7 +11,7 @@ License: MIT
 draft: false
 ---
 
-https://github.com/Beaver-Notes/Beaver-Notes/assets/67503004/a7b38689-0363-49f0-8ed8-60e7358b1df6
+<img src="https://github.com/Beaver-Notes/Beaver-Notes/blob/c6527c19fc8d606a9127c0b15b937534e5888ac5/flatpak/Home.png" alt="Home">
 
 Privacy-focused note-taking application
 

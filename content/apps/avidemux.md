@@ -10,6 +10,8 @@ license: "GPL-2.0"
 draft: false
 ---
 
+<img src="http://fixounet.free.fr/avidemux/index_files/screenshot1.png" alt="Main Window">
+
 Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks
 
 License: GPL-2.0

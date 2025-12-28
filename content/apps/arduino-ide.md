@@ -11,7 +11,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-https://raw.githubusercontent.com/arduino/arduino-ide/refs/heads/main/static/screenshot.png
+<img src="https://raw.githubusercontent.com/arduino/arduino-ide/refs/heads/main/static/screenshot.png" alt="Main Window (Light Theme)">
 
 The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board
 
