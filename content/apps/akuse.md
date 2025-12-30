@@ -11,7 +11,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-<img src=https://raw.githubusercontent.com/akuse-app/akuse/refs/heads/react-port/assets/screenshot.jpg" alt="Main Screen">
+<img src="https://raw.githubusercontent.com/akuse-app/akuse/refs/heads/react-port/assets/screenshot.jpg" alt="Main Screen">
 
 Simple and easy to use anime streaming desktop app without ads.
 

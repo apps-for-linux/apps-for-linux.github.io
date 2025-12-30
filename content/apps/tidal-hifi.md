@@ -12,7 +12,7 @@ license: "MIT"
 draft: false
 ---
 
-<img src=https://raw.githubusercontent.com/Mastermindzh/tidal-hifi/refs/heads/master/docs/images/preview.png" alt="Preview">
+<img src="https://raw.githubusercontent.com/Mastermindzh/tidal-hifi/refs/heads/master/docs/images/preview.png" alt="Preview">
 
 
 The web version of TIDAL running in electron with Hi-Fi (High & Max) support thanks to widevine.

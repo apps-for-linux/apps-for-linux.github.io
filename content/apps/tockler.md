@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-<img src=https://raw.githubusercontent.com/MayGo/tockler/master/screenshots/light/tockler-timeline.png" alt="Main Screen">
+<img src="https://raw.githubusercontent.com/MayGo/tockler/master/screenshots/light/tockler-timeline.png" alt="Main Screen">
 
 An application that tracks your time by monitoring your active window title and idle time.
 
