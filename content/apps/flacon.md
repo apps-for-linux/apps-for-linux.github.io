@@ -3,14 +3,14 @@ title: "Flacon"
 description: |
  "Extracts audio tracks from an audio CD image to separate tracks."
 pubDate: 2025-02-14T21:09:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["Flacon team"]
 tags:
 - "CD ripper"
 draft: false
 ---
 
-https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-convert.png
+<img src="https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-convert.png">
 
 Extracts audio tracks from an audio CD image to separate tracks.
 

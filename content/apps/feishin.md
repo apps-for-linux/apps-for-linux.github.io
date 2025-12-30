@@ -3,7 +3,7 @@ title: "Feishin"
 description: |
  "A modern self-hosted music player"
 pubDate: 2025-11-30T06:36:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["Jeff"]
 tags:
 - "Self-hosted"
@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/jeffvli/feishin/development/media/preview_full_screen_player.png
+<img src="https://raw.githubusercontent.com/jeffvli/feishin/development/media/preview_full_screen_player.png">
 
 A modern self-hosted music player.
 

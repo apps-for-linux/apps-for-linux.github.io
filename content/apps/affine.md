@@ -5,7 +5,8 @@ description: |
 pubDate: 2025-12-09T07:34:00Z
 categories: ["Productivity"]
 authors: ["TOEVERYTHING"]
-tags: ["KnowledgeBase"]
+tags: 
+- "KnowledgeBase"
 license: "MIT"
 draft: false
 ---
@@ -23,4 +24,4 @@ Become a sponsor: <https://github.com/sponsors/toeverything>
 Translate: <https://crowdin.com/project/affine>  
 Report the bug: <https://github.com/toeverything/AFFiNE/issues>  
 
-Download: https://github.com/toeverything/AFFiNE/releases/download/v0.25.7/affine-0.25.7-stable-linux-x64.appimage
+Download: x86_64: <https://github.com/toeverything/AFFiNE/releases/download/v0.25.7/affine-0.25.7-stable-linux-x64.appimage>

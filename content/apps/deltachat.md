@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/deltachat/deltachat-desktop/refs/heads/main/README_ASSETS/desktop.png
+<img src="https://raw.githubusercontent.com/deltachat/deltachat-desktop/refs/heads/main/README_ASSETS/desktop.png">
 
 Email-based instant messaging for Desktop
 

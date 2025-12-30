@@ -11,7 +11,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/giuspen/cherrytree/refs/heads/master/docs/cherrytree-main_window_text.png
+<img src="https://raw.githubusercontent.com/giuspen/cherrytree/refs/heads/master/docs/cherrytree-main_window_text.png">
 
 A hierarchical note taking application, featuring rich text and syntax highlighting
 

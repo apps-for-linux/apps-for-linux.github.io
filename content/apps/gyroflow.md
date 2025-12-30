@@ -3,14 +3,14 @@ title: "Gyroflow"
 description: |
  "Video stabilization using gyroscope data"
 pubDate: 2025-09-04T17:41:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["Gyroflow Team"]
 tags: ["Official"]
 license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/gyroflow/gyroflow/refs/heads/master/resources/screenshot.jpg
+<img src="https://raw.githubusercontent.com/gyroflow/gyroflow/refs/heads/master/resources/screenshot.jpg">
 
 Video stabilization using gyroscope data
 

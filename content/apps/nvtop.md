@@ -19,5 +19,4 @@ Source code: <https://github.com/Syllo/nvtop>
 
 Report the bug: <https://github.com/Syllo/nvtop/issues/new>  
 
-https://github.com/Syllo/nvtop/releases/download/3.2.0/nvtop-3.2.0-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/Syllo/nvtop/releases/download/3.2.0/nvtop-3.2.0-x86_64.AppImage>

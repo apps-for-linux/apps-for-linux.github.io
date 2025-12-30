@@ -6,12 +6,13 @@ pubDate: 2025-10-26T06:23:00Z
 slug: 86box
 categories: ["Games"]
 authors: ["86box"]
-tags: ["Official"]
+tags: 
+- "Game Emulator"
 license: "GPL-2.0"
 draft: false
 ---
 
-<img src="https://raw.githubusercontent.com/86Box/86Box/master/src/unix/assets/screenshots/86Box.png" alt="Main Screen">
+<img src=https://raw.githubusercontent.com/86Box/86Box/master/src/unix/assets/screenshots/86Box.png" alt="Main Screen">
 
 
 Emulator of x86-based machines based on PCem

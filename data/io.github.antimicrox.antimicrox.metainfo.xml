@@ -22,27 +22,27 @@
   <screenshots>
     <screenshot type="default">
       <caption>Main Window (Light Theme)</caption>
-      <image type="source">https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/app_light.png</image>
+      <image type="source"><img src="https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/app_light.png</image>
     </screenshot>
     <screenshot>
       <caption>Main Window (Dark Theme)</caption>
-      <image type="source">https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/app_dark.png</image>
+      <image type="source"><img src="https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/app_dark.png</image>
     </screenshot>
     <screenshot>
       <caption>Controller Calibration (Dark Theme)</caption>
-      <image type="source">https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/calibration.png</image>
+      <image type="source"><img src="https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/calibration.png</image>
     </screenshot>
     <screenshot>
       <caption>Controller Mapping (Dark Theme)</caption>
-      <image type="source">https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/controllermapping.png</image>
+      <image type="source"><img src="https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/controllermapping.png</image>
     </screenshot>
     <screenshot>
       <caption>Advanced Settings (Dark Theme)</caption>
-      <image type="source">https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/advanced.png</image>
+      <image type="source"><img src="https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/advanced.png</image>
     </screenshot>
     <screenshot>
       <caption>About Window (Dark Theme)</caption>
-      <image type="source">https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/about.png</image>
+      <image type="source"><img src="https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/other/appdata/screenshots/about.png</image>
     </screenshot>
   </screenshots>
   <releases>

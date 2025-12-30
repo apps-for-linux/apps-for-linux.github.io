@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://raw.githubusercontent.com/flyinghead/flycast/master/shell/imgs/screenshot1.png
+<img src="https://raw.githubusercontent.com/flyinghead/flycast/master/shell/imgs/screenshot1.png">
 
 Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast
 

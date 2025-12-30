@@ -5,11 +5,12 @@ description: |
 pubDate: 2025-12-19T04:12:00Z
 categories: ["Development"]
 authors: ["Kong"]
-tags: ["Official"]
+tags:
+- "API Testing"
 draft: false
 ---
 
-https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png
+<img src="https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png">
 
 The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC
 

@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/wiki/brndnmtthws/conky/configs/brenden/screenshot.png
+<img src="https://raw.githubusercontent.com/wiki/brndnmtthws/conky/configs/brenden/screenshot.png">
 
 Light-weight system monitor for X, Wayland, and other things, too
 

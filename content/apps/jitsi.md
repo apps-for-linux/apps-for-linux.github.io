@@ -9,7 +9,7 @@ tags: ["Video conferences"]
 draft: false
 ---
 
-https://raw.githubusercontent.com/jitsi/jitsi-meet-electron/refs/heads/master/screenshot_linux.png
+<img src="https://raw.githubusercontent.com/jitsi/jitsi-meet-electron/refs/heads/master/screenshot_linux.png">
 
 Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 

@@ -3,13 +3,13 @@ title: "Kdenlive"
 description: |
  "Free and Open Source Video Editor"
 pubDate: 2025-12-18T16:44:00Z 	
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["Kdenlive Team"]
 tags: ["Video Editor"]
 draft: false
 ---
 
-<img src="https://cdn.kde.org/screenshots/kdenlive/k6.pngalt="Main Screen">
+<img src="https://cdn.kde.org/screenshots/kdenlive/k6.png" alt="Main Screen">
 
 Free and Open Source Video Editor
 

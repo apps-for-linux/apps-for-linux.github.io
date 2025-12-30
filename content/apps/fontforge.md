@@ -11,7 +11,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/fontforge/fontforge/master/desktop/ff-screenshot.png
+<img src="https://raw.githubusercontent.com/fontforge/fontforge/master/desktop/ff-screenshot.png">
 
 An outline font editor
 

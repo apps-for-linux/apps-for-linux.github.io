@@ -12,7 +12,7 @@ license: "Apache-2.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/ferdium/ferdium-app/refs/heads/develop/branding/screenshots/service-store.png
+<img src="https://raw.githubusercontent.com/ferdium/ferdium-app/refs/heads/develop/branding/screenshots/service-store.png">
 
 All your services in one place, built by the community
 

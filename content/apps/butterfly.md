@@ -12,7 +12,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-https://raw.githubusercontent.com/LinwoodDev/Butterfly/9cfb9d1f8b1d5862f7ef0bbc45df909d8be82782/docs/src/assets/img/main.png
+<img src="https://raw.githubusercontent.com/LinwoodDev/Butterfly/9cfb9d1f8b1d5862f7ef0bbc45df909d8be82782/docs/src/assets/img/main.png">
 
 Powerful, minimalistic, cross-platform, opensource note-taking app
 

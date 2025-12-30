@@ -75,31 +75,31 @@
     <screenshots>
         <screenshot type="default">
             <caption>Start Center</caption>
-            <image>https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/01-start-center.png</image>
+            <image><img src="https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/01-start-center.png</image>
         </screenshot>
         <screenshot>
             <caption>Main application window</caption>
-            <image>https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/02-main-window.png</image>
+            <image><img src="https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/02-main-window.png</image>
         </screenshot>
         <screenshot>
             <caption>Note Inspector</caption>
-            <image>https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/03-inspector.png</image>
+            <image><img src="https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/03-inspector.png</image>
         </screenshot>
         <screenshot>
             <caption>Score playback with Piano Keyboard</caption>
-            <image>https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/04-playback-piano.png</image>
+            <image><img src="https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/04-playback-piano.png</image>
         </screenshot>
         <screenshot>
             <caption>Mixer and Play panels</caption>
-            <image>https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/05-panels.png</image>
+            <image><img src="https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/05-panels.png</image>
         </screenshot>
         <screenshot>
             <caption>Master Palette</caption>
-            <image>https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/06-master-palette.png</image>
+            <image><img src="https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/06-master-palette.png</image>
         </screenshot>
         <screenshot>
             <caption>New Score Wizard</caption>
-            <image>https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/07-new-score-wizard.png</image>
+            <image><img src="https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/07-new-score-wizard.png</image>
         </screenshot>
     </screenshots>
     <translation type="qt">mscore@MUSE_APP_INSTALL_SUFFIX@-@MUSE_APP_VERSION_MAJ_MIN@/locale/instruments</translation>

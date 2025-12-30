@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/cpeditor/cpeditor/refs/heads/master/assets/demo.gif
+<img src="https://raw.githubusercontent.com/cpeditor/cpeditor/refs/heads/master/assets/demo.gif">
 
 The IDE for competitive programming
 

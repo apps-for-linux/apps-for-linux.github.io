@@ -3,7 +3,7 @@ title: "spotify-qt"
 description: |
  "Lightweight Spotify client using Qt."
 pubDate: 2025-07-26T00:58:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["kraxie"]
 tags:
 - "Music streaming client"
@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://raw.githubusercontent.com/kraxarn/spotify-qt/refs/heads/develop/.github/img/spotify-qt.png
+<img src="https://raw.githubusercontent.com/kraxarn/spotify-qt/refs/heads/develop/.github/img/spotify-qt.png
 
 Lightweight Spotify client using Qt.
 

@@ -3,7 +3,7 @@ title: "SMPlayer"
 description: |
  "Free Media Player with built-in codecs"
 pubDate: 2025-06-09T14:30:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["Ricardo Villalba"]
 tags:
 - "Media player"

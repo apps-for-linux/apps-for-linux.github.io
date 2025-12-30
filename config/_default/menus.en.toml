@@ -18,7 +18,7 @@
 [[main]]
   name = "Audio & Video"
   parent = "Catergories"
-  pageRef = "/categories/audio--video"
+  pageRef = "/categories/audiovideo"
   weight = 20
 
 [[main]]

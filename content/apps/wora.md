@@ -3,7 +3,7 @@ title: "Wora"
 description: |
  "A beautiful player for audiophiles."
 pubDate: 2025-06-23T11:06:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["Aaryan Kapoor"]
 tags:
 - "Music player"
@@ -11,7 +11,7 @@ license: "MIT"
 draft: false
 ---
 
-https://raw.githubusercontent.com/playwora/wora/refs/heads/main/renderer/public/github/Home%20Page.png
+<img src="https://raw.githubusercontent.com/playwora/wora/refs/heads/main/renderer/public/github/Home%20Page.png
 
 A beautiful player for audiophiles.
 

@@ -5,7 +5,8 @@ description: |
 pubDate: 2025-12-08T12:24:00Z
 categories: ["Network"]
 authors: ["Cloud storage"]
-tags: ["Official"]
+tags: 
+- Cloud storage client
 license: "EULA"
 draft: false
 ---

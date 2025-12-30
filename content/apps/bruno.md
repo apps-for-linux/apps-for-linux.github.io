@@ -12,7 +12,7 @@ license: "MIT"
 draft: false
 ---
 
-https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/landing-2.png
+<img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/landing-2.png">
 
 Open-source IDE for exploring and testing APIs
 

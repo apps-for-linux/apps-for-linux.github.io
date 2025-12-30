@@ -13,7 +13,7 @@ draft: false
 
 ---
 
-https://raw.githubusercontent.com/Zettlr/Zettlr/refs/heads/develop/resources/screenshots/zettlr_view.png
+<img src="https://raw.githubusercontent.com/Zettlr/Zettlr/refs/heads/develop/resources/screenshots/zettlr_view.png
 
 Your One-Stop Publication Workbench
 

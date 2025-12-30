@@ -3,7 +3,7 @@ title: "MuseScore"
 description: |
  "MuseScore is an open source and free music notation software"
 pubDate: 2025-12-18T17:09:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["MuseScore BVBA"]
 tags:
 - "Audio editor"

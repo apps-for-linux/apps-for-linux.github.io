@@ -6,7 +6,7 @@ pubDate: 2025-12-17T20:32:00Z
 categories: ["Games"]
 authors: ["Dean Herbert"]
 tags:
-- "Game"
+- "OSS Game"
 license: "MIT"
 draft: false
 ---

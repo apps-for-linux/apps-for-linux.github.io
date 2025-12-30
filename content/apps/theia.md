@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-<img src="https://raw.githubusercontent.com/eclipse-theia/theia/master/doc/images/theia-screenshot.png" alt="Main Screen">
+<img src=https://raw.githubusercontent.com/eclipse-theia/theia/master/doc/images/theia-screenshot.png" alt="Main Screen">
 
 Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 

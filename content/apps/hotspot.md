@@ -9,7 +9,7 @@ tags: ["Official"]
 draft: false
 ---
 
-https://raw.githubusercontent.com/KDAB/hotspot/refs/heads/master/screenshots/summary.png
+<img src="https://raw.githubusercontent.com/KDAB/hotspot/refs/heads/master/screenshots/summary.png">
 
 Linux perf GUI for performance analysis
 

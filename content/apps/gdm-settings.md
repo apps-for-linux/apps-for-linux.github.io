@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-https://raw.githubusercontent.com/gdm-settings/screenshots/v5.0/light/default.png
+<img src="https://raw.githubusercontent.com/gdm-settings/screenshots/v5.0/light/default.png">
 
 A settings app for GNOME's Login Manager, GDM
 

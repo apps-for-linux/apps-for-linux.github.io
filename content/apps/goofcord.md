@@ -12,7 +12,7 @@ License: OSL-3.0
 draft: false
 ---
 
-https://raw.githubusercontent.com/Milkshiift/GoofCord/refs/heads/main/assetsDev/screenshot1_rounded.png
+<img src="https://raw.githubusercontent.com/Milkshiift/GoofCord/refs/heads/main/assetsDev/screenshot1_rounded.png">
 
 Take control of your Discord experience with GoofCord – the highly configurable and privacy-focused Discord client
 

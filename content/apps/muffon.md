@@ -3,11 +3,14 @@ title: "muffon"
 description: |
  "Advanced multi-source music streaming"
 pubDate: 2025-08-19T11:36:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["Aleksey Shpakovsky"]
-tags: ["Official"]
+tags: 
+- "Music streaming client"
 draft: false
 ---
+
+<img src="https://camo.githubusercontent.com/b1e295878661da049cfa8655942d8ba0252a081c7786a6a149186a387863b751/68747470733a2f2f692e6962622e636f2f307448595a53372f707265766965772d6c696768742e706e67">
 
 muffon is a cross-platform music streaming client for desktop, which helps you listen to, discover and organize music in an advanced way
 

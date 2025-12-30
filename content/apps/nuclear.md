@@ -3,7 +3,7 @@ title: "Nuclear"
 description: |
  "Streaming music player that finds free music for you"
 pubDate: 2025-06-11T01:31:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["nukeop"]
 tags:
 - "Music Player"

@@ -11,6 +11,8 @@ license: "GPL-3.0"
 draft: false
 ---
 
+<img src="https://raw.githubusercontent.com/OneKeePass/desktop/refs/heads/main/screenshots/entrycategory-type-allentries.jpg" alt="Main Window">
+
 OneKeePass is a cross-platform, open source and secure password manager
 
 License: GPL-3.0

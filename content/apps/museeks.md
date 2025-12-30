@@ -3,12 +3,15 @@ title: "museeks"
 description: |
  "A simple, clean and cross-platform music player"
 pubDate: 2025-09-22T17:11:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["Pierre de la Martinière"]
 tags:
+- "Music streaming client"
 - "YouTube Client"
 draft: false
 ---
+
+<img src="https://raw.githubusercontent.com/martpie/museeks/refs/heads/master/screenshot.png">
 
 A simple, clean and cross-platform music player
 

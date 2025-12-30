@@ -3,7 +3,7 @@ title: "Cinelerra GG"
 description: |
  "Cinelerra GG Infinity is a free and open source video editing software for Linux"
 pubDate: 2025-11-21T20:54:00Z
-categories: ["Audio & Video"]
+categories: ["AudioVideo"]
 authors: ["Cinelerra GG community"]
 tags:
 - "Video Editor"

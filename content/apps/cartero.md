@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-https://raw.githubusercontent.com/danirod/cartero/trunk/data/screenshots/cartero-payload.png
+<img src="https://raw.githubusercontent.com/danirod/cartero/trunk/data/screenshots/cartero-payload.png">
 
 Native, lightweight, multiplatform and free HTTP client that you can use to test your APIs
 

@@ -5,7 +5,9 @@ description: |
 pubDate: 2025-11-17T12:54:00Z
 categories: ["Games"]
 authors: ["Black Tree Gaming Ltd"]
-tags: ["Official"]
+tags:
+- "Gaming tool"
+- "Mod marketplace"
 draft: false
 ---
 
@@ -18,5 +20,5 @@ Source code: <https://github.com/Nexus-Mods/NexusMods.App>
 
 Report the bug: <https://github.com/Nexus-Mods/NexusMods.App/issues/new>  
 
-Download: x86_64: <https://github.com/Nexus-Mods/NexusMods.App/releases/download/v0.8.3/NexusMods.App.x86_64.AppImage>
+Download: x86_64: <https://github.com/Nexus-Mods/NexusMods.App/releases/download/v0.21.1/NexusMods.App.x86_64.AppImage>
 
