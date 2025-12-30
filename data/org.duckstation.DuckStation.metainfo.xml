@@ -57,19 +57,19 @@
   <url type="vcs-browser">https://github.com/stenzek/duckstation</url>
   <screenshots>
     <screenshot type="default">
-      <image><img src="https://raw.githubusercontent.com/stenzek/duckstation/md-images/linux-main-qt.png</image>
+      <image>https://raw.githubusercontent.com/stenzek/duckstation/md-images/linux-main-qt.png</image>
       <caption>Desktop Interface</caption>
     </screenshot>
     <screenshot>
-      <image><img src="https://raw.githubusercontent.com/stenzek/duckstation/md-images/linux-bigpicture.png</image>
+      <image>https://raw.githubusercontent.com/stenzek/duckstation/md-images/linux-bigpicture.png</image>
       <caption>Big Picture Mode Interface</caption>
     </screenshot>
     <screenshot>
-      <image><img src="https://raw.githubusercontent.com/stenzek/duckstation/md-images/linux-hover.png</image>
+      <image>https://raw.githubusercontent.com/stenzek/duckstation/md-images/linux-hover.png</image>
       <caption>Hover Racing Game</caption>
     </screenshot>
     <screenshot>
-      <image><img src="https://raw.githubusercontent.com/stenzek/duckstation/md-images/linux-fromage.png</image>
+      <image>https://raw.githubusercontent.com/stenzek/duckstation/md-images/linux-fromage.png</image>
       <caption>Fromage Game</caption>
     </screenshot>
   </screenshots>
@@ -77,6 +77,6 @@
     <release version="@GIT_VERSION@" date="@GIT_DATE@" />
   </releases>
   <custom>
-    <value key="flathub::manifest"><img src="https://raw.githubusercontent.com/stenzek/duckstation/@GIT_HASH@/scripts/packaging/flatpak/org.duckstation.DuckStation.yaml</value>
+    <value key="flathub::manifest">https://raw.githubusercontent.com/stenzek/duckstation/@GIT_HASH@/scripts/packaging/flatpak/org.duckstation.DuckStation.yaml</value>
   </custom>
 </component>
