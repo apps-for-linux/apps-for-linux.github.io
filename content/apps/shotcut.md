@@ -2,7 +2,7 @@
 title: "Shotcut"
 description: |
  "Free, open source, cross-platform video editor"
-pubDate: 2025-12-20T03:16:00Z
+pubDate: 2025-12-31T03:10:00Z
 categories: ["AudioVideo"]
 authors: ["Meltytech"]
 tags:
@@ -23,5 +23,5 @@ Source code: <https://github.com/mltframework/shotcut>
 Translate: <https://www.transifex.com/ddennedy/shotcut>  
 Report the bug: <https://github.com/mltframework/shotcut/issues/new>  
 
-Download: x86_64: <https://github.com/mltframework/shotcut/releases/download/v25.12.2/shotcut-linux-x86_64-25.12.19.AppImage>
+Download: x86_64: <https://github.com/mltframework/shotcut/releases/download/v25.12.30/shotcut-linux-x86_64-25.12.30.AppImage>
 
