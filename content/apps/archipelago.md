@@ -19,5 +19,5 @@ Source code: <https://github.com/ArchipelagoMW/Archipelago>
 
 Report the bug: <https://github.com/ArchipelagoMW/Archipelago/issues/new>  
 
-Download: <https://github.com/ArchipelagoMW/Archipelago/releases/download/0.6.5/Archipelago_0.6.5_linux-x86_64.AppImage>
+Download: x86_64: <https://github.com/ArchipelagoMW/Archipelago/releases/download/0.6.5/Archipelago_0.6.5_linux-x86_64.AppImage>
 

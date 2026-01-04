@@ -2,7 +2,7 @@
 title: "Actual Budget"
 description: |
  "Actual Budget is a super fast and privacy-focused app for managing your finances"
-pubDate: 2025-12-03T20:45:00Z
+pubDate: 2026-01-04T20:57:00Z
 categories: ["Finance"]
 authors: ["James Long"]
 tags:
@@ -23,5 +23,5 @@ Source code: <https://github.com/actualbudget/actual>
 Become a sponsor: <https://github.com/sponsors/actualbudget>  
 Translate: <https://hosted.weblate.org/projects/actualbudget>  
 Report the bug: <https://github.com/actualbudget/actual/issues>  
-Download: x86_64: <https://github.com/actualbudget/actual/releases/download/v25.12.0/Actual-linux-x86_64.AppImage>
-          arm64: <https://github.com/actualbudget/actual/releases/download/v25.12.0/Actual-linux-arm64.AppImage>
+Download: x86_64: <https://github.com/actualbudget/actual/releases/download/v26.1.0/Actual-linux-x86_64.AppImage>
+          arm64: <https://github.com/actualbudget/actual/releases/download/v26.1.0/Actual-linux-arm64.AppImage>

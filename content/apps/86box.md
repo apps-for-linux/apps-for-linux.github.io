@@ -2,7 +2,7 @@
 title: "86box"
 description: |
  "Emulator of x86-based machines based on PCem."
-pubDate: 2025-10-26T06:23:00Z
+pubDate: 2025-12-22T04:42:00Z
 slug: 86box
 categories: ["Games"]
 authors: ["86box"]
@@ -24,5 +24,5 @@ Source code: <https://github.com/86Box/86Box>
 
 Become a sponsor: <https://www.paypal.com/paypalme/86Box>  
 Report the bug: <https://github.com/86Box/86Box/issues/new>  
-Download:   x86_64: <https://github.com/86Box/86Box/releases/download/v5.2/86Box-Linux-x86_64-b8000.AppImage>  
-            arm64: <https://github.com/86Box/86Box/releases/download/v5.2/86Box-NDR-Linux-arm64-b8000.AppImage>  
+Download:   x86_64: <https://github.com/86Box/86Box/releases/download/v5.3/86Box-Linux-x86_64-b8200.AppImage>  
+            arm64: <https://github.com/86Box/86Box/releases/download/v5.3/86Box-NDR-Linux-arm64-b8200.AppImage>  

@@ -2,7 +2,7 @@
 title: "chiaki-ng"
 description: |
  "Open Source Client for PlayStation 4 and PlayStation 5 Remote Play"
-pubDate: 2025-05-19T12:39:00Z
+pubDate: 2025-08-11T01:34:00Z
 categories: ["Games"]
 authors: ["Street Pea"]
 tags:
