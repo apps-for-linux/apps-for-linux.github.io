@@ -25,5 +25,5 @@ Become a sponsor: <https://github.com/sponsors/cpeditor>
 Translate: <https://github.com/cpeditor/cpeditor/blob/master/CONTRIBUTING.md#translations>  
 Report the bug: <https://github.com/cpeditor/cpeditor/issues/new>  
 
-https://github.com/cpeditor/cpeditor/releases/download/7.0.1/cpeditor-7.0.1-linux-x86_64.AppImage
-Download
+Download: x86_64: https://github.com/cpeditor/cpeditor/releases/download/7.0.1/cpeditor-7.0.1-linux-x86_64.AppImage
+
