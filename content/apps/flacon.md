@@ -23,5 +23,5 @@ Become a sponsor: <https://flacon.github.io/donate>
 Translate: <https://www.transifex.com/projects/p/flacon>  
 Report the bug: <https://github.com/flacon/flacon/issues/new>  
 
-https://github.com/flacon/flacon/releases/download/v12.0.0/flacon-12.0.0-x86_64.AppImage
-Download
+Download: x86_64: <https://github.com/flacon/flacon/releases/download/v12.0.0/flacon-12.0.0-x86_64.AppImage>
+

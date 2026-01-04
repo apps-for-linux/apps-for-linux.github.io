@@ -2,7 +2,7 @@
 title: "LM Studio"
 description: |
  "Discover, download, and run local LLMs"
-pubDate: 2025-01-30T00:00:00Z
+pubDate: 2025-12-18T00:00:00Z
 categories: ["Productivity"]
 authors: ["Element Labs"]
 tags: ["AI-powered software"]
