@@ -2,7 +2,7 @@
 title: "Tuta"
 description: |
  "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
-pubDate: 2025-12-18T14:19:00Z
+pubDate: 2026-01-08T12:16:00Z
 categories: ["Network"]
 authors: ["Tutao"]
 tags:
@@ -26,4 +26,4 @@ Become a sponsor: <https://tuta.com/community/#donate>
 Translate: <https://tuta.com/blog/tutanota-translation-project>  
 Report the bug: <https://github.com/tutao/tutanota/issues/new>  
 
-Download: x86_64: <https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-317.251217.0/tutanota-desktop-linux.AppImage>
+Download: x86_64: <https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-319.260107.1/tutanota-desktop-linux.AppImage>

@@ -21,5 +21,5 @@ Source code: <https://github.com/nuttyartist/notes>
 Become a sponsor: <https://github.com/sponsors/nuttyartist>  
 Report the bug: <https://github.com/nuttyartist/notes/issues>  
 
-Download: x86_64: https://github.com/nuttyartist/notes/releases/download/v2.3.1/Notes_2.3.1-Qt6.4.3-x86_64.AppImage
+Download: x86_64: <https://github.com/nuttyartist/notes/releases/download/v2.3.1/Notes_2.3.1-Qt6.4.3-x86_64.AppImage>
 

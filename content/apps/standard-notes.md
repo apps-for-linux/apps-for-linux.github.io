@@ -2,7 +2,7 @@
 title: "Standard Notes"
 description: |
  "End-to-end encrypted note-taking app for digitalists and professionals"
-pubDate: 2025-12-18T16:21:00Z
+pubDate: 2026-01-16T23:03:00Z
 categories: ["Productivity"]
 authors: ["Standard Notes"]
 tags:
@@ -20,5 +20,5 @@ Source code: <https://github.com/standardnotes/app>
 
 Become a sponsor: <https://github.com/sponsors/standardnotes>  
 Report the bug: <https://github.com/standardnotes/forum/issues/new/>  
-Download:   x86_64: <https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.201.5/standard-notes-3.201.5-linux-x86_64.AppImage>  
-            arm64: <https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.201.5/standard-notes-3.201.5-linux-arm64.AppImage>
+Download:   x86_64: <https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.201.8/standard-notes-3.201.8-linux-x86_64.AppImage>  
+            arm64: <https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.201.8/standard-notes-3.201.8-linux-arm64.AppImage>

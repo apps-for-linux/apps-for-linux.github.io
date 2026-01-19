@@ -2,7 +2,7 @@
 title: "S3Drive"
 description: |
  "Zero Knowledge E2E encrypted storage compatible with multiple providers"
-pubDate: 2025-12-08T12:24:00Z
+pubDate: 2026-01-12T12:52:00Z
 categories: ["Network"]
 authors: ["Cloud storage"]
 tags: 
@@ -19,4 +19,4 @@ Web page: <https://s3drive.app>
 
 Report the bug: <https://github.com/s3drive/app/issues/new>
 
-Download: x86_64: <https://github.com/s3drive/appimage-app/releases/download/1.16.0/S3Drive-x86_64.AppImage>
+Download: x86_64: <https://github.com/s3drive/appimage-app/releases/download/1.16.2/S3Drive-x86_64.AppImage>

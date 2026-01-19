@@ -20,6 +20,6 @@ License: EULA
 
 Web page: <https://lunatask.app>  
 
-Download: x86_64: <https://github.com/lunatask/lunatask/releases/download/v2.1.19/Lunatask-2.1.19.AppImage>
+Download: x86_64: <https://github.com/lunatask/lunatask/releases/download/v2.1.20/Lunatask-2.1.20.AppImage>
 
 

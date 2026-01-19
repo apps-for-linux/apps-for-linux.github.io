@@ -2,7 +2,7 @@
 title: "PCSX2"
 description: |
  "Free and open-source PlayStation 2 (PS2) emulator"
-pubDate: 2026-01-04T23:27:00Z
+pubDate: 2026-01-06T02:46:00Z
 categories: ["Games"]
 authors: ["PCSX2 Team"]
 tags:
@@ -24,5 +24,5 @@ Become a sponsor: <https://github.com/sponsors/PCSX2>
 Translate: <https://crowdin.com/project/pcsx2-emulator>  
 Report the bug: <https://github.com/PCSX2/pcsx2/issues/new>  
 
-Download: x86_64: <https://github.com/PCSX2/pcsx2/releases/download/v2.6.0/pcsx2-v2.6.0-linux-appimage-x64-Qt.AppImage>
+Download: x86_64: <https://github.com/PCSX2/pcsx2/releases/download/v2.6.1/pcsx2-v2.6.1-linux-appimage-x64-Qt.AppImage>
 

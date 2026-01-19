@@ -2,7 +2,7 @@
 title: "QField"
 description: |
  "Geodata collection app."
-pubDate: 2025-12-24T05:30:00Z
+pubDate: 2026-01-11T18:28:00Z
 categories: ["Science"]
 authors: ["OPENGIS.ch"]
 tags:
@@ -22,4 +22,4 @@ Become a sponsor: <https://github.com/sponsors/opengisch>
 Translate: <https://www.transifex.com/opengisch/qfield-for-qgis>  
 Report the bug: <https://github.com/opengisch/QField/issues/new>  
 
-Download: x86_64: <https://github.com/opengisch/QField/releases/download/v4.0.3/qfield-v4.0.3-linux-x64.AppImage>
+Download: x86_64: <https://github.com/opengisch/QField/releases/download/v4.0.4/qfield-v4.0.4-linux-x64.AppImage>

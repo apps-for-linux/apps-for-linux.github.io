@@ -2,7 +2,7 @@
 title: "ungoogled-chromium"
 description: |
  "ungoogled-chromium is Google Chromium, sans dependency on Google web services."
-pubDate: 2025-12-20T17:54:00Z
+pubDate: 2026-01-16T17:30:00Z
 categories: ["Network"]
 authors: ["The ungoogled-chromium Authors"]
 tags:
@@ -21,5 +21,5 @@ Source code: <https://github.com/ungoogled-software/ungoogled-chromium>
 
 Report the bug: <https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/issues/new>  
 
-Download: x86_64: <https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/releases/download/143.0.7499.169-1/ungoogled-chromium-143.0.7499.169-1-x86_64.AppImage>
-arm64: <https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/releases/download/143.0.7499.169-1/ungoogled-chromium-143.0.7499.169-1-arm64.AppImage>
+Download: x86_64: <https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/releases/download/144.0.7559.59-1/ungoogled-chromium-144.0.7559.59-1-x86_64.AppImage>
+arm64: <https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/releases/download/144.0.7559.59-1/ungoogled-chromium-144.0.7559.59-1-arm64.AppImage>

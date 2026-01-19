@@ -2,7 +2,7 @@
 title: "LibreWolf"
 description: |
  "A custom version of Firefox, focused on privacy, security and freedom."
-pubDate: 2025-12-19T14:36:00Z
+pubDate: 2026-01-14T01:35:00Z
 categories: ["Network"]
 authors: ["LibreWolf"]
 tags:
@@ -19,6 +19,7 @@ License: MPL-2.0
 Web page: <https://librewolf.net>  
 Source code: <https://codeberg.org/librewolf/source>
 
+Translate: <https://translate.codeberg.org/engage/librewolf>
 Report the bug: <https://codeberg.org/librewolf/issues>  
-Download:   x86_64: <https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/146.0.1-1/LibreWolf.x86_64.AppImage>  
-            arm64: <https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/146.0.1-1/LibreWolf.aarch64.AppImage>
+Download:   x86_64: <https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/147.0-1/LibreWolf.x86_64.AppImage>  
+            arm64: <https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/147.0-1/LibreWolf.aarch64.AppImage>
