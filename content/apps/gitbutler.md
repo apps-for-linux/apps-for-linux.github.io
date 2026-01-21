@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["GitButler"]
 tags:
 - "Git client"
+- "Tauri"
 License: FSL-1.0-MIT
 draft: false
 ---

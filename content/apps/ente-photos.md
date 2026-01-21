@@ -8,6 +8,8 @@ authors: ["Ente"]
 tags:
 - "Photo Management"
 - "Cloud client"
+- "Flutter"
+- "Cross-platform"
 license: "GPL-3.0"
 draft: false
 ---
@@ -19,10 +21,10 @@ End-to-end encryption for photos and more
 License: GPL-3.0
 
 Web page: <https://ente.io>  
-Source code: <https://github.com/ente-io/photos-desktop>
+Source code: <https://github.com/ente-io/ente>
 
 Translate: <https://crowdin.com/project/ente-photos-web>
-Report the bug: <https://github.com/ente-io/photos-desktop/issues/new>  
+Report the bug: <https://github.com/ente-io/ente/issues/new>  
 
 Download:   x86_64: <https://github.com/ente-io/photos-desktop/releases/download/v1.7.17/ente-1.7.17-x86_64.AppImage>
             arm64: <https://github.com/ente-io/photos-desktop/releases/download/v1.7.17/ente-1.7.17-arm64.AppImage>

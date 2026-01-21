@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Logseq"]
 tags:
 - "Knowledge base"
+- "Electron"
 License: AGPL-3.0
 draft: false
 ---

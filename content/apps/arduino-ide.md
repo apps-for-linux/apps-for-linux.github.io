@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Arduino"]
 tags:
 - "IDE"
+- "Electron"
 License: AGPL-3.0
 draft: false
 ---

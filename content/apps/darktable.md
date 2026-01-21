@@ -8,6 +8,7 @@ authors: ["the darktable team"]
 tags:
 - "RAW processing"
 - "Image editor"
+- "GTK+3"
 license: "GPL-3.0"
 draft: false
 ---

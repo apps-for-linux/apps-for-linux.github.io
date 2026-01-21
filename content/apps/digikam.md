@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["digiKam Team"]
 tags:
 - "Photo Management"
+- "Qt6"
 license: "GPL-2.0"
 draft: false
 ---

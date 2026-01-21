@@ -7,6 +7,8 @@ categories: ["Utilities"]
 authors: ["BitWarden"]
 tags:
 - "Password management"
+- "Cross-platform"
+- "Electron"
 license: "GPL-3.0"
 draft: false
 ---

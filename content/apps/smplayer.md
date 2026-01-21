@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Ricardo Villalba"]
 tags:
 - "Media player"
+- "Qt5"
 license: "GPL-2.0"
 draft: false
 ---

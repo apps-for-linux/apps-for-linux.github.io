@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["n0vella"]
 tags:
 - "Podcasts"
+- "Tauri"
 License: GPL-3.0 
 draft: false
 ---

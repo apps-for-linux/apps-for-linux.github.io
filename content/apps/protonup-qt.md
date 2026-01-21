@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["DavidoTek"]
 tags:
 - "Wine version manager"
+- "Qt6"
 license: GPL-3.0
 draft: false
 ---

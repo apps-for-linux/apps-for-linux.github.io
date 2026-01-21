@@ -8,6 +8,7 @@ authors: ["Belledonne Communications"]
 tags:
 - "SIP Phone"
 - "Conference calling"
+- "Qt6"
 draft: false
 ---
 

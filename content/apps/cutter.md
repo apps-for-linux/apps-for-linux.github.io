@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Rizin"]
 tags:
 - "Reverse Engineering"
+- "Qt6"
 license: "GPL-3.0"
 draft: false
 ---

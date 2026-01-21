@@ -8,6 +8,7 @@ authors: ["Delta Chat contributors"]
 tags:
 - "Messenger"
 - "eMail client"
+- "Electron"
 license: "GPL-3.0"
 draft: false
 ---

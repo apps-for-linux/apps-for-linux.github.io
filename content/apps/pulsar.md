@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Pulsar-Edit Original work"]
 tags:
 - "Code editor"
+- "Electron"
 draft: false
 ---
 

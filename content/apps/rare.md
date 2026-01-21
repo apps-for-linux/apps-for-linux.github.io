@@ -7,8 +7,8 @@ categories: ["Games"]
 authors: ["Rare Devs"]
 tags:
 - "Epic Games"
-- "Legendary"
 - "Game launcher"
+- "Qt6"
 license: gpl-3.0
 draft: false
 ---

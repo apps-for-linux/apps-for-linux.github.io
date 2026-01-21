@@ -8,6 +8,7 @@ authors: ["Bruno Authors"]
 tags:
 - "API Testing"
 - "IDE"
+- "Electron"
 license: "MIT"
 draft: false
 ---

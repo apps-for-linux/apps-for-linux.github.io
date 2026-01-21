@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Lőrik Levente"]
 tags:
 - "Authentificator"
+- "Tauri"
 license: "GPL-3.0"
 draft: false
 ---

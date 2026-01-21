@@ -8,6 +8,7 @@ authors: ["kraxie"]
 tags:
 - "Music streaming client"
 - "Spotify"
+- "Qt6"
 license: "GPL-3.0"
 draft: false
 ---

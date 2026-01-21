@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["GIMP’s Team"]
 tags:
 - "Image editing"
+- "GTK+3"
 license: "GPL-3.0"
 draft: false
 ---

@@ -5,7 +5,9 @@ description: |
 pubDate: 2026-01-14T01:17:00Z
 categories: ["Finance"]
 authors: ["Blockstream"]
-tags: ["Cryptocurrency"]
+tags: 
+- "Cryptocurrency"
+- "Qt6"
 license: "GPL-3.0"
 draft: false
 ---

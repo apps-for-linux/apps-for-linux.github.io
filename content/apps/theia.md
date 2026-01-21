@@ -8,6 +8,7 @@ authors: ["Eclipse Foundation"]
 tags:
 - "IDE"
 - "VSCode fork"
+- "Electron"
 draft: false
 ---
 

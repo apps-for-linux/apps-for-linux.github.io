@@ -8,6 +8,7 @@ authors: ["LibreCAD Contributors"]
 tags:
 - "2D"
 - "CAD"
+- "Qt6"
 license: "GPL-3.0"
 draft: false
 ---

@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Mikael Finstad"]
 tags:
 - "Video editor"
+- "Electron"
 license: "GPL-2.0"
 draft: false
 ---

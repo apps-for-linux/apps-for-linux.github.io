@@ -8,6 +8,7 @@ authors: ["Tien Do Nam"]
 tags:
 - "Sending files"
 - "Flutter"
+- "Cross-platform"
 license: "MIT"
 draft: false
 ---
