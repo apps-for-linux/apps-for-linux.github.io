@@ -7,7 +7,7 @@ categories: ["Development"]
 authors: ["Chris Maltby"]
 tags:
 - "Game development"
-- "Electron
+- "Electron"
 license: "MIT"
 draft: false
 ---
