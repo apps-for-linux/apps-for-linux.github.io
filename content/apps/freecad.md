@@ -2,7 +2,7 @@
 title: "FreeCAD"
 description: |
  "FreeCAD is a general purpose Open Source 3D CAD/MCAD/CAx/CAE/PLM modeler"
-pubDate: 2025-08-06T06:02:00Z
+pubDate: 2026-01-08T22:40:00Z
 categories: ["Graphics"]
 authors: ["The FreeCAD Team"]
 tags:
@@ -22,5 +22,5 @@ Source code: <https://github.com/FreeCAD/FreeCAD>
 Become a sponsor: <https://www.freecad.org/sponsor.php>  
 Translate: <https://crowdin.com/project/freecad>  
 Report the bug: <https://github.com/FreeCAD/FreeCAD/issues/new>  
-Download:   x86_64: <https://github.com/FreeCAD/FreeCAD/releases/download/1.0.2/FreeCAD_1.0.2-conda-Linux-x86_64-py311.AppImage>  
-            arm64: <https://github.com/FreeCAD/FreeCAD/releases/download/1.0.2/FreeCAD_1.0.2-conda-Linux-aarch64-py311.AppImage>
+Download:   x86_64: <https://github.com/FreeCAD/FreeCAD/releases/download/1.1rc2/FreeCAD_1.1rc2-Linux-x86_64-py311.AppImage>  
+            arm64: <https://github.com/FreeCAD/FreeCAD/releases/download/1.1rc2/FreeCAD_1.1rc2-Linux-x86_64-py311.AppImage>

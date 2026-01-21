@@ -7,6 +7,8 @@ categories: ["Productivity"]
 authors: ["Streetwriters"]
 tags:
 - "Notes"
+- "Cross-platform"
+- "Electron"
 license: "GPL-3.0"
 draft: false
 ---

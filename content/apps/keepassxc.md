@@ -7,6 +7,7 @@ categories: ["Utilities"]
 authors: ["KeePassXC Team"]
 tags:
 - "Password Management"
+- "Qt5"
 license: "GPL-3.0"
 draft: false
 ---

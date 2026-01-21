@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://gitlab.com/garuda-linux/firedragon/settings/-/raw/master/home.png
+<img src="https://gitlab.com/garuda-linux/firedragon/settings/-/raw/master/home.png">
 
 A Floorp fork with custom branding and opinionated settings.
 

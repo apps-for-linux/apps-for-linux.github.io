@@ -8,6 +8,7 @@ authors: ["Dmitry Sidorov"]
 tags:
 - "Benchmarking"
 - "Resource monitor"
+- "Qt5"
 license: "GPL-3.0"
 draft: false
 ---

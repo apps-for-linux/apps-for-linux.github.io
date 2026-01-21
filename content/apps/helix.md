@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Blaž Hrastnik"]
 tags:
 - "Code editor"
+- "TUI"
 draft: false
 ---
 

@@ -8,6 +8,7 @@ authors: ["SpacingBat3"]
 tags:
 - "Messenger"
 - "Discord client"
+- "Electron"
 license: "MIT"
 draft: false
 ---

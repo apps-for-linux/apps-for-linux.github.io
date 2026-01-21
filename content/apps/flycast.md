@@ -2,7 +2,7 @@
 title: "Flycast"
 description: |
  "Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast"
-pubDate: 2025-05-07T12:36:00Z
+pubDate: 2026-01-10T19:28:00Z
 categories: ["Games"]
 authors: ["Flyinghead"]
 tags:
@@ -22,5 +22,5 @@ Source code: <https://github.com/flyinghead/flycast>
 Become a sponsor: <https://www.paypal.com/paypalme/FlycastEmu>  
 Report the bug: <https://github.com/flyinghead/flycast/issues/new>  
 
-Download: x86_64: https://github.com/flyinghead/flycast/releases/download/v2.5/flycast-x86_64.AppImage
+Download: x86_64: <https://github.com/flyinghead/flycast/releases/download/v2.6/flycast-x86_64.AppImage>
 

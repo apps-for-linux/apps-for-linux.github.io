@@ -2,7 +2,7 @@
 title: "Bruno"
 description: |
  "Open-source IDE for exploring and testing APIs"
-pubDate: 2025-12-05T19:11:00Z
+pubDate: 2026-01-07T23:05:00Z
 categories: ["Development"]
 authors: ["Bruno Authors"]
 tags:
@@ -23,6 +23,6 @@ Source code: <https://github.com/usebruno/bruno>
 
 Report the bug: <https://github.com/usebruno/bruno/issues/new>  
 
-Download: x86_64: https://github.com/usebruno/bruno/releases/download/v2.6.1/bruno_2.6.1_x86_64_linux.AppImage
-arm64: https://github.com/usebruno/bruno/releases/download/v2.15.1/bruno_2.15.1_x86_64_linux.AppImage
+Download: x86_64: <https://github.com/usebruno/bruno/releases/download/v3.0.2/bruno_3.0.2_x86_64_linux.AppImage>
+arm64: <https://github.com/usebruno/bruno/releases/download/v3.0.2/bruno_3.0.2_arm64_linux.AppImage>
 

@@ -2,7 +2,7 @@
 title: "GB Studio"
 description: |
  "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system"
-pubDate: 2025-12-18T19:43:00Z
+pubDate: 2026-01-19T18:15:00Z
 categories: ["Development"]
 authors: ["Chris Maltby"]
 tags:
@@ -22,5 +22,5 @@ Source code: <https://github.com/chrismaltby/gb-studio>
 Translate: <https://github.com/chrismaltby/gb-studio?tab=readme-ov-file#note-for-translators>  
 Report the bug: <https://github.com/chrismaltby/gb-studio/issues/new>  
 
-Download: x86_64: <https://github.com/chrismaltby/gb-studio/releases/download/v4.2.0-beta1/gb-studio-linux.AppImage>  
-arm64: <https://github.com/chrismaltby/gb-studio/releases/download/v4.2.0-beta1/gb-studio-linux-arm64.AppImage>
+Download: x86_64: <https://github.com/chrismaltby/gb-studio/releases/download/v4.2.0-beta2/gb-studio-linux.AppImage>  
+arm64: <https://github.com/chrismaltby/gb-studio/releases/download/v4.2.0-beta2/gb-studio-linux-arm64.AppImage>

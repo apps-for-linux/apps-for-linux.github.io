@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Lite XL Team"]
 tags:
 - "Code editor"
+- "SDL3"
 license: "MIT"
 draft: false
 ---

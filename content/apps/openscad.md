@@ -8,6 +8,7 @@ authors: ["Marius Kintel"]
 tags:
 - "3D"
 - "CAD"
+- "Qt5"
 license: "GPL-3.0"
 draft: false
 ---

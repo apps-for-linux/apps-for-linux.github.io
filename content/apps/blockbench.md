@@ -2,7 +2,7 @@
 title: "Blockbench"
 description: |
  "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures"
-pubDate: 2025-06-18T00:06:00Z
+pubDate: 2025-12-24T02:50:00Z
 categories: ["Graphics"]
 authors: ["Jannis Petersen"]
 tags:
@@ -23,4 +23,4 @@ Source code: <https://github.com/JannisX11/blockbench>
 Translate: <https://blockbench.net/translations>  
 Report the bug: <https://github.com/JannisX11/blockbench/issues/new>  
 
-Download: x86_64: <https://github.com/JannisX11/blockbench/releases/download/v5.0.6/Blockbench_5.0.6.AppImage>
+Download: x86_64: <https://github.com/JannisX11/blockbench/releases/download/v5.0.7/Blockbench_5.0.7.AppImage>

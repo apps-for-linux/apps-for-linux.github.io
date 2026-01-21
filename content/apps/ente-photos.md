@@ -2,7 +2,7 @@
 title: "ente Photos"
 description: |
  "End-to-end encryption for photos and more."
-pubDate: 2025-12-02T12:56:00Z
+pubDate: 2026-01-08T14:23:00Z
 categories: ["Network"]
 authors: ["Ente"]
 tags:
@@ -24,5 +24,5 @@ Source code: <https://github.com/ente-io/photos-desktop>
 Translate: <https://crowdin.com/project/ente-photos-web>
 Report the bug: <https://github.com/ente-io/photos-desktop/issues/new>  
 
-Download:   x86_64: <https://github.com/ente-io/photos-desktop/releases/download/v1.7.16/ente-1.7.16-x86_64.AppImage>
-            arm64: <https://github.com/ente-io/photos-desktop/releases/download/v1.7.16/ente-1.7.16-arm64.AppImage>
+Download:   x86_64: <https://github.com/ente-io/photos-desktop/releases/download/v1.7.17/ente-1.7.17-x86_64.AppImage>
+            arm64: <https://github.com/ente-io/photos-desktop/releases/download/v1.7.17/ente-1.7.17-arm64.AppImage>

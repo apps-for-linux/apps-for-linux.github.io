@@ -8,6 +8,7 @@ authors: ["The Headlamp Contributors"]
 tags:
 - "DevOps"
 - "Kubernetes"
+- "Electron"
 draft: false
 ---
 

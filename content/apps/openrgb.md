@@ -8,6 +8,7 @@ authors: ["Adam Honse"]
 tags:
 - "Hardware controller"
 - "RGB lighting control"
+- "Qt5"
 license: "GPL-2.0"
 draft: false
 ---

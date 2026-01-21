@@ -6,7 +6,7 @@ pubDate: 2025-12-25T15:35:00Z
 categories: ["Graphics"]
 authors: ["Inkscape Authors"]
 tags:
-- "Vetor graphics editor"
+- "Vector graphics editor"
 draft: false
 ---
 

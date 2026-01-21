@@ -7,6 +7,8 @@ categories: ["Graphics"]
 authors: ["Mattia Basaglia"]
 tags:
 - "2D"
+- "Vetor graphics editor"
+- "Qt"
 license: "GPL-3.0"
 draft: false
 ---
@@ -24,5 +26,5 @@ Donate: <https://ko-fi.com/glaxdragon>
 Translate: <https://glaxnimate.mattbas.org/contributing/translations/>  
 Report the bug: <https://bugs.kde.org/enter_bug.cgi?product=glaxnimate>  
 
-Download: x86_64: https://download.kde.org/unstable/glaxnimate/0.5.80/linux/glaxnimate-0.5.80-x86_64.AppImage
+Download: x86_64: <https://download.kde.org/unstable/glaxnimate/0.5.80/linux/glaxnimate-0.5.80-x86_64.AppImage>
 

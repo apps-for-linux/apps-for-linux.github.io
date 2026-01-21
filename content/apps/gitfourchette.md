@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Iliyas Jorio"]
 tags:
 - "Git client"
+- "Qt"
 License: GPL-3.0
 draft: false
 ---

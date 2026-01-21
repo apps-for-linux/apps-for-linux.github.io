@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Ruby Mamistvalove"]
 tags:
 - "Notes"
+- "Qt6"
 License: MPL-2.0
 draft: false
 ---

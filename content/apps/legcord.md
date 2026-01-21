@@ -8,6 +8,7 @@ authors: ["Legcord"]
 tags:
 - "Messenger" 
 - "Discord client"
+- "Electron"
 License: OSL-3.0
 draft: false
 ---

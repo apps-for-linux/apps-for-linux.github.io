@@ -6,7 +6,8 @@ pubDate: 2025-09-22T14:17:00Z
 categories: ["AudioVideo"]
 authors: ["ossia.io Contributors"]
 tags:
-- "Official"
+- "Sequencer"
+- "Qt6"
 draft: false
 ---
 

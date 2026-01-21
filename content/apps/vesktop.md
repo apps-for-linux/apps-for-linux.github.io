@@ -8,6 +8,7 @@ authors: ["Vendicated"]
 tags:
 - "Messenger"
 - "Discord client"
+- "Electron"
 license: "GPL-3.0"
 draft: false
 ---

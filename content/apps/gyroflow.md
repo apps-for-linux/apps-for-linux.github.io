@@ -5,7 +5,9 @@ description: |
 pubDate: 2025-09-04T17:41:00Z
 categories: ["AudioVideo"]
 authors: ["Gyroflow Team"]
-tags: ["Official"]
+tags: 
+- "Video stabilization"
+- "Cross-platform"
 license: "GPL-3.0"
 draft: false
 ---

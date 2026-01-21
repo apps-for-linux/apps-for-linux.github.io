@@ -2,7 +2,7 @@
 title: "Prism Launcher"
 description: |
  "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)"
-pubDate: 2025-12-15T19:21:00Z
+pubDate: 2026-01-11T22:00:00Z
 categories: ["Games"]
 authors: ["Prism Launcher Contributors"]
 tags:
@@ -22,5 +22,5 @@ Become a sponsor: <https://opencollective.com/prismlauncher>
 Translate: <https://hosted.weblate.org/projects/prismlauncher/launcher/>  
 Report the bug: <https://github.com/PrismLauncher/PrismLauncher/issues/new>  
 
-Download: x86_64: <https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.0-pre1/PrismLauncher-Linux-x86_64.AppImage>  
-arm64: <https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.0-pre1/PrismLauncher-Linux-aarch64.AppImage>
+Download: x86_64: <https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.2/PrismLauncher-Linux-x86_64.AppImage>  
+arm64: <https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.2/PrismLauncher-Linux-aarch64.AppImage>

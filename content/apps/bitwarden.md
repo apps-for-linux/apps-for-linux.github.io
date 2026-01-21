@@ -2,7 +2,7 @@
 title: "Bitwarden"
 description: |
  "Open source password management solutions for individuals, teams, and business organizations."
-pubDate: 2025-12-12T00:19:00Z
+pubDate: 2025-01-13T22:40:00Z
 categories: ["Utilities"]
 authors: ["BitWarden"]
 tags:
@@ -23,4 +23,4 @@ Source code: <https://github.com/bitwarden/clients>
 Translate: <https://crowdin.com/project/bitwarden-desktop>  
 Report the bug: <https://github.com/bitwarden/clients/issues/new>  
 
-Download: x86_64: <https://github.com/bitwarden/clients/releases/download/desktop-v2025.12.0/Bitwarden-2025.12.0-x86_64.AppImage>
+Download: x86_64: <https://github.com/bitwarden/clients/releases/download/desktop-v2025.12.1/Bitwarden-2025.12.1-x86_64.AppImage>

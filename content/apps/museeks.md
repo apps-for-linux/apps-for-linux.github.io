@@ -8,6 +8,7 @@ authors: ["Pierre de la Martinière"]
 tags:
 - "Music streaming client"
 - "YouTube Client"
+- "Tauri"
 draft: false
 ---
 

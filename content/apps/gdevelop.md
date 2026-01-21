@@ -2,7 +2,7 @@
 title: "GDevelop"
 description: |
  "Full-featured, no-code, open-source game development software"
-pubDate: 2025-12-11T19:13:00Z
+pubDate: 2026-01-16T12:40:00Z
 categories: ["Development"]
 authors: ["Florian Rival"]
 tags:
@@ -22,5 +22,5 @@ Source code: <https://github.com/4ian/GDevelop>
 
 Translate: <https://crowdin.com/project/gdevelop>  
 Report the bug: <https://github.com/4ian/GDevelop/issues/new>  
-Download:   x86_64: <https://github.com/4ian/GDevelop/releases/download/v5.6.250/GDevelop-5-5.6.250.AppImage>  
-            arm64: <https://github.com/4ian/GDevelop/releases/download/v5.6.250/GDevelop-5-5.6.250-arm64.AppImage>
+Download:   x86_64: <https://github.com/4ian/GDevelop/releases/download/v5.6.252/GDevelop-5-5.6.252.AppImage>  
+            arm64: <https://github.com/4ian/GDevelop/releases/download/v5.6.252/GDevelop-5-5.6.252-arm64.AppImage>

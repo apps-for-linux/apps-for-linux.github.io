@@ -6,8 +6,9 @@ pubDate: 2025-12-10T12:39:00Z
 categories: ["Graphics"]
 authors: ["Stichting Krita Foundation"]
 tags:
-- "Painting tool"
+- "Painting software"
 - "Photo editor"
+- "Qt5"
 license: "GPL-3.0"
 draft: false
 ---

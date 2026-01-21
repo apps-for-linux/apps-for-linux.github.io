@@ -8,6 +8,7 @@ authors: ["Pablo Ivan Fonovich"]
 tags:
 - "Gaming tool"
 - "Game development"
+- "Qt5"
 license: "GPL-3.0"
 draft: false
 ---

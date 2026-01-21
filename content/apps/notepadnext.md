@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Justin Dailey"]
 tags:
 - "Code editor"
+- "Qt6"
 draft: false
 ---
 

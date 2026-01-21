@@ -8,6 +8,7 @@ authors: ["Umio Yasuno"]
 tags:
 - "GPU"
 - "fetch tool"
+- "TUI"
 License: MIT  
 draft: false
 ---

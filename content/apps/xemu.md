@@ -2,7 +2,7 @@
 title: "xemu"
 description: |
  "Free and open-source original Xbox game console emulation"
-pubDate: 2025-12-26T01:35:00Z
+pubDate: 2026-01-16T10:14:00Z
 categories: ["Games"]
 authors: ["xemu Project"]
 tags:
@@ -21,7 +21,7 @@ Source code: <https://github.com/xemu-project/xemu>
 
 Become a sponsor: <https://www.patreon.com/mborgerson>  
 Report the bug: <https://github.com/xemu-project/xemu/issues/new>  
-Download:   x86_64: <https://github.com/xemu-project/xemu/releases/download/v0.8.124/xemu-v0.8.124-x86_64.AppImage>  
-            debug: <https://github.com/xemu-project/xemu/releases/download/v0.8.124/xemu-v0.8.124-dbg-x86_64.AppImage>
-            arm64: <https://github.com/xemu-project/xemu/releases/download/v0.8.124/xemu-v0.8.124-aarch64.AppImage>
-            arm64-debug: <https://github.com/xemu-project/xemu/releases/download/v0.8.124/xemu-v0.8.124-dbg-aarch64.AppImage>
+Download:   x86_64: <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-x86_64.AppImage>  
+            debug: <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-dbg-x86_64.AppImage>
+            arm64: <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-aarch64.AppImage>
+            arm64-debug: <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-dbg-aarch64.AppImage>

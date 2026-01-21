@@ -2,7 +2,7 @@
 title: "Friction"
 description: |
  "Powerful and versatile free and open-source motion graphics application."
-pubDate: 2025-08-07T12:57:00Z
+pubDate: 2026-01-01T00:53:00Z
 categories: ["Graphics"]
 authors: ["Friction contributors"]
 tags:
@@ -21,4 +21,4 @@ Source code: <https://github.com/friction2d/friction>
 
 Report the bug: <https://github.com/friction2d/friction/issues/new>  
 
-Download: <https://github.com/friction2d/friction/releases/download/v1.0.0-rc.2/Friction-1.0.0-rc.2-x86_64.AppImage>
+Download: <https://github.com/friction2d/friction/releases/download/v1.0.0-rc.3/Friction-1.0.0-rc.3-x86_64.AppImage>

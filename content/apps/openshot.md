@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["OpenShot Studios"]
 tags:
 - "Video Editor"
+- "Qt5"
 license: "GPL-3.0"
 draft: false
 ---

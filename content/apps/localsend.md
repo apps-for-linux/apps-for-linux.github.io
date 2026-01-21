@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["Tien Do Nam"]
 tags:
 - "Sending files"
+- "Flutter"
 license: "MIT"
 draft: false
 ---
@@ -25,5 +26,3 @@ Translate: <https://github.com/localsend/localsend?tab=readme-ov-file#translatio
 Report the bug: <https://github.com/localsend/localsend/issues/new>
 
 Download: x86_64: <https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-linux-x86-64.AppImage>
-
-  

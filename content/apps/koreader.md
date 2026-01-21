@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["KOReader Community"]
 tags:
 - "eBook reader"
+- "Lua"
 License: AGPL-3.0
 draft: false
 ---

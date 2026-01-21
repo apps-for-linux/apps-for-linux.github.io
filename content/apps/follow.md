@@ -2,7 +2,7 @@
 title: "Folo"
 description: |
  "Folo is the AI RSS Reader"
-pubDate: 2025-12-18T07:23:00Z
+pubDate: 2026-01-02T14:37:00Z
 categories: ["Network"]
 authors: ["Follow Team"]
 tags:
@@ -22,5 +22,5 @@ Source code: <https://github.com/RSSNext/Folo/>
 Translate: <https://github.com/RSSNext/Folo/blob/dev/wiki/contribute-i18n.md>  
 Report the bug: <https://github.com/RSSNext/Folo/issues/new>  
 
-Download: x86_64: <https://github.com/RSSNext/Folo/releases/download/desktop%2Fv1.2.5/Folo-1.2.5-linux-x64.AppImage>
+Download: x86_64: <https://github.com/RSSNext/Folo/releases/download/desktop%2Fv1.2.6/Folo-1.2.6-linux-x64.AppImage>
 

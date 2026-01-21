@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Sandakan Nipunajith"]
 tags:
 - "Music player"
+- "Electron"
 draft: false
 ---
 

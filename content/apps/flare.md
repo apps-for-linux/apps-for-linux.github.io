@@ -23,5 +23,4 @@ Source code: <https://github.com/flareteam/flare-game>
 Translate: <https://explore.transifex.com/flareorg>  
 Report the bug: <https://github.com/flareteam/flare-game/issues/new>  
 
-https://github.com/flareteam/flare-game/releases/download/v1.14/flare-linux64-v1.14.AppImage
-Download
+Download: x86_64: <https://github.com/flareteam/flare-game/releases/download/v1.14/flare-linux64-v1.14.AppImage>

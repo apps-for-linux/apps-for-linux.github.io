@@ -2,7 +2,7 @@
 title: "Flow"
 description: |
  "Feature rich event, group and time managment system"
-pubDate: 2025-10-15T21:29:00Z
+pubDate: 2026-01-07T20:18:00Z
 categories: ["Productivity"]
 authors: ["LinwoodDev"]
 tags:
@@ -20,5 +20,5 @@ Source code: <https://github.com/LinwoodDev/Flow>
 Translate: <https://translate.linwood.dev/butterfly>  
 Report the bug: <https://github.com/LinwoodDev/Flow/issues/new>  
 
-Download: x86_64: <https://github.com/LinwoodDev/Flow/releases/download/v0.5.1/linwood-flow-linux-x86_64.AppImage>
-arm64: <https://github.com/LinwoodDev/Flow/releases/download/v0.5.1/linwood-flow-linux-arm64.AppImage>
+Download: x86_64: <https://github.com/LinwoodDev/Flow/releases/download/v0.5.2/linwood-flow-linux-x86_64.AppImage>
+arm64: <https://github.com/LinwoodDev/Flow/releases/download/v0.5.2/linwood-flow-linux-arm64.AppImage>

@@ -5,7 +5,9 @@ description: |
 pubDate: 2025-12-18T16:44:00Z 	
 categories: ["AudioVideo"]
 authors: ["Kdenlive Team"]
-tags: ["Video Editor"]
+tags: 
+- "Video Editor"
+- "Qt6"
 draft: false
 ---
 
