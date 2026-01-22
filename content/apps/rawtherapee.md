@@ -8,6 +8,7 @@ authors: ["The RawTherapee Team"]
 tags:
 - "RAW processing"
 - "Image editor"
+- "GTK+3"
 draft: false
 ---
 

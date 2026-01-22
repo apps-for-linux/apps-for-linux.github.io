@@ -7,7 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Aurélien Hamy"]
 tags:
 - "Music streaming client"
-- "Deezer"
+- "Electron"
 license: "MIT"
 draft: false
 ---

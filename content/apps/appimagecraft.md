@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["TheAssassin"]
 tags:
 - "AppImage"
+- "TUI"
 license: "MIT"
 draft: false
 ---

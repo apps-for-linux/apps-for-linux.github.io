@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Aaryan Kapoor"]
 tags:
 - "Music player"
+- "Electron"
 license: "MIT"
 draft: false
 ---

@@ -5,11 +5,14 @@ description: |
 pubDate: 2025-09-30T12:09:00Z
 categories: ["Development"]
 authors: ["EMQX Team"]
-tags: ["Official"]
+tags: 
+- "API Testing"
+- "Electron"
 draft: false
 ---
 
-MQTTX is a cross-platform MQTT 5.0 client tool open sourced by EMQ
+MQTTX is a cross-platform client for MQTT. MQ Telemetry Transport is a publish/subscribe, extremely simple and lightweight messaging protocol, designed for constrained devices and low-bandwidth, high-latency or unreliable networks.
+
 
 License: Apache-2.0
 

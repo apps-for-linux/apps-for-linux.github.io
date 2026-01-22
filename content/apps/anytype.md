@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Anytype"]
 tags:
 - "Knowledge base"
+- "Electron"
 license: "Custom"
 draft: false
 ---

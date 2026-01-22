@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["ownCloud"]
 tags:
 - "Collaboration platform"
+- "Qt6"
 draft: false
 ---
 

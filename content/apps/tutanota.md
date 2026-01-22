@@ -8,6 +8,7 @@ authors: ["Tutao"]
 tags:
 - "Mail Client"
 - "Censorship-resistance software"
+- "Electron"
 license: "GPL-3.0"
 draft: false
 ---

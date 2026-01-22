@@ -8,6 +8,7 @@ authors: ["Chatterino2 Authors"]
 tags:
 - "Twitch"
 - "Stream management"
+- "Qt6"
 draft: false
 ---
 

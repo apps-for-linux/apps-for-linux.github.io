@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Patrizio Bekerle"]
 tags:
 - "Notes"
+- "Qt6"
 draft: false
 ---
 

@@ -6,10 +6,15 @@ pubDate: 2025-06-11T01:31:00Z
 categories: ["AudioVideo"]
 authors: ["nukeop"]
 tags:
-- "Music Player"
+- "Music streaming client"
+- "YouTube Music client"
+- "Soundcloud client"
+- "Electron"
 License: AGPL-3.0
 draft: false
 ---
+
+<img src="https://raw.githubusercontent.com/nukeop/nuclear/refs/heads/master/screenshots/screenshot_default.jpg" alt="Main Screen">
 
 Streaming music player that finds free music for you
 

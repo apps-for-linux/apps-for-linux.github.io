@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["Nextcloud"]
 tags:
 - "Collaboration platform"
+- "Qt6"
 draft: false
 ---
 
@@ -15,7 +16,7 @@ Nextcloud is the industry-leading, fully open-source, on-premises content collab
 License: GPL-2.0
 
 Web page: <https://nextcloud.com>  
-Source code: <https://github.com/nextcloud-releases/desktop>
+Source code: <https://github.com/nextcloud/desktop>
 
 Translate: <https://www.transifex.com/nextcloud/nextcloud>  
 Report the bug: <https://github.com/nextcloud/desktop/issues/new>  

@@ -8,6 +8,7 @@ authors: ["GAMS Development"]
 tags:
 - "Algebra"
 - "Mathematical models"
+- "Qt6"
 draft: false
 ---
 

@@ -7,7 +7,8 @@ categories: ["Games"]
 authors: ["Jean-Philip Desjardins"]
 tags:
 - "PlayStation Emulator"
-- "Game Emulator"
+- "Console Emulator"
+- "Qt6"
 License: BSD-2-Clause
 draft: false
 ---

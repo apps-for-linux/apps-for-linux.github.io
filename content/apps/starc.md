@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Story Apps"]
 tags:
 - "Screenwriting"
+- "Qt6"
 license: "GPL-3.0"
 draft: false
 ---

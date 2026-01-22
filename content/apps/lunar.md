@@ -8,7 +8,6 @@ authors: ["Moonsworth"]
 tags:
 - "Game launcher"
 - "Minecraft launcher"
-
 license: "GPL-3.0"
 draft: false
 ---

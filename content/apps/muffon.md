@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Aleksey Shpakovsky"]
 tags: 
 - "Music streaming client"
+- "Electron"
 draft: false
 ---
 

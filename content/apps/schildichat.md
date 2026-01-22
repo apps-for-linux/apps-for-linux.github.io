@@ -8,6 +8,7 @@ authors: ["SchildiChat"]
 tags:
 - "Matrix"
 - "IM"
+- "Electron"
 license: "Apache-2.0"
 draft: false
 ---

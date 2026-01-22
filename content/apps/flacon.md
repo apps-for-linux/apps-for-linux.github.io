@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Flacon team"]
 tags:
 - "CD ripper"
+- "Qt5"
 draft: false
 ---
 

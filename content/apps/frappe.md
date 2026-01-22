@@ -7,6 +7,7 @@ categories: ["Finance"]
 authors: ["Frappe Technologies"]
 tags:
 - "Budget software"
+- "Electron"
 License: AGPL-3.0
 draft: false
 ---

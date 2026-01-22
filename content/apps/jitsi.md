@@ -5,7 +5,9 @@ description: |
 pubDate: 2025-10-04T11:44:00Z
 categories: ["Network"]
 authors: ["Jitsi team"]
-tags: ["Video conferences"]
+tags: 
+- "Video conferences"
+- "Electron"
 draft: false
 ---
 

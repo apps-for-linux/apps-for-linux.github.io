@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Johannes Millan"]
 tags:
 - "To-do list"
+- "Electron"
 draft: false
 ---
 

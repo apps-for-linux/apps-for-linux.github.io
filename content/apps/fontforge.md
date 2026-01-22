@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["FontForge Project contributors"]
 tags:
 - "Font editor"
+- "GTK+3"
 license: "GPL-3.0"
 draft: false
 ---

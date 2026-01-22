@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Standard Notes"]
 tags:
 - "Notes"
+- "Electron"
 License: AGPL-3.0
 draft: false
 ---

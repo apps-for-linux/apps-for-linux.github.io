@@ -7,6 +7,7 @@ categories: ["Science"]
 authors: ["Open Observatory of Network Interference (OONI)"]
 tags:
 - "Censorship-resistance"
+- "Electron"
 License: BSD-3-Clause
 draft: false
 ---

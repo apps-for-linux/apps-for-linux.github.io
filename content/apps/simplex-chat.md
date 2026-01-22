@@ -7,7 +7,6 @@ categories: ["Network"]
 authors: ["SimpleX Chat"]
 tags:
 - "Messenger"
-
 - "Censorship-resistance software"
 License: AGPL-3.0
 draft: false

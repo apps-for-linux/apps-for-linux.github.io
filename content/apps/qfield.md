@@ -7,6 +7,7 @@ categories: ["Science"]
 authors: ["OPENGIS.ch"]
 tags:
 - "Geodata"
+- "Qt6"
 license: "GPL-2.0"
 draft: false
 ---

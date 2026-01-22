@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Benjamin O"]
 tags:
 - "Image Viewer"
+- "Qt6"
 draft: false
 ---
 

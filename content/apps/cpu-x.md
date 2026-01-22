@@ -7,6 +7,7 @@ categories: ["Utilities"]
 authors: ["The Tumultuous Unicorn Of Darkness"]
 tags:
 - "System Monitor"
+- "GTK+3"
 draft: false
 ---
 

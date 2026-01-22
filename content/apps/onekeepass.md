@@ -7,6 +7,7 @@ categories: ["Utilities"]
 authors: ["jeyasankar"]
 tags:
 - "Offline password manager"
+- "Tauri"
 license: "GPL-3.0"
 draft: false
 ---

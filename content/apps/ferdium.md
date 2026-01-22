@@ -8,6 +8,7 @@ authors: ["Ferdium Team"]
 tags:
 - "Web apps"
 - "Browser"
+- "Electron"
 license: "Apache-2.0"
 draft: false
 ---

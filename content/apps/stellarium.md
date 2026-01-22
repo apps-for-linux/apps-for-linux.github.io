@@ -7,6 +7,7 @@ categories: ["Science"]
 authors: ["Stellarium contributors"]
 tags:
 - "Planetarium"
+- "Qt6"
 license: "GPL-2.0"
 draft: false
 ---

@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Leonardo Zide"]
 tags:
 - "CAD"
+- "Qt5"
 license: "GPL-2.0"
 draft: false
 ---

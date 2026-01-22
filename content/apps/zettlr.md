@@ -6,14 +6,14 @@ pubDate: 2025-12-19T11:49:00Z
 categories: ["Productivity"]
 authors: ["Hendrik Erz"]
 tags:
-- "Writer"
-- "Office software"
+- "Notes"
+- "Electron"
 license: "GPL-3.0"
 draft: false
 
 ---
 
-<img src="https://raw.githubusercontent.com/Zettlr/Zettlr/refs/heads/develop/resources/screenshots/zettlr_view.png
+<img src="https://raw.githubusercontent.com/Zettlr/Zettlr/refs/heads/develop/resources/screenshots/zettlr_view.png">
 
 Your One-Stop Publication Workbench
 

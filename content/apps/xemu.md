@@ -7,8 +7,8 @@ categories: ["Games"]
 authors: ["xemu Project"]
 tags:
 - "Xbox emulator"
-- "Game emulator"
-
+- "Console emulator"
+- "SDL2"
 draft: false
 ---
 

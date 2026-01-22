@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["Tiled Authors"]
 tags: 
 - "Map Editor"
+- "Qt5"
 license: "GPL-2.0"
 draft: false
 ---

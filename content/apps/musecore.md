@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["MuseScore BVBA"]
 tags:
 - "Audio editor"
+- "Qt6"
 draft: false
 ---
 

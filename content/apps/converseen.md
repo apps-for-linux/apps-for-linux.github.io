@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Francesco Mondello"]
 tags:
 - "Image converter"
+- "Qt6"
 license: "GPL-3.0"
 draft: false
 ---

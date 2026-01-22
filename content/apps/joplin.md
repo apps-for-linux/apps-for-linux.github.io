@@ -5,7 +5,9 @@ description: |
 pubDate: 2026-01-18T23:10:00Z
 categories: ["Productivity"]
 authors: ["Laurent Cozic"]
-tags: ["Notes"]
+tags: 
+- "Notes"
+- "Electron"
 draft: false
 ---
 

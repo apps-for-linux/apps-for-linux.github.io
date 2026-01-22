@@ -8,6 +8,8 @@ authors: ["Follow Team"]
 tags:
 - "RSS"
 - "News Reader"
+- "Electron"
+- "Cross-platform"
 license: "GPL-3.0"
 draft: false
 ---

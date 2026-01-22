@@ -8,6 +8,7 @@ authors: ["RustDesk"]
 tags:
 - "Remote desktop"
 - "Remote control"
+- "Flutter"
 License: AGPL-3.0
 draft: false
 ---

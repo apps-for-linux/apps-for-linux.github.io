@@ -7,6 +7,8 @@ categories: ["Graphics"]
 authors: ["Pencil2D"]
 tags:
 - "2D"
+- "Painting software"
+- "Qt6"
 license: "GPL-2.0"
 draft: false
 ---

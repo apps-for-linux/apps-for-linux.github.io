@@ -8,6 +8,7 @@ authors: ["Nayam Amarshe"]
 tags:
 - "Upscaling software"
 - "AI-powered software"
+- "Electron"
 License: AGPL-3.0
 draft: false
 ---

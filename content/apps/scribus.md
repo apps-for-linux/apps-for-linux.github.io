@@ -8,6 +8,7 @@ authors: ["The Scribus Team"]
 tags:
 - "DTP"
 - "Publishing"
+- "Qt6"
 license: "GPL-2.0"
 draft: false
 ---

@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Florian Rival"]
 tags:
 - "Game development"
+- "Electron"
 license: "MIT"
 draft: false
 ---

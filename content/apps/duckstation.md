@@ -6,9 +6,8 @@ pubDate: 2026-01-17T19:05:00Z
 categories: ["Games"]
 authors: ["Connor McLaughlin"]
 tags:
-- "Game emulator"
+- "Console emulator"
 - "PlayStation Emulator"
-
 license: "GPL-3.0"
 draft: false
 ---

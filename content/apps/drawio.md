@@ -7,11 +7,12 @@ categories: ["Graphics"]
 authors: ["JGraph"]
 tags:
 - "Diagramming tool"
+- "Electron"
 license: "Apache-2.0"
 draft: false
 ---
 
-https://www.drawio.com/assets/svg/home-dia1.svg
+<img src="https://www.drawio.com/assets/svg/home-dia1.svg">
 
 Security-first diagramming for teams
 

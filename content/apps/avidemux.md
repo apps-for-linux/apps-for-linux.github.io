@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Avidemux Authors"]
 tags: 
 - "Video editor"
+- "Qt5"
 license: "GPL-2.0"
 draft: false
 ---

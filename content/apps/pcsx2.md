@@ -7,8 +7,8 @@ categories: ["Games"]
 authors: ["PCSX2 Team"]
 tags:
 - "PlayStation Emulator"
-- "Game Emulator"
-
+- "Console Emulator"
+- "Qt6"
 license: "GPL-3.0"
 draft: false
 ---

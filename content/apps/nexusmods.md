@@ -8,6 +8,7 @@ authors: ["Black Tree Gaming Ltd"]
 tags:
 - "Gaming tool"
 - "Mod marketplace"
+- "Avalonia"
 draft: false
 ---
 

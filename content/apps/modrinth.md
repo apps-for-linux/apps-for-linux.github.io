@@ -8,6 +8,7 @@ authors: ["Rinth"]
 tags:
 - "Gaming tool"
 - "Mod marketplace"
+- "Tauri"
 License: AGPL-3.0
 draft: false
 ---

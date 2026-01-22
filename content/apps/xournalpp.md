@@ -8,11 +8,12 @@ authors: ["Xournal Team"]
 tags:
 - "Notes"
 - "Handwriting"
+- "GTK+3"
 license: "GPL-2.0"
 draft: false
 ---
 
-https://xournalpp.github.io/img/Physics%20Problem.png
+<img src="https://xournalpp.github.io/img/Physics%20Problem.png" alt="Main Screen">
 
 Handwriting notetaking software with PDF annotation support
 

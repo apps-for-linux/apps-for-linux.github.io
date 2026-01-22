@@ -8,6 +8,7 @@ authors: ["Blueprint for Free Speech"]
 tags:
 - "Messenger"
 - "Censorship-resistance software"
+- "Qt5"
 license: "GPL-3.0"
 draft: false
 ---

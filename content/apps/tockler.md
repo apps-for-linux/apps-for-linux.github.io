@@ -8,6 +8,7 @@ authors: ["Maigo Erit"]
 tags:
 - "Time control"
 - "Digital Wellbeing"
+- "Electron"
 draft: false
 ---
 

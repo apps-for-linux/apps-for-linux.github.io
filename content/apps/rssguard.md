@@ -8,6 +8,8 @@ authors: ["Martin Rotter"]
 tags:
 - "RSS"
 - "News Reader"
+- "Podcast player"
+- "Qt6"
 license: "GPL-3.0"
 draft: false
 ---

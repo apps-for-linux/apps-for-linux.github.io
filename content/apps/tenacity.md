@@ -8,6 +8,7 @@ authors: ["Tenacity community"]
 tags:
 - "Audio editor"
 - "DAW"
+- "wxWidgets"
 license: "GPL-2.0"
 draft: false
 ---

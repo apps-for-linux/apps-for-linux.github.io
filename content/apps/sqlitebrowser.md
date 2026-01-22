@@ -8,6 +8,7 @@ authors: ["DB Browser for SQLite Team"]
 tags:
 - "Database"
 - "SQL"
+- "Qt5"
 license: "GPL-3.0"
 draft: false
 ---

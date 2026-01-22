@@ -8,6 +8,7 @@ authors: ["LinwoodDev"]
 tags:
 - "Notes"
 - "Handwriting"
+- "Flutter"
 License: AGPL-3.0
 draft: false
 ---

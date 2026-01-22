@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["Jelmer van Arnhem"]
 tags:
 - "Browser"
+- "Electron"
 license: "GPL-3.0"
 draft: false
 ---

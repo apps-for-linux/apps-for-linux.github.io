@@ -7,7 +7,7 @@ categories: ["AudioVideo"]
 authors: ["kraxie"]
 tags:
 - "Music streaming client"
-- "Spotify"
+- "Spotify client"
 - "Qt6"
 license: "GPL-3.0"
 draft: false

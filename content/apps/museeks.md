@@ -7,7 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Pierre de la Martinière"]
 tags:
 - "Music streaming client"
-- "YouTube Client"
+- "YouTube Music client"
 - "Tauri"
 draft: false
 ---

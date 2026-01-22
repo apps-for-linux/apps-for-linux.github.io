@@ -6,7 +6,7 @@ pubDate: 2026-01-17T11:22:00Z
 categories: ["Games"]
 authors: ["RPCS3 Authors"]
 tags:
-- "Game emulator"
+- "Console emulator"
 - "PlayStation emulator"
 draft: false
 ---

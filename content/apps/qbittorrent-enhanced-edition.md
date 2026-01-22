@@ -6,8 +6,9 @@ pubDate: 2025-11-15T19:20:00Z
 categories: ["Network"]
 authors: ["c0re100"]
 tags:
-- "Torrent"
+- "Torrent client"
 - "Download manager"
+- "Qt6"
 license: "GPL-2.0"
 draft: false
 ---

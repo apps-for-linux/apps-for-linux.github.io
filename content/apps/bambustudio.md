@@ -8,6 +8,7 @@ authors: ["Bambu Lab"]
 tags:
 - "3D"
 - "Slicing software"
+- "GTK+3"
 License: AGPL-3.0
 draft: false
 ---

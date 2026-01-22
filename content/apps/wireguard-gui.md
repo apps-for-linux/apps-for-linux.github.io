@@ -8,6 +8,7 @@ authors: ["Wireguard GUI Contributors"]
 tags:
 - "VPN Client"
 - "Censorship-resistance software"
+- "Tauri"
 License: Apache 2.0
 draft: false
 ---

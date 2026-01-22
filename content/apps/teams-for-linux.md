@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["Ismael Martinez"]
 tags: 
 - "Connectivity"
+- "Electron"
 license: "GPL-3.0"
 draft: false
 ---

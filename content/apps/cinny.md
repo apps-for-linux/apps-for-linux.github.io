@@ -8,6 +8,7 @@ authors: ["Ajay Bura"]
 tags:
 - "Matrix"
 - "Messenger"
+- "Tauri"
 License: AGPL-3.0
 draft: false
 ---

@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Neovim contributors"]
 tags:
 - "Code editor"
+- "TUI"
 draft: false
 ---
 

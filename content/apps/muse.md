@@ -8,6 +8,7 @@ authors: ["The MusE development team"]
 tags:
 - "Audio editor"
 - "DAW"
+- "Qt5"
 draft: false
 ---
 

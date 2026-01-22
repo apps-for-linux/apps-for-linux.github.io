@@ -7,7 +7,7 @@ categories: ["Games"]
 authors: ["Flyinghead"]
 tags:
 - "Sega Emulator"
-- "Game Emulator"
+- "Console Emulator"
 draft: false
 ---
 
