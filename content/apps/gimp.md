@@ -12,7 +12,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://www.phoronix.net/image.php?id=2025&image=gimp_30_rc3_1_show
+<img src="https://www.gimp.org/screenshots/Screenshot-gimp-3.0-painting.jpg">
 
 The Free & Open Source Image Editor
 

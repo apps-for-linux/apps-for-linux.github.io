@@ -2,7 +2,7 @@
 title: "Vesktop"
 description: |
  "Vesktop is a custom Discord App aiming to give you better performance and improve linux support"
-pubDate: 2025-12-25T07:40:00Z
+pubDate: 2026-01-24T09:43:00Z
 categories: ["Network"]
 authors: ["Vendicated"]
 tags:
@@ -23,5 +23,5 @@ Source code: <https://github.com/Vencord/Vesktop>
 
 Become a sponsor: <https://github.com/sponsors/Vendicated>  
 Report the bug: <https://github.com/Vencord/Vesktop/issues/new>  
-Download:   x86_64: <https://github.com/Vencord/Vesktop/releases/download/v1.6.3/Vesktop-1.6.3.AppImage>  
-            arm64: <https://github.com/Vencord/Vesktop/releases/download/v1.6.3/Vesktop-1.6.3-arm64.AppImage>
+Download:   x86_64: <https://github.com/Vencord/Vesktop/releases/download/v1.6.4/Vesktop-1.6.4.AppImage>  
+            arm64: <https://github.com/Vencord/Vesktop/releases/download/v1.6.4/Vesktop-1.6.4-arm64.AppImage>
