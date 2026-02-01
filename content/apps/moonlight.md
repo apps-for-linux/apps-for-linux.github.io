@@ -7,7 +7,7 @@ categories: ["Games"]
 authors: ["Moonlight Game Streaming Project"]
 tags:
 - "Gaming tool"
-- "Steaming games"
+- "Streaming software"
 - "Qt6"
 license: "GPL-3.0"
 draft: false
