@@ -7,7 +7,7 @@ categories: ["Graphics"]
 authors: ["Mattia Basaglia"]
 tags:
 - "2D"
-- "Vetor graphics editor"
+- "Vector graphics editor"
 - "Qt5"
 license: "GPL-3.0"
 draft: false
