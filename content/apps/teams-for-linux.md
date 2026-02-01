@@ -12,9 +12,6 @@ license: "GPL-3.0"
 draft: false
 ---
 
-<img src="https://raw.githubusercontent.com/86Box/86Box/master/src/unix/assets/screenshots/86Box.png" alt="Main Screen">
-
-
 Unofficial Microsoft Teams for Linux client
 
 License: GPL-3.0
