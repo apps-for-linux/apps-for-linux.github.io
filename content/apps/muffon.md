@@ -7,6 +7,9 @@ categories: ["AudioVideo"]
 authors: ["Aleksey Shpakovsky"]
 tags: 
 - "Music streaming client"
+- "SoundCloud client"
+- "YouTube Music client"
+- "YouTube Client"
 - "Electron"
 draft: false
 ---
