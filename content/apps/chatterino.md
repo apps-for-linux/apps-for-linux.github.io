@@ -7,7 +7,7 @@ categories: ["Network"]
 authors: ["Chatterino2 Authors"]
 tags:
 - "Twitch"
-- "Stream management"
+- "Streaming tools"
 - "Qt6"
 draft: false
 ---
