@@ -1,7 +1,7 @@
 ---
-title: "ente Photos"
+title: "ente Auth"
 description: |
- "End-to-end encryption for photos and more."
+ "Open source 2FA authenticator, with end-to-end encrypted backups"
 pubDate: 2025-12-17T15:16:00Z
 categories: ["Productivity"]
 authors: ["Ente"]
@@ -13,9 +13,9 @@ license: "GPL-3.0"
 draft: false
 ---
 
-<img src="https://raw.githubusercontent.com/ente-io/ente/main/.github/assets/photos.png">
+<img src="https://raw.githubusercontent.com/ente-io/ente/refs/heads/main/.github/assets/auth.png">
 
-End-to-end encryption for photos and more
+Open source 2FA authenticator, with end-to-end encrypted backups
 
 License: GPL-3.0
 
