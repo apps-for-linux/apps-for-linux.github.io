@@ -6,8 +6,6 @@ pubDate: 2025-09-22T17:11:00Z
 categories: ["AudioVideo"]
 authors: ["Pierre de la Martinière"]
 tags:
-- "Music streaming client"
-- "YouTube Music client"
 - "Tauri"
 draft: false
 ---

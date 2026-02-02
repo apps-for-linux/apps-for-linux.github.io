@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Cinelerra GG community"]
 tags:
 - "Video Editor"
+- "GTK2"
 license: "GPL-2.0"
 draft: false
 ---

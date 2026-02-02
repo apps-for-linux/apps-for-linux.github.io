@@ -8,9 +8,12 @@ authors: ["Logseq"]
 tags:
 - "Knowledge base"
 - "Electron"
+- "Cross-platform software"
 License: AGPL-3.0
 draft: false
 ---
+
+<img src="https://raw.githubusercontent.com/logseq/logseq/refs/heads/master/resources/img/screenshot.png">
 
 A privacy-first, open-source platform for knowledge management and collaboration
 

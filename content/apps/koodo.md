@@ -7,13 +7,13 @@ categories: ["Productivity"]
 authors: ["App by Troye"]
 tags:
 - "eBook reader"
-- "Cross-platform"
+- "Cross-platform software"
 - "Electron"
 License: AGPL-3.0
 draft: false
 ---
 
-https://koodoreader.com/demo1.png
+<img src="https://koodoreader.com/demo1.png">
 
 A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 

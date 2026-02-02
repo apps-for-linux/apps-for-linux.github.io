@@ -8,6 +8,7 @@ authors: ["Nextcloud"]
 tags:
 - "Collaboration platform"
 - "Qt6"
+- "Cross-platform software"
 draft: false
 ---
 

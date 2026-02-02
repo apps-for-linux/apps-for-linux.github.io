@@ -8,6 +8,7 @@ authors: ["Connor McLaughlin"]
 tags:
 - "Console emulator"
 - "PlayStation Emulator"
+- "Qt6"
 license: "GPL-3.0"
 draft: false
 ---

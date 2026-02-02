@@ -11,7 +11,7 @@ license: "MIT"
 draft: false
 ---
 
-<img src="https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png" alt="Main Screen">
+<img src="https://raw.githubusercontent.com/actualbudget/actual/master/packages/desktop-electron/screenshots/budget-gnome-light.png" alt="Budget screen">
 
 Actual Budget is a super fast and privacy-focused app for managing your finances.
 

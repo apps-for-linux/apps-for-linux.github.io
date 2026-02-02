@@ -12,6 +12,8 @@ license: "GPL-2.0"
 draft: false
 ---
 
+https://photoqt.org/img/metainfo/metainfo1.png
+
 PhotoQt is a simple yet powerful and good looking image viewer, based on Qt/QML, published as open-source and completely free
 
 License: GPL-2.0

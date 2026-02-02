@@ -5,7 +5,9 @@ description: |
 pubDate: 2026-01-15T00:00:00Z
 categories: ["Productivity"]
 authors: ["Element Labs"]
-tags: ["AI-powered software"]
+tags: 
+- "AI-powered software"
+- "Chatbot"
 license: "EULA"
 draft: false
 ---

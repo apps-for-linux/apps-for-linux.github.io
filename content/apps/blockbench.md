@@ -11,7 +11,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://web.blockbench.net/content/front_page_app.png
+<img src="https://web.blockbench.net/content/front_page_app.png">
 
 Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures.
 

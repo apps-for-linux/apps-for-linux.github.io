@@ -7,7 +7,7 @@ categories: ["Productivity"]
 authors: ["Daniele Rolli"]
 tags:
 - "Notes"
-- "Cross-platform"
+- "Cross-platform software"
 - "Electron"
 License: MIT
 draft: false

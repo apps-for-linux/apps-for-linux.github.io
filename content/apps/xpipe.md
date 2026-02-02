@@ -6,11 +6,13 @@ pubDate: 2025-12-06T13:01:00Z
 categories: ["Development"]
 authors: ["XPipe UG"]
 tags:
-- "Server "
+- "Server Management"
+- "Kubernetes"
+- "Java"
 draft: false
 ---
 
-<img src="https://raw.githubusercontent.com/xpipe-io/.github/main/img/hub_shadow.png
+<img src="https://raw.githubusercontent.com/xpipe-io/.github/main/img/hub_shadow.png">
 
 XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine
 

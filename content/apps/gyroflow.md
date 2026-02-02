@@ -7,7 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Gyroflow Team"]
 tags: 
 - "Video stabilization"
-- "Cross-platform"
+- "Cross-platform software"
 - "Qt6"
 license: "GPL-3.0"
 draft: false

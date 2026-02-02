@@ -17,7 +17,6 @@ A cross-platform, reimplementation of Notepad++
 
 License: GPL-3.0
 
-Web page: <https://www.get-notes.com>  
 Source code: <https://github.com/dail8859/NotepadNext>
 
 Become a sponsor: <https://github.com/sponsors/dail8859>  

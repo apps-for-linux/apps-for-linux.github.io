@@ -5,7 +5,9 @@ description: |
 pubDate: 2025-08-31T05:06:00Z
 categories: ["Games"]
 authors: ["Naev DevTeam"]
-tags: ["Official"]
+tags: 
+- "OSS Game"
+- "RPG"
 draft: false
 ---
 

@@ -16,6 +16,6 @@ A modpack for all modern versions of Minecraft
 
 License: GPL-3.0
 
-Web: <https://www.lunarclient.com//>  
+Web: <https://www.lunarclient.com/>  
 
 Download: x86_64: <https://launcherupdates.lunarclientcdn.com/Lunar%20Client-3.5.15-ow.AppImage>

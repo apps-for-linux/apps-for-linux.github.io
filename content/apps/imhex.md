@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://github.com/user-attachments/assets/902a7c4c-410d-490f-999e-14c856fec027
+<img src="https://github.com/user-attachments/assets/902a7c4c-410d-490f-999e-14c856fec027">
 
 ImHex is a feature-rich Hex Editor aimed towards Reverse Engineers working with foreign data formats, malware, executables and raw memory.
 

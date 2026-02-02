@@ -6,7 +6,7 @@ pubDate: 2025-10-19T13:14:00Z
 categories: ["Network"]
 authors: ["n0vella"]
 tags:
-- "Podcasts"
+- "Podcast player"
 - "Tauri"
 License: GPL-3.0 
 draft: false

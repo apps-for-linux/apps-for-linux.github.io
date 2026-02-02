@@ -11,7 +11,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
- https://www.bforartists.de/wp-content/uploads/2020/04/modelingbfa2.jpg
+<img src="https://www.bforartists.de/wp-content/uploads/2020/04/modelingbfa2.jpg">
 
 Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI.
 

@@ -9,7 +9,7 @@ tags:
 - "Photo Management"
 - "Cloud client"
 - "Flutter"
-- "Cross-platform"
+- "Cross-platform software"
 license: "GPL-3.0"
 draft: false
 ---

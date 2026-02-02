@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Fabio Di Stasio"]
 tags:
 - "SQL"
+- "Electron"
 license: "MIT"
 draft: false
 ---

@@ -8,6 +8,7 @@ authors: ["Anytype"]
 tags:
 - "Knowledge base"
 - "Electron"
+- "Cross-platform software"
 license: "Custom"
 draft: false
 ---

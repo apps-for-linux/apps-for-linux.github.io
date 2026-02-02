@@ -13,6 +13,9 @@ license: "GPL-2.0"
 draft: false
 ---
 
+<img src="https://gitlab.com/CalcProgrammer1/OpenRGB/-/raw/master/Documentation/Images/OpenRGB_Screenshot.png" alt="Main Window">
+
+
 Open source RGB lighting control that doesn't depend on manufacturer software
 
 License: GPL-2.0

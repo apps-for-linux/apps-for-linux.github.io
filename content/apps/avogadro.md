@@ -5,7 +5,9 @@ description: |
 pubDate: 2026-01-19T19:48:00Z
 categories: ["Science"]
 authors: ["Open Chemistry"]
-tags: ["Chemistry"]
+tags: 
+- "Chemistry"
+- "Qt6"
 License: BSD-3-Clause
 draft: false
 ---

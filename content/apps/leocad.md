@@ -12,6 +12,8 @@ license: "GPL-2.0"
 draft: false
 ---
 
+<img src="https://www.leocad.org/towerbridge.png">
+
 A CAD application for creating virtual LEGO models
 
 License: GPL-2.0

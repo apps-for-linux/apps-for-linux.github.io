@@ -9,7 +9,8 @@ tags:
 - "RSS"
 - "News Reader"
 - "Electron"
-- "Cross-platform"
+- "Cross-platform software"
+- "AI-powered software"
 license: "GPL-3.0"
 draft: false
 ---

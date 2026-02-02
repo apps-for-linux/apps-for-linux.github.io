@@ -6,10 +6,13 @@ pubDate: 2025-10-07T19:45:00Z
 categories: ["Finance"]
 authors: ["Alephium Team"]
 tags:
--   "Cryptocurrency"
+- "Cryptocurrency"
+- "Electron"
 License: LGPL-3.0
 draft: false
 ---
+
+<img src="https://user-images.githubusercontent.com/1579899/236201682-4e0b0c45-65d3-42c0-b187-d8d6387426d7.png" alt="amdgpu_top GUI mode">
 
 The official Alephium desktop wallet
 

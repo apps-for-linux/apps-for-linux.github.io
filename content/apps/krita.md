@@ -2,7 +2,7 @@
 title: "Krita"
 description: |
  "Krita is a professional free and open source painting program"
-pubDate: 2025-12-10T12:39:00Z
+pubDate: 2026-01-24T13:30:00Z
 categories: ["Graphics"]
 authors: ["Stichting Krita Foundation"]
 tags:
@@ -12,6 +12,8 @@ tags:
 license: "GPL-3.0"
 draft: false
 ---
+
+<img src="https://cdn.kde.org/screenshots/krita/splash.png">
 
 Krita is a professional free and open source painting program
 
@@ -24,4 +26,4 @@ Become a sponsor: <https://krita.org/en/support-us/donations>
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://bugs.kde.org/enter_bug.cgi>  
 
-Download: x86_64: <https://download.kde.org/stable/krita/5.2.14/krita-5.2.14-x86_64.AppImage>
+Download: x86_64: <https://download.kde.org/stable/krita/5.2.15/krita-5.2.15-x86_64.AppImage>

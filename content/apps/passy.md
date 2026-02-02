@@ -7,7 +7,7 @@ categories: ["Utilities"]
 authors: ["GlitterWare"]
 tags:
 - "Offline password manager"
-- "Passy"
+- "Flutter"
 draft: false
 ---
 

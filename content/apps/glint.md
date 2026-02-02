@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-https://glint.info/assets/screenshot-1536.webp
+<img src="https://glint.info/assets/screenshot-1536.webp">
 
 A Graphical interface for Git
 

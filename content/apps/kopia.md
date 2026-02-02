@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["Kopia Authors"]
 tags:
 - "Backup tool"
+- "Electron"
 license: "Apache-2.0"
 draft: false
 ---

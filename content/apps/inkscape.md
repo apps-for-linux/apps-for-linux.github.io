@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://media.inkscape.org/media/resources/file/dark-2.png
+<img src="https://media.inkscape.org/media/resources/file/dark-2.png">
 
 A Free and open source vector graphics editor
 

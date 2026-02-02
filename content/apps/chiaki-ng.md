@@ -7,7 +7,7 @@ categories: ["Games"]
 authors: ["Street Pea"]
 tags:
 - "PlayStation"
-- "Remote control"
+- "Remote play"
 License: AGPL-3.0
 draft: false
 ---

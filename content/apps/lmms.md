@@ -8,6 +8,7 @@ authors: ["LMMS"]
 tags:
 - "DAW"
 - "Audio Editor"
+- "Qt5"
 license: "GPL-2.0"
 draft: false
 ---

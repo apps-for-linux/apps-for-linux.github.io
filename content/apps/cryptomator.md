@@ -7,10 +7,11 @@ categories: ["Productivity"]
 authors: ["Skymatic"]
 tags:
 - "Cloud encryption"
+- "Java"
 draft: false
 ---
 
-https://static.cryptomator.org/desktop/flathubScreenshots/MainWindowUnlocked_light.png
+<img src="https://static.cryptomator.org/desktop/flathubScreenshots/MainWindowUnlocked_light.png">
 
 Multi-platform transparent client-side encryption of your files in the cloud
 
@@ -20,7 +21,7 @@ Web page: <https://cryptomator.org>
 Source code: <https://github.com/cryptomator/cryptomator>
 
 Become a sponsor: <https://github.com/sponsors/cryptomator>  
-Translate: <https://translate.cryptomator.org>  
+Translate: <https://translate.cryptomator.org>
 Report the bug: <https://github.com/cryptomator/cryptomator/issues/new>  
 
 Download: x86_64: <https://github.com/cryptomator/cryptomator/releases/download/1.19.0-alpha2/cryptomator-1.19.0-alpha2-x86_64.AppImage>  

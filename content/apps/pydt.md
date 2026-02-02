@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["Michael Rosack"]
 tags:
 - "Game client"
+- "Electron"
 license: "MIT"
 draft: false
 ---

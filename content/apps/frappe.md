@@ -12,7 +12,7 @@ License: AGPL-3.0
 draft: false
 ---
 
-https://user-images.githubusercontent.com/29507195/207267857-4ae48890-3fb2-4046-80cf-3256b46c72a0.png
+<img src="https://user-images.githubusercontent.com/29507195/207267857-4ae48890-3fb2-4046-80cf-3256b46c72a0.png">
 
 Simple, well-designed, free desktop accounting software for freelancers and small businesses
 

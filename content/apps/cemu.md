@@ -8,6 +8,7 @@ authors: ["Cemu Project"]
 tags:
 - "Game Emulator"
 - "Nintendo Emulator"
+- "GTK+3"
 License: MPL-2.0
 draft: false
 ---

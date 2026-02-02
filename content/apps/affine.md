@@ -6,7 +6,9 @@ pubDate: 2026-01-18T18:01:00Z
 categories: ["Productivity"]
 authors: ["TOEVERYTHING"]
 tags: 
-- "KnowledgeBase"
+- "Knowledge Base"
+- "Electron"
+- "Cross-platform software"
 license: "MIT"
 draft: false
 ---

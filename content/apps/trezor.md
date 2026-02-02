@@ -7,6 +7,7 @@ categories: ["Finance"]
 authors: ["Trezor company"]
 tags:
 - "Cryptocurrency"
+- "Electron"
 license: "Custom"
 draft: false
 ---

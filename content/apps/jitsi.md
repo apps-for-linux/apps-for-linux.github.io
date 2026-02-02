@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["Jitsi team"]
 tags: 
 - "Conference calling"
+- "Cross-platform software"
 - "Electron"
 draft: false
 ---

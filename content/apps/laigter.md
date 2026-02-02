@@ -13,6 +13,8 @@ license: "GPL-3.0"
 draft: false
 ---
 
+<img src="https://user-images.githubusercontent.com/46932830/90258696-4c14b780-de1f-11ea-8e33-33dbfc9fd86c.png">
+
 Laigter is a tool that automatically generates maps for dynamic lighting effects in games.
 
 License: GPL-3.0

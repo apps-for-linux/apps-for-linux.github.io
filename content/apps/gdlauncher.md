@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-https://cdn.gdl.gg/assets/website-home-app-screenshot.webp
+<img src="https://cdn.gdl.gg/assets/website-home-app-screenshot.webp">
 
 GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 

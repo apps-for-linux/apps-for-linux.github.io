@@ -8,6 +8,7 @@ authors: ["Sumbit Labs Limited"]
 tags:
 - "Kubernetes"
 - "IDE"
+- "Tauri"
 license: "EULA"
 draft: false
 ---

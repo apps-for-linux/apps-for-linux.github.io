@@ -6,7 +6,7 @@ pubDate: 2025-06-23T20:56:00Z
 categories: ["Science"]
 authors: ["Open Observatory of Network Interference (OONI)"]
 tags:
-- "Censorship-resistance"
+- "Censorship-resistance software"
 - "Electron"
 License: BSD-3-Clause
 draft: false

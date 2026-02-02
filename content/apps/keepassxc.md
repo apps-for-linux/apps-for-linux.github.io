@@ -6,19 +6,18 @@ pubDate: 2025-11-25T03:44:00Z
 categories: ["Utilities"]
 authors: ["KeePassXC Team"]
 tags:
-- "Password Management"
+- "Offline password manager"
 - "Qt5"
 license: "GPL-3.0"
 draft: false
 ---
 
-https://keepassxc.org/assets/img/screenshots/database_view.png
+<img src="https://keepassxc.org/assets/img/screenshots/database_view.png">
 
 KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information
 
 License: GPL-3.0
 
-Web page: <https://onekeepass.github.io>  
 Source code: <https://github.com/keepassxreboot/keepassxc>
 
 Become a sponsor: <https://keepassxc.org/donate>  

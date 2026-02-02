@@ -13,6 +13,8 @@ license: "GPL-3.0"
 draft: false
 ---
 
+<img src="https://hayase.watch/app.webp">
+
 Stream anime torrents, real-time with no waiting for downloads
 
 License: GPL-3.0

@@ -8,11 +8,12 @@ authors: ["Michal Krejci"]
 tags:
 - "Notes"
 - "To-do list"
+- "Cross-platform software"
 license: "EULA"
 draft: false
 ---
 
-https://lunatask.app/assets/images/Artboard-46ce7f8c3d5dddd4c137b3b9491d26ea.png
+<img src="https://lunatask.app/assets/images/Artboard-46ce7f8c3d5dddd4c137b3b9491d26ea.png">
 
 All-in-one encrypted to-do list, habit and mood tracker, journaling and notes app
 

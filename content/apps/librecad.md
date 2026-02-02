@@ -13,6 +13,8 @@ license: "GPL-3.0"
 draft: false
 ---
 
+<img src="https://dokuwiki.librecad.org/lib/exe/fetch.php/librecad_screeshot_2.2.png">
+
 LibreCAD is a 2D Computer Aided Design (CAD) application for creating plans and designs on your computer
 
 License: GPL-3.0

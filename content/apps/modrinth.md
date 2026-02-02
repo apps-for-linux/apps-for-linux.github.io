@@ -13,6 +13,8 @@ License: AGPL-3.0
 draft: false
 ---
 
+<img src="https://cdn-raw.modrinth.com/app-landing/app-screenshot.webp">
+
 Open-source mod platform, built by the community, for the community.
 
 License: GPL-3.0

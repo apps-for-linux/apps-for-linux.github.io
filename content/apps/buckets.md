@@ -7,10 +7,12 @@ categories: ["Finance"]
 authors: ["One Part Rain"]
 tags:
 - "Budget software"
+- "Electron"
+- "Cross-platform software"
 draft: false
 ---
 
-https://www.budgetwithbuckets.com/images/main-screenshot-hires.png
+<img src="https://www.budgetwithbuckets.com/images/main-screenshot-hires.png">
 
 Make your budget quick, simple and private
 

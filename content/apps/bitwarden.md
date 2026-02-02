@@ -7,13 +7,13 @@ categories: ["Utilities"]
 authors: ["BitWarden"]
 tags:
 - "Password management"
-- "Cross-platform"
+- "Cross-platform software"
 - "Electron"
 license: "GPL-3.0"
 draft: false
 ---
 
- <img src="https://raw.githubusercontent.com/bitwarden/brand/main/screenshots/apps-combo-logo.png">
+<img src="https://raw.githubusercontent.com/bitwarden/brand/main/screenshots/apps-combo-logo.png">
 
 Open source password management solutions for individuals, teams, and business organizations
 

@@ -6,8 +6,12 @@ pubDate: 2026-01-19T06:41:00Z
 categories: ["AudioVideo"]
 authors: ["Jeff"]
 tags:
+- "OpenSubsonic"
+- "Jellyfin"
+- "Navidrome"
 - "Self-hosted"
 - "Music streaming client"
+- "Electron"
 license: "GPL-3.0"
 draft: false
 ---

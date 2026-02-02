@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-https://friction.graphics/assets/screenshots/100/friction-100b2-screenshot.png?
+<img src="https://friction.graphics/assets/screenshots/100/friction-100rc3-screenshot.png">
 
 Powerful and versatile free and open-source motion graphics application
 

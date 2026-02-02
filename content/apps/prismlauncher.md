@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["Prism Launcher Contributors"]
 tags:
 - "Minecraft launcher"
+- "Qt6"
 license: "GPL-3.0"
 draft: false
 ---

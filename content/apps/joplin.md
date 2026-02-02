@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Laurent Cozic"]
 tags: 
 - "Notes"
+- "Cross-platform software"
 - "Electron"
 draft: false
 ---
