@@ -7,7 +7,7 @@ categories: ["Productivity"]
 authors: ["Michal Krejci"]
 tags:
 - "Notes"
-- "To-do list"
+- "To-do"
 - "Cross-platform software"
 license: "EULA"
 draft: false

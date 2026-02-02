@@ -6,8 +6,7 @@ pubDate: 2025-12-13T01:05:00Z
 categories: ["Network"]
 authors: ["Ismael Martinez"]
 tags: 
-- "Video calls"
-- "Video conferences"
+- "Conference calling"
 - "Electron"
 license: "GPL-3.0"
 draft: false

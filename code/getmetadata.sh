@@ -19,4 +19,9 @@ wget https://raw.githubusercontent.com/dbgate/dbgate/refs/heads/master/app/org.d
     https://raw.githubusercontent.com/ksnip/ksnip/refs/heads/master/desktop/org.ksnip.ksnip.appdata.xml -O /data/org.ksnip.ksnip.metainfo.xml \
     https://raw.githubusercontent.com/LibreCAD/LibreCAD/refs/heads/master/desktop/org.librecad.librecad.appdata.xml -O /data/org.librecad.librecad.metainfo.xml \
     https://raw.githubusercontent.com/GlitterWare/Passy/refs/heads/main/linux_assets/com.glitterware.passy.appdata.xml -O /data/com.glitterware.passy.metainfo.xml \
-    https://github.com/DavidoTek/ProtonUp-Qt/raw/refs/heads/main/share/metainfo/net.davidotek.pupgui2.appdata.xml -O /data/net.davidotek.pupgui2.metainfo.xml
+    https://raw.githubusercontent.com/DavidoTek/ProtonUp-Qt/refs/heads/main/share/metainfo/net.davidotek.pupgui2.appdata.xml -O /data/net.davidotek.pupgui2.metainfo.xml \
+    https://raw.githubusercontent.com/mltframework/shotcut/refs/heads/master/packaging/linux/org.shotcut.Shotcut.metainfo.xml.in -O /data/org.shotcut.Shotcut.metainfo.xml \
+    https://raw.githubusercontent.com/smplayer-dev/smplayer/refs/heads/master/smplayer.appdata.xml -O /data/info.smplayer.SMPlayer.metainfo.xml \
+    https://raw.githubusercontent.com/pulsar-edit/pulsar/refs/heads/master/resources/linux/dev.pulsar_edit.Pulsar.metainfo.xml -O /data/dev.pulsar_edit.Pulsar.metainfo.xml \
+    https://raw.githubusercontent.com/Beaver-Notes/Beaver-Notes/refs/heads/development/flatpak/com.beavernotes.beavernotes.metainfo.xml -O /data/com.beavernotes.beavernotes.metainfo.xml \
+    https://raw.githubusercontent.com/dail8859/NotepadNext/refs/heads/master/deploy/linux/com.github.dail8859.NotepadNext.metainfo.xml -O /data/com.github.dail8859.NotepadNext.metainfo.xml

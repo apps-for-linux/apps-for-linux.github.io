@@ -13,7 +13,7 @@ license: "MIT"
 draft: false
 ---
 
-https://github.com/ransome1/sleek/assets/11188741/304d2da2-e8bd-4901-9d12-04a0f5426317
+<img src="https://github.com/ransome1/sleek/assets/11188741/304d2da2-e8bd-4901-9d12-04a0f5426317">
 
 Open-source (FOSS) todo manager based on the todo.txt syntax
 

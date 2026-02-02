@@ -7,6 +7,7 @@ categories: ["System"]
 authors: ["vifm Authors"]
 tags:
 - "File Manager"
+- "ncurses"
 license: "GPL-2.0"
 draft: false
 ---

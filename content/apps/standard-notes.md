@@ -8,6 +8,7 @@ authors: ["Standard Notes"]
 tags:
 - "Notes"
 - "Electron"
+- "Cross-platform software"
 License: AGPL-3.0
 draft: false
 ---

@@ -6,7 +6,7 @@ pubDate: 2026-01-07T20:18:00Z
 categories: ["Productivity"]
 authors: ["LinwoodDev"]
 tags:
-- "Time management system"
+- "Time management"
 - "Flutter"
 draft: false
 ---

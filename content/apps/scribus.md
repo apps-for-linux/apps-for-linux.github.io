@@ -13,7 +13,7 @@ license: "GPL-2.0"
 draft: false
 ---
 
-https://a.fsdn.com/con/app/proj/scribus/screenshots/Scribus_170_dark-theme-da248d2a.png/max/max/1
+<img src="https://a.fsdn.com/con/app/proj/scribus/screenshots/Scribus_170_dark-theme-da248d2a.png/max/max/1">
 
 Powerful desktop publishing software
 

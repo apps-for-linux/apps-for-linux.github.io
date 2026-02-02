@@ -12,6 +12,8 @@ license: "GPL-2.0"
 draft: false
 ---
 
+https://www.smplayer.info/images/screenshots/mainwindow.png
+
 Free Media Player with built-in codecs
 
 License: GPL-2.0

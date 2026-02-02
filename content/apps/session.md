@@ -13,7 +13,7 @@ license: "GPL-3.0"
 draft: false
 ---
 
-https://i.imgur.com/ydVhH00.png
+<img src="https://i.imgur.com/ydVhH00.png">
 
 Session Desktop - Onion routing based messenger
 

@@ -6,7 +6,8 @@ pubDate: 2026-01-12T12:52:00Z
 categories: ["Network"]
 authors: ["Cloud storage"]
 tags: 
-- Cloud storage client
+- "Cloud storage client"
+- "Cross-platform software"
 license: "EULA"
 draft: false
 ---

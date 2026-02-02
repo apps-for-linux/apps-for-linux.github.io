@@ -6,7 +6,7 @@ pubDate: 2026-01-18T16:44:00Z
 categories: ["Productivity"]
 authors: ["Johannes Millan"]
 tags:
-- "To-do list"
+- "To-do"
 - "Electron"
 draft: false
 ---

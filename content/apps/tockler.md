@@ -6,7 +6,7 @@ pubDate: 2025-04-12T11:05:00Z
 categories: ["Productivity"]
 authors: ["Maigo Erit"]
 tags:
-- "Time control"
+- "Time management"
 - "Digital Wellbeing"
 - "Electron"
 draft: false

@@ -11,6 +11,8 @@ tags:
 draft: false
 ---
 
+<img src="https://raw.githubusercontent.com/pbek/QOwnNotes/refs/heads/main/screenshots/screenshot.png">
+
 Open source notepad with Markdown support and todo list manager for GNU/Linux
 
 License: GPL-2.0

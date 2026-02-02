@@ -2,12 +2,11 @@
 title: "ente Photos"
 description: |
  "End-to-end encryption for photos and more."
-pubDate: 2026-01-08T14:23:00Z
-categories: ["Network"]
+pubDate: 2025-12-17T15:16:00Z
+categories: ["Productivity"]
 authors: ["Ente"]
 tags:
-- "Photo Management"
-- "Cloud storage client"
+- "Authentificator"
 - "Flutter"
 - "Cross-platform software"
 license: "GPL-3.0"
@@ -20,11 +19,10 @@ End-to-end encryption for photos and more
 
 License: GPL-3.0
 
-Web page: <https://ente.io>  
+Web page: <https://ente.io/auth/>  
 Source code: <https://github.com/ente-io/ente>
 
 Translate: <https://crowdin.com/project/ente-photos-web>
 Report the bug: <https://github.com/ente-io/ente/issues/new>  
 
-Download:   x86_64: <https://github.com/ente-io/photos-desktop/releases/download/v1.7.17/ente-1.7.17-x86_64.AppImage>
-            arm64: <https://github.com/ente-io/photos-desktop/releases/download/v1.7.17/ente-1.7.17-arm64.AppImage>
+Download:   x86_64: <https://github.com/ente-io/ente/releases/download/auth-v4.4.15/ente-auth-v4.4.15-x86_64.AppImage>

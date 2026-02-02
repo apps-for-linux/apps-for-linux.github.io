@@ -2,7 +2,7 @@
 title: "Mendeley"
 description: |
  "The free all-in-one reference manager"
-pubDate: 2025-12-16T00:00:00Z
+pubDate: 2026-01-20T00:00:00Z
 categories: ["Science"]
 authors: ["Elsevier"]
 tags:
@@ -17,4 +17,4 @@ License: EULA
 
 Web page: <https://www.mendeley.com>  
 
-Download: x86_64: <https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.2-x86_64.AppImage>
+Download: x86_64: <https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.142.0-x86_64.AppImage>
