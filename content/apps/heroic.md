@@ -6,7 +6,7 @@ pubDate: 2026-01-26T20:18:00Z
 categories: ["Games"]
 authors: ["Heroic Games Launcher Authors"]
 tags:
-- "Games Launcher"
+- "Game Launcher"
 - "Electron"
 draft: false
 ---
