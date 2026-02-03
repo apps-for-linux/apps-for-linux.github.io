@@ -9,6 +9,7 @@ authors: ["86box"]
 tags: 
 - "Game Emulator"
 license: "GPL-2.0"
+architecture: "x86_64"; "arm64"
 draft: false
 ---
 
