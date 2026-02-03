@@ -7,7 +7,10 @@ categories: ["AudioVideo"]
 authors: ["Flacon team"]
 tags:
 - "CD ripper"
-- "Qt5"]
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["LGPL-2.1"]
 draft: false
 ---
 
