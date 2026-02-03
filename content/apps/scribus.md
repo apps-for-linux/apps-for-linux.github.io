@@ -9,7 +9,7 @@ tags:
 - "DTP"
 - "Publishing"
 - "Qt6"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -25,4 +25,4 @@ Source code: <https://github.com/scribusproject/scribus>
 Translate: <https://explore.transifex.com/scribus/scribus>  
 Report the bug: <http://bugs.scribus.net>  
 
-Download: x86_64: <https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.2/scribus-1.7.2-linux-x86_64.AppImage/download>
+Download: <https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.2/scribus-1.7.2-linux-x86_64.AppImage/download>

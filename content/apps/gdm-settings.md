@@ -7,7 +7,7 @@ categories: ["System"]
 authors: ["Mazhar Hussain"]
 tags:
 - "Appearance"
-- "GTK4"
+- "GTK4"]
 draft: false
 ---
 

@@ -8,7 +8,7 @@ authors: ["Meltytech"]
 tags:
 - "Video Editor"
 - "Qt6"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -24,5 +24,5 @@ Source code: <https://github.com/mltframework/shotcut>
 Translate: <https://www.transifex.com/ddennedy/shotcut>  
 Report the bug: <https://github.com/mltframework/shotcut/issues/new>  
 
-Download: x86_64: <https://github.com/mltframework/shotcut/releases/download/v26.1.30/shotcut-linux-x86_64-26.1.30.AppImage>
+Download: <https://github.com/mltframework/shotcut/releases/download/v26.1.30/shotcut-linux-x86_64-26.1.30.AppImage>
 

@@ -10,7 +10,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-license: "MIT"
+License: ["MIT"]
 draft: false
 ---
 
@@ -19,7 +19,6 @@ draft: false
 Actual Budget is a super fast and privacy-focused app for managing your finances.
 
 License: MIT
-
 Web page: <https://actualbudget.org>  
 Source code: <https://github.com/actualbudget/actual>
 

@@ -8,7 +8,7 @@ authors: ["Aaryan Kapoor"]
 tags:
 - "Offline music player"
 - "Electron"
-license: "MIT"
+License: ["MIT"]
 draft: false
 ---
 
@@ -16,12 +16,12 @@ draft: false
 
 A beautiful player for audiophiles.
 
-License: MIT
-
+License: ["MIT"]
+draft
 Source code: <https://github.com/playwora/wora>  
 
 Become a sponsor: <https://github.com/hiaaryan>  
 Report the bug: <https://github.com/playwora/wora/issues/new>  
 
-Download: x86_64: <https://github.com/playwora/wora/releases/download/v0.4.0-beta2/Wora.v0.4.0-beta2.AppImage>
+Download: <https://github.com/playwora/wora/releases/download/v0.4.0-beta2/Wora.v0.4.0-beta2.AppImage>
 

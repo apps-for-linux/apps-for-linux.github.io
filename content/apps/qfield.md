@@ -8,7 +8,7 @@ authors: ["OPENGIS.ch"]
 tags:
 - "Geodata"
 - "Qt6"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -23,4 +23,4 @@ Become a sponsor: <https://github.com/sponsors/opengisch>
 Translate: <https://www.transifex.com/opengisch/qfield-for-qgis>  
 Report the bug: <https://github.com/opengisch/QField/issues/new>  
 
-Download: x86_64: <https://github.com/opengisch/QField/releases/download/v4.0.4/qfield-v4.0.4-linux-x64.AppImage>
+Download: <https://github.com/opengisch/QField/releases/download/v4.0.4/qfield-v4.0.4-linux-x64.AppImage>

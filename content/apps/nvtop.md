@@ -9,7 +9,7 @@ tags:
 - "Resource Monitor"
 - "GPU"
 - "TUI"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -21,4 +21,4 @@ Source code: <https://github.com/Syllo/nvtop>
 
 Report the bug: <https://github.com/Syllo/nvtop/issues/new>  
 
-Download: x86_64: <https://github.com/Syllo/nvtop/releases/download/3.3.1/nvtop-3.3.1-x86_64.AppImage>
+Download: <https://github.com/Syllo/nvtop/releases/download/3.3.1/nvtop-3.3.1-x86_64.AppImage>

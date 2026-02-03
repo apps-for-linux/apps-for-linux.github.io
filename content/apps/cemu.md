@@ -9,7 +9,9 @@ tags:
 - "Game Emulator"
 - "Nintendo Emulator"
 - "GTK+3"
-License: MPL-2.0
+architecture: 
+- "x86_64"
+License: ["MPL-2.0"]
 draft: false
 ---
 
@@ -22,5 +24,5 @@ Source code: <https://github.com/cemu-project/Cemu>
 
 Report the bug: <https://github.com/cemu-project/Cemu/issues/new>  
 
-Download: x86_64: <https://github.com/cemu-project/Cemu/releases/download/v2.6/Cemu-2.6-x86_64.AppImage>
+Download: <https://github.com/cemu-project/Cemu/releases/download/v2.6/Cemu-2.6-x86_64.AppImage>
 

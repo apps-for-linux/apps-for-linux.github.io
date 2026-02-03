@@ -9,7 +9,12 @@ tags:
 - "Hardware controller"
 - "RGB lighting control"
 - "Qt5"
-license: "GPL-2.0"
+architecture: 
+- "x86_64"
+- "x86"
+- "arm64"
+- "armv7l"
+License: ["GPL-2.0"]
 draft: false
 ---
 

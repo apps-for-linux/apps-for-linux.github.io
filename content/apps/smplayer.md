@@ -8,7 +8,7 @@ authors: ["Ricardo Villalba"]
 tags:
 - "Media player"
 - "Qt5"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -25,4 +25,4 @@ Become a sponsor: <https://www.smplayer.info/en/contribute>
 Translate: <https://explore.transifex.com/rvm/smplayer>  
 Report the bug: <https://github.com/smplayer-dev/smplayer/issues/new>  
 
-Download: x86_64: <https://github.com/smplayer-dev/smplayer/releases/download/v10399/SMPlayer-25.6.0.10399-x86_64.AppImage>
+Download: <https://github.com/smplayer-dev/smplayer/releases/download/v10399/SMPlayer-25.6.0.10399-x86_64.AppImage>

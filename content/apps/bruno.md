@@ -12,7 +12,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-license: "MIT"
+License: ["MIT"]
 draft: false
 ---
 
@@ -21,7 +21,6 @@ draft: false
 Open-source IDE for exploring and testing APIs
 
 License: MIT
-
 Web page: <https://www.usebruno.com>  
 Source code: <https://github.com/usebruno/bruno>
 

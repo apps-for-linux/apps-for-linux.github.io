@@ -8,7 +8,7 @@ authors: ["ownCloud"]
 tags:
 - "Collaboration platform"
 - "Cross-platform software"
-- "Qt6"
+- "Qt6"]
 draft: false
 ---
 
@@ -22,4 +22,4 @@ Source code: <https://github.com/owncloud/client>
 Translate: <https://www.transifex.com/projects/p/owncloud>  
 Report the bug: <https://github.com/owncloud/client/issues/new>  
 
-Download: x86_64: <https://download.owncloud.com/desktop/ownCloud/stable/6.0.2.17506/linux-appimage/ownCloud-6.0.2.17506-x86_64.AppImage>
+Download: <https://download.owncloud.com/desktop/ownCloud/stable/6.0.2.17506/linux-appimage/ownCloud-6.0.2.17506-x86_64.AppImage>

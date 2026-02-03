@@ -8,7 +8,7 @@ authors: ["Cloud storage"]
 tags: 
 - "Cloud storage client"
 - "Cross-platform software"
-license: "EULA"
+License: ["EULA"]
 draft: false
 ---
 
@@ -20,4 +20,4 @@ Web page: <https://s3drive.app>
 
 Report the bug: <https://github.com/s3drive/app/issues/new>
 
-Download: x86_64: <https://github.com/s3drive/appimage-app/releases/download/1.16.2/S3Drive-x86_64.AppImage>
+Download: <https://github.com/s3drive/appimage-app/releases/download/1.16.2/S3Drive-x86_64.AppImage>

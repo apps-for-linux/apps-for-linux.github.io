@@ -9,7 +9,10 @@ tags:
 - "Epic Games"
 - "Game launcher"
 - "Qt6"
-license: gpl-3.0
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["GPL-3.0"]
 draft: false
 ---
 

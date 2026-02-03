@@ -7,7 +7,7 @@ categories: ["Graphics"]
 authors: ["The FreeCAD Team"]
 tags:
 - "CAD"
-- "Qt5"
+- "Qt5"]
 draft: false
 ---
 

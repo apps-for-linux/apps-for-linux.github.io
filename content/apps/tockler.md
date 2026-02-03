@@ -9,6 +9,7 @@ tags:
 - "Time management"
 - "Digital Wellbeing"
 - "Electron"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -24,4 +25,4 @@ Source code: <https://github.com/MayGo/tockler>
 Become a sponsor: <https://github.com/sponsors/MayGo>  
 Report the bug: <https://github.com/MayGo/tockler/issues/new>  
 
-Download: x86_64: <https://github.com/MayGo/tockler/releases/download/v4.0.22/Tockler-4.0.22.AppImage>
+Download: <https://github.com/MayGo/tockler/releases/download/v4.0.22/Tockler-4.0.22.AppImage>

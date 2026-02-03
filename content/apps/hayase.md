@@ -9,7 +9,7 @@ tags:
 - "Anime"
 - "Torrent client"
 - "Electron"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -25,4 +25,4 @@ Source code: <https://github.com/hayase-app/electron>
 Become a sponsor: <https://github.com/sponsors/ThaUnknown>  
 Report the bug: <https://github.com/hayase-app/electron/issues/new>  
 
-Download: x86_64: <https://api.hayase.watch/files/linux-hayase-6.4.50-linux.AppImage>
+Download: <https://api.hayase.watch/files/linux-hayase-6.4.50-linux.AppImage>

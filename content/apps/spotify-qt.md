@@ -9,7 +9,7 @@ tags:
 - "Music streaming client"
 - "Spotify client"
 - "Qt6"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -23,4 +23,4 @@ Source code: <https://github.com/kraxarn/spotify-qt>
 
 Report the bug: <https://github.com/kraxarn/spotify-qt/issues/new>  
 
-Download: x86_64: <https://github.com/kraxarn/spotify-qt/releases/download/v4.0.1/spotify-qt-v4.0.1.AppImage>
+Download: <https://github.com/kraxarn/spotify-qt/releases/download/v4.0.1/spotify-qt-v4.0.1.AppImage>

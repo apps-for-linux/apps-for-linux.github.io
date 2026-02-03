@@ -5,7 +5,7 @@ pubDate: 2025-12-11T00:00:00Z
 categories: ["Network"]
 authors: ["ToDesktop"]
 tags:
-- "Web apps management"
+- "Web apps management"]
 draft: false
 ---
 
@@ -15,4 +15,4 @@ License: EULA
 
 Web page: <https://www.todesktop.com/>
 
-Download: x86_64: https://builder.todesktop.com/
+Download: https://builder.todesktop.com/

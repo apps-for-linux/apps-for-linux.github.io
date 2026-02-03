@@ -8,7 +8,12 @@ authors: ["Feather Wallet"]
 tags:
 - "Cryptocurrency"
 - "Qt6"
-License: BSD-3-Clause
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
+- "riscv64"
+License: ["BSD-3-Clause"]
 draft: false
 ---
 

@@ -8,7 +8,7 @@ authors: ["Moonlight Game Streaming Project"]
 tags:
 - "Remote play"
 - "Qt6"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -21,5 +21,5 @@ Source code: <https://github.com/moonlight-stream/moonlight-qt>
 
 Report the bug: <https://github.com/moonlight-stream/moonlight-qt/issues/new>  
 
-Download: x86_64: <https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/Moonlight-6.1.0-x86_64.AppImage>
+Download: <https://github.com/moonlight-stream/moonlight-qt/releases/download/v6.1.0/Moonlight-6.1.0-x86_64.AppImage>
 

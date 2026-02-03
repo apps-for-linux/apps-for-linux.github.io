@@ -9,7 +9,10 @@ tags:
 - "Knowledge Base"
 - "Cross-platform software"
 - "Electron"
-license: "EULA"
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["EULA"]
 draft: false
 ---
 

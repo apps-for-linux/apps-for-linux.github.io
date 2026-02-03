@@ -9,18 +9,19 @@ tags:
 - "Twitch"
 - "Streaming tools"
 - "Qt6"
+architecture: 
+- "x86_64"
+License: ["MIT"]
 draft: false
 ---
 
 Chat client for Twitch.tv
 
 License: MIT
-
 Web page: <https://chatterino.com>  
 Source code: <https://github.com/Chatterino/Chatterino2>
 
 Become a sponsor: <https://streamelements.com/fourtf/tip>  
 Report the bug: <https://github.com/Chatterino/Chatterino2/issues/new>  
 
-Download: x86_64:
-https://github.com/Chatterino/chatterino2/releases/download/v2.5.4/Chatterino-x86_64.AppImage
+Download: <https://github.com/Chatterino/chatterino2/releases/download/v2.5.4/Chatterino-x86_64.AppImage>

@@ -9,7 +9,7 @@ tags:
 - "Authentificator"
 - "Cross-platform software"
 - "Flutter"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 

@@ -7,7 +7,7 @@ categories: ["Productivity"]
 authors: ["The Document Foundation"]
 tags:
 - "Office Suite"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -22,4 +22,4 @@ Become a sponsor: <https://www.libreoffice.org/donate>
 Translate: <https://wiki.documentfoundation.org/Language>  
 Report the bug: <https://bugs.documentfoundation.org>  
 
-Download: x86_64: <https://appimages.libreitalia.org/portable/LibreOffice-25.8.4.2.standard-x86_64.AppImage>
+Download: <https://appimages.libreitalia.org/portable/LibreOffice-25.8.4.2.standard-x86_64.AppImage>

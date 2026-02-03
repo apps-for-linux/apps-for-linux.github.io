@@ -8,7 +8,7 @@ authors: ["vifm Authors"]
 tags:
 - "File Manager"
 - "ncurses"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Source code: <https://github.com/vifm/vifm>
 Become a sponsor: <https://github.com/sponsors/vifm>  
 Report the bug: <https://github.com/vifm/vifm/issues/new>  
 
-Download: x86_64: <https://github.com/vifm/vifm/releases/download/v0.14.3/vifm-v0.14.3-x86_64.AppImage>
+Download: <https://github.com/vifm/vifm/releases/download/v0.14.3/vifm-v0.14.3-x86_64.AppImage>

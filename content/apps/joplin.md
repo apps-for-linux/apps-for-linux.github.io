@@ -9,7 +9,7 @@ tags:
 - "Notes"
 - "To-do"
 - "Cross-platform software"
-- "Electron"
+- "Electron"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Become a sponsor: <https://github.com/sponsors/laurent22>
 Translate: <https://joplinapp.org/help/dev/localisation>  
 Report the bug: <https://github.com/laurent22/joplin/issues/new>  
 
-Download: x86_64: <https://github.com/laurent22/joplin/releases/download/v3.6.2/Joplin-3.6.2.AppImage>
+Download: <https://github.com/laurent22/joplin/releases/download/v3.6.2/Joplin-3.6.2.AppImage>

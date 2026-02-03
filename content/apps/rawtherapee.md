@@ -8,7 +8,7 @@ authors: ["The RawTherapee Team"]
 tags:
 - "RAW processing"
 - "Image editor"
-- "GTK+3"
+- "GTK+3"]
 draft: false
 ---
 
@@ -23,4 +23,4 @@ Become a sponsor: <https://pixls.us/support>
 Translate: <https://github.com/RawTherapee/RawTherapee/blob/dev/rtdata/languages/README>  
 Report the bug: <https://github.com/RawTherapee/RawTherapee/issues/new>  
 
-Download: x86_64: <https://github.com/RawTherapee/RawTherapee/releases/download/5.12/RawTherapee_5.12_release.AppImage>
+Download: <https://github.com/RawTherapee/RawTherapee/releases/download/5.12/RawTherapee_5.12_release.AppImage>

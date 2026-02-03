@@ -8,6 +8,9 @@ authors: ["Riva Farabi"]
 tags:
 - "Remote control"
 - "Streaming tools"
+architecture: 
+- "x86_64"
+License: ["AGPL-3.0"]
 draft: false
 ---
 
@@ -22,4 +25,4 @@ Web page: <https://deckboard.app>
 Become a sponsor: <https://ko-fi.com/rivafarabi>  
 Report the bug: <https://github.com/rivafarabi/deckboard/issues/new>  
 
-Download: x86_64: <https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/Deckboard-3.1.4.AppImage>
+Download: <https://github.com/rivafarabi/deckboard/releases/download/v3.1.4/Deckboard-3.1.4.AppImage>

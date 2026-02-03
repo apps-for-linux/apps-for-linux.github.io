@@ -9,7 +9,9 @@ tags:
 - "Messenger"
 - "eMail client"
 - "Electron"
-license: "GPL-3.0"
+architecture: 
+- "x86_64"
+License: ["GPL-3.0"]
 draft: false
 ---
 

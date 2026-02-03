@@ -21,7 +21,6 @@ draft: false
 Privacy-focused note-taking application
 
 License: MIT
-
 Web page: <https://beavernotes.com>  
 Source code: <https://github.com/Daniele-rolli/Beaver-Notes>
 

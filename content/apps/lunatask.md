@@ -9,7 +9,7 @@ tags:
 - "Notes"
 - "To-do"
 - "Cross-platform software"
-license: "EULA"
+License: ["EULA"]
 draft: false
 ---
 
@@ -21,6 +21,6 @@ License: EULA
 
 Web page: <https://lunatask.app>  
 
-Download: x86_64: <https://github.com/lunatask/lunatask/releases/download/v2.1.20/Lunatask-2.1.20.AppImage>
+Download: <https://github.com/lunatask/lunatask/releases/download/v2.1.20/Lunatask-2.1.20.AppImage>
 
 

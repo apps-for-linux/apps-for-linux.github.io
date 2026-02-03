@@ -7,7 +7,7 @@ categories: ["Graphics"]
 authors: ["Friction contributors"]
 tags:
 - "2D"
-- "Qt5"
+- "Qt5"]
 draft: false
 ---
 

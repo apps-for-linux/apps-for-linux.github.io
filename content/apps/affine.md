@@ -9,7 +9,9 @@ tags:
 - "Knowledge Base"
 - "Cross-platform software"
 - "Electron"
-license: "MIT"
+architecture: 
+- "x86_64"
+License: ["MIT"]
 draft: false
 ---
 
@@ -18,7 +20,6 @@ draft: false
 AFFiNE is a workspace with fully merged docs, whiteboards and databases. Get more things done, your creativity isn’t monotone
 
 License: MIT
-
 Web page: <https://affine.pro>  
 Source code: <https://github.com/toeverything/AFFiNE>  
 
@@ -26,4 +27,4 @@ Become a sponsor: <https://github.com/sponsors/toeverything>
 Translate: <https://crowdin.com/project/affine>  
 Report the bug: <https://github.com/toeverything/AFFiNE/issues>  
 
-Download: x86_64: <https://github.com/toeverything/AFFiNE/releases/download/v0.26.0-beta.8/affine-0.26.0-beta.8-beta-linux-x64.appimage>
+Download: <https://github.com/toeverything/AFFiNE/releases/download/v0.26.0-beta.8/affine-0.26.0-beta.8-beta-linux-x64.appimage>

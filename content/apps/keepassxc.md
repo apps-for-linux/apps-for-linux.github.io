@@ -8,7 +8,7 @@ authors: ["KeePassXC Team"]
 tags:
 - "Offline password manager"
 - "Qt5"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Become a sponsor: <https://keepassxc.org/donate>
 Translate: <https://www.transifex.com/keepassxc/keepassxc>  
 Report the bug: <https://github.com/keepassxreboot/keepassxc/issues/new>  
 
-Download: x86_64: <https://github.com/keepassxreboot/keepassxc/releases/download/2.7.11/KeePassXC-2.7.11-1-x86_64.AppImage>
+Download: <https://github.com/keepassxreboot/keepassxc/releases/download/2.7.11/KeePassXC-2.7.11-1-x86_64.AppImage>

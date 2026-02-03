@@ -8,7 +8,7 @@ authors: ["Open Observatory of Network Interference (OONI)"]
 tags:
 - "Censorship-resistance software"
 - "Electron"
-License: BSD-3-Clause
+License: ["BSD-3-Clause"]
 draft: false
 ---
 
@@ -21,4 +21,4 @@ Source code: <https://github.com/ooni/probe-desktop>
 
 Report the bug: <https://github.com/ooni/probe-desktop>  
 
-Download: x86_64: <https://github.com/ooni/probe-desktop/releases/download/v3.10.0/OONI-Probe-3.10.0.AppImage>
+Download: <https://github.com/ooni/probe-desktop/releases/download/v3.10.0/OONI-Probe-3.10.0.AppImage>

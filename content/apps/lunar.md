@@ -8,7 +8,7 @@ authors: ["Moonsworth"]
 tags:
 - "Game launcher"
 - "Minecraft launcher"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -18,4 +18,4 @@ License: GPL-3.0
 
 Web: <https://www.lunarclient.com/>  
 
-Download: x86_64: <https://launcherupdates.lunarclientcdn.com/Lunar%20Client-3.5.15-ow.AppImage>
+Download: <https://launcherupdates.lunarclientcdn.com/Lunar%20Client-3.5.15-ow.AppImage>

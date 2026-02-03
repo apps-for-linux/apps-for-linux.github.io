@@ -9,6 +9,7 @@ tags:
 - "Collaboration platform"
 - "Qt6"
 - "Cross-platform software"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -22,4 +23,4 @@ Source code: <https://github.com/nextcloud/desktop>
 Translate: <https://www.transifex.com/nextcloud/nextcloud>  
 Report the bug: <https://github.com/nextcloud/desktop/issues/new>  
 
-Download: x86_64: <https://github.com/nextcloud-releases/desktop/releases/download/v4.0.4/Nextcloud-4.0.4-x86_64.AppImage>
+Download: <https://github.com/nextcloud-releases/desktop/releases/download/v4.0.4/Nextcloud-4.0.4-x86_64.AppImage>

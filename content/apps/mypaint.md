@@ -8,6 +8,7 @@ authors: ["MyPaint Development Team"]
 tags:
 - "Painting software"
 - "GTK+3"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -22,5 +23,5 @@ Become a sponsor: <https://opencollective.com/mypaint>
 Translate: <https://hosted.weblate.org/engage/mypaint/?utm_source=widget>  
 Report the bug: <https://github.com/mypaint/mypaint/issues/new>  
 
-Download: x86_64: <https://github.com/mypaint/mypaint/releases/download/v2.0.1/MyPaint-v2.0.1-alt.AppImage>
+Download: <https://github.com/mypaint/mypaint/releases/download/v2.0.1/MyPaint-v2.0.1-alt.AppImage>
 

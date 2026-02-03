@@ -10,7 +10,7 @@ tags:
 - "YouTube Music client"
 - "Soundcloud client"
 - "Electron"
-License: AGPL-3.0
+License: ["AGPL-3.0"]
 draft: false
 ---
 
@@ -27,4 +27,4 @@ Become a sponsor: <https://github.com/sponsors/nukeop>
 Translate: <https://crowdin.com/project/nuclear>  
 Report the bug: <https://github.com/nukeop/nuclear/issues/new>  
 
-Download: x86_64: <https://github.com/nukeop/nuclear/releases/download/v0.6.48/nuclear-v0.6.48-x86_64.AppImage>
+Download: <https://github.com/nukeop/nuclear/releases/download/v0.6.48/nuclear-v0.6.48-x86_64.AppImage>

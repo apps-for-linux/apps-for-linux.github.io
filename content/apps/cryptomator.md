@@ -8,6 +8,10 @@ authors: ["Skymatic"]
 tags:
 - "Cloud encryption"
 - "Java"
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["GPL-3.0"]
 draft: false
 ---
 

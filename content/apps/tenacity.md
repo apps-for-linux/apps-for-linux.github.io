@@ -9,7 +9,7 @@ tags:
 - "Audio editor"
 - "DAW"
 - "wxWidgets"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -25,5 +25,5 @@ Source code: <https://codeberg.org/tenacityteam/tenacity>
 Translate: <https://hosted.weblate.org/projects/tenacity>  
 Report the bug: <https://codeberg.org/tenacityteam/tenacity/issues/new>  
 
-Download: x86_64: <https://codeberg.org/tenacityteam/tenacity/releases/download/v1.4-alpha1/tenacity-linux-1.4.0-x86_64.AppImage>
+Download: <https://codeberg.org/tenacityteam/tenacity/releases/download/v1.4-alpha1/tenacity-linux-1.4.0-x86_64.AppImage>
 

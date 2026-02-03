@@ -9,7 +9,9 @@ tags:
 - "Matrix"
 - "Messenger"
 - "Tauri"
-License: AGPL-3.0
+architecture: 
+- "x86_64"
+License: ["AGPL-3.0"]
 draft: false
 ---
 
@@ -25,4 +27,4 @@ Source code: <https://github.com/cinnyapp/cinny-desktop>
 Become a sponsor: <https://github.com/sponsors/ajbura>  
 Report the bug: <https://github.com/cinnyapp/cinny-desktop/issues/new>  
 
-Download: x86_64: <https://github.com/cinnyapp/cinny-desktop/releases/latest/download/Cinny_desktop-x86_64.AppImage>
+Download: <https://github.com/cinnyapp/cinny-desktop/releases/latest/download/Cinny_desktop-x86_64.AppImage>

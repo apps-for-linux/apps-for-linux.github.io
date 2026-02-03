@@ -6,7 +6,7 @@ pubDate: 2025-01-23T11:01:00Z
 categories: ["Games"]
 authors: ["Gorilla Devs"]
 tags:
-- "Minecraft Launcher"
+- "Minecraft Launcher"]
 draft: false
 ---
 
@@ -18,4 +18,4 @@ License: EULA
 
 Web page: <https://gdlauncher.com>
 
-Download: x86_64: <https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.27__linux__x64.AppImage>
+Download: <https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.27__linux__x64.AppImage>

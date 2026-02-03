@@ -8,6 +8,7 @@ authors: ["Heroic Games Launcher Authors"]
 tags:
 - "Game Launcher"
 - "Electron"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -24,4 +25,4 @@ Become a sponsor: <https://patreon.com/heroicgameslauncher>
 Translate: <https://hosted.weblate.org/projects/heroic-games-launcher>  
 Report the bug: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/issues/new>  
 
-Download: x86_64: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.19.0/Heroic-2.19.0-linux-x86_64.AppImage>
+Download: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.19.0/Heroic-2.19.0-linux-x86_64.AppImage>

@@ -8,6 +8,10 @@ authors: ["Neovim contributors"]
 tags:
 - "Code editor"
 - "TUI"
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["Apache-2.0"]
 draft: false
 ---
 

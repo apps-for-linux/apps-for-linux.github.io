@@ -8,7 +8,7 @@ authors: ["Stellarium contributors"]
 tags:
 - "Planetarium"
 - "Qt6"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -23,4 +23,4 @@ Become a sponsor: <https://opencollective.com/stellarium>
 Translate: <https://www.transifex.com/stellarium/stellarium>  
 Report the bug: <https://github.com/Stellarium/stellarium/issues/new>  
 
-Download: x86_64: <https://github.com/Stellarium/stellarium/releases/download/v25.4/Stellarium-25.4-qt6-x86_64.AppImage>
+Download: <https://github.com/Stellarium/stellarium/releases/download/v25.4/Stellarium-25.4-qt6-x86_64.AppImage>

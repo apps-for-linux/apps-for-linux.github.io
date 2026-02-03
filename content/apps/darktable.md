@@ -9,7 +9,9 @@ tags:
 - "RAW processing"
 - "Image editor"
 - "GTK+3"
-license: "GPL-3.0"
+architecture: 
+- "x86_64"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -25,4 +27,4 @@ Source code: <https://github.com/darktable-org/darktable>
 Translate: <https://github.com/darktable-org/darktable/blob/master/doc/TRANSLATORS.md>  
 Report the bug: <https://github.com/darktable-org/darktable//issues/new>  
 
-Download: x86_64: <https://github.com/darktable-org/darktable/releases/download/release-5.4.0/Darktable-5.4.0-x86_64.AppImage>
+Download: <https://github.com/darktable-org/darktable/releases/download/release-5.4.0/Darktable-5.4.0-x86_64.AppImage>

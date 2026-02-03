@@ -8,7 +8,7 @@ authors: ["Wavebox"]
 tags:
 - "Web apps"
 - "Browser"
-license: "EULA"
+License: ["EULA"]
 draft: false
 ---
 
@@ -23,4 +23,4 @@ Source code: <https://github.com/wavebox/waveboxapp>
 
 Report the bug: <https://github.com/wavebox/issues/new>  
 
-Download: x86_64: <https://download.wavebox.app/stable/linux/appimage/Wavebox_10.144.66-2_x86_64.AppImage>
+Download: <https://download.wavebox.app/stable/linux/appimage/Wavebox_10.144.66-2_x86_64.AppImage>

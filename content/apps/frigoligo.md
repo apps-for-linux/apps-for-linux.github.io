@@ -11,7 +11,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-License: MIT
+License: ["MIT"]
 draft: false
 ---
 
@@ -19,8 +19,7 @@ draft: false
 
 Frigoligo is a wallabag client crafted using Flutter
 
-License: MIT
-
+License: "MIT"
 Source code: <https://github.com/casimir/frigoligo>
 
 Translate: <https://hosted.weblate.org/engage/frigoligo>  

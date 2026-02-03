@@ -9,7 +9,7 @@ tags:
 - "Video stabilization"
 - "Cross-platform software"
 - "Qt6"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -26,4 +26,4 @@ Become a sponsor: <https://gyroflow.xyz/donate>
 Translate: <https://crowdin.com/project/gyroflow>  
 Report the bug: <https://github.com/gyroflow/gyroflow/issues/new>  
 
-Download: x86_64: <https://github.com/gyroflow/gyroflow/releases/download/v1.6.3/Gyroflow-linux64.AppImage>
+Download: <https://github.com/gyroflow/gyroflow/releases/download/v1.6.3/Gyroflow-linux64.AppImage>

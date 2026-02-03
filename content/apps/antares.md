@@ -11,7 +11,8 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-license: "MIT"
+- "armv7l"
+License: ["MIT"]
 draft: false
 ---
 
@@ -21,7 +22,6 @@ draft: false
 A modern, fast and productivity driven SQL client with a focus in UX
 
 License: MIT
-
 Web page: <https://antares-sql.app>
 Source code: <https://github.com/antares-sql/antares>
 

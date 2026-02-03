@@ -8,6 +8,7 @@ authors: ["Kong"]
 tags:
 - "API Testing"
 - "Electron"
+License: ["MIT"]
 draft: false
 ---
 
@@ -16,10 +17,9 @@ draft: false
 The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC
 
 License: MIT
-
 Web page: <https://insomnia.rest>  
 Source code: <https://github.com/Kong/insomnia>
 
 Report the bug: <https://github.com/Kong/insomnia/issues>  
 
-Download: x86_64: <https://github.com/Kong/insomnia/releases/download/core%4012.3.0/Insomnia.Core-12.3.0.AppImage>
+Download: <https://github.com/Kong/insomnia/releases/download/core%4012.3.0/Insomnia.Core-12.3.0.AppImage>

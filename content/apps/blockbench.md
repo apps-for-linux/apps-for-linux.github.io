@@ -7,7 +7,10 @@ categories: ["Graphics"]
 authors: ["Jannis Petersen"]
 tags:
 - "3D"
-license: "GPL-3.0"
+- "Electron"
+License: ["GPL-3.0"]
+architecture: 
+- "x86_64"
 draft: false
 ---
 
@@ -23,4 +26,4 @@ Source code: <https://github.com/JannisX11/blockbench>
 Translate: <https://blockbench.net/translations>  
 Report the bug: <https://github.com/JannisX11/blockbench/issues/new>  
 
-Download: x86_64: <https://github.com/JannisX11/blockbench/releases/download/v5.0.7/Blockbench_5.0.7.AppImage>
+Download: <https://github.com/JannisX11/blockbench/releases/download/v5.0.7/Blockbench_5.0.7.AppImage>

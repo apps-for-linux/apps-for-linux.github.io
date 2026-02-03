@@ -9,7 +9,7 @@ tags:
 - "Benchmarking"
 - "Resource monitor"
 - "Qt5"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Source code: <https://github.com/JonMagon/KDiskMark>
 Translate: <https://crowdin.com/project/kdiskmark>  
 Report the bug: <https://github.com/JonMagon/KDiskMark/issues/new>  
 
-Download: x86_64: <https://github.com/JonMagon/KDiskMark/releases/download/3.2.0/KDiskMark-3.2.0-fio-3.40-x86_64.AppImage>
+Download: <https://github.com/JonMagon/KDiskMark/releases/download/3.2.0/KDiskMark-3.2.0-fio-3.40-x86_64.AppImage>

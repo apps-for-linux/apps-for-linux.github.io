@@ -9,7 +9,7 @@ tags:
 - "Knowledge base"
 - "Cross-platform software"
 - "Electron"
-license: "Custom"
+License: ["Custom"]
 draft: false
 ---
 
@@ -23,5 +23,5 @@ Source code: <https://github.com/anyproto/anytype-ts>
 Translate: <https://crowdin.com/project/anytype-desktop>  
 Report the bug: <https://github.com/anyproto/anytype-ts//issues/new>  
 
-Download: x86_64: <https://github.com/anyproto/anytype-ts/releases/download/v0.53.18-alpha/Anytype-0.53.18-alpha.AppImage>
+Download: <https://github.com/anyproto/anytype-ts/releases/download/v0.53.18-alpha/Anytype-0.53.18-alpha.AppImage>
 

@@ -8,13 +8,16 @@ authors: ["Pulsar-Edit Original work"]
 tags:
 - "Code editor"
 - "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["MIT"]
 draft: false
 ---
 
 A Community-led Hyper-Hackable Text Editor
 
 License: MIT
-
 Web page: <https://pulsar-edit.dev>  
 Source code: <https://github.com/pulsar-edit/pulsar>
 

@@ -7,7 +7,7 @@ categories: ["Graphics"]
 authors: ["Inkscape Authors"]
 tags:
 - "Vector graphics editor"
-- "GTK4"
+- "GTK4"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Become a sponsor: <https://inkscape.org/support-us/donate>
 Translate: <https://inkscape.org/contribute/translations>  
 Report the bug: <https://gitlab.com/inkscape/inkscape/-/issues/new>  
 
-Download: x86_64: <https://media.inkscape.org/dl/resources/file/Inkscape-0d15f75-x86_64.AppImage>
+Download: <https://media.inkscape.org/dl/resources/file/Inkscape-0d15f75-x86_64.AppImage>

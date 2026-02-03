@@ -8,7 +8,9 @@ authors: ["Ultimaker"]
 tags:
 - "Slicing software"
 - "3D"
-License: LGPL-3.0
+architecture: 
+- "x86_64"
+License: ["LGPL-3.0"]
 draft: false
 ---
 
@@ -25,4 +27,4 @@ Become a sponsor: <https://github.com/sponsors/Ultimaker>
 Translate: <https://github.com/Ultimaker/Cura/wiki/Translating-Cura>  
 Report the bug: <https://github.com/Ultimaker/Cura/issues/new>  
 
-Download: x86_64: <https://github.com/Ultimaker/Cura/releases/download/5.11.0/UltiMaker-Cura-5.11.0-linux-X64.AppImage>
+Download: <https://github.com/Ultimaker/Cura/releases/download/5.11.0/UltiMaker-Cura-5.11.0-linux-X64.AppImage>

@@ -8,7 +8,9 @@ authors: ["Cinelerra GG community"]
 tags:
 - "Video Editor"
 - "GTK2"
-license: "GPL-2.0"
+architecture: 
+- "x86_64"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -22,4 +24,4 @@ Source code: <https://git.cinelerra-gg.org/git>
 Translate: <https://www.cinelerra-gg.org/translate-app>  
 Report the bug: <https://www.cinelerra-gg.org/bugtracker/login_page.php>  
 
-Download: x86_64: <https://download.cinelerra-gg.org/download.php?file=images%2FCinGG-20251121-x86_64.AppImage>
+Download: <https://download.cinelerra-gg.org/download.php?file=images%2FCinGG-20251121-x86_64.AppImage>

@@ -7,7 +7,7 @@ categories: ["Science"]
 authors: ["Elsevier"]
 tags:
 - "Reference manager"
-license: "EULA"
+License: ["EULA"]
 draft: false
 ---
 
@@ -17,4 +17,4 @@ License: EULA
 
 Web page: <https://www.mendeley.com>  
 
-Download: x86_64: <https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.142.0-x86_64.AppImage>
+Download: <https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.142.0-x86_64.AppImage>

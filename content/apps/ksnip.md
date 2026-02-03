@@ -8,7 +8,7 @@ authors: ["Damir Porobić"]
 tags:
 - "Screenshot tool"
 - "Qt6"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -22,4 +22,4 @@ Become a sponsor: <https://github.com/sponsors/DamirPorobic>
 Translate: <https://hosted.weblate.org/engage/ksnip>  
 Report the bug: <https://github.com/ksnip/ksnip/issues/new>  
 
-Download: x86_64: <https://github.com/ksnip/ksnip/releases/download/continuous/ksnip-1.11.0-continuous-x86_64.AppImage>
+Download: <https://github.com/ksnip/ksnip/releases/download/continuous/ksnip-1.11.0-continuous-x86_64.AppImage>

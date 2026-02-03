@@ -8,7 +8,7 @@ authors: ["Diego Duclos"]
 tags:
 - "Game client"
 - "WxWidgets"
-License: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -21,5 +21,5 @@ Source code: <https://github.com/pyfa-org/Pyfa>
 Translate: <https://crowdin.com/project/pyfa>  
 Report the bug: <https://github.com/pyfa-org/Pyfa/issues/new>  
 
-Download: x86_64: <https://github.com/pyfa-org/Pyfa/releases/download/v2.65.2/pyfa-v2.65.2-linux.AppImage>
+Download: <https://github.com/pyfa-org/Pyfa/releases/download/v2.65.2/pyfa-v2.65.2-linux.AppImage>
 

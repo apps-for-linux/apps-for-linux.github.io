@@ -7,7 +7,7 @@ categories: ["Network"]
 authors: ["Nico Jensch"]
 tags:
 - "Browser"
-- "Firefox-based"
+- "Firefox-based"]
 draft: false
 ---
 

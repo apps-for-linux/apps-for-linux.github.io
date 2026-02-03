@@ -6,7 +6,7 @@ pubDate: 2026-01-18T01:53:00Z
 categories: ["Games"]
 authors: ["LizardByte"]
 tags:
-- "Streaming software"
+- "Streaming software"]
 draft: false
 ---
 
@@ -21,4 +21,4 @@ Become a sponsor: <https://github.com/sponsors/LizardByte>
 Translate: <https://translate.lizardbyte.dev>  
 Report the bug: <https://github.com/LizardByte/Sunshine/issues/new>  
 
-Download: x86_64: <https://github.com/LizardByte/Sunshine/releases/download/v2026.118.193732/sunshine.AppImage>
+Download: <https://github.com/LizardByte/Sunshine/releases/download/v2026.118.193732/sunshine.AppImage>

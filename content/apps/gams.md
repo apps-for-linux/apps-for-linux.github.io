@@ -8,7 +8,7 @@ authors: ["GAMS Development"]
 tags:
 - "Algebra"
 - "Mathematical models"
-- "Qt6"
+- "Qt6"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Source code: <https://github.com/GAMS-dev/studio>
 
 Report the bug: <https://github.com/GAMS-dev/studio/issues/new>  
 
-Download: x86_64: <https://github.com/GAMS-dev/studio/releases/download/v1.24.0/GAMS_Studio-1.24.0-x86_64.AppImage>
+Download: <https://github.com/GAMS-dev/studio/releases/download/v1.24.0/GAMS_Studio-1.24.0-x86_64.AppImage>

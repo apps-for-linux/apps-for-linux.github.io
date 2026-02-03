@@ -10,7 +10,7 @@ tags:
 - "News Reader"
 - "Podcast player"
 - "Qt6"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Source code: <https://github.com/martinrotter/rssguard>
 Become a sponsor: <https://github.com/sponsors/martinrotter>  
 Translate: <https://crowdin.com/project/rssguard>  
 Report the bug: <https://github.com/martinrotter/rssguard/issues/new>  
-Download: x86_64: <https://github.com/martinrotter/rssguard/releases/download/devbuild5/rssguard-devbuild5-26795fcb5-qt6-linux64.AppImage>  
+Download: <https://github.com/martinrotter/rssguard/releases/download/devbuild5/rssguard-devbuild5-26795fcb5-qt6-linux64.AppImage>  

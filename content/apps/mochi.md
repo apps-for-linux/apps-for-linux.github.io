@@ -8,7 +8,7 @@ authors: ["Mochi Cards"]
 tags:
 - "Notes"
 - "Cross-platform software"
-license: "EULA"
+License: ["EULA"]
 draft: false
 ---
 
@@ -18,4 +18,4 @@ License: EULA
 
 Web page: <https://mochi.cards>  
 
-Download: x86_64: <https://download.mochi.cards/releases/Mochi-1.20.8.AppImage>
+Download: <https://download.mochi.cards/releases/Mochi-1.20.8.AppImage>

@@ -9,7 +9,7 @@ tags:
 - "Gaming tool"
 - "Game development"
 - "Qt5"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -26,4 +26,4 @@ Become a sponsor: <https://www.patreon.com/jazagaya>
 Translate: <https://github.com/azagaya/laigter/blob/master/CONTRIBUTING.md#contributing-with-translation>  
 Report the bug: <https://github.com/azagaya/laigter/issues/new>  
 
-Download: x86_64: <https://github.com/azagaya/laigter/releases/download/1.13.1/Laigter-x86_64.AppImage>
+Download: <https://github.com/azagaya/laigter/releases/download/1.13.1/Laigter-x86_64.AppImage>

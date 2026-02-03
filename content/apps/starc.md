@@ -8,7 +8,7 @@ authors: ["Story Apps"]
 tags:
 - "Screenwriting"
 - "Qt6"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Source code: <https://github.com/story-apps/starc>
 Translate: <https://www.transifex.com/story-apps/starc>  
 Report the bug: <https://github.com/story-apps/starc/issues/new/>  
 
-Download: x86_64: <https://github.com/story-apps/starc/releases/download/v0.8.0/starc-setup.AppImage>
+Download: <https://github.com/story-apps/starc/releases/download/v0.8.0/starc-setup.AppImage>

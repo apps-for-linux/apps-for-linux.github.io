@@ -8,7 +8,12 @@ authors: ["Robert Kausch"]
 tags:
 - "Audio Converter"
 - "GTK+3"
-license: "GPL-2.0"
+architecture: 
+- "x86_64"
+- "arm64"
+- "x86"
+- "armv7l"
+License: ["GPL-2.0"]
 draft: false
 ---
 

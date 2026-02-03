@@ -10,7 +10,10 @@ tags:
 - "Censorship-resistance software"
 - "Cross-platform software"
 - "Java"
-License: AGPL-3.0
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["AGPL-3.0"]
 draft: false
 ---
 
@@ -28,5 +31,11 @@ Become a sponsor: <https://github.com/sponsors/simplex-chat>
 Translate: <https://hosted.weblate.org/engage/simplex-chat>  
 Report the bug: <https://github.com/simplex-chat/simplex-chat/issues/new>  
 
-Download: x86_64: <https://github.com/simplex-chat/simplex-chat/releases/download/v6.4.8/simplex-desktop-x86_64.AppImage>
-arm64: <https://github.com/simplex-chat/simplex-chat/releases/download/v6.4.8/simplex-desktop-aarch64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/simplex-chat/simplex-chat/releases/download/v6.4.8/simplex-desktop-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/simplex-chat/simplex-chat/releases/download/v6.4.8/simplex-desktop-aarch64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

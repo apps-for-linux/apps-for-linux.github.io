@@ -9,7 +9,7 @@ tags:
 - "IDE"
 - "Kubernetes"
 - "Electron"
-license: "EULA"
+License: ["EULA"]
 draft: false
 ---
 
@@ -23,4 +23,4 @@ Web page: <https://k8slens.dev>
 
 Report the bug: <https://github.com/lensapp/lens/issues/new>  
 
-Download: x86_64: <https://api.k8slens.dev/binaries/Lens-2026.1.161237-latest.x86_64.AppImage>
+Download: <https://api.k8slens.dev/binaries/Lens-2026.1.161237-latest.x86_64.AppImage>

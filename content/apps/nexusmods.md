@@ -8,7 +8,7 @@ authors: ["Black Tree Gaming Ltd"]
 tags:
 - "Gaming tool"
 - "Mod marketplace"
-- "Avalonia"
+- "Avalonia"]
 draft: false
 ---
 
@@ -21,5 +21,5 @@ Source code: <https://github.com/Nexus-Mods/NexusMods.App>
 
 Report the bug: <https://github.com/Nexus-Mods/NexusMods.App/issues/new>  
 
-Download: x86_64: <https://github.com/Nexus-Mods/NexusMods.App/releases/download/v0.21.1/NexusMods.App.x86_64.AppImage>
+Download: <https://github.com/Nexus-Mods/NexusMods.App/releases/download/v0.21.1/NexusMods.App.x86_64.AppImage>
 

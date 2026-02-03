@@ -9,7 +9,10 @@ tags:
 - "Notes"
 - "Electron"
 - "Cross-platform software"
-License: AGPL-3.0
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["AGPL-3.0"]
 draft: false
 ---
 

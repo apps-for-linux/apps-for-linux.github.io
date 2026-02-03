@@ -12,7 +12,7 @@ tags:
 - "Self-hosted"
 - "Music streaming client"
 - "Electron"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 

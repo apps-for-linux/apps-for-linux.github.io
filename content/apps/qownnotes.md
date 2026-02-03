@@ -7,7 +7,7 @@ categories: ["Productivity"]
 authors: ["Patrizio Bekerle"]
 tags:
 - "Notes"
-- "Qt6"
+- "Qt6"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Become a sponsor: <https://github.com/sponsors/pbek>
 Translate: <https://crowdin.com/project/qownnotes>  
 Report the bug: <https://github.com/pbek/QOwnNotes/issues/new>  
 
-Download: x86_64: <https://github.com/pbek/QOwnNotes/releases/download/v26.1.8/QOwnNotes-x86_64-Qt6-experimental.AppImage>
+Download: <https://github.com/pbek/QOwnNotes/releases/download/v26.1.8/QOwnNotes-x86_64-Qt6-experimental.AppImage>

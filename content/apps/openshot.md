@@ -8,7 +8,7 @@ authors: ["OpenShot Studios"]
 tags:
 - "Video Editor"
 - "Qt5"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -23,4 +23,4 @@ Become a sponsor: <https://www.openshot.org/donate>
 Translate: <https://translations.launchpad.net/openshot/2.0/+translations>  
 Report the bug: <https://github.com/OpenShot/openshot-qt/issues/new>  
 
-Download: x86_64: <https://github.com/OpenShot/openshot-qt/releases/download/v3.4.0/OpenShot-v3.4.0-x86_64.AppImage>
+Download: <https://github.com/OpenShot/openshot-qt/releases/download/v3.4.0/OpenShot-v3.4.0-x86_64.AppImage>

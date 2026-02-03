@@ -7,7 +7,7 @@ categories: ["Development"]
 authors: ["Justin Dailey"]
 tags:
 - "Code editor"
-- "Qt6"
+- "Qt6"]
 draft: false
 ---
 
@@ -22,4 +22,4 @@ Source code: <https://github.com/dail8859/NotepadNext>
 Become a sponsor: <https://github.com/sponsors/dail8859>  
 Report the bug: <https://github.com/dail8859/NotepadNext/issues>  
 
-Download: x86_64: <https://github.com/dail8859/NotepadNext/releases/download/v0.13/NotepadNext-v0.13-x86_64.AppImage>
+Download: <https://github.com/dail8859/NotepadNext/releases/download/v0.13/NotepadNext-v0.13-x86_64.AppImage>

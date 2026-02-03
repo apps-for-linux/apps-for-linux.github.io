@@ -8,6 +8,7 @@ authors: ["Naev DevTeam"]
 tags: 
 - "OSS Game"
 - "RPG"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -22,4 +23,4 @@ Become a sponsor: <https://www.libreoffice.org/donate>
 Translate: <https://hosted.weblate.org/projects/naev/naev>  
 Report the bug: <https://github.com/naev/naev/issues/new>  
 
-Download: x86_64: <https://github.com/naev/naev/releases/download/nightly/naev-0.13.0-alpha.9+367.g82e71ec1f2-linux-x86-64.AppImage>
+Download: <https://github.com/naev/naev/releases/download/nightly/naev-0.13.0-alpha.9+367.g82e71ec1f2-linux-x86-64.AppImage>

@@ -8,6 +8,10 @@ authors: ["Jan Prochazka"]
 tags:
 - "Database"
 - "SQL"
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["MIT"]
 draft: false
 ---
 
@@ -16,7 +20,6 @@ draft: false
 Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others
 
 License: MIT
-
 Web page: <https://dbgate.org>  
 Source code: <https://github.com/dbgate/dbgate>
 

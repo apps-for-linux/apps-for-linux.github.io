@@ -9,7 +9,10 @@ tags:
 - "DAW"
 - "Audio Editor"
 - "Qt5"
-license: "GPL-2.0"
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["GPL-2.0"]
 draft: false
 ---
 

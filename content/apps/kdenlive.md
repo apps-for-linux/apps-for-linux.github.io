@@ -7,7 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Kdenlive Team"]
 tags: 
 - "Video Editor"
-- "Qt6"
+- "Qt6"]
 draft: false
 ---
 
@@ -24,6 +24,6 @@ Become a sponsor: <https://kdenlive.org/en/fund>
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://invent.kde.org/multimedia/kdenlive/-/issues/new>  
 
-Download: x86_64: <https://download.kde.org/stable/kdenlive/25.12/linux/kdenlive-25.12.0-B-x86_64.AppImage>
+Download: <https://download.kde.org/stable/kdenlive/25.12/linux/kdenlive-25.12.0-B-x86_64.AppImage>
 
 

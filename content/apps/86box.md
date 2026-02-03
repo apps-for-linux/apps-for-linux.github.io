@@ -11,7 +11,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 

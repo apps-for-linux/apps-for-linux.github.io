@@ -10,7 +10,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-license: "MIT"
+License: ["MIT"]
 draft: false
 ---
 
@@ -19,7 +19,6 @@ draft: false
 A beautiful feature-rich GraphQL Client
 
 License: MIT
-
 Web page: <https://altairgraphql.dev>  
 Source code: <https://github.com/altair-graphql/altair>
 

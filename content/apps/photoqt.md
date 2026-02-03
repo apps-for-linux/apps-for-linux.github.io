@@ -8,7 +8,7 @@ authors: ["Lukas Spies"]
 tags:
 - "Image viewer"
 - "Qt6"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Source code: <https://gitlab.com/lspies/photoqt>
 Translate: <https://translate.photoqt.org>  
 Report the bug: <https://gitlab.com/lspies/photoqt/-/issues/new>  
 
-Download: x86_64: <https://photoqt.org/downloads/appimages/PhotoQt-5.1.AppImage>
+Download: <https://photoqt.org/downloads/appimages/PhotoQt-5.1.AppImage>

@@ -8,7 +8,7 @@ authors: ["Mikael Finstad"]
 tags:
 - "Video editor"
 - "Electron"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -25,5 +25,5 @@ Become a sponsor: <https://github.com/sponsors/mifi>
 Translate: <https://hosted.weblate.org/projects/losslesscut/losslesscut>  
 Report the bug: <https://github.com/mifi/lossless-cut/issues/new>  
 
-Download: x86_64: <https://github.com/mifi/lossless-cut/releases/download/v3.67.2/LosslessCut-linux-x86_64.AppImage>
+Download: <https://github.com/mifi/lossless-cut/releases/download/v3.67.2/LosslessCut-linux-x86_64.AppImage>
 

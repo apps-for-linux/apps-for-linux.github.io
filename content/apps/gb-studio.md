@@ -11,7 +11,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-license: "MIT"
+License: ["MIT"]
 draft: false
 ---
 
@@ -20,7 +20,6 @@ draft: false
 A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 
 License: MIT
-
 Web page: <https://www.gbstudio.dev>  
 Source code: <https://github.com/chrismaltby/gb-studio>
 

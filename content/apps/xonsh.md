@@ -6,7 +6,7 @@ pubDate: 2026-01-14T08:06:00Z
 categories: ["System"]
 authors: ["the xonsh developers"]
 tags:
-- "Shell language"
+- "Shell language"]
 draft: false
 ---
 
@@ -20,5 +20,5 @@ Source code: <https://github.com/xonsh/xonsh>
 Become a sponsor: <https://github.com/sponsors/xonsh>  
 Report the bug: <https://github.com/xonsh/xonsh/issues/new>  
 
-Download: x86_64: <https://github.com/xonsh/xonsh/releases/download/0.22.1/xonsh-x86_64.AppImage>
+Download: <https://github.com/xonsh/xonsh/releases/download/0.22.1/xonsh-x86_64.AppImage>
 

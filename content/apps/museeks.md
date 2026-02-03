@@ -6,7 +6,12 @@ pubDate: 2025-09-22T17:11:00Z
 categories: ["AudioVideo"]
 authors: ["Pierre de la Martinière"]
 tags:
+- "Offline music player"
 - "Tauri"
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["MIT"]
 draft: false
 ---
 
@@ -15,7 +20,6 @@ draft: false
 A simple, clean and cross-platform music player
 
 License: MIT
-
 Web page: <https://museeks.io>  
 Source code: <https://github.com/martpie/museeks>
 

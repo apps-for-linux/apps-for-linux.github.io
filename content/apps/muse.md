@@ -9,6 +9,7 @@ tags:
 - "Audio editor"
 - "DAW"
 - "Qt5"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -23,4 +24,4 @@ Become a sponsor: <https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_bu
 Translate: <https://muse-sequencer.github.io/docs/i18n.html>  
 Report the bug: <https://github.com/muse-sequencer/muse/issues/new>  
 
-Download: x86_64: <https://github.com/muse-sequencer/muse/releases/download/latest/MusE-master-x86_64.AppImage>
+Download: <https://github.com/muse-sequencer/muse/releases/download/latest/MusE-master-x86_64.AppImage>

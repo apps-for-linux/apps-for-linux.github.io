@@ -8,7 +8,11 @@ authors: ["Kopia Authors"]
 tags:
 - "Backup tool"
 - "Electron"
-license: "Apache-2.0"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
+License: ["Apache-2.0"]
 draft: false
 ---
 

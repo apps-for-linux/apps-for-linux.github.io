@@ -9,7 +9,9 @@ tags:
 - "Password management"
 - "Cross-platform software"
 - "Electron"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
+architecture: 
+- "x86_64"
 draft: false
 ---
 
@@ -25,4 +27,4 @@ Source code: <https://github.com/bitwarden/clients>
 Translate: <https://crowdin.com/project/bitwarden-desktop>  
 Report the bug: <https://github.com/bitwarden/clients/issues/new>  
 
-Download: x86_64: <https://github.com/bitwarden/clients/releases/download/desktop-v2025.12.1/Bitwarden-2025.12.1-x86_64.AppImage>
+Download: <https://github.com/bitwarden/clients/releases/download/desktop-v2025.12.1/Bitwarden-2025.12.1-x86_64.AppImage>

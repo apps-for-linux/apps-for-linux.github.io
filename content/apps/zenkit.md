@@ -7,7 +7,7 @@ categories: ["Productivity"]
 authors: ["Axonic"]
 tags:
 - "Project Management"
-license: "EULA"
+License: ["EULA"]
 draft: false
 ---
 
@@ -21,4 +21,4 @@ Web page: <https://zenkit.com/>
 
 Report the bug: <https://help.zenkit.com/en/support/tickets/new>  
 
-Download: x86_64: <https://static.zenkit.com/downloads/desktop-apps/base/zenkit-linux.AppImage>
+Download: <https://static.zenkit.com/downloads/desktop-apps/base/zenkit-linux.AppImage>

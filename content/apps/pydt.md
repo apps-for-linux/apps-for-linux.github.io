@@ -8,18 +8,17 @@ authors: ["Michael Rosack"]
 tags:
 - "Game client"
 - "Electron"
-license: "MIT"
+License: ["MIT"]
 draft: false
 ---
 
 Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management.
 
 License: MIT
-
 Web page: <https://www.playyourdamnturn.com>  
 Source code: <https://github.com/pydt/client>
 
 Become a sponsor: <https://www.patreon.com/pydt>  
 Report the bug: <https://github.com/pydt/client/issues/new>  
 
-Download: x86_64: <https://github.com/pydt/client/releases/download/v2.1.9/playyourdamnturn-linux-2.1.9-x86_64.AppImage>
+Download: <https://github.com/pydt/client/releases/download/v2.1.9/playyourdamnturn-linux-2.1.9-x86_64.AppImage>

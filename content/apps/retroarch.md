@@ -8,7 +8,7 @@ authors: ["Florian Märkl"]
 tags:
 - Game Simulator
 - Retro Game Simulator
-license: "GPL-3.0"
+license: "GPL-3.0"]
 draft: false
 ---
 
@@ -23,4 +23,4 @@ Become a sponsor: <https://github.com/sponsors/libretro>
 Translate: <https://crowdin.com/project/retroarch>  
 Report the bug: <https://github.com/libretro/RetroArch/issues/new>  
 
-Download: x86_64: <https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch_Qt.7z>
+Download: <https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch_Qt.7z>

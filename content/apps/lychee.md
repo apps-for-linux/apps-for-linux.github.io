@@ -8,7 +8,7 @@ authors: ["Mango 3D"]
 tags:
 - "3D"
 - "Slicing software"
-license: "EULA"
+License: ["EULA"]
 draft: false
 ---
 
@@ -18,4 +18,4 @@ License: EULA
 
 Web page: <https://mango3d.io/resin-sla-msla-3d-printers>  
 
-Download: x86_64: <https://mango-lychee.nyc3.cdn.digitaloceanspaces.com/LycheeSlicer-7.6.0.AppImage>
+Download: <https://mango-lychee.nyc3.cdn.digitaloceanspaces.com/LycheeSlicer-7.6.0.AppImage>

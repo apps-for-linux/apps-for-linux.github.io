@@ -8,7 +8,7 @@ authors: ["Equicord"]
 tags:
 - "Messenger"
 - "Discord client"
-- "Electron"
+- "Electron"]
 draft: false
 ---
 

@@ -9,7 +9,7 @@ tags:
 - "Torrent client"
 - "Download manager"
 - "Qt6"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -21,4 +21,4 @@ Source code: <https://github.com/c0re100/qBittorrent-Enhanced-Edition>
 
 Report the bug: <https://github.com/c0re100/qBittorrent-Enhanced-Edition/issues/new>  
 
-Download: x86_64: <https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-5.1.3.10/qBittorrent-Enhanced-Edition-x86_64.AppImage>
+Download: <https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-5.1.3.10/qBittorrent-Enhanced-Edition-x86_64.AppImage>

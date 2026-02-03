@@ -9,7 +9,7 @@ tags:
 - "3D"
 - "Slicing software"
 - "GTK+3"
-License: AGPL-3.0
+License: ["AGPL-3.0"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Source code: <https://github.com/bambulab/BambuStudio>
 
 Report the bug: <https://github.com/bambulab/BambuStudio/issues/new>  
 
-Download: x86_64: <https://github.com/bambulab/BambuStudio/releases/download/v02.04.00.70/Bambu_Studio_linux_fedora-v02.04.00.70.AppImage>
+Download: <https://github.com/bambulab/BambuStudio/releases/download/v02.04.00.70/Bambu_Studio_linux_fedora-v02.04.00.70.AppImage>

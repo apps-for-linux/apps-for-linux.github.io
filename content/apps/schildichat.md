@@ -10,7 +10,7 @@ tags:
 - "Matrix"
 - "Cross-platform software"
 - "Electron"
-license: "Apache-2.0"
+License: ["Apache-2.0"]
 draft: false
 ---
 
@@ -26,4 +26,4 @@ Source code: <https://github.com/SchildiChat/schildichat-desktop>
 Translate: <https://weblate.spiritcroc.de/projects/schildichat>  
 Report the bug: <https://github.com/SchildiChat/schildichat-desktop/issues/new>  
 
-Download: x86_64: <https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.109-sc.0.test.0/SchildiChatAlpha-1.11.109-sc.0.test.0.AppImage>
+Download: <https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.109-sc.0.test.0/SchildiChatAlpha-1.11.109-sc.0.test.0.AppImage>

@@ -8,7 +8,9 @@ authors: ["Blockstream"]
 tags: 
 - "Cryptocurrency"
 - "Qt6"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
+architecture: 
+- "x86_64"
 draft: false
 ---
 
@@ -22,4 +24,4 @@ Source code: <https://github.com/Blockstream/green_qt>
 Translate: <https://www.transifex.com/blockstream/blockstream-green>  
 Report the bug: <https://github.com/Blockstream/green_qt/issues/new>  
 
-Download: x86_64: <https://github.com/Blockstream/green_qt/releases/download/release_3.0.0/Blockstream-x86_64.AppImage>
+Download: <https://github.com/Blockstream/green_qt/releases/download/release_3.0.0/Blockstream-x86_64.AppImage>

@@ -8,7 +8,9 @@ authors: ["CP Editor team"]
 tags:
 - "Code editor"
 - "Competitive programming"
-license: "GPL-3.0"
+architecture: 
+- "x86_64"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -25,5 +27,5 @@ Become a sponsor: <https://github.com/sponsors/cpeditor>
 Translate: <https://github.com/cpeditor/cpeditor/blob/master/CONTRIBUTING.md#translations>  
 Report the bug: <https://github.com/cpeditor/cpeditor/issues/new>  
 
-Download: x86_64: https://github.com/cpeditor/cpeditor/releases/download/7.0.1/cpeditor-7.0.1-linux-x86_64.AppImage
+Download: https://github.com/cpeditor/cpeditor/releases/download/7.0.1/cpeditor-7.0.1-linux-x86_64.AppImage
 

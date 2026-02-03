@@ -6,7 +6,7 @@ pubDate: 2025-10-31T19:51:00Z
 categories: ["Development"]
 authors: ["Logic Over Snacks"]
 tags:
-- "Git client"
+- "Git client"]
 draft: false
 ---
 
@@ -19,4 +19,4 @@ License: EULA
 
 Report the bug: <https://github.com/LogicOverSnacks/glint-release/issues/new>  
 
-Download: x86_64: <https://github.com/LogicOverSnacks/glint-release/releases/download/v1.9.5/Glint-1.9.5.AppImage>
+Download: <https://github.com/LogicOverSnacks/glint-release/releases/download/v1.9.5/Glint-1.9.5.AppImage>

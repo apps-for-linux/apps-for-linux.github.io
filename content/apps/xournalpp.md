@@ -9,10 +9,10 @@ tags:
 - "Notes"
 - "Handwriting"
 - "GTK+3"
-license: "GPL-2.0"
+License: ["GPL-2.0"
 architecture: 
 - "x86_64"
-- "arm64"
+- "arm64"]
 draft: false
 ---
 

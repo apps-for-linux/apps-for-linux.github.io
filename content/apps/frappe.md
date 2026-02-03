@@ -8,7 +8,7 @@ authors: ["Frappe Technologies"]
 tags:
 - "Budget software"
 - "Electron"
-License: AGPL-3.0
+License: ["AGPL-3.0"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Source code: <https://github.com/frappe/books>
 Translate: <https://github.com/frappe/books/wiki/Contributing-Translations>  
 Report the bug: <https://github.com/frappe/books/issues/new>  
 
-Download: x86_64: <https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-x86_64.AppImage>
+Download: <https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-x86_64.AppImage>

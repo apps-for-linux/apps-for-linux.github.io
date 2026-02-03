@@ -7,7 +7,7 @@ categories: ["Games"]
 authors: ["Flyinghead"]
 tags:
 - "Sega Emulator"
-- "Console Emulator"
+- "Console Emulator"]
 draft: false
 ---
 
@@ -22,5 +22,5 @@ Source code: <https://github.com/flyinghead/flycast>
 Become a sponsor: <https://www.paypal.com/paypalme/FlycastEmu>  
 Report the bug: <https://github.com/flyinghead/flycast/issues/new>  
 
-Download: x86_64: <https://github.com/flyinghead/flycast/releases/download/v2.6/flycast-x86_64.AppImage>
+Download: <https://github.com/flyinghead/flycast/releases/download/v2.6/flycast-x86_64.AppImage>
 

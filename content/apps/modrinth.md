@@ -9,7 +9,7 @@ tags:
 - "Gaming tool"
 - "Mod marketplace"
 - "Tauri"
-License: AGPL-3.0
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -25,4 +25,4 @@ Source code: <https://github.com/modrinth/code>
 Translate: <https://crowdin.com/project/modrinth>  
 Report the bug: <https://github.com/modrinth/code/issues/new>  
 
-Download: x86_64: <https://launcher-files.modrinth.com/versions/0.10.26/linux/Modrinth%20App_0.10.26_amd64.AppImage>
+Download: <https://launcher-files.modrinth.com/versions/0.10.26/linux/Modrinth%20App_0.10.26_amd64.AppImage>

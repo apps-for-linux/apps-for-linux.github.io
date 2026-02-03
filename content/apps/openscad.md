@@ -9,7 +9,7 @@ tags:
 - "3D"
 - "CAD"
 - "Qt5"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -24,4 +24,4 @@ Become a sponsor: <https://github.com/sponsors/openscad>
 Translate: <https://wiki.documentfoundation.org/Language>  
 Report the bug: <https://github.com/openscad/openscad/issues/new>  
 
-Download: x86_64: <https://files.openscad.org/snapshots/OpenSCAD-2025.12.23.ai30148-x86_64.AppImage>
+Download: <https://files.openscad.org/snapshots/OpenSCAD-2025.12.23.ai30148-x86_64.AppImage>

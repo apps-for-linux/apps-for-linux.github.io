@@ -9,6 +9,10 @@ tags:
 - "RAW processing"
 - "Image editor"
 - "Tauri"
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["AGPL-3.0"]
 draft: false
 ---
 

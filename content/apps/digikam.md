@@ -8,7 +8,7 @@ authors: ["digiKam Team"]
 tags:
 - "Photo Management"
 - "Qt6"
-license: "GPL-2.0"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -23,5 +23,5 @@ Become a sponsor: <https://www.digikam.org/donate>
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://bugs.kde.org/buglist.cgi?product=digikam&resolution=>  
 
-Download: x86_64: <https://download.kde.org/stable/digikam/8.8.0/digiKam-8.8.0-Qt6-x86-64.appimage>
+Download: <https://download.kde.org/stable/digikam/8.8.0/digiKam-8.8.0-Qt6-x86-64.appimage>
 

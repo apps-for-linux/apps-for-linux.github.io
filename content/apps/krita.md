@@ -9,7 +9,7 @@ tags:
 - "Painting software"
 - "Photo editor"
 - "Qt5"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -26,4 +26,4 @@ Become a sponsor: <https://krita.org/en/support-us/donations>
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://bugs.kde.org/enter_bug.cgi>  
 
-Download: x86_64: <https://download.kde.org/stable/krita/5.2.15/krita-5.2.15-x86_64.AppImage>
+Download: <https://download.kde.org/stable/krita/5.2.15/krita-5.2.15-x86_64.AppImage>

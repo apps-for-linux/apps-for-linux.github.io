@@ -7,6 +7,9 @@ categories: ["Games"]
 authors: ["Beyond-All-Reason Team"]
 tags:
 - "Game"
+License: ["GPL-2.0"]
+architecture: 
+- "x86_64"
 draft: false
 ---
 
@@ -20,6 +23,6 @@ Source code: <https://github.com/beyond-all-reason/BYAR-Chobby>
 Become a sponsor: <https://www.beyondallreason.info/donate-to-bar>  
 Report the bug: <https://github.com/beyond-all-reason/BYAR-Chobby/issues/new>  
 
-Download: x86_64: <https://github.com/beyond-all-reason/BYAR-Chobby/releases/download/v1.2988.0/Beyond-All-Reason-1.2988.0.AppImage>
+Download: <https://github.com/beyond-all-reason/BYAR-Chobby/releases/download/v1.2988.0/Beyond-All-Reason-1.2988.0.AppImage>
 
 

@@ -8,7 +8,7 @@ authors: ["Eclipse Foundation"]
 tags:
 - "IDE"
 - "VSCode fork"
-- "Electron"
+- "Electron"]
 draft: false
 ---
 
@@ -23,4 +23,4 @@ Source code: <https://github.com/eclipse-theia/theia>
 
 Report the bug: <https://github.com/eclipse-theia/theia/issues/new>  
 
-Download: x86_64: <https://mirror.dkm.cz/eclipse/theia/ide/latest/linux/TheiaIDE.AppImage>
+Download: <https://mirror.dkm.cz/eclipse/theia/ide/latest/linux/TheiaIDE.AppImage>

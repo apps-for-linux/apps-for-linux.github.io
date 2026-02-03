@@ -9,7 +9,7 @@ tags:
 - "Knowledge base"
 - "Electron"
 - "Cross-platform software"
-License: AGPL-3.0
+License: ["AGPL-3.0"]
 draft: false
 ---
 
@@ -26,4 +26,4 @@ Become a sponsor: <https://opencollective.com/logseq>
 Translate: <https://github.com/logseq/logseq/blob/master/docs/contributing-to-translations.md>  
 Report the bug: <https://github.com/logseq/logseq/issues/new>  
 
-Download: x86_64: <https://github.com/logseq/logseq/releases/download/0.10.15/Logseq-linux-x64-0.10.15.AppImage>
+Download: <https://github.com/logseq/logseq/releases/download/0.10.15/Logseq-linux-x64-0.10.15.AppImage>

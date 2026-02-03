@@ -12,7 +12,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-License: MIT  
+License: ["MIT"]  
 draft: false
 ---
 

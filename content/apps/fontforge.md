@@ -8,7 +8,7 @@ authors: ["FontForge Project contributors"]
 tags:
 - "Font editor"
 - "GTK+3"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -25,4 +25,4 @@ Become a sponsor: <https://fontforge.org/en-US/donate>
 Translate: <https://crowdin.com/project/fontforge>  
 Report the bug: <https://github.com/fontforge/fontforge/issues/new>  
 
-Download: x86_64: <https://github.com/fontforge/fontforge/releases/download/20251009/FontForge-2025-10-09-Linux-x86_64.AppImage>
+Download: <https://github.com/fontforge/fontforge/releases/download/20251009/FontForge-2025-10-09-Linux-x86_64.AppImage>

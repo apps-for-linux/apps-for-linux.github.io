@@ -11,7 +11,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-license: "EULA"
+License: ["EULA"]
 draft: false
 ---
 

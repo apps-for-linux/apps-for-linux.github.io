@@ -9,7 +9,7 @@ tags:
 - "Mail Client"
 - "Censorship-resistance software"
 - "Electron"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -27,4 +27,4 @@ Become a sponsor: <https://tuta.com/community/#donate>
 Translate: <https://tuta.com/blog/tutanota-translation-project>  
 Report the bug: <https://github.com/tutao/tutanota/issues/new>  
 
-Download: x86_64: <https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-319.260107.1/tutanota-desktop-linux.AppImage>
+Download: <https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-319.260107.1/tutanota-desktop-linux.AppImage>

@@ -9,7 +9,7 @@ tags:
 - "Code editor"
 - "VSCode fork"
 - "Electron"
-license: "MIT"
+License: ["MIT"]
 draft: false
 ---
 
@@ -18,10 +18,9 @@ draft: false
 Free/Libre Open Source Software Binaries of VS Code
 
 License: MIT
-
 Web page: <https://vscodium.com/>  
 Source code: <https://github.com/VSCodium/vscodium>
 
 Report the bug: <https://github.com/VSCodium/vscodium/issues/new>  
 
-Download: x86_64: <https://github.com/VSCodium/vscodium/releases/download/1.108.10359/VSCodium-1.108.10359.glibc2.30-x86_64.AppImage>
+Download: <https://github.com/VSCodium/vscodium/releases/download/1.108.10359/VSCodium-1.108.10359.glibc2.30-x86_64.AppImage>

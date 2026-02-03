@@ -11,7 +11,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-license: "MIT"
+License: ["MIT"]
 draft: false
 ---
 
@@ -20,7 +20,6 @@ draft: false
 Full-featured, no-code, open-source game development software
 
 License: MIT
-
 Web page: <https://gdevelop.io>  
 Source code: <https://github.com/4ian/GDevelop>
 

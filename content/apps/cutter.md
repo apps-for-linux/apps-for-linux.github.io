@@ -8,7 +8,9 @@ authors: ["Rizin"]
 tags:
 - "Reverse Engineering"
 - "Qt6"
-license: "GPL-3.0"
+architecture: 
+- "x86_64"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -25,4 +27,4 @@ Become a sponsor: <https://github.com/sponsors/rizinorg>
 Translate: <https://crowdin.com/project/cutter>  
 Report the bug: <https://github.com/rizinorg/cutter/issues/new>  
 
-Download: x86_64: <https://github.com/rizinorg/cutter/releases/download/v2.4.1/Cutter-v2.4.1-Linux-x86_64.AppImage>
+Download: <https://github.com/rizinorg/cutter/releases/download/v2.4.1/Cutter-v2.4.1-Linux-x86_64.AppImage>

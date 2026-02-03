@@ -10,7 +10,7 @@ tags:
 - "Censorship-resistance software"
 - "Cross-platform software"
 - "Electron"
-license: "GPL-3.0"
+License: ["GPL-3.0"]
 draft: false
 ---
 
@@ -27,4 +27,4 @@ Become a sponsor: <https://donorbox.org/optf-donation>
 Translate: <https://crowdin.com/project/session-crossplatform-strings>  
 Report the bug: <https://github.com/session-foundation/session-desktop/issues/new>  
 
-Download: x86_64: <https://github.com/session-foundation/session-desktop/releases/download/v1.17.6/session-desktop-linux-x86_64-1.17.6.AppImage>
+Download: <https://github.com/session-foundation/session-desktop/releases/download/v1.17.6/session-desktop-linux-x86_64-1.17.6.AppImage>

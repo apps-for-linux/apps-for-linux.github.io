@@ -8,7 +8,9 @@ authors: ["n0vella"]
 tags:
 - "Podcast player"
 - "Tauri"
-License: GPL-3.0 
+architecture: 
+- "x86_64"
+License: ["GPL-3.0"] 
 draft: false
 ---
 
@@ -25,4 +27,4 @@ Become a sponsor: <https://www.buymeacoffee.com/n0vella>
 Translate: <https://github.com/cardo-podcast/cardo?tab=readme-ov-file#translations>  
 Report the bug: <https://github.com/cardo-podcast/cardo/issues/new>  
 
-Download: x86_64: <https://github.com/cardo-podcast/cardo/releases/download/1.12.0/cardo_1.12.0_amd64_linux.AppImage>
+Download: <https://github.com/cardo-podcast/cardo/releases/download/1.12.0/cardo_1.12.0_amd64_linux.AppImage>

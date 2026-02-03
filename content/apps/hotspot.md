@@ -8,6 +8,7 @@ authors: ["Klarälvdalens Datakonsult"]
 tags: 
 - "Resource Monitor"
 - "Qt6"
+License: ["GPL-2.0"]
 draft: false
 ---
 
@@ -21,5 +22,5 @@ Source code: <https://github.com/KDAB/hotspot>
 
 Report the bug: <https://github.com/KDAB/hotspot/issues/new>  
 
-Download: x86_64: <https://github.com/KDAB/hotspot/releases/download/continuous/hotspot-continuous.AppImage>
+Download: <https://github.com/KDAB/hotspot/releases/download/continuous/hotspot-continuous.AppImage>
 

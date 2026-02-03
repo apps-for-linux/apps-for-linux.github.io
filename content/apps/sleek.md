@@ -8,7 +8,10 @@ authors: ["Robin Ahle"]
 tags:
 - "To-do"
 - "Electron"
-license: "MIT"
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["MIT"]
 draft: false
 ---
 
@@ -16,8 +19,8 @@ draft: false
 
 Open-source (FOSS) todo manager based on the todo.txt syntax
 
-License: MIT
-
+License: ["MIT"]
+draft
 Source code: <https://github.com/ransome1/sleek>
 
 Become a sponsor: <https://github.com/sponsors/ransome1>  

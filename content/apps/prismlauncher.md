@@ -8,7 +8,10 @@ authors: ["Prism Launcher Contributors"]
 tags:
 - "Minecraft launcher"
 - "Qt6"
-license: "GPL-3.0"
+architecture: 
+- "x86_64"
+- "arm64"
+License: ["GPL-3.0"]
 draft: false
 ---
 
