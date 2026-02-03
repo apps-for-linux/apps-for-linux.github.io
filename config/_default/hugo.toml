@@ -28,7 +28,7 @@ enableEmoji = true
   tag = "tags"
   category = "categories"
   author = "authors"
-  architecture = "x86_64", "arm64", "x96", "armv7l"
+  architecture = "architectures"
 
 [sitemap]
   changefreq = 'daily'
