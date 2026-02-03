@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Ascensio System"]
 tags:
 - "Office Suite"
+- "Cross-platform software"
 - "Qt6"
 - "GTK+3"
 License: AGPL-3.0

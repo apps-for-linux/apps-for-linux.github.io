@@ -7,8 +7,8 @@ categories: ["Productivity"]
 authors: ["Anytype"]
 tags:
 - "Knowledge base"
-- "Electron"
 - "Cross-platform software"
+- "Electron"
 license: "Custom"
 draft: false
 ---

@@ -8,6 +8,7 @@ categories: ["AudioVideo"]
 authors: ["Rick van Lieshout"]
 tags: 
 - "Music streaming client"
+- "Cross-platform software"
 - "Electron"
 license: "MIT"
 draft: false

@@ -6,7 +6,6 @@ pubDate: 2026-01-09T06:03:00Z
 categories: ["Utilities"]
 authors: ["RustDesk"]
 tags:
-- "Remote desktop"
 - "Remote control"
 - "Flutter"
 License: AGPL-3.0

@@ -7,8 +7,9 @@ categories: ["Network"]
 authors: ["SimpleX Chat"]
 tags:
 - "Messenger"
-- "Java"
 - "Censorship-resistance software"
+- "Cross-platform software"
+- "Java"
 License: AGPL-3.0
 draft: false
 ---

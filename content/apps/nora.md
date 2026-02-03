@@ -6,7 +6,7 @@ pubDate: 2025-12-23T12:28:00Z
 categories: ["AudioVideo"]
 authors: ["Sandakan Nipunajith"]
 tags:
-- "Music player"
+- "Offline music player"
 - "Electron"
 draft: false
 ---

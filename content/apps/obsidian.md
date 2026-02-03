@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Obsidian Team"]
 tags:
 - "Knowledge Base"
+- "Cross-platform software"
 - "Electron"
 license: "EULA"
 draft: false

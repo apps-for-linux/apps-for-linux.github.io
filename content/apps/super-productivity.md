@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Johannes Millan"]
 tags:
 - "To-do"
+- "Cross-platform software"
 - "Electron"
 draft: false
 ---

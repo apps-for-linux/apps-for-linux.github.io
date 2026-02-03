@@ -6,7 +6,7 @@ pubDate: 2025-06-23T11:06:00Z
 categories: ["AudioVideo"]
 authors: ["Aaryan Kapoor"]
 tags:
-- "Music player"
+- "Offline music player"
 - "Electron"
 license: "MIT"
 draft: false

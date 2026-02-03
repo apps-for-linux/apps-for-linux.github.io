@@ -8,6 +8,7 @@ authors: ["Adil Hanney"]
 tags:
 - "Notes"
 - "Handwriting"
+- "Cross-platform software"
 - "Flutter"
 license: "GPL-3.0"
 draft: false

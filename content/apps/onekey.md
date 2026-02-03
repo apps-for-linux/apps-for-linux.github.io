@@ -7,6 +7,7 @@ categories: ["Finance"]
 authors: ["OneKey"]
 tags:
 - "Cryptocurrency"
+- "Cross-platform software"
 - "Electron"
 license: "Apache-2.0"
 draft: false

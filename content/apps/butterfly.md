@@ -8,6 +8,7 @@ authors: ["LinwoodDev"]
 tags:
 - "Notes"
 - "Handwriting"
+- "Cross-platform software"
 - "Flutter"
 License: AGPL-3.0
 draft: false

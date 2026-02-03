@@ -20,7 +20,7 @@ Streaming music player that finds free music for you
 
 License: AGPL-3.0
 
-Web page: <https://nuclear.js.org>  
+Web page: <https://nuclearplayer.com/>  
 Source code: <https://github.com/nukeop/nuclear>
 
 Become a sponsor: <https://github.com/sponsors/nukeop>  

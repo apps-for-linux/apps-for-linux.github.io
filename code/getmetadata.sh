@@ -24,4 +24,5 @@ wget https://raw.githubusercontent.com/dbgate/dbgate/refs/heads/master/app/org.d
     https://raw.githubusercontent.com/smplayer-dev/smplayer/refs/heads/master/smplayer.appdata.xml -O /data/info.smplayer.SMPlayer.metainfo.xml \
     https://raw.githubusercontent.com/pulsar-edit/pulsar/refs/heads/master/resources/linux/dev.pulsar_edit.Pulsar.metainfo.xml -O /data/dev.pulsar_edit.Pulsar.metainfo.xml \
     https://raw.githubusercontent.com/Beaver-Notes/Beaver-Notes/refs/heads/development/flatpak/com.beavernotes.beavernotes.metainfo.xml -O /data/com.beavernotes.beavernotes.metainfo.xml \
-    https://raw.githubusercontent.com/dail8859/NotepadNext/refs/heads/master/deploy/linux/com.github.dail8859.NotepadNext.metainfo.xml -O /data/com.github.dail8859.NotepadNext.metainfo.xml
+    https://raw.githubusercontent.com/dail8859/NotepadNext/refs/heads/master/deploy/linux/com.github.dail8859.NotepadNext.metainfo.xml -O /data/com.github.dail8859.NotepadNext.metainfo.xml \
+    https://raw.githubusercontent.com/streetpea/chiaki-ng/refs/heads/main/gui/io.github.streetpea.Chiaki4deck.appdata.xml -O /data/io.github.streetpea.Chiaki4deck.metainfo.xml

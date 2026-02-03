@@ -8,8 +8,8 @@ authors: ["Ente"]
 tags:
 - "Photo Management"
 - "Cloud storage client"
-- "Flutter"
 - "Cross-platform software"
+- "Flutter"
 license: "GPL-3.0"
 draft: false
 ---

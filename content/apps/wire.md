@@ -8,6 +8,7 @@ authors: ["Wire Swiss"]
 tags:
 - "Messenger"
 - "Censorship-resistance software"
+- "Cross-platform software"
 - "Electron"
 license: "GPL-3.0"
 draft: false

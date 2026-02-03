@@ -7,8 +7,8 @@ categories: ["Finance"]
 authors: ["One Part Rain"]
 tags:
 - "Budget software"
-- "Electron"
 - "Cross-platform software"
+- "Electron"
 draft: false
 ---
 

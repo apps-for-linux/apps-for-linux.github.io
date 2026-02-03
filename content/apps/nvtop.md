@@ -7,6 +7,7 @@ categories: ["Utilities"]
 authors: ["Maxime Schmitt"]
 tags:
 - "Resource Monitor"
+- "GPU"
 - "TUI"
 license: "GPL-3.0"
 draft: false

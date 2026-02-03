@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["Ismael Martinez"]
 tags: 
 - "Conference calling"
+- "Cross-platform software"
 - "Electron"
 license: "GPL-3.0"
 draft: false

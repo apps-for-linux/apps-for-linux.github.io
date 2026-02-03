@@ -7,7 +7,6 @@ categories: ["Productivity"]
 authors: ["Robin Ahle"]
 tags:
 - "To-do"
-- "Agenda"
 - "Electron"
 license: "MIT"
 draft: false

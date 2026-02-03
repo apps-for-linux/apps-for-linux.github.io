@@ -8,6 +8,7 @@ authors: ["Automattic"]
 tags:
 - "Messenger"
 - "Matrix"
+- "Cross-platform software"
 License: EULA
 
 draft: false

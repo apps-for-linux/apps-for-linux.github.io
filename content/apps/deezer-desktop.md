@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Aurélien Hamy"]
 tags:
 - "Music streaming client"
+- "Cross-platform software"
 - "Electron"
 license: "MIT"
 draft: false

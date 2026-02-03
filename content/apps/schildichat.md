@@ -6,8 +6,9 @@ pubDate: 2025-08-15T18:13:00Z
 categories: ["Network"]
 authors: ["SchildiChat"]
 tags:
+- "Messenger"
 - "Matrix"
-- "IM"
+- "Cross-platform software"
 - "Electron"
 license: "Apache-2.0"
 draft: false

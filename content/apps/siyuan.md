@@ -8,6 +8,7 @@ authors: ["Yunnan Liandi Technology"]
 tags:
 - "Knowledge base"
 - "AI-powered software"
+- "Cross-platform software"
 - "Electron"
 License: AGPL-3.0
 draft: false

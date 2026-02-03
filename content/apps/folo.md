@@ -8,9 +8,9 @@ authors: ["Follow Team"]
 tags:
 - "RSS"
 - "News Reader"
-- "Electron"
-- "Cross-platform software"
 - "AI-powered software"
+- "Cross-platform software"
+- "Electron"
 license: "GPL-3.0"
 draft: false
 ---
