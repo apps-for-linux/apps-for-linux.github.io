@@ -12,8 +12,7 @@ License: MPL-2.0
 draft: false
 ---
 
-https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp
-
+<img src="https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp">
 
 Performance-optimized and privacy-focused browser built atop Firefox
 

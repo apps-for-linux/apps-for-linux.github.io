@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-https://wezterm.org/screenshots/wezterm-vday-screenshot.png
+<img src="https://wezterm.org/screenshots/wezterm-vday-screenshot.png">
 
 GPU-accelerated cross-platform terminal emulator and multiplexer
 

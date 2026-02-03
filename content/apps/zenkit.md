@@ -11,7 +11,7 @@ license: "EULA"
 draft: false
 ---
 
-https://zenkit.com/wp-content/uploads/2023/09/zenkit_image_1.png
+<img src="https://zenkit.com/wp-content/uploads/2023/09/zenkit_image_1.png">
 
 Project Management, Processes, Communication, Scheduling, Documents, and Knowledge Sharing – all in one platform
 

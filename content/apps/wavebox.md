@@ -12,7 +12,7 @@ license: "EULA"
 draft: false
 ---
 
-<img src="https://raw.githubusercontent.com/wavebox/waveboxapp/refs/heads/master/images/hero.png
+<img src="https://raw.githubusercontent.com/wavebox/waveboxapp/refs/heads/master/images/hero.png">
 
 Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
 
