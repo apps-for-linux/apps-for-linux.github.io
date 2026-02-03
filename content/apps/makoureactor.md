@@ -19,5 +19,11 @@ Source code: <https://github.com/myst6re/makoureactor>
 
 Report the bug: <https://github.com/myst6re/makoureactor/issues/new>  
 
-Download: x86_64: <https://github.com/myst6re/makoureactor/releases/download/v2.2.0/makoureactor-gui-linux_x64.AppImage>
-arm64: <https://github.com/myst6re/makoureactor/releases/download/v2.2.0/makoureactor-gui-linux_arm64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/myst6re/makoureactor/releases/download/v2.2.0/makoureactor-gui-linux_x64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/myst6re/makoureactor/releases/download/v2.2.0/makoureactor-gui-linux_arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

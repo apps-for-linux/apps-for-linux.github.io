@@ -21,5 +21,12 @@ Source code: <https://github.com/GlitterWare/Passy>
 Become a sponsor: <https://github.com/sponsors/GlitterWare>  
 Translate: <https://github.com/GlitterWare/Passy/blob/main/LOCALIZATION.md>  
 Report the bug: <https://github.com/GlitterWare/Passy/issues/new>  
-Download: x86_64: <https://github.com/GlitterWare/Passy/releases/download/v1.9.5-pre/Passy-v1.9.5-x86-64.AppImage>
-arm64: <https://github.com/GlitterWare/Passy/releases/download/v1.9.5-pre/Passy-v1.9.5-aarch64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/GlitterWare/Passy/releases/download/v1.9.5-pre/Passy-v1.9.5-x86-64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/GlitterWare/Passy/releases/download/v1.9.5-pre/Passy-v1.9.5-aarch64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

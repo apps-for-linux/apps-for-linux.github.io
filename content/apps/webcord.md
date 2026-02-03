@@ -22,6 +22,15 @@ Source code: <https://github.com/SpacingBat3/WebCord>
 Translate: <https://hosted.weblate.org/projects/webcord>  
 Become a sponsor: <https://github.com/sponsors/SpacingBat3>  
 Report the bug: <https://github.com/SpacingBat3/WebCord/issues/new>  
-Download: x86_64: <https://github.com/SpacingBat3/WebCord/releases/download/v4.12.1/WebCord-4.12.1-x64.AppImage>  
-          arm64: <https://github.com/SpacingBat3/WebCord/releases/download/v4.12.1/WebCord-4.12.1-arm64.AppImage>  
-          armv7l: <https://github.com/SpacingBat3/WebCord/releases/download/v4.12.1/WebCord-4.12.1-armv7l.AppImage>  
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/SpacingBat3/WebCord/releases/download/v4.12.1/WebCord-4.12.1-x64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/SpacingBat3/WebCord/releases/download/v4.12.1/WebCord-4.12.1-arm64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download armv7l" >}}
+    <https://github.com/SpacingBat3/WebCord/releases/download/v4.12.1/WebCord-4.12.1-armv7l.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

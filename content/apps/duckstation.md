@@ -24,7 +24,17 @@ Source code: <https://github.com/stenzek/duckstation>
 
 Translate: <https://github.com/stenzek/duckstation/wiki/Translating-to-new-languages#linux>
 
-Download x86_64: <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage>
-x86_64 SSE2: <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64-SSE2.AppImage>
-arm64: <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-arm64.AppImage>
-armv7l: <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-armhf.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download x86_64 SSE2" >}}
+    <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64-SSE2.AppImage>  
+    {{< /tab >}}
+     {{< tab label="Download arm64" >}}
+    <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-arm64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download armv7l" >}}
+    <https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-armhf.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

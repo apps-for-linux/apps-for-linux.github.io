@@ -23,5 +23,12 @@ Source code: <https://github.com/Jelmerro/Vieb>
 
 Become a sponsor: <https://github.com/sponsors/Jelmerro>  
 Report the bug: <https://github.com/Jelmerro/Vieb/issues/new>  
-Download:   x86_64: <https://github.com/Jelmerro/Vieb/releases/download/12.6.0/Vieb-12.6.0.AppImage>
-            arm64: <https://github.com/Jelmerro/Vieb/releases/download/12.6.0/Vieb-12.6.0-arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/Jelmerro/Vieb/releases/download/12.6.0/Vieb-12.6.0.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/Jelmerro/Vieb/releases/download/12.6.0/Vieb-12.6.0-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

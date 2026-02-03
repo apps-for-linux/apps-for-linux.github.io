@@ -23,5 +23,12 @@ Source code: <https://github.com/jitsi/jitsi-meet-electron>
 
 Translate: <https://github.com/jitsi/jitsi-meet-electron/blob/master/app/i18n/lang>  
 Report the bug: <https://github.com/jitsi/jitsi-meet-electron/issues/new>  
-Download:   x86_64: <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.10.0/jitsi-meet-x86_64.AppImage>  
-            arm64: <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.10.0/jitsi-meet-arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.10.0/jitsi-meet-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.10.0/jitsi-meet-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

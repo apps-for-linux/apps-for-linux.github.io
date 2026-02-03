@@ -20,5 +20,12 @@ Web page: <https://mqttx.app>
 Source code: <https://github.com/emqx/MQTTX>
 
 Report the bug: <https://github.com/emqx/MQTTX/issues/new>  
-Download:   x86_64: <https://github.com/emqx/MQTTX/releases/download/v1.12.1/MQTTX-1.12.1.AppImage>  
-            arm64: <https://github.com/emqx/MQTTX/releases/download/v1.12.1/MQTTX-1.12.1-arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/emqx/MQTTX/releases/download/v1.12.1/MQTTX-1.12.1.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/emqx/MQTTX/releases/download/v1.12.1/MQTTX-1.12.1-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

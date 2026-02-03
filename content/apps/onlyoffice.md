@@ -24,5 +24,11 @@ Source code: <https://github.com/ONLYOFFICE/DesktopEditors>
 Translate: <https://helpcenter.onlyoffice.com/guides/become-translator.aspx>  
 Report the bug: <https://github.com/ONLYOFFICE/DesktopEditors/issues/new>  
 
-Download:   x86_64: <https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors-x86_64.AppImage>
-            arm64: <https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors-arm64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

@@ -23,5 +23,12 @@ Source code: <https://github.com/actualbudget/actual>
 Become a sponsor: <https://github.com/sponsors/actualbudget>  
 Translate: <https://hosted.weblate.org/projects/actualbudget>  
 Report the bug: <https://github.com/actualbudget/actual/issues>  
-Download: x86_64: <https://github.com/actualbudget/actual/releases/download/v26.1.0/Actual-linux-x86_64.AppImage>
-          arm64: <https://github.com/actualbudget/actual/releases/download/v26.1.0/Actual-linux-arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+ <https://github.com/actualbudget/actual/releases/download/v26.1.0/Actual-linux-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/actualbudget/actual/releases/download/v26.1.0/Actual-linux-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}

@@ -23,7 +23,17 @@ Source code: <https://github.com/feather-wallet/feather>
 
 Report the bug: <https://github.com/feather-wallet/feather/issues/new>  
 
-Download: x86_64: <https://featherwallet.org/files/releases/linux-appimage/feather-2.8.1.AppImage>
-arm64: <https://featherwallet.org/files/releases/linux-arm64-appimage/feather-2.8.1-arm64.AppImage>
-armv7l: <https://featherwallet.org/files/releases/linux-arm-appimage/feather-2.8.1-arm.AppImage>
-riscv64: <https://featherwallet.org/files/releases/linux-riscv64-appimage/feather-2.8.1-riscv64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://featherwallet.org/files/releases/linux-appimage/feather-2.8.1.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://featherwallet.org/files/releases/linux-arm64-appimage/feather-2.8.1-arm64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download armv7l" >}}
+    <https://featherwallet.org/files/releases/linux-arm-appimage/feather-2.8.1-arm.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download riscv64" >}}
+    <https://featherwallet.org/files/releases/linux-riscv64-appimage/feather-2.8.1-riscv64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

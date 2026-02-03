@@ -20,5 +20,11 @@ Source code: <https://github.com/Equicord/Equibop>
 
 Report the bug: <https://github.com/Equicord/Equibop/issues/new>  
 
-Download:   x86_64: <https://github.com/Equicord/Equibop/releases/download/v3.1.7/Equibop-3.1.7.AppImage>  
-            arm64: <https://github.com/Equicord/Equibop/releases/download/v3.1.7/Equibop-3.1.7-arm64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/Equicord/Equibop/releases/download/v3.1.7/Equibop-3.1.7.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/Equicord/Equibop/releases/download/v3.1.7/Equibop-3.1.7-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

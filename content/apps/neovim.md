@@ -20,5 +20,12 @@ Source code: <https://github.com/neovim/neovim>
 
 Become a sponsor: <https://github.com/sponsors/neovim>  
 Report the bug: <https://github.com/neovim/neovim/issues/new>  
-Download: x86_64: <https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage>
-arm64: <https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-arm64.appimage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-arm64.appimage>  
+    {{< /tab >}}
+{{< /tabs >}}  

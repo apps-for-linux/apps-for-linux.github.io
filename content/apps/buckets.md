@@ -24,6 +24,11 @@ Translate: <https://github.com/buckets/translations>
 Become a sponsor: <https://www.patreon.com/iffy>  
 Report the bug: <https://github.com/buckets/application/issues/new>  
 
-Download: x86_64: <https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-amd64-0.80.0.AppImage>
-arm64: <https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-arm64-0.80.0.AppImage>
-
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-amd64-0.80.0.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/buckets/application/releases/download/v0.80.0/Buckets-linux-latest-arm64-0.80.0.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}

@@ -21,5 +21,12 @@ Source code: <https://codeberg.org/librewolf/source>
 
 Translate: <https://translate.codeberg.org/engage/librewolf>
 Report the bug: <https://codeberg.org/librewolf/issues>  
-Download:   x86_64: <https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/147.0-1/LibreWolf.x86_64.AppImage>  
-            arm64: <https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/147.0-1/LibreWolf.aarch64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/147.0-1/LibreWolf.x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/147.0-1/LibreWolf.aarch64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

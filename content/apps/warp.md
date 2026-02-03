@@ -18,5 +18,12 @@ License: EULA
 Web page: <https://www.warp.dev>
 
 Report the bug: <https://github.com/warpdotdev/Warp/issues>  
-Download:   x86_64: <https://releases.warp.dev/stable/v0.2025.12.17.17.17.stable_02/Warp-x86_64.AppImage>
-            arm64: <https://releases.warp.dev/stable/v0.2025.12.17.17.17.stable_02/Warp-aarch64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://releases.warp.dev/stable/v0.2025.12.17.17.17.stable_02/Warp-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://releases.warp.dev/stable/v0.2025.12.17.17.17.stable_02/Warp-aarch64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

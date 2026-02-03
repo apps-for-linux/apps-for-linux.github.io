@@ -20,5 +20,11 @@ License: EULA
 
 Web: <https://www.beeper.com/>
 
-Download: x86_64: <https://api.beeper.com/desktop/download/linux/x64/stable/com.automattic.beeper.desktop>
-        arm64: <https://api.beeper.com/desktop/download/linux/arm64/stable/com.automattic.beeper.desktop>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://api.beeper.com/desktop/download/linux/x64/stable/com.automattic.beeper.desktop>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://api.beeper.com/desktop/download/linux/arm64/stable/com.automattic.beeper.desktop>  
+    {{< /tab >}}
+{{< /tabs >}}

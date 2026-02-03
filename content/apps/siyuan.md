@@ -27,5 +27,12 @@ Source code: <https://github.com/siyuan-note/siyuan>
 Become a sponsor: <https://ld246.com/sponsor>  
 Translate: <https://github.com/siyuan-note/siyuan/tree/master/app/appearance/langs>  
 Report the bug: <https://github.com/siyuan-note/siyuan/issues/new>  
-Download:   x86_64: <https://github.com/siyuan-note/siyuan/releases/download/v3.5.1/siyuan-3.5.1-linux.AppImage>  
-            arm64: <https://github.com/siyuan-note/siyuan/releases/download/v3.5.1/siyuan-3.5.1-linux-arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/siyuan-note/siyuan/releases/download/v3.5.1/siyuan-3.5.1-linux.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/siyuan-note/siyuan/releases/download/v3.5.1/siyuan-3.5.1-linux-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

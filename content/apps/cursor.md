@@ -21,5 +21,11 @@ Web page: <https://www.cursor.com/>
 
 Report the bug: <https://forum.cursor.com/>  
 
-Download:   x86_64: <https://downloads.cursor.com/production/2ca326e0d1ce10956aea33d54c0e2d8c13c58a32/linux/x64/Cursor-2.3.41-x86_64.AppImage>  
-            arm64: <https://downloads.cursor.com/production/2ca326e0d1ce10956aea33d54c0e2d8c13c58a32/linux/arm64/Cursor-2.3.41-aarch64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://downloads.cursor.com/production/2ca326e0d1ce10956aea33d54c0e2d8c13c58a32/linux/x64/Cursor-2.3.41-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://downloads.cursor.com/production/2ca326e0d1ce10956aea33d54c0e2d8c13c58a32/linux/arm64/Cursor-2.3.41-aarch64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

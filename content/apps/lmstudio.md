@@ -21,5 +21,11 @@ Web page: <https://lmstudio.ai/>
 Report the bug: <https://github.com/lmstudio-ai/lmstudio-bug-tracker/issues>  
 Translate: <https://github.com/lmstudio-ai/localization> 
 
-Download: x86_64: <https://installers.lmstudio.ai/linux/x64/0.3.39-2/LM-Studio-0.3.39-2-x64.AppImage>  
-arm64: <https://installers.lmstudio.ai/linux/arm64/0.3.39-2/LM-Studio-0.3.39-2-arm64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://installers.lmstudio.ai/linux/x64/0.3.39-2/LM-Studio-0.3.39-2-x64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://installers.lmstudio.ai/linux/arm64/0.3.39-2/LM-Studio-0.3.39-2-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

@@ -24,5 +24,11 @@ Become a sponsor: <https://github.com/sponsors/cryptomator>
 Translate: <https://translate.cryptomator.org>
 Report the bug: <https://github.com/cryptomator/cryptomator/issues/new>  
 
-Download: x86_64: <https://github.com/cryptomator/cryptomator/releases/download/1.19.0-alpha2/cryptomator-1.19.0-alpha2-x86_64.AppImage>  
-          arm64: <https://github.com/cryptomator/cryptomator/releases/download/1.19.0-alpha2/cryptomator-1.19.0-alpha2-aarch64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/cryptomator/cryptomator/releases/download/1.19.0-alpha2/cryptomator-1.19.0-alpha2-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/cryptomator/cryptomator/releases/download/1.19.0-alpha2/cryptomator-1.19.0-alpha2-aarch64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

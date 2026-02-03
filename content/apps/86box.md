@@ -24,5 +24,13 @@ Source code: <https://github.com/86Box/86Box>
 
 Become a sponsor: <https://www.paypal.com/paypalme/86Box>  
 Report the bug: <https://github.com/86Box/86Box/issues/new>  
-Download:   x86_64: <https://github.com/86Box/86Box/releases/download/v5.3/86Box-Linux-x86_64-b8200.AppImage>  
-            arm64: <https://github.com/86Box/86Box/releases/download/v5.3/86Box-NDR-Linux-arm64-b8200.AppImage>  
+
+{{< tabs >}}
+
+    {{< tab label="Download x86_64" >}}
+ <https://github.com/86Box/86Box/releases/download/v5.3/86Box-Linux-x86_64-b8200.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/86Box/86Box/releases/download/v5.3/86Box-NDR-Linux-arm64-b8200.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}

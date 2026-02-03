@@ -24,5 +24,11 @@ Source code: <https://github.com/streetpea/chiaki-ng>
 Become a sponsor: <https://buymeacoffee.com/streetpea>  
 Report the bug: <https://github.com/streetpea/chiaki-ng/issues/new>  
 
-Download: x86_64: <https://github.com/streetpea/chiaki-ng/releases/latest/download/chiaki-ng.AppImage_x86_64>
-        arm64: <https://github.com/streetpea/chiaki-ng/releases/latest/download/chiaki-ng.AppImage_arm64> 
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/streetpea/chiaki-ng/releases/latest/download/chiaki-ng.AppImage_x86_64>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/streetpea/chiaki-ng/releases/latest/download/chiaki-ng.AppImage_arm64>  
+    {{< /tab >}}
+{{< /tabs >}}    

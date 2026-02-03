@@ -21,5 +21,11 @@ Source code: <https://github.com/martpie/museeks>
 
 Report the bug: <https://github.com/martpie/museeks/issues/new>  
 
-Download: x86_64: <https://github.com/martpie/museeks/releases/download/0.23.1/Museeks_0.23.1_amd64.AppImage>
-arm64: <https://github.com/martpie/museeks/releases/download/0.23.1/Museeks_0.23.1_aarch64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/martpie/museeks/releases/download/0.23.1/Museeks_0.23.1_amd64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/martpie/museeks/releases/download/0.23.1/Museeks_0.23.1_aarch64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

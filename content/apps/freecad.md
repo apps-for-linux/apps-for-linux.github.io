@@ -23,5 +23,12 @@ Source code: <https://github.com/FreeCAD/FreeCAD>
 Become a sponsor: <https://www.freecad.org/sponsor.php>  
 Translate: <https://crowdin.com/project/freecad>  
 Report the bug: <https://github.com/FreeCAD/FreeCAD/issues/new>  
-Download:   x86_64: <https://github.com/FreeCAD/FreeCAD/releases/download/1.1rc2/FreeCAD_1.1rc2-Linux-x86_64-py311.AppImage>  
-            arm64: <https://github.com/FreeCAD/FreeCAD/releases/download/1.1rc2/FreeCAD_1.1rc2-Linux-x86_64-py311.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/FreeCAD/FreeCAD/releases/download/1.1rc2/FreeCAD_1.1rc2-Linux-x86_64-py311.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/FreeCAD/FreeCAD/releases/download/1.1rc2/FreeCAD_1.1rc2-Linux-x86_64-py311.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

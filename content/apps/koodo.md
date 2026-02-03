@@ -24,5 +24,12 @@ Source code: <https://github.com/koodo-reader/koodo-reader>
 
 Translate: <https://github.com/koodo-reader/koodo-reader?tab=readme-ov-file#translation>  
 Report the bug: <https://github.com/koodo-reader/koodo-reader/issues/new>  
-Download:   x86_64: <https://github.com/koodo-reader/koodo-reader/releases/download/v2.2.5/Koodo-Reader-2.2.5-x86_64.AppImage>  
-            arm64: <https://github.com/koodo-reader/koodo-reader/releases/download/v2.2.5/Koodo-Reader-2.2.5-arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/koodo-reader/koodo-reader/releases/download/v2.2.5/Koodo-Reader-2.2.5-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/koodo-reader/koodo-reader/releases/download/v2.2.5/Koodo-Reader-2.2.5-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

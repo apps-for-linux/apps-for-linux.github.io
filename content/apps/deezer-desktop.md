@@ -24,6 +24,11 @@ Source code: <https://github.com/aunetx/deezer-linux>
 Become a sponsor: <https://github.com/sponsors/aunetx>  
 Report the bug: <https://github.com/aunetx/deezer-linux/issues/new>  
 
-Download:   x86_64: <https://github.com/aunetx/deezer-linux/releases/download/v7.1.40/deezer-desktop-7.1.40-x86_64.AppImage>
-            arm64: <https://github.com/aunetx/deezer-linux/releases/download/v7.1.40/deezer-desktop-7.1.40-arm64.AppImage>
-
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/aunetx/deezer-linux/releases/download/v7.1.40/deezer-desktop-7.1.40-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/aunetx/deezer-linux/releases/download/v7.1.40/deezer-desktop-7.1.40-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

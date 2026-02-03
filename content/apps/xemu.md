@@ -21,7 +21,18 @@ Source code: <https://github.com/xemu-project/xemu>
 
 Become a sponsor: <https://www.patreon.com/mborgerson>  
 Report the bug: <https://github.com/xemu-project/xemu/issues/new>  
-Download:   x86_64: <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-x86_64.AppImage>  
-            debug: <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-dbg-x86_64.AppImage>
-            arm64: <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-aarch64.AppImage>
-            arm64-debug: <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-dbg-aarch64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-aarch64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download x86_64-debug" >}}
+    <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-dbg-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64-debug" >}}
+    <https://github.com/xemu-project/xemu/releases/download/v0.8.132/xemu-0.8.132-dbg-aarch64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

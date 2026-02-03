@@ -19,5 +19,12 @@ License: MIT
 Source code: <https://github.com/TheAssassin/appimagecraft>
 
 Report the bug: <https://github.com/TheAssassin/appimagecraft/issues/new>  
-Download:   x86_64: <https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-x86_64.AppImage>  
-            arm64: <https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-aarch64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+ <https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-aarch64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}

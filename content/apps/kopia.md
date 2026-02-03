@@ -20,6 +20,15 @@ Web page: <https://kopia.io>
 Source code: <https://github.com/kopia/kopia>
 
 Report the bug: <https://github.com/kopia/kopia/issues/new>  
-Download:   x86_64: <https://github.com/kopia/kopia/releases/download/v0.22.3/KopiaUI-0.22.3.AppImage>  
-            arm64: <https://github.com/kopia/kopia/releases/download/v0.22.3/KopiaUI-0.22.3-arm64.AppImage>  
-            armv7l: <https://github.com/kopia/kopia/releases/download/v0.22.3/KopiaUI-0.22.3-armv7l.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/kopia/kopia/releases/download/v0.22.3/KopiaUI-0.22.3.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/kopia/kopia/releases/download/v0.22.3/KopiaUI-0.22.3-arm64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download armv7l" >}}
+    <https://github.com/kopia/kopia/releases/download/v0.22.3/KopiaUI-0.22.3-armv7l.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

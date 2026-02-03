@@ -21,5 +21,12 @@ Source code: <https://github.com/pulsar-edit/pulsar>
 Become a sponsor: <https://opencollective.com/pulsar-edit>  
 Translate: <https://crowdin.com/project/pulsar-edit>  
 Report the bug: <https://github.com/pulsar-edit/pulsar/issues/new>  
-Download:   x86_64: <https://github.com/pulsar-edit/pulsar/releases/download/v1.130.1/Linux.Pulsar-1.130.1.AppImage>  
-            arm64: <https://github.com/pulsar-edit/pulsar/releases/download/v1.130.1/ARM.Linux.Pulsar-1.130.1-arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/pulsar-edit/pulsar/releases/download/v1.130.1/Linux.Pulsar-1.130.1.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/pulsar-edit/pulsar/releases/download/v1.130.1/ARM.Linux.Pulsar-1.130.1-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

@@ -23,6 +23,11 @@ Source code: <https://github.com/gitbutlerapp/gitbutler>
 
 Report the bug: <https://github.com/gitbutlerapp/gitbutler/issues/new>  
 
-Download: x86_64: <https://releases.gitbutler.com/releases/release/0.18.5-2775/linux/x86_64/GitButler_0.18.5_amd64.AppImage.tar.gz>
-arm64: <https://releases.gitbutler.com/releases/release/0.18.5-2775/linux/aarch64/GitButler_0.18.5_aarch64.AppImage.tar.gz>
-
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://releases.gitbutler.com/releases/release/0.18.5-2775/linux/x86_64/GitButler_0.18.5_amd64.AppImage.tar.gz>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://releases.gitbutler.com/releases/release/0.18.5-2775/linux/aarch64/GitButler_0.18.5_aarch64.AppImage.tar.gz>  
+    {{< /tab >}}
+{{< /tabs >}}  

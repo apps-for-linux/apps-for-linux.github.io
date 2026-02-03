@@ -23,5 +23,11 @@ Source code: <https://github.com/RareDevs/Rare>
 Translate: <https://www.transifex.com/rare-1/rare>  
 Report the bug: <https://github.com/RareDevs/Rare/issues/new>  
 
-Download: x86_64: <https://github.com/RareDevs/Rare/releases/download/1.12.0.55/Rare-1.12.0.55-x86_64.AppImage>
-arm64: <https://github.com/RareDevs/Rare/releases/download/1.12.0.55/Rare-1.12.0.55-arm64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/RareDevs/Rare/releases/download/1.12.0.55/Rare-1.12.0.55-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/RareDevs/Rare/releases/download/1.12.0.55/Rare-1.12.0.55-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

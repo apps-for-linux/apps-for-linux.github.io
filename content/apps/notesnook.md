@@ -22,5 +22,12 @@ Source code: <https://github.com/streetwriters/notesnook>
 
 Become a sponsor: <https://opencollective.com/notesnook>  
 Report the bug: <https://github.com/streetwriters/notesnook/issues/new>  
-Download:   x86_64: <https://github.com/streetwriters/notesnook/releases/download/v3.3.8-beta.1/notesnook_linux_x86_64.AppImage>  
-            arm64:  <https://github.com/streetwriters/notesnook/releases/download/v3.3.8-beta.1/notesnook_linux_arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/streetwriters/notesnook/releases/download/v3.3.8-beta.1/notesnook_linux_x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/streetwriters/notesnook/releases/download/v3.3.8-beta.1/notesnook_linux_arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

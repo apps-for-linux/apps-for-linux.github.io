@@ -23,5 +23,12 @@ Source code: <https://github.com/4ian/GDevelop>
 
 Translate: <https://crowdin.com/project/gdevelop>  
 Report the bug: <https://github.com/4ian/GDevelop/issues/new>  
-Download:   x86_64: <https://github.com/4ian/GDevelop/releases/download/v5.6.252/GDevelop-5-5.6.252.AppImage>  
-            arm64: <https://github.com/4ian/GDevelop/releases/download/v5.6.252/GDevelop-5-5.6.252-arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/4ian/GDevelop/releases/download/v5.6.252/GDevelop-5-5.6.252.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/4ian/GDevelop/releases/download/v5.6.252/GDevelop-5-5.6.252-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

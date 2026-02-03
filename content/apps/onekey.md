@@ -21,5 +21,12 @@ Web page: <https://www.onekey.so>
 Source code: <https://github.com/OneKeyHQ/app-monorepo>
 
 Report the bug: <https://github.com/OneKeyHQ/app-monorepo/issues/new>  
-Download:   x86_64: <https://github.com/OneKeyHQ/app-monorepo/releases/download/v5.19.2/OneKey-Wallet-5.19.2-linux-x86_64.AppImage>  
-            arm64: <https://github.com/OneKeyHQ/app-monorepo/releases/download/v5.19.2/OneKey-Wallet-5.19.2-linux-arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/OneKeyHQ/app-monorepo/releases/download/v5.19.2/OneKey-Wallet-5.19.2-linux-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/OneKeyHQ/app-monorepo/releases/download/v5.19.2/OneKey-Wallet-5.19.2-linux-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

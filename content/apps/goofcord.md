@@ -24,6 +24,15 @@ Source code: <https://github.com/Milkshiift/GoofCord>
 Become a sponsor: <https://github.com/Milkshiift/GoofCord?tab=readme-ov-file#donations>  
 Translate: <https://hosted.weblate.org/engage/goofcord/>  
 Report the bug: <https://github.com/Milkshiift/GoofCord/issues/new>  
-Download: x86_64: <https://github.com/Milkshiift/GoofCord/releases/download/v2.0.1/GoofCord-2.0.1-linux-x86_64.AppImage>  
-          arm64: <https://github.com/Milkshiift/GoofCord/releases/download/v2.0.1/GoofCord-2.0.1-linux-arm64.AppImage>  
-          armv7l: <https://github.com/Milkshiift/GoofCord/releases/download/v2.0.1/GoofCord-2.0.1-linux-armv7l.AppImage>  
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/Milkshiift/GoofCord/releases/download/v2.0.1/GoofCord-2.0.1-linux-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/Milkshiift/GoofCord/releases/download/v2.0.1/GoofCord-2.0.1-linux-arm64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download armv7l" >}}
+    <https://github.com/Milkshiift/GoofCord/releases/download/v2.0.1/GoofCord-2.0.1-linux-armv7l.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

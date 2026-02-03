@@ -23,5 +23,11 @@ Source code: <https://github.com/dbgate/dbgate>
 Become a sponsor: <https://github.com/sponsors/dbgate>  
 Report the bug: <https://github.com/dbgate/dbgate/issues/new>  
 
-Download:   x86_64: <https://github.com/dbgate/dbgate/releases/download/v6.8.1/dbgate-6.8.1-linux_x86_64.AppImage>
-            arm64: <https://github.com/dbgate/dbgate/releases/download/v6.8.1/dbgate-6.8.1-linux_arm64.AppImage>
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/dbgate/dbgate/releases/download/v6.8.1/dbgate-6.8.1-linux_x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/dbgate/dbgate/releases/download/v6.8.1/dbgate-6.8.1-linux_arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  

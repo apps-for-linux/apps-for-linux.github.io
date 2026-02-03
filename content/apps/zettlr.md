@@ -25,5 +25,12 @@ Source code: <https://github.com/Zettlr/Zettlr>
 Become a sponsor: <https://github.com/sponsors/nathanlesage>  
 Translate: <https://github.com/Zettlr/Zettlr?tab=readme-ov-file#translating>  
 Report the bug: <https://github.com/Zettlr/Zettlr/issues/new>  
-Download:   x86_64: <https://github.com/Zettlr/Zettlr/releases/download/v4.1.0/Zettlr-4.1.0-x86_64.AppImage>  
-            arm64: <https://github.com/Zettlr/Zettlr/releases/download/v4.1.0/Zettlr-4.1.0-arm64.AppImage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/Zettlr/Zettlr/releases/download/v4.1.0/Zettlr-4.1.0-x86_64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download arm64" >}}
+    <https://github.com/Zettlr/Zettlr/releases/download/v4.1.0/Zettlr-4.1.0-arm64.AppImage>  
+    {{< /tab >}}
+{{< /tabs >}}  
