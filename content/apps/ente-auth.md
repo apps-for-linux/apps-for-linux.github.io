@@ -9,7 +9,9 @@ tags:
 - "Authentificator"
 - "Cross-platform software"
 - "Flutter"
-License: ["GPL-3.0"]
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
 draft: false
 ---
 
@@ -25,4 +27,4 @@ Source code: <https://github.com/ente-io/ente>
 Translate: <https://crowdin.com/project/ente-photos-web>
 Report the bug: <https://github.com/ente-io/ente/issues/new>  
 
-Download:   x86_64: <https://github.com/ente-io/ente/releases/download/auth-v4.4.15/ente-auth-v4.4.15-x86_64.AppImage>
+Download: <https://github.com/ente-io/ente/releases/download/auth-v4.4.15/ente-auth-v4.4.15-x86_64.AppImage>

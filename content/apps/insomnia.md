@@ -8,7 +8,9 @@ authors: ["Kong"]
 tags:
 - "API Testing"
 - "Electron"
-License: ["MIT"]
+architecture: 
+- "x86_64"
+license: ["MIT"]
 draft: false
 ---
 

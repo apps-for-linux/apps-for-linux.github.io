@@ -10,7 +10,7 @@ tags:
 - "Electron"
 architecture: 
 - "x86_64"
-License: ["LGPL-3.0"]
+license: ["LGPL-3.0"]
 draft: false
 ---
 

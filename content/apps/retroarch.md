@@ -8,7 +8,7 @@ authors: ["Florian Märkl"]
 tags:
 - Game Simulator
 - Retro Game Simulator
-license: "GPL-3.0"]
+license: ["GPL-3.0"]
 draft: false
 ---
 

@@ -10,7 +10,10 @@ tags:
 - "Cloud storage client"
 - "Cross-platform software"
 - "Flutter"
-License: ["GPL-3.0"]
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
 draft: false
 ---
 

@@ -8,7 +8,7 @@ authors: ["Błażej Szczygieł"]
 tags:
 - "Media player"
 - "Qt5"
-License: ["LGPL-3.0"]
+license: ["LGPL-3.0"]
 draft: false
 ---
 

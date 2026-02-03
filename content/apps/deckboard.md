@@ -10,7 +10,7 @@ tags:
 - "Streaming tools"
 architecture: 
 - "x86_64"
-License: ["AGPL-3.0"]
+license: ["AGPL-3.0"]
 draft: false
 ---
 

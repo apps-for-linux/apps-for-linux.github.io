@@ -11,13 +11,13 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-License: ["MIT"]
+license: ["MIT"]
 draft: false
 ---
 
 appimagecraft completely automates the AppImage build process
 
-License: ["MIT"]
+license: ["MIT"]
 draft
 Source code: <https://github.com/TheAssassin/appimagecraft>
 

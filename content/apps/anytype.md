@@ -9,7 +9,9 @@ tags:
 - "Knowledge base"
 - "Cross-platform software"
 - "Electron"
-License: ["Custom"]
+architecture: 
+- "x86_64"
+license: ["Custom"]
 draft: false
 ---
 

@@ -11,7 +11,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-License: ["MPL-2.0"]
+license: ["MPL-2.0"]
 draft: false
 ---
 

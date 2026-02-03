@@ -10,7 +10,9 @@ tags:
 - "Music streaming client"
 - "Cross-platform software"
 - "Electron"
-License: ["MIT"]
+architecture: 
+- "x86_64"
+license: ["MIT"]
 draft: false
 ---
 
@@ -19,7 +21,7 @@ draft: false
 
 The web version of TIDAL running in electron with Hi-Fi (High & Max) support thanks to widevine.
 
-License: ["MIT"]
+license: ["MIT"]
 draft
 Source code: <https://github.com/Mastermindzh/tidal-hifi>
 

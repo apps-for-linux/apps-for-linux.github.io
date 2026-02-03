@@ -9,7 +9,7 @@ tags:
 - "Audio editor"
 - "DAW"
 - "wxWidgets"
-License: ["GPL-2.0"]
+license: ["GPL-2.0"]
 draft: false
 ---
 

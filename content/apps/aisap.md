@@ -8,13 +8,15 @@ authors: ["mgord9518"]
 tags:
  - "Sandbox"
  - "AppImage"
-License: ["MIT"]
+architecture: 
+- "x86_64"
+license: ["MIT"]
 draft: false
 ---
 
 Tool to make sandboxing AppImages easy
 
-License: ["MIT"]
+license: ["MIT"]
 draft
 Source code: <https://github.com/mgord9518/aisap>
 

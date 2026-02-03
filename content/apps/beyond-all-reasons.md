@@ -7,7 +7,7 @@ categories: ["Games"]
 authors: ["Beyond-All-Reason Team"]
 tags:
 - "Game"
-License: ["GPL-2.0"]
+license: ["GPL-2.0"]
 architecture: 
 - "x86_64"
 draft: false

@@ -9,7 +9,9 @@ tags:
 - "Sending files"
 - "Flutter"
 - "Cross-platform software"
-License: ["MIT"]
+architecture: 
+- "x86_64"
+license: ["MIT"]
 draft: false
 ---
 

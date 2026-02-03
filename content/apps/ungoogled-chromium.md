@@ -11,7 +11,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-License: ["BSD-3-Clause"]
+license: ["BSD-3-Clause"]
 draft: false
 ---
 

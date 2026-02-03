@@ -7,7 +7,9 @@ categories: ["Science"]
 authors: ["Elsevier"]
 tags:
 - "Reference manager"
-License: ["EULA"]
+architecture: 
+- "x86_64"
+license: ["EULA"]
 draft: false
 ---
 

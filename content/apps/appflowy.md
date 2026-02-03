@@ -9,7 +9,9 @@ tags:
 - "Knowledge Base"
 - "Cross-platform software"
 - "Flutter"
-License: ["AGPL-3.0"]
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
 draft: false
 ---
 

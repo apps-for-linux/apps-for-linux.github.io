@@ -8,7 +8,10 @@ authors: ["GAMS Development"]
 tags:
 - "Algebra"
 - "Mathematical models"
-- "Qt6"]
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
 draft: false
 ---
 

@@ -8,7 +8,7 @@ authors: ["DavidoTek"]
 tags:
 - "Wine version manager"
 - "Qt6"
-License: ["GPL-3.0"]
+license: ["GPL-3.0"]
 draft: false
 ---
 

@@ -11,7 +11,8 @@ tags:
 - "Electron"
 architecture: 
 - "x86_64"
-License: ["GPL-3.0"]
+- "arm64"
+license: ["GPL-3.0"]
 draft: false
 ---
 

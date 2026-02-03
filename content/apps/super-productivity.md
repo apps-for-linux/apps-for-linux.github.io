@@ -8,7 +8,10 @@ authors: ["Johannes Millan"]
 tags:
 - "To-do"
 - "Cross-platform software"
-- "Electron"]
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["MIT"]
 draft: false
 ---
 

@@ -8,7 +8,8 @@ authors: ["Tiled Authors"]
 tags: 
 - "Map Editor"
 - "Qt5"
-License: ["GPL-2.0"]
+EPL-2.0
+license: ["GPL-2.0"]
 draft: false
 ---
 

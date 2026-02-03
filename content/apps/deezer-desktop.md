@@ -12,7 +12,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-License: ["MIT"]
+license: ["MIT"]
 draft: false
 ---
 
@@ -20,7 +20,7 @@ draft: false
 
 An universal linux port of deezer
 
-License: ["MIT"]
+license: ["MIT"]
 draft
 Source code: <https://github.com/aunetx/deezer-linux>
 

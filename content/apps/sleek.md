@@ -11,7 +11,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-License: ["MIT"]
+license: ["MIT"]
 draft: false
 ---
 
@@ -19,8 +19,7 @@ draft: false
 
 Open-source (FOSS) todo manager based on the todo.txt syntax
 
-License: ["MIT"]
-draft
+License: MIT
 Source code: <https://github.com/ransome1/sleek>
 
 Become a sponsor: <https://github.com/sponsors/ransome1>  

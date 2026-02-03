@@ -8,7 +8,9 @@ authors: ["Mochi Cards"]
 tags:
 - "Notes"
 - "Cross-platform software"
-License: ["EULA"]
+architecture: 
+- "x86_64"
+license: ["EULA"]
 draft: false
 ---
 

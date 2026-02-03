@@ -8,7 +8,7 @@ authors: ["Wavebox"]
 tags:
 - "Web apps"
 - "Browser"
-License: ["EULA"]
+license: ["EULA"]
 draft: false
 ---
 

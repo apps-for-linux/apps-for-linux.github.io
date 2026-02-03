@@ -9,7 +9,9 @@ tags:
 - "Notes"
 - "To-do"
 - "Cross-platform software"
-License: ["EULA"]
+architecture: 
+- "x86_64"
+license: ["EULA"]
 draft: false
 ---
 

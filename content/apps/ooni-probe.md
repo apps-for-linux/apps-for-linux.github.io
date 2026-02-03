@@ -8,7 +8,9 @@ authors: ["Open Observatory of Network Interference (OONI)"]
 tags:
 - "Censorship-resistance software"
 - "Electron"
-License: ["BSD-3-Clause"]
+architecture: 
+- "x86_64"
+license: ["BSD-3-Clause"]
 draft: false
 ---
 

@@ -10,7 +10,9 @@ tags:
 - "Conference calling"
 - "Cross-platform software"
 - "Qt6"
-License: ["GPL-3.0"]
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
 draft: false
 ---
 

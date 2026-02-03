@@ -11,7 +11,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-License: ["FSL-1.0-MIT"]
+license: ["FSL-1.0-MIT"]
 draft: false
 ---
 

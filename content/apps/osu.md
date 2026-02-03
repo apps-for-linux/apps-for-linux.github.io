@@ -7,7 +7,7 @@ categories: ["Games"]
 authors: ["Dean Herbert"]
 tags:
 - "OSS Game"
-License: ["MIT"]
+license: ["MIT"]
 draft: false
 ---
 

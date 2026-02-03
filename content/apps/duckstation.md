@@ -13,7 +13,7 @@ architecture:
 - "x86_64"
 - "arm64"
 - "armv7l"
-License: ["GPL-3.0"]
+license: ["GPL-3.0"]
 draft: false
 ---
 

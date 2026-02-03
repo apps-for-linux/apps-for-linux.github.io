@@ -9,7 +9,9 @@ tags:
 - "Knowledge base"
 - "Electron"
 - "Cross-platform software"
-License: ["AGPL-3.0"]
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
 draft: false
 ---
 

@@ -6,7 +6,11 @@ pubDate: 2026-01-18T01:53:00Z
 categories: ["Games"]
 authors: ["LizardByte"]
 tags:
-- "Streaming software"]
+- "Streaming software"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
 draft: false
 ---
 

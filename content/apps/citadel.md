@@ -10,13 +10,13 @@ tags:
 - "Tauri"
 architecture: 
 - "x86_64"
-License: ["MIT"]
+license: ["MIT"]
 draft: false
 ---
 
 Manage your ebook library without frustrations. Calibre compatible.
 
-License: ["MIT"]
+license: ["MIT"]
 draft
 Source code: <https://github.com/every-day-things/citadel>
 

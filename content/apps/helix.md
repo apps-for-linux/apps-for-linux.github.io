@@ -8,7 +8,9 @@ authors: ["Blaž Hrastnik"]
 tags:
 - "Code editor"
 - "TUI"
-License: ["MPL-2.0"]
+architecture: 
+- "x86_64"
+license: ["MPL-2.0"]
 draft: false
 ---
 

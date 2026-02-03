@@ -13,7 +13,7 @@ architecture:
 - "arm64"
 - "armv7l"
 - "riscv64"
-License: ["BSD-3-Clause"]
+license: ["BSD-3-Clause"]
 draft: false
 ---
 

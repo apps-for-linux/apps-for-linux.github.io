@@ -13,13 +13,13 @@ architecture:
 - "x86_64"
 - "arm64"
 - "armv7l"
-License: ["MIT"]
+license: ["MIT"]
 draft: false
 ---
 
 A Discord and SpaceBar Electron-based client implemented without Discord API.
 
-License: ["MIT"]
+license: ["MIT"]
 draft
 Source code: <https://github.com/SpacingBat3/WebCord>
 

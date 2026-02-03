@@ -8,7 +8,9 @@ authors: ["Stellarium contributors"]
 tags:
 - "Planetarium"
 - "Qt6"
-License: ["GPL-2.0"]
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
 draft: false
 ---
 

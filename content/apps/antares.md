@@ -12,7 +12,7 @@ architecture:
 - "x86_64"
 - "arm64"
 - "armv7l"
-License: ["MIT"]
+license: ["MIT"]
 draft: false
 ---
 

@@ -2,11 +2,12 @@
 title: "GDLauncher"
 description: |
  "GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience"
-pubDate: 2025-01-23T11:01:00Z
+pubDate: 2025-01-12T12:28:00Z
 categories: ["Games"]
 authors: ["Gorilla Devs"]
 tags:
-- "Minecraft Launcher"]
+- "Minecraft Launcher"
+License: ["BUSL-1.1"]
 draft: false
 ---
 
@@ -14,8 +15,11 @@ draft: false
 
 GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 
-License: EULA
+License: BUSL-1.1
 
 Web page: <https://gdlauncher.com>
+Source code: <https://github.com/gorilla-devs/GDLauncher-Carbon>
 
-Download: <https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.27__linux__x64.AppImage>
+Report the bug: <https://github.com/gorilla-devs/GDLauncher-Carbon/issues/new>
+
+Download: <https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.28__linux__x64.AppImage>

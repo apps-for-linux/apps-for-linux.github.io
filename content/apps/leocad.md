@@ -8,7 +8,9 @@ authors: ["Leonardo Zide"]
 tags:
 - "CAD"
 - "Qt5"
-License: ["GPL-2.0"]
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
 draft: false
 ---
 

@@ -8,7 +8,10 @@ authors: ["Black Tree Gaming Ltd"]
 tags:
 - "Gaming tool"
 - "Mod marketplace"
-- "Avalonia"]
+- "Avalonia"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
 draft: false
 ---
 

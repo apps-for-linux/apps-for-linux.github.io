@@ -9,7 +9,9 @@ tags:
 - "Gaming tool"
 - "Mod marketplace"
 - "Tauri"
-License: ["GPL-3.0"]
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
 draft: false
 ---
 

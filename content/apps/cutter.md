@@ -10,7 +10,7 @@ tags:
 - "Qt6"
 architecture: 
 - "x86_64"
-License: ["GPL-3.0"]
+license: ["GPL-3.0"]
 draft: false
 ---
 

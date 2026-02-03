@@ -12,7 +12,7 @@ architecture:
 - "x86_64"
 - "arm64"
 - "armv7l"
-License: ["AGPL-3.0"]
+license: ["AGPL-3.0"]
 draft: false
 ---
 

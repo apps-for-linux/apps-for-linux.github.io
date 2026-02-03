@@ -7,7 +7,7 @@ categories: ["Productivity"]
 authors: ["Axonic"]
 tags:
 - "Project Management"
-License: ["EULA"]
+license: ["EULA"]
 draft: false
 ---
 

@@ -8,7 +8,11 @@ authors: ["The RawTherapee Team"]
 tags:
 - "RAW processing"
 - "Image editor"
-- "GTK+3"]
+- "GTK+3"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
 draft: false
 ---
 

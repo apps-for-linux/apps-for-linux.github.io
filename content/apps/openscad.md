@@ -9,7 +9,7 @@ tags:
 - "3D"
 - "CAD"
 - "Qt5"
-License: ["GPL-3.0"]
+license: ["GPL-3.0"]
 draft: false
 ---
 

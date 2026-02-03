@@ -11,7 +11,7 @@ tags:
 - "Electron"
 architecture: 
 - "x86_64"
-License: ["MIT"]
+license: ["MIT"]
 draft: false
 ---
 

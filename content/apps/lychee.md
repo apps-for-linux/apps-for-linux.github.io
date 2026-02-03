@@ -8,7 +8,9 @@ authors: ["Mango 3D"]
 tags:
 - "3D"
 - "Slicing software"
-License: ["EULA"]
+architecture: 
+- "x86_64"
+license: ["EULA"]
 draft: false
 ---
 

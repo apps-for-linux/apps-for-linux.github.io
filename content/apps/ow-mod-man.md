@@ -7,7 +7,7 @@ categories: ["Games"]
 authors: ["Outer Wilds Mods"]
 tags: 
 - "Game Mods"
-License: ["GPL-3.0"]
+license: ["GPL-3.0"]
 draft: false
 ---
 

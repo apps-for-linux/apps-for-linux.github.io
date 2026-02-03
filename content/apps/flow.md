@@ -7,7 +7,12 @@ categories: ["Productivity"]
 authors: ["LinwoodDev"]
 tags:
 - "Time management"
-- "Flutter"]
+- "Cross-platform software"
+- "Flutter"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["AGPL-3.0"]
 draft: false
 ---
 

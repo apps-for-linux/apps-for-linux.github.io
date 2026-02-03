@@ -8,7 +8,7 @@ authors: ["vifm Authors"]
 tags:
 - "File Manager"
 - "ncurses"
-License: ["GPL-2.0"]
+license: ["GPL-2.0"]
 draft: false
 ---
 

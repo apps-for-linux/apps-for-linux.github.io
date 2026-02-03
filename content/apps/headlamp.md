@@ -13,7 +13,7 @@ architecture:
 - "x86_64"
 - "arm64"
 - "armv7l"
-License: ["Apache-2.0"]
+license: ["Apache-2.0"]
 draft: false
 ---
 
