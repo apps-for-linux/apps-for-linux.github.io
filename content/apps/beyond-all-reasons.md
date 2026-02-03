@@ -6,10 +6,10 @@ pubDate: 2024-03-02T20:40:00Z
 categories: ["Games"]
 authors: ["Beyond-All-Reason Team"]
 tags:
-- "Game"
-license: ["GPL-2.0"]
+- "OSS Game"
 architecture: 
 - "x86_64"
+license: ["GPL-2.0"]
 draft: false
 ---
 

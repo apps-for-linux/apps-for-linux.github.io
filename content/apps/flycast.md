@@ -7,7 +7,10 @@ categories: ["Games"]
 authors: ["Flyinghead"]
 tags:
 - "Sega Emulator"
-- "Console Emulator"]
+- "Console Emulator"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
 draft: false
 ---
 

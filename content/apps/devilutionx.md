@@ -6,7 +6,9 @@ pubDate: 2025-10-30T20:00:00Z
 categories: ["Games"]
 authors: ["diasurgical"]
 tags:
-- Games
+- OSS Game
+architecture: 
+- "x86_64"
 license: "Custom"
 draft: false
 ---
@@ -22,5 +24,4 @@ Source code: <https://github.com/diasurgical/devilutionX>
 Translate: <https://github.com/diasurgical/devilutionX/wiki/Translation-Guide>  
 Report the bug: <https://github.com/diasurgical/devilutionX/issues/new>  
 
-Download: x86_64:
-<https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-linux-x86_64.appimage>
+Download: <https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-linux-x86_64.appimage>

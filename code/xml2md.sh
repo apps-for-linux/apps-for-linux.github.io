@@ -38,5 +38,5 @@ Translate: <$translate>
 
 Report the bug: <$bugtracker>
 
-Download: x86_64: <https://>" >> ~/apps-for-linux.github.io/content/apps/$title.md
+Download:  <https://>" >> ~/apps-for-linux.github.io/content/apps/$title.md
 

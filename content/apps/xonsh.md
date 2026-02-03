@@ -6,7 +6,10 @@ pubDate: 2026-01-14T08:06:00Z
 categories: ["System"]
 authors: ["the xonsh developers"]
 tags:
-- "Shell language"]
+- "Shell language"
+architecture: 
+- "x86_64"
+license: ["BSD-2-Clause"]
 draft: false
 ---
 

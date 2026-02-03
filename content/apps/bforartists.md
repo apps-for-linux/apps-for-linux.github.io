@@ -7,9 +7,9 @@ categories: ["Graphics"]
 authors: ["Reiner Prokein"]
 tags:
 - "3D"
-license: ["GPL-2.0"]
 architecture: 
 - "x86_64"
+license: ["GPL-2.0"]
 draft: false
 ---
 

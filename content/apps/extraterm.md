@@ -6,7 +6,10 @@ pubDate: 2025-07-02T19:15:00Z
 categories: ["System"]
 authors: ["Simon Edwards"]
 tags:
-- "Terminal"]
+- "Terminal"
+architecture: 
+- "x86_64"
+license: ["MIT"]
 draft: false
 ---
 

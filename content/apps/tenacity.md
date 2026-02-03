@@ -9,6 +9,8 @@ tags:
 - "Audio editor"
 - "DAW"
 - "wxWidgets"
+architecture: 
+- "x86_64"
 license: ["GPL-2.0"]
 draft: false
 ---
