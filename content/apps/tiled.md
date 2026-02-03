@@ -8,7 +8,8 @@ authors: ["Tiled Authors"]
 tags: 
 - "Map Editor"
 - "Qt5"
-EPL-2.0
+architecture: 
+- "x86_64"
 license: ["GPL-2.0"]
 draft: false
 ---
@@ -25,4 +26,4 @@ Source code: <https://github.com/mapeditor/tiled/>
 
 Become a sponsor: <https://github.com/bjorn>  
 Report the bug: <https://github.com/mapeditor/tiled//issues/new>  
-Download:   x86_64: <https://github.com/mapeditor/tiled/releases/download/v1.11.2/Tiled-1.11.2_Linux_Qt-6_x86_64.AppImage>
+Download: <https://github.com/mapeditor/tiled/releases/download/v1.11.2/Tiled-1.11.2_Linux_Qt-6_x86_64.AppImage>

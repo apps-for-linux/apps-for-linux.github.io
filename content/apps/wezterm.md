@@ -6,7 +6,10 @@ pubDate: 2024-02-03T21:32:00Z
 categories: ["System"]
 authors: ["Wez Furlong"]
 tags:
-- "Terminal"]
+- "Terminal"
+architecture: 
+- "x86_64"
+license: ["MIT"]
 draft: false
 ---
 

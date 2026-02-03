@@ -8,6 +8,8 @@ authors: ["Florian Märkl"]
 tags:
 - Game Simulator
 - Retro Game Simulator
+architecture: 
+- "x86_64"
 license: ["GPL-3.0"]
 draft: false
 ---

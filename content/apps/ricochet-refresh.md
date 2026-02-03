@@ -9,6 +9,9 @@ tags:
 - "Messenger"
 - "Censorship-resistance software"
 - "Qt5"
+architecture: 
+- "x86_64"
+- "arm64"
 license: ["GPL-3.0"]
 draft: false
 ---
@@ -21,5 +24,12 @@ Web page: <https://www.ricochetrefresh.net>
 Source code: <https://github.com/blueprint-freespeech/ricochet-refresh>
 
 Report the bug: <https://github.com/blueprint-freespeech/ricochet-refresh/issues/new>  
-Download:   x86_64: <https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.39-release/ricochet-refresh-3.0.39-x86_64.appimage>  
-            x86: <https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.39-release/ricochet-refresh-3.0.39-i386.appimage>
+
+{{< tabs >}}
+    {{< tab label="Download x86_64" >}}
+    <https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.39-release/ricochet-refresh-3.0.39-x86_64.appimage>  
+    {{< /tab >}}
+    {{< tab label="Download x86" >}}
+    <https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.39-release/ricochet-refresh-3.0.39-i386.appimage>  
+    {{< /tab >}}
+{{< /tabs >}}  

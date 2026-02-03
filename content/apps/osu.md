@@ -7,6 +7,8 @@ categories: ["Games"]
 authors: ["Dean Herbert"]
 tags:
 - "OSS Game"
+architecture: 
+- "x86_64"
 license: ["MIT"]
 draft: false
 ---

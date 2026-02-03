@@ -8,6 +8,8 @@ authors: ["Wavebox"]
 tags:
 - "Web apps"
 - "Browser"
+architecture: 
+- "x86_64"
 license: ["EULA"]
 draft: false
 ---

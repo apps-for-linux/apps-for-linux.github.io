@@ -7,6 +7,8 @@ categories: ["Productivity"]
 authors: ["Axonic"]
 tags:
 - "Project Management"
+architecture: 
+- "x86_64"
 license: ["EULA"]
 draft: false
 ---

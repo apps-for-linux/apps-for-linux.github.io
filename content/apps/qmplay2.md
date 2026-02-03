@@ -8,6 +8,8 @@ authors: ["Błażej Szczygieł"]
 tags:
 - "Media player"
 - "Qt5"
+architecture: 
+- "x86_64"
 license: ["LGPL-3.0"]
 draft: false
 ---

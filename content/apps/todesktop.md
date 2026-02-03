@@ -5,7 +5,10 @@ pubDate: 2025-12-11T00:00:00Z
 categories: ["Network"]
 authors: ["ToDesktop"]
 tags:
-- "Web apps management"]
+- "Web apps management"
+architecture: 
+- "x86_64"
+license: ["EULA"]
 draft: false
 ---
 
