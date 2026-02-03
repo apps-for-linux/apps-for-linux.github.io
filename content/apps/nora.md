@@ -7,7 +7,10 @@ categories: ["AudioVideo"]
 authors: ["Sandakan Nipunajith"]
 tags:
 - "Offline music player"
-- "Electron"]
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["MIT"]
 draft: false
 ---
 

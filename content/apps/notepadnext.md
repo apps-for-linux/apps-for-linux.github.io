@@ -7,7 +7,10 @@ categories: ["Development"]
 authors: ["Justin Dailey"]
 tags:
 - "Code editor"
-- "Qt6"]
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
 draft: false
 ---
 
