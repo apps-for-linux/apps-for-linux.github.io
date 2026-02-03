@@ -10,6 +10,9 @@ tags:
 - "Handwriting"
 - "Cross-platform software"
 - "Flutter"
+architecture: 
+- "x86_64"
+- "arm64"
 License: AGPL-3.0
 draft: false
 ---

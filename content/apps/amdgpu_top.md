@@ -9,6 +9,9 @@ tags:
 - "Resource Monitor"
 - "GPU"
 - "TUI"
+architecture: 
+- "x86_64"
+- "arm64"
 License: MIT  
 draft: false
 ---

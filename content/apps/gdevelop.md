@@ -8,6 +8,9 @@ authors: ["Florian Rival"]
 tags:
 - "Game development"
 - "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
 license: "MIT"
 draft: false
 ---

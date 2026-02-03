@@ -8,6 +8,9 @@ authors: ["Francesco Mondello"]
 tags:
 - "Image converter"
 - "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
 license: "GPL-3.0"
 draft: false
 ---

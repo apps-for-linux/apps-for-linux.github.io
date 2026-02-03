@@ -9,6 +9,10 @@ tags:
 - "Console emulator"
 - "PlayStation Emulator"
 - "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
 license: "GPL-3.0"
 draft: false
 ---

@@ -9,6 +9,10 @@ tags:
 - "Server Management"
 - "Kubernetes"
 - "Java"
+architecture: 
+- "x86_64"
+- "arm64"
+License: Apache-2.0
 draft: false
 ---
 

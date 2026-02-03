@@ -8,6 +8,10 @@ authors: ["the Cartero authors"]
 tags:
 - "API Testing"
 - "GTK4"
+architecture: 
+- "x86_64"
+- "arm64"
+license: "GPL-3.0"
 draft: false
 ---
 

@@ -8,6 +8,9 @@ authors: ["Iliyas Jorio"]
 tags:
 - "Git client"
 - "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
 License: GPL-3.0
 draft: false
 ---

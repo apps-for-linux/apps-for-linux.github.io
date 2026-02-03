@@ -8,6 +8,9 @@ authors: ["The Tumultuous Unicorn Of Darkness"]
 tags:
 - "System Monitor"
 - "GTK+3"
+architecture: 
+- "x86_64"
+- "arm64"
 draft: false
 ---
 

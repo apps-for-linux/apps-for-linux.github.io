@@ -9,6 +9,9 @@ tags:
 - "VPN Client"
 - "Censorship-resistance software"
 - "Tauri"
+architecture: 
+- "x86_64"
+- "arm64"
 License: Apache 2.0
 draft: false
 ---

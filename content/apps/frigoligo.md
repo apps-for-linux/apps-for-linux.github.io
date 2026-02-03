@@ -8,6 +8,10 @@ authors: ["Martin Chaine"]
 tags:
 - "Bookmark manager"
 - "Flutter"
+architecture: 
+- "x86_64"
+- "arm64"
+License: MIT
 draft: false
 ---
 

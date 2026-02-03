@@ -8,6 +8,9 @@ authors: ["Fabio Di Stasio"]
 tags:
 - "SQL"
 - "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
 license: "MIT"
 draft: false
 ---

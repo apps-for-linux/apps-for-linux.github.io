@@ -9,6 +9,9 @@ tags:
 - "API Testing"
 - "IDE"
 - "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
 license: "MIT"
 draft: false
 ---

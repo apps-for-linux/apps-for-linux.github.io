@@ -8,6 +8,9 @@ authors: ["Zen Browser Team"]
 tags:
 - "Browser"
 - "Firefox-based"
+architecture: 
+- "x86_64"
+- "arm64"
 License: MPL-2.0
 draft: false
 ---

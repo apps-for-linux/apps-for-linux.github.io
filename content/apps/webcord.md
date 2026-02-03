@@ -9,6 +9,10 @@ tags:
 - "Messenger"
 - "Discord client"
 - "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
 license: "MIT"
 draft: false
 ---

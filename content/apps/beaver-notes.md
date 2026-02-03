@@ -9,6 +9,9 @@ tags:
 - "Notes"
 - "Cross-platform software"
 - "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
 License: MIT
 draft: false
 ---

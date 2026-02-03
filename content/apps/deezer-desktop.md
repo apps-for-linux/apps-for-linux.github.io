@@ -9,6 +9,9 @@ tags:
 - "Music streaming client"
 - "Cross-platform software"
 - "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
 license: "MIT"
 draft: false
 ---

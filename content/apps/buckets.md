@@ -9,6 +9,9 @@ tags:
 - "Budget software"
 - "Cross-platform software"
 - "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
 draft: false
 ---
 

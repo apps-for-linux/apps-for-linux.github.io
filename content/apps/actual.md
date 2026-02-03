@@ -7,6 +7,9 @@ categories: ["Finance"]
 authors: ["James Long"]
 tags:
 - "Budget software"
+architecture: 
+- "x86_64"
+- "arm64"
 license: "MIT"
 draft: false
 ---

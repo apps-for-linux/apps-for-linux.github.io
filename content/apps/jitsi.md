@@ -9,6 +9,10 @@ tags:
 - "Conference calling"
 - "Cross-platform software"
 - "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+License: "Apache-2.0"
 draft: false
 ---
 
