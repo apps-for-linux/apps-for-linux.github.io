@@ -30,6 +30,6 @@ Report the bug: <https://github.com/jorio/gitfourchette/issues/new>
     <https://github.com/jorio/gitfourchette/releases/download/v1.6.0/GitFourchette-1.6.0-x86_64.AppImage>  
     {{< /tab >}}
     {{< tab label="Download arm64" >}}
-    <https://github.com/jorio/gitfourchette/releases/download/v1.6.0/GitFourchette-1.6.0-x86_64.AppImage>  
+    <https://github.com/jorio/gitfourchette/releases/download/v1.6.0/GitFourchette-1.6.0-aarch64.AppImage>  
     {{< /tab >}}
 {{< /tabs >}}  
