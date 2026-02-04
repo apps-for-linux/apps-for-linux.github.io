@@ -8,7 +8,7 @@ authors: ["RustDesk"]
 tags:
 - "Remote control"
 - "Flutter"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["AGPL-3.0"]

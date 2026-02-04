@@ -8,7 +8,7 @@ authors: ["TheAssassin"]
 tags:
 - "AppImage"
 - "TUI"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["MIT"]

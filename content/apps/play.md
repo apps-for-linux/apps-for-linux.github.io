@@ -9,7 +9,7 @@ tags:
 - "PlayStation Emulator"
 - "Console Emulator"
 - "Qt6"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["BSD-2-Clause"]
 draft: false

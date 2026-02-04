@@ -7,7 +7,7 @@ categories: ["Games"]
 authors: ["LizardByte"]
 tags:
 - "Streaming software"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["GPL-3.0"]

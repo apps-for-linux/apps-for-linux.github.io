@@ -8,7 +8,7 @@ authors: ["KOReader Community"]
 tags:
 - "eBook reader"
 - "Lua"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["AGPL-3.0"]

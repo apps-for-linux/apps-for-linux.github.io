@@ -8,7 +8,7 @@ authors: ["Lite XL Team"]
 tags:
 - "Code editor"
 - "SDL3"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["MIT"]
 draft: false

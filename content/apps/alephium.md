@@ -8,7 +8,7 @@ authors: ["Alephium Team"]
 tags:
 - "Cryptocurrency"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["LGPL-3.0"]
 draft: false

@@ -8,7 +8,7 @@ authors: ["EMQX Team"]
 tags: 
 - "API Testing"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["Apache-2.0"]

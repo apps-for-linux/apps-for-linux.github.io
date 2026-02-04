@@ -8,7 +8,7 @@ authors: ["WerWolv"]
 tags:
 - "Hex editor"
 - "GTK+3"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["GPL-2.0"]

@@ -9,7 +9,7 @@ tags:
 - "Time management"
 - "Digital Wellbeing"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-2.0"]
 draft: false

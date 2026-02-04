@@ -8,7 +8,7 @@ authors: ["OPENGIS.ch"]
 tags:
 - "Geodata"
 - "Qt6"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-2.0"]
 draft: false

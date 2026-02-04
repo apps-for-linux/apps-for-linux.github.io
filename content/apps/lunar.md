@@ -8,7 +8,7 @@ authors: ["Moonsworth"]
 tags:
 - "Game launcher"
 - "Minecraft launcher"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
 draft: false

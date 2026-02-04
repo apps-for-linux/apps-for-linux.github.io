@@ -10,7 +10,7 @@ tags:
 - "Matrix"
 - "Cross-platform software"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["Apache-2.0"]
 draft: false

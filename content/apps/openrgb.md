@@ -9,7 +9,7 @@ tags:
 - "Hardware controller"
 - "RGB lighting control"
 - "Qt5"
-architecture: 
+architectures: 
 - "x86_64"
 - "x86"
 - "arm64"

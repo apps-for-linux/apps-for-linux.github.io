@@ -8,7 +8,7 @@ authors: ["Giuseppe Penone"]
 tags:
 - "Notes"
 - "GTK+3"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
 draft: false

@@ -9,7 +9,7 @@ tags:
 - "2D"
 - "Vector graphics editor"
 - "Qt5"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
 draft: false

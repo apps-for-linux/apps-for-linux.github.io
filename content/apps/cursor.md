@@ -9,7 +9,7 @@ tags:
 - "AI-powered software"
 - "Code editor"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["EULA"]

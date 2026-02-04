@@ -10,7 +10,7 @@ tags:
 - "AI-powered software"
 - "Cross-platform software"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["AGPL-3.0"]

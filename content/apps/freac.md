@@ -8,7 +8,7 @@ authors: ["Robert Kausch"]
 tags:
 - "Audio Converter"
 - "GTK+3"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 - "x86"

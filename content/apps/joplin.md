@@ -10,7 +10,7 @@ tags:
 - "To-do"
 - "Cross-platform software"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["AGPL-3.0"]
 draft: false

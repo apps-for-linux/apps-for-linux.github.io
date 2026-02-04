@@ -9,7 +9,7 @@ tags:
 - "Music streaming client"
 - "Spotify client"
 - "Qt6"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
 draft: false

@@ -9,7 +9,7 @@ tags:
 - "IDE"
 - "Kubernetes"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["EULA"]
 draft: false

@@ -8,7 +8,7 @@ authors: ["Naev DevTeam"]
 tags: 
 - "OSS Game"
 - "RPG"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
 draft: false

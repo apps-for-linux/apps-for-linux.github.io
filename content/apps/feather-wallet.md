@@ -8,7 +8,7 @@ authors: ["Feather Wallet"]
 tags:
 - "Cryptocurrency"
 - "Qt6"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 - "armv7l"

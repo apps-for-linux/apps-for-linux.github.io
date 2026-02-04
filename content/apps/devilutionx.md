@@ -7,7 +7,7 @@ categories: ["Games"]
 authors: ["diasurgical"]
 tags:
 - OSS Game
-architecture: 
+architectures: 
 - "x86_64"
 license: ["SUL-1.0"]
 draft: false

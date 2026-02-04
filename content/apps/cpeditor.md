@@ -8,7 +8,7 @@ authors: ["CP Editor team"]
 tags:
 - "Code editor"
 - "Competitive programming"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
 draft: false

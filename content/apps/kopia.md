@@ -8,7 +8,7 @@ authors: ["Kopia Authors"]
 tags:
 - "Backup tool"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 - "armv7l"

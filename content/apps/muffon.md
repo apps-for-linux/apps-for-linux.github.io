@@ -11,7 +11,7 @@ tags:
 - "YouTube Music client"
 - "YouTube Client"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["AGPL-3.0"]

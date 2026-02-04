@@ -8,7 +8,7 @@ authors: ["Pierre de la Martinière"]
 tags:
 - "Offline music player"
 - "Tauri"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["MIT"]

@@ -8,7 +8,7 @@ authors: ["Peter Rudenko and contributors"]
 tags:
 - "Audio editor"
 - "JUCE"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["MIT"]
 draft: false

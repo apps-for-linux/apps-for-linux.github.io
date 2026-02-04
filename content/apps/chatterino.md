@@ -9,7 +9,7 @@ tags:
 - "Twitch"
 - "Streaming tools"
 - "Qt6"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["MIT"]
 draft: false

@@ -8,7 +8,7 @@ authors: ["FreeTube Authors"]
 tags:
 - "Youtube client"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 - "armv7l"

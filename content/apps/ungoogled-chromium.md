@@ -8,7 +8,7 @@ authors: ["The ungoogled-chromium Authors"]
 tags:
 - "Browser"
 - "Chromium"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["BSD-3-Clause"]

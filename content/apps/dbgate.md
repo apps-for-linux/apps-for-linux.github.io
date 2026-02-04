@@ -8,7 +8,7 @@ authors: ["Jan Prochazka"]
 tags:
 - "Database"
 - "SQL"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["MIT"]

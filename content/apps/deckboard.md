@@ -8,7 +8,7 @@ authors: ["Riva Farabi"]
 tags:
 - "Remote control"
 - "Streaming tools"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["EULA"]
 draft: false

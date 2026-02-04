@@ -10,7 +10,7 @@ tags:
 - "Handwriting"
 - "Cross-platform software"
 - "Flutter"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["GPL-3.0"]

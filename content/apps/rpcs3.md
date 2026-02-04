@@ -8,7 +8,7 @@ authors: ["RPCS3 Authors"]
 tags:
 - "Console emulator"
 - "PlayStation emulator"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-2.0"]
 draft: false

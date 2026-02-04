@@ -8,7 +8,7 @@ authors: ["Sandakan Nipunajith"]
 tags:
 - "Offline music player"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["MIT"]
 draft: false

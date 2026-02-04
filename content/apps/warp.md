@@ -8,7 +8,7 @@ authors: ["Warp"]
 tags:
 - "Terminal"
 - "AI-powered software"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["EULA"]

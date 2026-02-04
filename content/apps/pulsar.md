@@ -8,7 +8,7 @@ authors: ["Pulsar-Edit Original work"]
 tags:
 - "Code editor"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["MIT"]

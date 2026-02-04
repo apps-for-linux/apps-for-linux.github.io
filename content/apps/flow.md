@@ -9,7 +9,7 @@ tags:
 - "Time management"
 - "Cross-platform software"
 - "Flutter"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["AGPL-3.0"]

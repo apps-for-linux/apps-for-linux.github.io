@@ -8,7 +8,7 @@ authors: ["Chris Maltby"]
 tags:
 - "Game development"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["MIT"]

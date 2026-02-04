@@ -8,7 +8,7 @@ authors: ["Mazhar Hussain"]
 tags:
 - "Appearance"
 - "GTK4"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["AGPL-3.0"]
 draft: false

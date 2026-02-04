@@ -8,7 +8,7 @@ authors: ["FLARE Team"]
 tags:
 - Game
 - OSS Game
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
 draft: false

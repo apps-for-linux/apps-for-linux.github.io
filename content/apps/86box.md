@@ -8,7 +8,7 @@ categories: ["Games"]
 authors: ["86box"]
 tags: 
 - "Game Emulator"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["GPL-2.0"]

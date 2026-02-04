@@ -8,7 +8,7 @@ authors: ["LibreWolf"]
 tags:
 - "Firefox-based"
 - "Browser"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["MPL-2.0"]

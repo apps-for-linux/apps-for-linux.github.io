@@ -8,7 +8,7 @@ authors: ["Robin Ahle"]
 tags:
 - "To-do"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["MIT"]

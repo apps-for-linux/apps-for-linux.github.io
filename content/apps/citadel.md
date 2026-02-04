@@ -8,7 +8,7 @@ authors: ["Phil Denhoff"]
 tags:
 - "eBook reader"
 - "Tauri"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["MIT"]
 draft: false

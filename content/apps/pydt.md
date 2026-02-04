@@ -8,7 +8,7 @@ authors: ["Michael Rosack"]
 tags:
 - "Game client"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["MIT"]
 draft: false

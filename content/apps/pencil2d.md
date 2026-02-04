@@ -9,7 +9,7 @@ tags:
 - "2D"
 - "Painting software"
 - "Qt6"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-2.0"]
 draft: false

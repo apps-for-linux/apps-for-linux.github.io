@@ -8,7 +8,7 @@ authors: ["Heroic Games Launcher Authors"]
 tags:
 - "Game Launcher"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
 draft: false

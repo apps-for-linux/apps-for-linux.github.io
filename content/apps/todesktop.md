@@ -6,7 +6,7 @@ categories: ["Network"]
 authors: ["ToDesktop"]
 tags:
 - "Web apps management"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["EULA"]
 draft: false

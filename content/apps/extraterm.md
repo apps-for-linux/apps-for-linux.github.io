@@ -7,7 +7,7 @@ categories: ["System"]
 authors: ["Simon Edwards"]
 tags:
 - "Terminal"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["MIT"]
 draft: false

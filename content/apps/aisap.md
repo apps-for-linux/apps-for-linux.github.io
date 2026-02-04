@@ -8,7 +8,7 @@ authors: ["mgord9518"]
 tags:
  - "Sandbox"
  - "AppImage"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["MIT"]
 draft: false

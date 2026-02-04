@@ -8,7 +8,7 @@ authors: ["Flacon team"]
 tags:
 - "CD ripper"
 - "Qt5"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["LGPL-2.1"]
 draft: false

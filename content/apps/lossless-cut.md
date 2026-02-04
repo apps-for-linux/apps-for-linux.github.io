@@ -8,7 +8,7 @@ authors: ["Mikael Finstad"]
 tags:
 - "Video editor"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-2.0"]
 draft: false

@@ -8,7 +8,7 @@ authors: ["JGraph"]
 tags:
 - "Diagramming tool"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["Apache-2.0"]

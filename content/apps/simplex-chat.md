@@ -10,7 +10,7 @@ tags:
 - "Censorship-resistance software"
 - "Cross-platform software"
 - "Java"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["AGPL-3.0"]

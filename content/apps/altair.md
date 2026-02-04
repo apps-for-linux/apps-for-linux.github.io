@@ -7,7 +7,7 @@ categories: ["Development"]
 authors: ["Samuel Imolorhe"]
 tags:
 - "GraphQL"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["MIT"]

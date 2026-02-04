@@ -8,7 +8,7 @@ authors: ["Trezor company"]
 tags:
 - "Cryptocurrency"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["Custom"]

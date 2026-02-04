@@ -8,7 +8,7 @@ authors: ["Street Pea"]
 tags:
 - "PlayStation"
 - "Remote play"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["AGPL-3.0"]

@@ -9,7 +9,7 @@ tags:
 - "Xbox emulator"
 - "Console emulator"
 - "SDL2"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["GPL-2.0"]

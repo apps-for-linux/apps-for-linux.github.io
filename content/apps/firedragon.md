@@ -8,7 +8,7 @@ authors: ["Nico Jensch"]
 tags:
 - "Browser"
 - "Firefox-based"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["MPL-2.0"]

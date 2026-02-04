@@ -9,7 +9,7 @@ tags:
 - "Code editor"
 - "VSCode fork"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["MIT"]
 draft: false

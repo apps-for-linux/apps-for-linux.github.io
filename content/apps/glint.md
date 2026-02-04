@@ -7,7 +7,7 @@ categories: ["Development"]
 authors: ["Logic Over Snacks"]
 tags:
 - "Git client"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["EULA"]
 draft: false

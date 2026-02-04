@@ -8,7 +8,7 @@ authors: ["Cloud storage"]
 tags: 
 - "Cloud storage client"
 - "Cross-platform software"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["EULA"]
 draft: false

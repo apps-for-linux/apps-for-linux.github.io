@@ -9,7 +9,7 @@ tags:
 - "Conference calling"
 - "Cross-platform software"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["GPL-3.0"]

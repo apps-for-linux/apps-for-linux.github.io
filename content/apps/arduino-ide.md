@@ -8,7 +8,7 @@ authors: ["Arduino"]
 tags:
 - "IDE"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["AGPL-3.0"]
 draft: false

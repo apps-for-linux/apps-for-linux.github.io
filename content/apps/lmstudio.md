@@ -8,7 +8,7 @@ authors: ["Element Labs"]
 tags: 
 - "AI-powered software"
 - "Chatbot"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["EULA"]

@@ -8,7 +8,7 @@ authors: ["The Tumultuous Unicorn Of Darkness"]
 tags:
 - "System Monitor"
 - "GTK+3"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["GPL-3.0"]

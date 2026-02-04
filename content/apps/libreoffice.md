@@ -7,7 +7,7 @@ categories: ["Productivity"]
 authors: ["The Document Foundation"]
 tags:
 - "Office Suite"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
 draft: false

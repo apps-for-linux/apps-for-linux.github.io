@@ -8,7 +8,7 @@ authors: ["Ruby Mamistvalove"]
 tags:
 - "Notes"
 - "Qt6"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["MPL-2.0"]
 draft: false

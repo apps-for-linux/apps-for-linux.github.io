@@ -8,7 +8,7 @@ authors: ["GitButler"]
 tags:
 - "Git client"
 - "Tauri"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["FSL-1.0-MIT"]

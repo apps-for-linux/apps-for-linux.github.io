@@ -8,7 +8,7 @@ authors: ["Open Chemistry"]
 tags: 
 - "Chemistry"
 - "Qt6"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["BSD-3-Clause"]

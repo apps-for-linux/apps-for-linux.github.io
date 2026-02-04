@@ -8,7 +8,7 @@ authors: ["Diego Duclos"]
 tags:
 - "Game client"
 - "WxWidgets"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
 draft: false

@@ -9,7 +9,7 @@ tags:
 - "Collaboration platform"
 - "Qt6"
 - "Cross-platform software"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-2.0"]
 draft: false

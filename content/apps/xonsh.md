@@ -7,7 +7,7 @@ categories: ["System"]
 authors: ["the xonsh developers"]
 tags:
 - "Shell language"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["BSD-2-Clause"]
 draft: false

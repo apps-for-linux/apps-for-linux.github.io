@@ -8,7 +8,7 @@ authors: ["digiKam Team"]
 tags:
 - "Photo Management"
 - "Qt6"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["GPL-2.0"]
 draft: false

@@ -8,9 +8,9 @@ authors: ["The FreeCAD Team"]
 tags:
 - "CAD"
 - "Qt5"
-architecture: 
+architectures: 
 - "x86_64"
-license: ["GPL-2.0"]
+license: ["LGPL-2.1"]
 draft: false
 ---
 
@@ -18,7 +18,7 @@ draft: false
 
 FreeCAD is a general purpose Open Source 3D CAD/MCAD/CAx/CAE/PLM modeler
 
-License: GPL-2.0
+License: LGPL-2.1
 
 Web page: <https://www.freecad.org>  
 Source code: <https://github.com/FreeCAD/FreeCAD>

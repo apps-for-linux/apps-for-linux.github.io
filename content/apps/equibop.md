@@ -9,7 +9,7 @@ tags:
 - "Messenger"
 - "Discord client"
 - "Electron"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
 license: ["GPL-3.0"]

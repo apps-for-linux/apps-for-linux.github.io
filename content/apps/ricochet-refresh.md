@@ -9,16 +9,16 @@ tags:
 - "Messenger"
 - "Censorship-resistance software"
 - "Qt5"
-architecture: 
+architectures: 
 - "x86_64"
 - "arm64"
-license: ["GPL-3.0"]
+license: ["BSD-3-Clause"]
 draft: false
 ---
 
 Anonymous peer-to-peer instant messaging
 
-License: GPL-3.0
+License: BSD-3-Clause
 
 Web page: <https://www.ricochetrefresh.net>  
 Source code: <https://github.com/blueprint-freespeech/ricochet-refresh>

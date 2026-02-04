@@ -9,7 +9,7 @@ tags:
 - "Kubernetes"
 - "IDE"
 - "Tauri"
-architecture: 
+architectures: 
 - "x86_64"
 license: ["EULA"]
 draft: false
