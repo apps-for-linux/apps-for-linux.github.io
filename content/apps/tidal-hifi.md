@@ -21,8 +21,7 @@ draft: false
 
 The web version of TIDAL running in electron with Hi-Fi (High & Max) support thanks to widevine.
 
-license: ["MIT"]
-draft
+License: "MIT"
 Source code: <https://github.com/Mastermindzh/tidal-hifi>
 
 Become a sponsor: <https://github.com/sponsors/Mastermindzh>  

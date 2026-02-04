@@ -20,8 +20,7 @@ draft: false
 
 An universal linux port of deezer
 
-license: ["MIT"]
-draft
+License: "MIT"
 Source code: <https://github.com/aunetx/deezer-linux>
 
 Become a sponsor: <https://github.com/sponsors/aunetx>  

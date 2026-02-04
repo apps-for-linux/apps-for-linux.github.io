@@ -5,7 +5,10 @@ description: |
 pubDate: 2026-01-19T23:05:00Z
 categories: ["Games"]
 authors: ["Archipelago"]
-tags: ["Game Engine"]
+tags: 
+- "Game Engine"
+architecture: 
+- "x86_64"
 license: ["GPL-3.0"]
 draft: false
 ---

@@ -18,8 +18,8 @@ draft: false
 
 A beautiful player for audiophiles.
 
-license: ["MIT"]
-draft
+License: "MIT"
+
 Source code: <https://github.com/playwora/wora>  
 
 Become a sponsor: <https://github.com/hiaaryan>  

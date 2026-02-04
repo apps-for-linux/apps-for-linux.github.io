@@ -9,6 +9,8 @@ tags:
 - "Audio recording"
 - "DAW"
 - "Qt6"
+architecture: 
+- "x86_64"
 license: ["GPL-3.0"]
 draft: false
 ---

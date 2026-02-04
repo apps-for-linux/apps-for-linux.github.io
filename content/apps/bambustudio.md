@@ -9,6 +9,8 @@ tags:
 - "3D"
 - "Slicing software"
 - "GTK+3"
+architecture: 
+- "x86_64"
 license: ["AGPL-3.0"]
 draft: false
 ---

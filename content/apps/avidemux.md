@@ -8,6 +8,8 @@ authors: ["Avidemux Authors"]
 tags: 
 - "Video editor"
 - "Qt5"
+architecture: 
+- "x86_64"
 license: ["GPL-2.0"]
 draft: false
 ---

@@ -12,7 +12,7 @@ tags:
 architecture: 
 - "x86_64"
 - "arm64"
-License: MIT
+license: ["MIT"]
 draft: false
 ---
 
@@ -21,6 +21,7 @@ draft: false
 Privacy-focused note-taking application
 
 License: MIT
+
 Web page: <https://beavernotes.com>  
 Source code: <https://github.com/Daniele-rolli/Beaver-Notes>
 

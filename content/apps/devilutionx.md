@@ -9,7 +9,7 @@ tags:
 - OSS Game
 architecture: 
 - "x86_64"
-license: "Custom"
+license: ["Custom"]
 draft: false
 ---
 

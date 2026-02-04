@@ -16,8 +16,8 @@ draft: false
 
 Manage your ebook library without frustrations. Calibre compatible.
 
-license: ["MIT"]
-draft
+License: "MIT"
+
 Source code: <https://github.com/every-day-things/citadel>
 
 Become a sponsor: <https://github.com/sponsors/phildenhoff>

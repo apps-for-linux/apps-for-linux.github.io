@@ -19,8 +19,8 @@ draft: false
 
 A Discord and SpaceBar Electron-based client implemented without Discord API.
 
-license: ["MIT"]
-draft
+License: "MIT"
+
 Source code: <https://github.com/SpacingBat3/WebCord>
 
 Translate: <https://hosted.weblate.org/projects/webcord>  

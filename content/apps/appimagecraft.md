@@ -17,8 +17,7 @@ draft: false
 
 appimagecraft completely automates the AppImage build process
 
-license: ["MIT"]
-draft
+License: "MIT"
 Source code: <https://github.com/TheAssassin/appimagecraft>
 
 Report the bug: <https://github.com/TheAssassin/appimagecraft/issues/new>  

@@ -29,7 +29,7 @@ enableEmoji = true
   category = "categories"
   author = "authors"
   architecture = "architectures"
-  license = "licenses"
+  license = "license"
 
 [sitemap]
   changefreq = 'daily'

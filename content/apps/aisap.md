@@ -16,8 +16,8 @@ draft: false
 
 Tool to make sandboxing AppImages easy
 
-license: ["MIT"]
-draft
+License: "MIT"
+
 Source code: <https://github.com/mgord9518/aisap>
 
 Report the bug: <https://github.com/mgord9518/aisap/issues/new>  

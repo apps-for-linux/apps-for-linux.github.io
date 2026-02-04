@@ -7,7 +7,9 @@ categories: ["Games"]
 authors: ["Gorilla Devs"]
 tags:
 - "Minecraft Launcher"
-License: ["BUSL-1.1"]
+architecture: 
+- "x86_64"
+license: ["BUSL-1.1"]
 draft: false
 ---
 

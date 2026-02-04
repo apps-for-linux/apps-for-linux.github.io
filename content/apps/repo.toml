@@ -1,0 +1,3875 @@
+==> 86box.md <==
+---
+title: "86box"
+description: |
+ "Emulator of x86-based machines based on PCem."
+pubDate: 2025-12-22T04:42:00Z
+slug: 86box
+categories: ["Games"]
+authors: ["86box"]
+tags: 
+- "Game Emulator"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-2.0"]
+draft: false
+
+==> actual.md <==
+---
+title: "Actual Budget"
+description: |
+ "Actual Budget is a super fast and privacy-focused app for managing your finances"
+pubDate: 2026-01-04T20:57:00Z
+categories: ["Finance"]
+authors: ["James Long"]
+tags:
+- "Budget software"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+draft: false
+---
+
+==> advanced-passgen.md <==
+---
+title: "Advanced PassGen"
+description: |
+ "Free and open-source application that can help you generate passwords and export them"
+pubDate: 2024-11-20T11:02:00Z
+categories: ["Productivity"]
+authors: ["CodeDead"]
+tags: 
+- "Password Generator"
+- "Tauri"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> affine.md <==
+---
+title: "AFFiNE"
+description: |
+ "AFFiNE is a workspace with fully merged docs, whiteboards and databases. Get more things done, your creativity isn’t monotone"
+pubDate: 2026-01-18T18:01:00Z
+categories: ["Productivity"]
+authors: ["TOEVERYTHING"]
+tags: 
+- "Knowledge Base"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+
+==> aisap.md <==
+---
+title: "aisap"
+description: |
+ "Tool to make sandboxing AppImages easy"
+pubDate: 2024-12-03T02:26:00Z
+categories: ["Development"]
+authors: ["mgord9518"]
+tags:
+ - "Sandbox"
+ - "AppImage"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+==> alephium.md <==
+---
+title: "Alephium"
+description: |
+ "The official Alephium desktop wallet."
+pubDate: 2025-10-07T19:45:00Z
+categories: ["Finance"]
+authors: ["Alephium Team"]
+tags:
+- "Cryptocurrency"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["LGPL-3.0"]
+draft: false
+---
+
+==> altair.md <==
+---
+title: "Altair"
+description: |
+ "A beautiful feature-rich GraphQL Client"
+pubDate: 2025-12-20T18:47:00Z
+categories: ["Development"]
+authors: ["Samuel Imolorhe"]
+tags:
+- "GraphQL"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+draft: false
+---
+
+==> amdgpu_top.md <==
+---
+title: "AMDGPU_TOP"
+description: |
+ "amdgpu_top is tool that display AMD GPU utilization."
+pubDate: 2025-09-02T02:43:00Z
+categories: ["Utilities"]
+authors: ["Umio Yasuno"]
+tags:
+- "Resource Monitor"
+- "GPU"
+- "TUI"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]  
+
+==> antares.md <==
+---
+title: "Antares"
+description: |
+ "A modern, fast and productivity driven SQL client with a focus in UX"
+pubDate: 2025-01-20T10:32:00Z
+categories: ["Development"]
+authors: ["Fabio Di Stasio"]
+tags:
+- "SQL"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
+license: ["MIT"]
+
+==> antimicrox.md <==
+---
+title: "AntimicroX"
+description: |
+ "Graphical program used to map gamepad keys to keyboard, mouse, scripts and macros"
+pubDate: 2025-01-27T22:21:00Z
+categories: ["Utilities"]
+authors: ["AntiMicroX Authors"]
+tags:
+- "Gamepad"
+- "Gaming controllers"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> anytype.md <==
+---
+title: "Anytype"
+description: |
+ "Anytype is a personal knowledge base"
+pubDate: 2026-01-20T16:22:00Z
+categories: ["Productivity"]
+authors: ["Anytype"]
+tags:
+- "Knowledge base"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["Custom"]
+draft: false
+
+==> appflowy.md <==
+---
+title: "AppFlowy"
+description: |
+ "Open-source alternative to Notion. You are in charge of your data and customizations"
+pubDate: 2026-01-12T11:18:00Z
+categories: ["Productivity"]
+authors: ["AppFlowy"]
+tags:
+- "Knowledge Base"
+- "Cross-platform software"
+- "Flutter"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+draft: false
+
+==> appimagecraft.md <==
+---
+title: "appimagecraft"
+description: |
+ "appimagecraft completely automates the AppImage build process"
+pubDate: 2026-01-19T04:55:00Z
+categories: ["Development"]
+authors: ["TheAssassin"]
+tags:
+- "AppImage"
+- "TUI"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+draft: false
+
+==> aptakube.md <==
+---
+title: "Aptakube"
+description: |
+ "Modern, lightweight and multi-cluster Kubernetes GUI"
+pubDate: 2025-12-10T14:07:00Z
+categories: ["Development"]
+authors: ["Sumbit Labs Limited"]
+tags:
+- "Kubernetes"
+- "IDE"
+- "Tauri"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+
+==> archipelago.md <==
+---
+title: "Archipelago"
+description: |
+ "Archipelago provides a generic framework for developing multiworld capability for game randomizers"
+pubDate: 2026-01-19T23:05:00Z
+categories: ["Games"]
+authors: ["Archipelago"]
+tags: 
+- "Game Engine"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+
+==> arduino-ide.md <==
+---
+title: "Arduino IDE"
+description: |
+ "The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board"
+pubDate: 2025-12-17T19:17:00Z
+categories: ["Development"]
+authors: ["Arduino"]
+tags:
+- "IDE"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+draft: false
+---
+
+==> audacity.md <==
+---
+title: "Audacity"
+description: |
+ "Easy-to-use, multi-track audio editor and recorder"
+pubDate: 2025-12-11T22:48:00Z
+categories: ["AudioVideo"]
+authors: ["Audacity Developer Team"]
+tags:
+- "Audio recording"
+- "DAW"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> authme.md <==
+---
+title: "authme"
+description: |
+ "Simple cross-platform two-factor (2FA) authenticator app for desktop."
+pubDate: 2026-01-13T16:28:00Z
+categories: ["Productivity"]
+authors: ["Lőrik Levente"]
+tags:
+- "Authentificator"
+- "Tauri"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> avidemux.md <==
+---
+title: "Avidemux"
+description: |
+ "Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks"
+pubDate: 2025-06-30T07:10:00Z
+categories: ["AudioVideo"]
+authors: ["Avidemux Authors"]
+tags: 
+- "Video editor"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> avogadro.md <==
+---
+title: "Avogadro"
+description: |
+ "Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas"
+pubDate: 2026-01-19T19:48:00Z
+categories: ["Science"]
+authors: ["Open Chemistry"]
+tags: 
+- "Chemistry"
+- "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["BSD-3-Clause"]
+draft: false
+
+==> bambustudio.md <==
+---
+title: "Bambu Studio"
+description: |
+ "Bambu Studio is an open-source, cutting-edge, feature-rich slicing software"
+pubDate: 2025-11-19T06:00:00Z
+categories: ["Graphics"]
+authors: ["Bambu Lab"]
+tags:
+- "3D"
+- "Slicing software"
+- "GTK+3"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+draft: false
+
+==> beaver-notes.md <==
+---
+title: "Beaver Notes"
+description: |
+ "Privacy-focused note-taking application"
+pubDate: 2025-12-05T12:07:00Z
+categories: ["Productivity"]
+authors: ["Daniele Rolli"]
+tags:
+- "Notes"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+
+==> beekeeper-studio.md <==
+---
+title: "Beekeeper Studio"
+description: |
+ "Beekeeper Studio is a cross-platform SQL editor and database manager"
+pubDate: 2026-01-20T00:59:00Z
+categories: ["Development"]
+authors: ["Matthew Rathbone"]
+tags:
+- "Database"
+- "SQL"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> beeper.md <==
+---
+title: "Beeper"
+description: |
+ "Beeper is a universal chat app. With Beeper, you can send and receive messages to friends, family and colleagues on 14 different chat networks, all from a single app."
+pubDate: 2026-01-14T00:00:00Z
+categories: ["Network"]
+authors: ["Automattic"]
+tags:
+- "Messenger"
+- "Matrix"
+- "Cross-platform software"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["EULA"]
+
+==> beyond-all-reasons.md <==
+---
+title: "Beyond-All-Reason"
+description: |
+ "Free Real Time Strategy Game with a grand scale and full physical simulation in a sci-fi setting."
+pubDate: 2024-03-02T20:40:00Z
+categories: ["Games"]
+authors: ["Beyond-All-Reason Team"]
+tags:
+- "OSS Game"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+
+==> bforartists.md <==
+---
+title: "Bforartists"
+description: |
+ "Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI"
+pubDate: 2025-12-30T21:40:00Z
+categories: ["Graphics"]
+authors: ["Reiner Prokein"]
+tags:
+- "3D"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+
+==> bitwarden.md <==
+---
+title: "Bitwarden"
+description: |
+ "Open source password management solutions for individuals, teams, and business organizations."
+pubDate: 2025-01-13T22:40:00Z
+categories: ["Utilities"]
+authors: ["BitWarden"]
+tags:
+- "Password management"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> blockbench.md <==
+---
+title: "Blockbench"
+description: |
+ "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures"
+pubDate: 2025-12-24T02:50:00Z
+categories: ["Graphics"]
+authors: ["Jannis Petersen"]
+tags:
+- "3D"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> blockstream.md <==
+---
+title: "Blockstream"
+description: |
+ "Non-custodial Bitcoin wallet"
+pubDate: 2026-01-14T01:17:00Z
+categories: ["Finance"]
+authors: ["Blockstream"]
+tags: 
+- "Cryptocurrency"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> bruno.md <==
+---
+title: "Bruno"
+description: |
+ "Open-source IDE for exploring and testing APIs"
+pubDate: 2026-01-07T23:05:00Z
+categories: ["Development"]
+authors: ["Bruno Authors"]
+tags:
+- "API Testing"
+- "IDE"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+
+==> buckets.md <==
+---
+title: "Buckets"
+description: |
+ "Make your budget quick, simple and private"
+pubDate: 2025-05-15T17:51:00Z
+categories: ["Finance"]
+authors: ["One Part Rain"]
+tags:
+- "Budget software"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["EULA"]
+
+==> butterfly.md <==
+---
+title: "Butterfly"
+description: |
+ "Powerful, minimalistic, cross-platform, opensource note-taking app"
+pubDate: 2025-12-24T15:44:00Z
+categories: ["Productivity"]
+authors: ["LinwoodDev"]
+tags:
+- "Notes"
+- "Handwriting"
+- "Cross-platform software"
+- "Flutter"
+architecture: 
+- "x86_64"
+- "arm64"
+
+==> cardo.md <==
+---
+title: "Cardo"
+description: |
+ "Cardo is a podcast client for desktop"
+pubDate: 2025-10-19T13:14:00Z
+categories: ["Network"]
+authors: ["n0vella"]
+tags:
+- "Podcast player"
+- "Tauri"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"] 
+draft: false
+---
+
+==> cartero.md <==
+---
+title: "Cartero"
+description: |
+ "Native, lightweight, multiplatform and free HTTP client that you can use to test your APIs"
+pubDate: 2025-11-15T00:20:00Z
+categories: ["Development"]
+authors: ["the Cartero authors"]
+tags:
+- "API Testing"
+- "GTK4"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> cemu.md <==
+---
+title: "Cemu"
+description: |
+ "Nintendo Wii U emulator"
+pubDate: 2025-02-06T16:18:00Z
+categories: ["Games"]
+authors: ["Cemu Project"]
+tags:
+- "Game Emulator"
+- "Nintendo Emulator"
+- "GTK+3"
+architecture: 
+- "x86_64"
+license: ["MPL-2.0"]
+draft: false
+
+==> chatterino.md <==
+---
+title: "Chatterino2"
+description: |
+ "Chat client for Twitch.tv"
+pubDate: 2025-09-21T13:56:00Z
+categories: ["Network"]
+authors: ["Chatterino2 Authors"]
+tags:
+- "Twitch"
+- "Streaming tools"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+
+==> cherrytree.md <==
+---
+title: "CherryTree"
+description: |
+ "A hierarchical note taking application, featuring rich text and syntax highlighting"
+pubDate: 2026-01-13T01:44:00Z
+categories: ["Productivity"]
+authors: ["Giuseppe Penone"]
+tags:
+- "Notes"
+- "GTK+3"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> chiaki-ng.md <==
+---
+title: "chiaki-ng"
+description: |
+ "Open Source Client for PlayStation 4 and PlayStation 5 Remote Play"
+pubDate: 2025-08-11T01:34:00Z
+categories: ["Games"]
+authors: ["Street Pea"]
+tags:
+- "PlayStation"
+- "Remote play"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["AGPL-3.0"]
+draft: false
+
+==> cinelerra-gg.md <==
+---
+title: "Cinelerra GG"
+description: |
+ "Cinelerra GG Infinity is a free and open source video editing software for Linux"
+pubDate: 2025-11-21T20:54:00Z
+categories: ["AudioVideo"]
+authors: ["Cinelerra GG community"]
+tags:
+- "Video Editor"
+- "GTK2"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> cinny.md <==
+---
+title: "Cinny"
+description: |
+ "Matrix client focusing primarly on simple, elegant and secure interface"
+pubDate: 2025-11-05T10:24:00Z
+categories: ["Network"]
+authors: ["Ajay Bura"]
+tags:
+- "Matrix"
+- "Messenger"
+- "Tauri"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+draft: false
+
+==> citadel.md <==
+---
+title: "Citadel"
+description: |
+ "Manage your ebook library without frustrations. Calibre compatible."
+pubDate: 2024-10-29T10:25:00Z
+categories: ["Productivity"]
+authors: ["Phil Denhoff"]
+tags:
+- "eBook reader"
+- "Tauri"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+==> conky.md <==
+---
+title: "Conky"
+description: |
+ "Light-weight system monitor for X, Wayland, and other things, too"
+pubDate: 2025-07-06T15:23:00Z
+categories: ["Utilities"]
+authors: ["Brenden Matthews"]
+tags:
+- "System Monitor"
+- "OSD"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> converseen.md <==
+---
+title: "Converseen"
+description: |
+ "Converseen is a batch image converter and resizer"
+pubDate: 2025-12-01T17:04:00Z
+categories: ["Graphics"]
+authors: ["Francesco Mondello"]
+tags:
+- "Image converter"
+- "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> cpeditor.md <==
+---
+title: "CP Editor"
+description: |
+ "The IDE for competitive programming."
+pubDate: 2024-02-17T07:58:00Z
+categories: ["Development"]
+authors: ["CP Editor team"]
+tags:
+- "Code editor"
+- "Competitive programming"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> cpu-x.md <==
+---
+title: "CPU-X"
+description: |
+ "Free software that gathers information on CPU, motherboard and more."
+pubDate: 2025-08-22T18:05:00Z
+categories: ["Utilities"]
+authors: ["The Tumultuous Unicorn Of Darkness"]
+tags:
+- "System Monitor"
+- "GTK+3"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> cryptomator.md <==
+---
+title: "Cryptomator"
+description: |
+ "Multi-platform transparent client-side encryption of your files in the cloud"
+pubDate: 2025-11-25T12:06:00Z
+categories: ["Productivity"]
+authors: ["Skymatic"]
+tags:
+- "Cloud encryption"
+- "Java"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> cura.md <==
+---
+title: "Cura"
+description: |
+ "3D printer / slicing GUI built on top of the Uranium framework"
+pubDate: 2025-10-23T16:04:00Z
+categories: ["Graphics"]
+authors: ["Ultimaker"]
+tags:
+- "Slicing software"
+- "3D"
+architecture: 
+- "x86_64"
+license: ["LGPL-3.0"]
+draft: false
+---
+
+==> cursor.md <==
+---
+title: "Cursor"
+description: |
+ "The AI Code Editor"
+pubDate: 2025-12-22T00:00:00Z
+categories: ["Development"]
+authors: ["Anysphere"]
+tags:
+- "AI-powered software"
+- "Code editor"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["EULA"]
+
+==> cutter.md <==
+---
+title: "Cutter"
+description: |
+ "Free and Open Source Reverse Engineering platform powered by Rizin"
+pubDate: 2025-05-11T17:58:00Z
+categories: ["Development"]
+authors: ["Rizin"]
+tags:
+- "Reverse Engineering"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> darktable.md <==
+---
+title: "Darktable"
+description: |
+ "darktable is an open source photography workflow application and raw developer"
+pubDate: 2025-12-21T11:46:00Z
+categories: ["Graphics"]
+authors: ["the darktable team"]
+tags:
+- "RAW processing"
+- "Image editor"
+- "GTK+3"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> dbgate.md <==
+---
+title: "DbGate"
+description: |
+ "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others"
+pubDate: 2025-12-22T13:57:00Z
+categories: ["Development"]
+authors: ["Jan Prochazka"]
+tags:
+- "Database"
+- "SQL"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+draft: false
+
+==> deckboard.md <==
+---
+title: "Deckboard"
+description: |
+ "Control your PC with your phone in easy way possible"
+pubDate: 2025-09-26T09:11:00Z
+categories: ["Games"]
+authors: ["Riva Farabi"]
+tags:
+- "Remote control"
+- "Streaming tools"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+draft: false
+---
+
+==> deezer-desktop.md <==
+---
+title: "deezer-desktop"
+description: |
+ "An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB."
+pubDate: 2026-01-21T02:16:00Z
+categories: ["AudioVideo"]
+authors: ["Aurélien Hamy"]
+tags:
+- "Music streaming client"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+
+==> deltachat.md <==
+---
+title: "Delta Chat Desktop"
+description: |
+ "Email-based instant messaging for Desktop."
+pubDate: 2025-12-23T23:53:00Z
+categories: ["Network"]
+authors: ["Delta Chat contributors"]
+tags:
+- "Messenger"
+- "eMail client"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> devilutionx.md <==
+---
+title: "DevilutionX"
+description: |
+ "Port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features"
+pubDate: 2025-10-30T20:00:00Z
+categories: ["Games"]
+authors: ["diasurgical"]
+tags:
+- OSS Game
+architecture: 
+- "x86_64"
+license: ["Custom"]
+draft: false
+---
+
+
+==> digikam.md <==
+---
+title: "digiKam"
+description: |
+ "Professional Photo Management with Power of Open Source"
+pubDate: 2025-10-17T15:56:00Z
+categories: ["Graphics"]
+authors: ["digiKam Team"]
+tags:
+- "Photo Management"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> drawio.md <==
+---
+title: "draw.io"
+description: |
+ "Security-first diagramming for teams."
+pubDate: 2025-12-09T12:59:00Z
+categories: ["Graphics"]
+authors: ["JGraph"]
+tags:
+- "Diagramming tool"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["Apache-2.0"]
+draft: false
+
+==> duckstation.md <==
+---
+title: "DuckStation"
+description: |
+ "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64"
+pubDate: 2026-01-17T19:05:00Z
+categories: ["Games"]
+authors: ["Connor McLaughlin"]
+tags:
+- "Console emulator"
+- "PlayStation Emulator"
+- "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
+
+==> ente-auth.md <==
+---
+title: "ente Auth"
+description: |
+ "Open source 2FA authenticator, with end-to-end encrypted backups"
+pubDate: 2025-12-17T15:16:00Z
+categories: ["Productivity"]
+authors: ["Ente"]
+tags:
+- "Authentificator"
+- "Cross-platform software"
+- "Flutter"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> ente-photos.md <==
+---
+title: "ente Photos"
+description: |
+ "End-to-end encryption for photos and more."
+pubDate: 2026-01-08T14:23:00Z
+categories: ["Network"]
+authors: ["Ente"]
+tags:
+- "Photo Management"
+- "Cloud storage client"
+- "Cross-platform software"
+- "Flutter"
+architecture: 
+- "x86_64"
+- "arm64"
+
+==> equibop.md <==
+---
+title: "Equibop"
+description: |
+ "Equibop is a fork of Vesktop."
+pubDate: 2026-01-25T01:02:00Z
+categories: ["Network"]
+authors: ["Equicord"]
+tags:
+- "Messenger"
+- "Discord client"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> extraterm.md <==
+---
+title: "Extraterm"
+description: |
+ "The swiss army chainsaw of terminal emulators."
+pubDate: 2025-07-02T19:15:00Z
+categories: ["System"]
+authors: ["Simon Edwards"]
+tags:
+- "Terminal"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+
+==> feather-wallet.md <==
+---
+title: "Feather"
+description: |
+ "A free and open-source Monero desktop wallet"
+pubDate: 2025-04-14T07:48:00Z
+categories: ["Finance"]
+authors: ["Feather Wallet"]
+tags:
+- "Cryptocurrency"
+- "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
+- "riscv64"
+
+==> feishin.md <==
+---
+title: "Feishin"
+description: |
+ "A modern self-hosted music player"
+pubDate: 2026-01-19T06:41:00Z
+categories: ["AudioVideo"]
+authors: ["Jeff"]
+tags:
+- "OpenSubsonic"
+- "Jellyfin"
+- "Navidrome"
+- "Self-hosted"
+- "Music streaming client"
+- "Electron"
+architecture: 
+
+==> ferdium.md <==
+---
+title: "Ferdium"
+description: |
+ "All your services in one place, built by the community."
+pubDate: 2025-10-08T01:05:00Z
+categories: ["Network"]
+authors: ["Ferdium Team"]
+tags:
+- "Web apps"
+- "Browser"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["Apache-2.0"]
+draft: false
+
+==> firedragon.md <==
+---
+title: "FireDragon"
+description: |
+ "A Floorp fork with custom branding and opinionated settings."
+pubDate: 2025-12-22T09:36:00Z
+categories: ["Network"]
+authors: ["Nico Jensch"]
+tags:
+- "Browser"
+- "Firefox-based"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MPL-2.0"]
+draft: false
+
+==> flacon.md <==
+---
+title: "Flacon"
+description: |
+ "Extracts audio tracks from an audio CD image to separate tracks."
+pubDate: 2025-02-14T21:09:00Z
+categories: ["AudioVideo"]
+authors: ["Flacon team"]
+tags:
+- "CD ripper"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["LGPL-2.1"]
+draft: false
+---
+
+==> flare.md <==
+---
+title: "Flare"
+description: |
+ "Fantasy action RPG using the FLARE engine"
+pubDate: 2022-12-26T08:48:00Z
+categories: ["Games"]
+authors: ["FLARE Team"]
+tags:
+- Game
+- OSS Game
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> flow.md <==
+---
+title: "Flow"
+description: |
+ "Feature rich event, group and time managment system"
+pubDate: 2026-01-07T20:18:00Z
+categories: ["Productivity"]
+authors: ["LinwoodDev"]
+tags:
+- "Time management"
+- "Cross-platform software"
+- "Flutter"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["AGPL-3.0"]
+
+==> flycast.md <==
+---
+title: "Flycast"
+description: |
+ "Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast"
+pubDate: 2026-01-10T19:28:00Z
+categories: ["Games"]
+authors: ["Flyinghead"]
+tags:
+- "Sega Emulator"
+- "Console Emulator"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+draft: false
+---
+
+==> folo.md <==
+---
+title: "Folo"
+description: |
+ "Folo is the AI RSS Reader"
+pubDate: 2026-01-02T14:37:00Z
+categories: ["Network"]
+authors: ["Follow Team"]
+tags:
+- "RSS"
+- "News Reader"
+- "AI-powered software"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+
+==> fontforge.md <==
+---
+title: "FontForge"
+description: |
+ "An outline font editor"
+pubDate: 2025-10-09T22:23:00Z
+categories: ["Graphics"]
+authors: ["FontForge Project contributors"]
+tags:
+- "Font editor"
+- "GTK+3"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> frappe.md <==
+---
+title: "Frappe"
+description: |
+ "Simple, well-designed, free desktop accounting software for freelancers and small businesses"
+pubDate: 2025-11-06T07:23:00Z
+categories: ["Finance"]
+authors: ["Frappe Technologies"]
+tags:
+- "Budget software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+draft: false
+---
+
+==> freac.md <==
+---
+title: "Freac"
+description: |
+ "Free and open source audio converter"
+pubDate: 2026-01-20T00:04:00Z
+categories: ["AudioVideo"]
+authors: ["Robert Kausch"]
+tags:
+- "Audio Converter"
+- "GTK+3"
+architecture: 
+- "x86_64"
+- "arm64"
+- "x86"
+- "armv7l"
+
+==> freecad.md <==
+---
+title: "FreeCAD"
+description: |
+ "FreeCAD is a general purpose Open Source 3D CAD/MCAD/CAx/CAE/PLM modeler"
+pubDate: 2026-01-08T22:40:00Z
+categories: ["Graphics"]
+authors: ["The FreeCAD Team"]
+tags:
+- "CAD"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> freetube.md <==
+---
+title: "FreeTube"
+description: |
+ "FreeTube is an open source desktop YouTube player built with privacy in mind"
+pubDate: 2026-01-18T01:28:00Z
+categories: ["Network"]
+authors: ["FreeTube Authors"]
+tags:
+- "Youtube client"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
+license: ["AGPL-3.0"]
+
+==> friction.md <==
+---
+title: "Friction"
+description: |
+ "Powerful and versatile free and open-source motion graphics application."
+pubDate: 2026-01-01T00:53:00Z
+categories: ["Graphics"]
+authors: ["Friction contributors"]
+tags:
+- "2D"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> frigoligo.md <==
+---
+title: "Frigoligo"
+description: |
+ "Frigoligo is a wallabag client crafted using Flutter"
+pubDate: 2025-03-14T20:30:00Z
+categories: ["Network"]
+authors: ["Martin Chaine"]
+tags:
+- "Bookmark manager"
+- "Flutter"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+draft: false
+
+==> gams.md <==
+---
+title: "GAMS Studio"
+description: |
+ "Official development environment of the General Algebraic Modeling System"
+pubDate: 2026-01-26T18:38:00Z
+categories: ["Science"]
+authors: ["GAMS Development"]
+tags:
+- "Algebra"
+- "Mathematical models"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> gb-studio.md <==
+---
+title: "GB Studio"
+description: |
+ "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system"
+pubDate: 2026-01-19T18:15:00Z
+categories: ["Development"]
+authors: ["Chris Maltby"]
+tags:
+- "Game development"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+draft: false
+
+==> gdevelop.md <==
+---
+title: "GDevelop"
+description: |
+ "Full-featured, no-code, open-source game development software"
+pubDate: 2026-01-16T12:40:00Z
+categories: ["Development"]
+authors: ["Florian Rival"]
+tags:
+- "Game development"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+draft: false
+
+==> gdlauncher.md <==
+---
+title: "GDLauncher"
+description: |
+ "GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience"
+pubDate: 2025-01-12T12:28:00Z
+categories: ["Games"]
+authors: ["Gorilla Devs"]
+tags:
+- "Minecraft Launcher"
+architecture: 
+- "x86_64"
+license: ["BUSL-1.1"]
+draft: false
+---
+
+
+==> gdm-settings.md <==
+---
+title: "GDM Settings"
+description: |
+ "A settings app for GNOME's Login Manager, GDM"
+pubDate: 2024-11-27T22:19:00Z
+categories: ["System"]
+authors: ["Mazhar Hussain"]
+tags:
+- "Appearance"
+- "GTK4"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+draft: false
+---
+
+==> gimp.md <==
+---
+title: "GIMP"
+description: |
+ "The Free & Open Source Image Editor"
+pubDate: 2025-12-14T22:32:00Z
+categories: ["Graphics"]
+authors: ["GIMP’s Team"]
+tags:
+- "Image editing"
+- "GTK+3"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> gitbutler.md <==
+---
+title: "GitButler"
+description: |
+ "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte."
+pubDate: 2025-01-20T20:19:00Z
+categories: ["Development"]
+authors: ["GitButler"]
+tags:
+- "Git client"
+- "Tauri"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["FSL-1.0-MIT"]
+draft: false
+
+==> gitfourchette.md <==
+---
+title: "GitFourchette"
+description: |
+ "The comfortable Git UI for Linux."
+pubDate: 2026-02-02T01:54:00Z
+categories: ["Development"]
+authors: ["Iliyas Jorio"]
+tags:
+- "Git client"
+- "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> glaxnimate.md <==
+---
+title: "Glaxnimate"
+description: |
+ "Simple vector animation program."
+pubDate: 2025-02-05T17:25:00Z
+categories: ["Graphics"]
+authors: ["Mattia Basaglia"]
+tags:
+- "2D"
+- "Vector graphics editor"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> glint.md <==
+---
+title: "Glint"
+description: |
+ "A Graphical interface for Git"
+pubDate: 2025-10-31T19:51:00Z
+categories: ["Development"]
+authors: ["Logic Over Snacks"]
+tags:
+- "Git client"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+---
+
+
+==> goofcord.md <==
+---
+title: "GoofCord"
+description: |
+ "Take control of your Discord experience with GoofCord – the highly configurable and privacy-focused Discord client"
+pubDate: 2026-01-17T13:54:00Z
+categories: ["Network"]
+authors: ["Milkshift"]
+tags:
+- "Messenger"
+- "Discord client"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["OSL-3.0"]
+draft: false
+
+==> gyroflow.md <==
+---
+title: "Gyroflow"
+description: |
+ "Video stabilization using gyroscope data"
+pubDate: 2025-09-04T17:41:00Z
+categories: ["AudioVideo"]
+authors: ["Gyroflow Team"]
+tags: 
+- "Video stabilization"
+- "Cross-platform software"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> hayase.md <==
+---
+title: "Hayase"
+description: |
+ "Stream anime torrents, real-time with no waiting for downloads"
+pubDate: 2026-01-20T00:00:00Z
+categories: ["Network"]
+authors: ["Cas"]
+tags:
+- "Anime"
+- "Torrent client"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> headlamp.md <==
+---
+title: "Headlamp"
+description: |
+ "A Kubernetes web UI that is fully-featured, user-friendly and extensible"
+pubDate: 2025-12-17T16:45:00Z
+categories: ["Development"]
+authors: ["The Headlamp Contributors"]
+tags:
+- "DevOps"
+- "Kubernetes"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
+
+==> helio.md <==
+---
+title: "Helio"
+description: |
+ "Free and open-source music sequencer for desktop and mobile platforms"
+pubDate: 2025-12-07T19:29:00Z
+categories: ["AudioVideo"]
+authors: ["Peter Rudenko and contributors"]
+tags:
+- "Audio editor"
+- "JUCE"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+==> helix.md <==
+---
+title: "Helix"
+description: |
+ "A post-modern modal text editor."
+pubDate: 2025-07-18T18:13:00Z
+categories: ["Development"]
+authors: ["Blaž Hrastnik"]
+tags:
+- "Code editor"
+- "TUI"
+architecture: 
+- "x86_64"
+license: ["MPL-2.0"]
+draft: false
+---
+
+==> heroic.md <==
+---
+title: "Heroic Games Launcher"
+description: |
+ "A Native GOG, Amazon and Epic Games Launcher"
+pubDate: 2026-01-26T20:18:00Z
+categories: ["Games"]
+authors: ["Heroic Games Launcher Authors"]
+tags:
+- "Game Launcher"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> hotspot.md <==
+---
+title: "Hotspot"
+description: |
+ "Linux perf GUI for performance analysis."
+pubDate: 2026-01-15T00:35:00Z
+categories: ["System"]
+authors: ["Klarälvdalens Datakonsult"]
+tags: 
+- "Resource Monitor"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> imhex.md <==
+---
+title: "ImHex"
+description: |
+ "ImHex is a feature-rich Hex Editor."
+pubDate: 2025-12-21T21:57:00Z
+categories: ["Development"]
+authors: ["WerWolv"]
+tags:
+- "Hex editor"
+- "GTK+3"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-2.0"]
+draft: false
+
+==> inkscape.md <==
+---
+title: "Inkscape"
+description: |
+ "A Free and open source vector graphics editor"
+pubDate: 2025-12-25T15:35:00Z
+categories: ["Graphics"]
+authors: ["Inkscape Authors"]
+tags:
+- "Vector graphics editor"
+- "GTK4"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> insomnia.md <==
+---
+title: "Insomnia"
+description: |
+ "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC"
+pubDate: 2026-01-15T04:39:00Z
+categories: ["Development"]
+authors: ["Kong"]
+tags:
+- "API Testing"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+==> jitsi.md <==
+---
+title: "Jitsi Meet"
+description: |
+ "Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+pubDate: 2025-10-04T11:44:00Z
+categories: ["Network"]
+authors: ["Jitsi team"]
+tags: 
+- "Conference calling"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["Apache-2.0"]
+
+==> joplin.md <==
+---
+title: "Joplin"
+description: |
+ "The secure note taking and to-do app with synchronisation capabilities"
+pubDate: 2026-01-18T23:10:00Z
+categories: ["Productivity"]
+authors: ["Laurent Cozic"]
+tags: 
+- "Notes"
+- "To-do"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+
+==> kdenlive.md <==
+---
+title: "Kdenlive"
+description: |
+ "Free and Open Source Video Editor"
+pubDate: 2025-12-18T16:44:00Z 	
+categories: ["AudioVideo"]
+authors: ["Kdenlive Team"]
+tags: 
+- "Video Editor"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> kdiskmark.md <==
+---
+title: "KDiskMark"
+description: |
+ "A simple open-source disk benchmark tool for Linux distros"
+pubDate: 2025-06-21T15:13:00Z
+categories: ["Utilities"]
+authors: ["Dmitry Sidorov"]
+tags:
+- "Benchmarking"
+- "Resource monitor"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> keepassxc.md <==
+---
+title: "KeePassXC"
+description: |
+ "KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information"
+pubDate: 2025-11-25T03:44:00Z
+categories: ["Utilities"]
+authors: ["KeePassXC Team"]
+tags:
+- "Offline password manager"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> koodo.md <==
+---
+title: "Koodo Reader"
+description: |
+ "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web"
+pubDate: 2026-01-06T03:33:00Z
+categories: ["Productivity"]
+authors: ["App by Troye"]
+tags:
+- "eBook reader"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["AGPL-3.0"]
+
+==> kopia.md <==
+---
+title: "KopiaUI"
+description: |
+ "Cross-platform backup tool"
+pubDate: 2025-12-02T21:37:00Z
+categories: ["Network"]
+authors: ["Kopia Authors"]
+tags:
+- "Backup tool"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
+license: ["Apache-2.0"]
+
+==> koreader.md <==
+---
+title: "KOReader"
+description: |
+ "An ebook reader application"
+pubDate: 2025-11-01T14:16:00Z
+categories: ["Productivity"]
+authors: ["KOReader Community"]
+tags:
+- "eBook reader"
+- "Lua"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["AGPL-3.0"]
+draft: false
+
+==> krita.md <==
+---
+title: "Krita"
+description: |
+ "Krita is a professional free and open source painting program"
+pubDate: 2026-01-24T13:30:00Z
+categories: ["Graphics"]
+authors: ["Stichting Krita Foundation"]
+tags:
+- "Painting software"
+- "Photo editor"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> ksnip.md <==
+---
+title: "ksnip"
+description: |
+ "ksnip the cross-platform screenshot and annotation tool"
+pubDate: 2024-01-20T01:49:00Z
+categories: ["Graphics"]
+authors: ["Damir Porobić"]
+tags:
+- "Screenshot tool"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> laigter.md <==
+---
+title: "Laigter"
+description: |
+ "Laigter is a tool that automatically generates maps for dynamic lighting effects in games"
+pubDate: 2025-12-16T20:51:00Z
+categories: ["Graphics"]
+authors: ["Pablo Ivan Fonovich"]
+tags:
+- "Gaming tool"
+- "Game development"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> legcord.md <==
+---
+title: "Legcord"
+description: |
+ "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight"
+pubDate: 2025-10-05T15:25:00Z
+categories: ["Network"]
+authors: ["Legcord"]
+tags:
+- "Messenger" 
+- "Discord client"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
+
+==> lens.md <==
+---
+title: "Lens"
+description: |
+ "Lens is the most powerful IDE for Kubernetes developers and operators"
+pubDate: 2025-12-12T10:14:00Z
+categories: ["Development"]
+authors: ["Mirantis"]
+tags:
+- "IDE"
+- "Kubernetes"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+
+==> leocad.md <==
+---
+title: "LeoCAD"
+description: |
+ "A CAD application for creating virtual LEGO models"
+pubDate: 2025-09-02T03:31:00Z
+categories: ["Graphics"]
+authors: ["Leonardo Zide"]
+tags:
+- "CAD"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> librecad.md <==
+---
+title: "LibreCAD"
+description: |
+ "LibreCAD is a 2D Computer Aided Design (CAD) application for creating plans and designs on your computer"
+pubDate: 2026-01-11T23:47:00Z
+categories: ["Graphics"]
+authors: ["LibreCAD Contributors"]
+tags:
+- "2D"
+- "CAD"
+- "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> libreoffice.md <==
+---
+title: "LibreOffice"
+description: |
+ "Free open source office suite"
+pubDate: 2025-12-18T14:18:00Z
+categories: ["Productivity"]
+authors: ["The Document Foundation"]
+tags:
+- "Office Suite"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+
+==> librewolf.md <==
+---
+title: "LibreWolf"
+description: |
+ "A custom version of Firefox, focused on privacy, security and freedom."
+pubDate: 2026-01-14T01:35:00Z
+categories: ["Network"]
+authors: ["LibreWolf"]
+tags:
+- "Firefox-based"
+- "Browser"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MPL-2.0"]
+draft: false
+
+==> linphone.md <==
+---
+title: "Linphone"
+description: |
+ "Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling"
+pubDate: 2025-11-12T14:16:00Z
+categories: ["Network"]
+authors: ["Belledonne Communications"]
+tags:
+- "SIP Phone"
+- "Conference calling"
+- "Cross-platform software"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+
+==> lite-xl.md <==
+---
+title: "Lite XL"
+description: |
+ "A lightweight text editor written in Lua"
+pubDate: 2025-06-09T01:58:00Z
+categories: ["Development"]
+authors: ["Lite XL Team"]
+tags:
+- "Code editor"
+- "SDL3"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+==> lmms.md <==
+---
+title: "LMMS"
+description: |
+ "LMMS is an open-source cross-platform digital audio workstation designed for music production."
+pubDate: 2021-12-13T02:07:00Z
+categories: ["AudioVideo"]
+authors: ["LMMS"]
+tags:
+- "DAW"
+- "Audio Editor"
+- "Qt5"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-2.0"]
+
+==> lmstudio.md <==
+---
+title: "LM Studio"
+description: |
+ "Discover, download, and run local LLMs"
+pubDate: 2026-01-15T00:00:00Z
+categories: ["Productivity"]
+authors: ["Element Labs"]
+tags: 
+- "AI-powered software"
+- "Chatbot"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["EULA"]
+draft: false
+
+==> localsend.md <==
+---
+title: "Localsend"
+description: |
+ "Open source cross-platform alternative to AirDrop"
+pubDate: 2025-02-20T04:23:00Z
+categories: ["Network"]
+authors: ["Tien Do Nam"]
+tags:
+- "Sending files"
+- "Flutter"
+- "Cross-platform software"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+
+==> logseq.md <==
+---
+title: "Logseq"
+description: |
+ "A privacy-first, open-source platform for knowledge management and collaboration"
+pubDate: 2025-12-01T15:33:00Z
+categories: ["Productivity"]
+authors: ["Logseq"]
+tags:
+- "Knowledge base"
+- "Electron"
+- "Cross-platform software"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+draft: false
+
+==> lossless-cut.md <==
+---
+title: "Lossless-cut"
+description: |
+ "Simple and ultra fast cross platform tool for lossless trimming/cutting of video and audio files."
+pubDate: 2025-12-04T19:30:00Z
+categories: ["AudioVideo"]
+authors: ["Mikael Finstad"]
+tags:
+- "Video editor"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> lunar.md <==
+---
+title: "Lunar"
+description: |
+ "A modpack for all modern versions of Minecraft"
+pubDate: 2025-12-18T00:00:00Z
+categories: ["Games"]
+authors: ["Moonsworth"]
+tags:
+- "Game launcher"
+- "Minecraft launcher"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> lunatask.md <==
+---
+title: "Lunatask"
+description: |
+ "All-in-one encrypted to-do list, habit and mood tracker, journaling and notes app"
+pubDate: 2025-12-22T20:02:00Z
+categories: ["Productivity"]
+authors: ["Michal Krejci"]
+tags:
+- "Notes"
+- "To-do"
+- "Cross-platform software"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+
+==> lychee.md <==
+---
+title: "Lychee"
+description: |
+ "Lychee simplifies the printing process and makes 3D printing accessible to everyone by offering the most innovative and user-friendly solutions."
+pubDate: 2025-12-17T00:00:00Z
+categories: ["Graphics"]
+authors: ["Mango 3D"]
+tags:
+- "3D"
+- "Slicing software"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+---
+
+==> makoureactor.md <==
+---
+title: "Makoureactor"
+description: |
+ "Final Fantasy VII field archive editor"
+pubDate: 2026-01-12T01:03:00Z
+categories: ["Games"]
+authors: ["Jérôme Arzel"]
+tags:
+- Games
+- Qt6
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> mendeley.md <==
+---
+title: "Mendeley"
+description: |
+ "The free all-in-one reference manager"
+pubDate: 2026-01-20T00:00:00Z
+categories: ["Science"]
+authors: ["Elsevier"]
+tags:
+- "Reference manager"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+---
+
+
+==> mochi.md <==
+---
+title: "Mochi"
+description: |
+ "Take notes and make flashcards using markdown, then study them using spaced repetition."
+pubDate: 2026-01-27T00:00:00Z
+categories: ["Productivity"]
+authors: ["Mochi Cards"]
+tags:
+- "Notes"
+- "Cross-platform software"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+---
+
+==> modrinth.md <==
+---
+title: "Modrinth"
+description: |
+ "Open-source mod platform, built by the community, for the community."
+pubDate: 2025-12-12T23:55:00Z
+categories: ["Games"]
+authors: ["Rinth"]
+tags:
+- "Gaming tool"
+- "Mod marketplace"
+- "Tauri"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> moonlight.md <==
+---
+title: "Moonlight"
+description: |
+ "Moonlight PC is an open source PC client for NVIDIA GameStream and Sunshine."
+pubDate: 2024-09-17T04:35:00Z
+categories: ["Games"]
+authors: ["Moonlight Game Streaming Project"]
+tags:
+- "Remote play"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> mqttx.md <==
+---
+title: "MQTTX"
+description: |
+ "MQTTX makes developing and testing MQTT applications faster and easier.."
+pubDate: 2025-09-30T12:09:00Z
+categories: ["Development"]
+authors: ["EMQX Team"]
+tags: 
+- "API Testing"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["Apache-2.0"]
+draft: false
+
+==> muffon.md <==
+---
+title: "muffon"
+description: |
+ "Advanced multi-source music streaming"
+pubDate: 2025-08-19T11:36:00Z
+categories: ["AudioVideo"]
+authors: ["Aleksey Shpakovsky"]
+tags: 
+- "Music streaming client"
+- "SoundCloud client"
+- "YouTube Music client"
+- "YouTube Client"
+- "Electron"
+architecture: 
+- "x86_64"
+
+==> muse.md <==
+---
+title: "MusE"
+description: |
+ "MusE is a digital audio workstation with support for both Audio and MIDI"
+pubDate: 2025-02-21T00:59:00Z
+categories: ["AudioVideo"]
+authors: ["The MusE development team"]
+tags:
+- "Audio editor"
+- "DAW"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+
+==> musecore.md <==
+---
+title: "MuseScore"
+description: |
+ "MuseScore is an open source and free music notation software"
+pubDate: 2025-12-18T17:09:00Z
+categories: ["AudioVideo"]
+authors: ["MuseScore BVBA"]
+tags:
+- "Audio editor"
+- "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> museeks.md <==
+---
+title: "museeks"
+description: |
+ "A simple, clean and cross-platform music player"
+pubDate: 2025-09-22T17:11:00Z
+categories: ["AudioVideo"]
+authors: ["Pierre de la Martinière"]
+tags:
+- "Offline music player"
+- "Tauri"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+draft: false
+
+==> mypaint.md <==
+---
+title: "MyPaint"
+description: |
+ "A fast and dead-simple painting app for artists"
+pubDate: 2020-07-10T12:28:00Z
+categories: ["Graphics"]
+authors: ["MyPaint Development Team"]
+tags:
+- "Painting software"
+- "GTK+3"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> naev.md <==
+---
+title: "Naev"
+description: |
+ "Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres."
+pubDate: 2025-08-31T05:06:00Z
+categories: ["Games"]
+authors: ["Naev DevTeam"]
+tags: 
+- "OSS Game"
+- "RPG"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> neovim.md <==
+---
+title: "Neovim"
+description: |
+ "Vim-fork focused on extensibility and usability"
+pubDate: 2026-01-19T08:21:00Z
+categories: ["Development"]
+authors: ["Neovim contributors"]
+tags:
+- "Code editor"
+- "TUI"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["Apache-2.0"]
+draft: false
+
+==> nextcloud.md <==
+---
+title: "Nextcloud"
+description: |
+ "Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform."
+pubDate: 2025-12-15T21:39:00Z
+categories: ["Network"]
+authors: ["Nextcloud"]
+tags:
+- "Collaboration platform"
+- "Qt6"
+- "Cross-platform software"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+
+==> nexusmods.md <==
+---
+title: "The Nexus Mods app"
+description: |
+ "Mod installer, creator and manager for all your popular games."
+pubDate: 2025-11-17T12:54:00Z
+categories: ["Games"]
+authors: ["Black Tree Gaming Ltd"]
+tags:
+- "Gaming tool"
+- "Mod marketplace"
+- "Avalonia"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> nora.md <==
+---
+title: "Nora"
+description: |
+ "An elegant music player built using Electron and React"
+pubDate: 2025-12-23T12:28:00Z
+categories: ["AudioVideo"]
+authors: ["Sandakan Nipunajith"]
+tags:
+- "Offline music player"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+==> notepadnext.md <==
+---
+title: "NotepadNext"
+description: |
+ "A cross-platform, reimplementation of Notepad++"
+pubDate: 2026-01-25T23:21:00Z
+categories: ["Development"]
+authors: ["Justin Dailey"]
+tags:
+- "Code editor"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> notes.md <==
+---
+title: "Notes"
+description: |
+ "Notes is an open source and cross-platform note-taking app that is both beautiful and powerful"
+pubDate: 2024-10-01T15:59:00Z
+categories: ["Productivity"]
+authors: ["Ruby Mamistvalove"]
+tags:
+- "Notes"
+- "Qt6"
+license: ["MPL-2.0"]
+draft: false
+---
+
+Notes is an open source and cross-platform note-taking app that is both beautiful and powerful
+
+==> notesnook.md <==
+---
+title: "Notesnook"
+description: |
+ "End-to-end encrypted note taking alternative to Evernote."
+pubDate: 2026-01-16T13:05:00Z
+categories: ["Productivity"]
+authors: ["Streetwriters"]
+tags:
+- "Notes"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> nuclear.md <==
+---
+title: "Nuclear"
+description: |
+ "Streaming music player that finds free music for you"
+pubDate: 2025-06-11T01:31:00Z
+categories: ["AudioVideo"]
+authors: ["nukeop"]
+tags:
+- "Music streaming client"
+- "YouTube Music client"
+- "Soundcloud client"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+
+==> nvtop.md <==
+---
+title: "nvtop"
+description: |
+ "GPUs process monitoring for AMD, Intel and NVIDIA"
+pubDate: 2026-01-18T16:18:00Z
+categories: ["Utilities"]
+authors: ["Maxime Schmitt"]
+tags:
+- "Resource Monitor"
+- "GPU"
+- "TUI"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> obsidian.md <==
+---
+title: "Obsidian"
+description: |
+ "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files"
+pubDate: 2026-01-20T21:39:00Z
+categories: ["Productivity"]
+authors: ["Obsidian Team"]
+tags:
+- "Knowledge Base"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["EULA"]
+
+==> onekeepass.md <==
+---
+title: "OneKeePass"
+description: |
+ "OneKeePass is a cross-platform, open source and secure password manager"
+pubDate: 2025-11-10T20:55:00Z
+categories: ["Utilities"]
+authors: ["jeyasankar"]
+tags:
+- "Offline password manager"
+- "Tauri"
+license: ["GPL-3.0"]
+draft: false
+---
+
+<img src="https://raw.githubusercontent.com/OneKeePass/desktop/refs/heads/main/screenshots/entrycategory-type-allentries.jpg" alt="Main Window">
+
+==> onekey.md <==
+---
+title: "OneKey"
+description: |
+ "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions"
+pubDate: 2026-01-07T09:16:00Z
+categories: ["Finance"]
+authors: ["OneKey"]
+tags:
+- "Cryptocurrency"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["Apache-2.0"]
+
+==> onlyoffice.md <==
+---
+title: "OnlyOffice"
+description: |
+ "Free office suite that combines text, spreadsheet and presentation editors"
+pubDate: 2025-12-01T16:25:00Z
+categories: ["Productivity"]
+authors: ["Ascensio System"]
+tags:
+- "Office Suite"
+- "Cross-platform software"
+- "Qt6"
+- "GTK+3"
+architecture: 
+- "x86_64"
+- "arm64"
+
+==> ooni-probe.md <==
+---
+title: "OONI Probe"
+description: |
+ "OONI Probe is a free and open source software designed to measure internet censorship and other forms of network interference."
+pubDate: 2025-06-23T20:56:00Z
+categories: ["Science"]
+authors: ["Open Observatory of Network Interference (OONI)"]
+tags:
+- "Censorship-resistance software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["BSD-3-Clause"]
+draft: false
+---
+
+==> openrgb.md <==
+---
+title: "OpenRGB"
+description: |
+ "Open source RGB lighting control that doesn't depend on manufacturer software"
+pubDate: 2025-09-14T22:32:00Z
+categories: ["Utilities"]
+authors: ["Adam Honse"]
+tags:
+- "Hardware controller"
+- "RGB lighting control"
+- "Qt5"
+architecture: 
+- "x86_64"
+- "x86"
+- "arm64"
+
+==> openscad.md <==
+---
+title: "OpenSCAD"
+description: |
+ "The Programmers Solid 3D CAD Modeller"
+pubDate: 2025-12-23T17:27:00Z
+categories: ["Graphics"]
+authors: ["Marius Kintel"]
+tags:
+- "3D"
+- "CAD"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> openshot.md <==
+---
+title: "OpenShot"
+description: |
+ "OpenShot Video Editor is an award-winning free and open-source video editor"
+pubDate: 2025-12-16T10:26:00Z
+categories: ["AudioVideo"]
+authors: ["OpenShot Studios"]
+tags:
+- "Video Editor"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> ossia-score.md <==
+---
+title: "Ossia Score"
+description: |
+ "ossia score is a sequencer for audio-visual artists, designed to create interactive shows."
+pubDate: 2026-01-26T16:39:00Z
+categories: ["AudioVideo"]
+authors: ["ossia.io Contributors"]
+tags:
+- "Sequencer"
+- "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> osu.md <==
+---
+title: "osu!"
+description: |
+ "Free-to-win rhythm game"
+pubDate: 2026-01-19T13:39:00Z
+categories: ["Games"]
+authors: ["Dean Herbert"]
+tags:
+- "OSS Game"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+
+==> ow-mod-man.md <==
+---
+title: "Outer Wilds Mod Manager"
+description: |
+ "The mod manager for the Outer Wilds Mod Loader"
+pubDate: 2025-07-25T05:34:00Z
+categories: ["Games"]
+authors: ["Outer Wilds Mods"]
+tags: 
+- "Game Mods"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+
+==> owncloud.md <==
+---
+title: "ownCloud"
+description: |
+ "Open-source software for highly secure, borderless collaboration and filesharing on any device"
+pubDate: 2025-11-11T16:04:00Z
+categories: ["Network"]
+authors: ["ownCloud"]
+tags:
+- "Collaboration platform"
+- "Cross-platform software"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+
+==> passy.md <==
+---
+title: "Passy"
+description: |
+ "Offline password manager with cross-platform synchronization"
+pubDate: 2025-05-24T23:59:00Z
+categories: ["Utilities"]
+authors: ["GlitterWare"]
+tags:
+- "Offline password manager"
+- "Flutter"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> pcsx2.md <==
+---
+title: "PCSX2"
+description: |
+ "Free and open-source PlayStation 2 (PS2) emulator"
+pubDate: 2026-01-06T02:46:00Z
+categories: ["Games"]
+authors: ["PCSX2 Team"]
+tags:
+- "PlayStation Emulator"
+- "Console Emulator"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> pencil2d.md <==
+---
+title: "Pencil2D"
+description: |
+ "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform."
+pubDate: 2024-07-12T11:36:00Z
+categories: ["Graphics"]
+authors: ["Pencil2D"]
+tags:
+- "2D"
+- "Painting software"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+
+==> photoqt.md <==
+---
+title: "PhotoQt"
+description: |
+ "PhotoQt is a simple yet powerful and good looking image viewer, based on Qt/QML, published as open-source and completely free"
+pubDate: 2026-01-16T11:15:00Z
+categories: ["Graphics"]
+authors: ["Lukas Spies"]
+tags:
+- "Image viewer"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> play.md <==
+---
+title: "Play!"
+description: |
+ "Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms"
+pubDate: 2025-05-27T15:48:00Z
+categories: ["Games"]
+authors: ["Jean-Philip Desjardins"]
+tags:
+- "PlayStation Emulator"
+- "Console Emulator"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["BSD-2-Clause"]
+draft: false
+
+==> prismlauncher.md <==
+---
+title: "Prism Launcher"
+description: |
+ "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)"
+pubDate: 2026-01-11T22:00:00Z
+categories: ["Games"]
+authors: ["Prism Launcher Contributors"]
+tags:
+- "Minecraft launcher"
+- "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> protonup-qt.md <==
+---
+title: "ProtonUp-Qt"
+description: |
+ "Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface"
+pubDate: 2025-09-22T16:56:00Z
+categories: ["Games"]
+authors: ["DavidoTek"]
+tags:
+- "Wine version manager"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> pulsar.md <==
+---
+title: "Pulsar"
+description: |
+ "A Community-led Hyper-Hackable Text Editor"
+pubDate: 2025-10-10T03:15:00Z
+categories: ["Development"]
+authors: ["Pulsar-Edit Original work"]
+tags:
+- "Code editor"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+draft: false
+
+==> pydt.md <==
+---
+title: "PYDT"
+description: |
+ "Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management."
+pubDate: 2025-07-06T21:19:00Z
+categories: ["Games"]
+authors: ["Michael Rosack"]
+tags:
+- "Game client"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+==> pyfa.md <==
+---
+title: "pyfa"
+description: |
+ "Python fitting assistant, cross-platform fitting tool for EVE Online"
+pubDate: 2025-12-11T22:05:00Z
+categories: ["Games"]
+authors: ["Diego Duclos"]
+tags:
+- "Game client"
+- "WxWidgets"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> qbittorrent-enhanced-edition.md <==
+---
+title: "qBittorrent-Enhanced-Edition"
+description: |
+ "qBittorrent is a bittorrent client programmed in C++ / Qt"
+pubDate: 2025-11-15T19:20:00Z
+categories: ["Network"]
+authors: ["c0re100"]
+tags:
+- "Torrent client"
+- "Download manager"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+
+==> qfield.md <==
+---
+title: "QField"
+description: |
+ "Geodata collection app."
+pubDate: 2026-01-11T18:28:00Z
+categories: ["Science"]
+authors: ["OPENGIS.ch"]
+tags:
+- "Geodata"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> qmplay2.md <==
+---
+title: "QMPlay2"
+description: |
+ "QMPlay2 is a video and audio player which can play most formats and codecs."
+pubDate: 2025-09-11T22:27:00Z
+categories: ["AudioVideo"]
+authors: ["Błażej Szczygieł"]
+tags:
+- "Media player"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["LGPL-3.0"]
+draft: false
+---
+
+==> qownnotes.md <==
+---
+title: "QOwnNotes"
+description: |
+ "Open source notepad with Markdown support and todo list manager for GNU/Linux"
+pubDate: 2026-01-17T16:08:00Z
+categories: ["Productivity"]
+authors: ["Patrizio Bekerle"]
+tags:
+- "Notes"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> qview.md <==
+---
+title: "qView"
+description: |
+ "Practical and minimal image viewer"
+pubDate: 2025-07-27T01:25:00Z
+categories: ["Graphics"]
+authors: ["Benjamin O"]
+tags:
+- "Image Viewer"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> rapidraw.md <==
+---
+title: "RapidRAW"
+description: |
+ "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind."
+pubDate: 2026-01-27T00:06:00Z
+categories: ["Graphics"]
+authors: ["Timon Käch"]
+tags:
+- "RAW processing"
+- "Image editor"
+- "Tauri"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["AGPL-3.0"]
+
+==> rare.md <==
+---
+title: "Rare"
+description: |
+ "Frontend for legendary, the open source Epic Games Launcher alternative"
+pubDate: 2025-12-27T13:42:00Z
+categories: ["Games"]
+authors: ["Rare Devs"]
+tags:
+- "Epic Games"
+- "Game launcher"
+- "Qt6"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> rawtherapee.md <==
+---
+title: "RawTherapee"
+description: |
+ "RawTherapee is a free, cross-platform raw image processing program"
+pubDate: 2025-05-28T09:47:00Z
+categories: ["Graphics"]
+authors: ["The RawTherapee Team"]
+tags:
+- "RAW processing"
+- "Image editor"
+- "GTK+3"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> retroarch.md <==
+---
+title: "RetroArch"
+description: |
+ "RetroArch is the reference frontend for the libretro API"
+pubDate: 2025-12-11T02:19:00Z
+categories: ["Games"]
+authors: ["Florian Märkl"]
+tags:
+- Game Simulator
+- Retro Game Simulator
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> ricochet-refresh.md <==
+---
+title: "Ricochet Refresh"
+description: |
+ "Anonymous peer-to-peer instant messaging"
+pubDate: 2026-01-28T16:18:00Z
+categories: ["Network"]
+authors: ["Blueprint for Free Speech"]
+tags:
+- "Messenger"
+- "Censorship-resistance software"
+- "Qt5"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> rpcs3.md <==
+---
+title: "RPCS3"
+description: |
+ "Free and Open-source PlayStation 3 emulator/debugger"
+pubDate: 2026-01-17T11:22:00Z
+categories: ["Games"]
+authors: ["RPCS3 Authors"]
+tags:
+- "Console emulator"
+- "PlayStation emulator"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> rssguard.md <==
+---
+title: "RSS Guard"
+description: |
+ "Simple RSS/ATOM feed reader"
+pubDate: 2026-01-17T11:56:00Z
+categories: ["Network"]
+authors: ["Martin Rotter"]
+tags:
+- "RSS"
+- "News Reader"
+- "Podcast player"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+
+==> rustdesk.md <==
+---
+title: "RustDesk"
+description: |
+ "An open-source remote desktop, and alternative to TeamViewer"
+pubDate: 2026-01-09T06:03:00Z
+categories: ["Utilities"]
+authors: ["RustDesk"]
+tags:
+- "Remote control"
+- "Flutter"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["AGPL-3.0"]
+draft: false
+
+==> s3drive.md <==
+---
+title: "S3Drive"
+description: |
+ "Zero Knowledge E2E encrypted storage compatible with multiple providers"
+pubDate: 2026-01-12T12:52:00Z
+categories: ["Network"]
+authors: ["Cloud storage"]
+tags: 
+- "Cloud storage client"
+- "Cross-platform software"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+---
+
+==> saber.md <==
+---
+title: "Saber"
+description: |
+ "Cross-platform libre handwritten notes app"
+pubDate: 2026-02-01T23:16:00Z
+categories: ["Productivity"]
+authors: ["Adil Hanney"]
+tags:
+- "Notes"
+- "Handwriting"
+- "Cross-platform software"
+- "Flutter"
+architecture: 
+- "x86_64"
+- "arm64"
+
+==> schildichat.md <==
+---
+title: "SchildiChat"
+description: |
+ "Matrix client / Element Desktop fork."
+pubDate: 2025-08-15T18:13:00Z
+categories: ["Network"]
+authors: ["SchildiChat"]
+tags:
+- "Messenger"
+- "Matrix"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["Apache-2.0"]
+
+==> scribus.md <==
+---
+title: "Scribus"
+description: |
+ "Powerful desktop publishing software"
+pubDate: 2026-01-10T03:32:00Z
+categories: ["Productivity"]
+authors: ["The Scribus Team"]
+tags:
+- "DTP"
+- "Publishing"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+
+==> session.md <==
+---
+title: "Session"
+description: |
+ "Session Desktop - Onion routing based messenger."
+pubDate: 2026-01-08T02:42:00Z
+categories: ["Network"]
+authors: ["The Oxen Project"]
+tags:
+- "Messenger"
+- "Censorship-resistance software"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+
+==> shotcut.md <==
+---
+title: "Shotcut"
+description: |
+ "Free, open source, cross-platform video editor"
+pubDate: 2025-12-31T03:10:00Z
+categories: ["AudioVideo"]
+authors: ["Meltytech"]
+tags:
+- "Video Editor"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> simplex-chat.md <==
+---
+title: "SimpleX Chat"
+description: |
+ "First messaging platform that has no user identifiers of any kind"
+pubDate: 2025-12-10T23:12:00Z
+categories: ["Network"]
+authors: ["SimpleX Chat"]
+tags:
+- "Messenger"
+- "Censorship-resistance software"
+- "Cross-platform software"
+- "Java"
+architecture: 
+- "x86_64"
+- "arm64"
+
+==> siyuan.md <==
+---
+title: "Siyuan"
+description: |
+ "A privacy-first, self-hosted, fully open source personal knowledge management software."
+pubDate: 2025-12-23T06:41:00Z
+categories: ["Productivity"]
+authors: ["Yunnan Liandi Technology"]
+tags:
+- "Knowledge base"
+- "AI-powered software"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+
+==> sleek.md <==
+---
+title: "Sleek"
+description: |
+ "Open-source (FOSS) todo manager based on the todo.txt syntax"
+pubDate: 2025-11-30T10:37:00Z
+categories: ["Productivity"]
+authors: ["Robin Ahle"]
+tags:
+- "To-do"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MIT"]
+draft: false
+
+==> smplayer.md <==
+---
+title: "SMPlayer"
+description: |
+ "Free Media Player with built-in codecs"
+pubDate: 2026-01-12T12:34:00Z
+categories: ["AudioVideo"]
+authors: ["Ricardo Villalba"]
+tags:
+- "Media player"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> spotify-qt.md <==
+---
+title: "spotify-qt"
+description: |
+ "Lightweight Spotify client using Qt."
+pubDate: 2025-07-26T00:58:00Z
+categories: ["AudioVideo"]
+authors: ["kraxie"]
+tags:
+- "Music streaming client"
+- "Spotify client"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> sqlitebrowser.md <==
+---
+title: "DB Browser for SQLite"
+description: |
+ "High quality, visual, open source tool to create, design, and edit database files compatible with SQLite"
+pubDate: 2026-01-03T21:49:00Z
+categories: ["Development"]
+authors: ["DB Browser for SQLite Team"]
+tags:
+- "Database"
+- "SQL"
+- "Qt5"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> standard-notes.md <==
+---
+title: "Standard Notes"
+description: |
+ "End-to-end encrypted note-taking app for digitalists and professionals"
+pubDate: 2026-01-16T23:03:00Z
+categories: ["Productivity"]
+authors: ["Standard Notes"]
+tags:
+- "Notes"
+- "Electron"
+- "Cross-platform software"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["AGPL-3.0"]
+
+==> starc.md <==
+---
+title: "Story Architect"
+description: |
+ "All in one screenwriting app"
+pubDate: 2025-12-09T19:00:00Z
+categories: ["Productivity"]
+authors: ["Story Apps"]
+tags:
+- "Screenwriting"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> stellarium.md <==
+---
+title: "Stellarium"
+description: |
+ "Stellarium is a free open source planetarium for your computer."
+pubDate: 2025-09-29T17:16:00Z
+categories: ["Science"]
+authors: ["Stellarium contributors"]
+tags:
+- "Planetarium"
+- "Qt6"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> sunshine.md <==
+---
+title: "Sunshine"
+description: |
+ "Self-hosted game stream host for Moonlight."
+pubDate: 2026-01-18T01:53:00Z
+categories: ["Games"]
+authors: ["LizardByte"]
+tags:
+- "Streaming software"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+---
+
+==> super-productivity.md <==
+---
+title: "superProductivity"
+description: |
+ "An advanced todo list app with timeboxing & time tracking capabilities that supports importing tasks from your calendar, Jira, GitHub and others"
+pubDate: 2026-01-18T16:44:00Z
+categories: ["Productivity"]
+authors: ["Johannes Millan"]
+tags:
+- "To-do"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+
+==> teams-for-linux.md <==
+---
+title: "Teams for Linux"
+description: |
+ "Unofficial Microsoft Teams for Linux client."
+pubDate: 2025-12-13T01:05:00Z
+categories: ["Network"]
+authors: ["Ismael Martinez"]
+tags: 
+- "Conference calling"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> tenacity.md <==
+---
+title: "tenacity"
+description: |
+ "Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor."
+pubDate: 2025-10-12T18:38:00Z
+categories: ["AudioVideo"]
+authors: ["Tenacity community"]
+tags:
+- "Audio editor"
+- "DAW"
+- "wxWidgets"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+
+==> theia.md <==
+---
+title: "Eclipse Theia"
+description: |
+ "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript."
+pubDate: 2025-12-10T19:06:00Z
+categories: ["Development"]
+authors: ["Eclipse Foundation"]
+tags:
+- "IDE"
+- "VSCode fork"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> tidal-hifi.md <==
+---
+title: "Tidal-Hifi"
+description: |
+ "The web version of TIDAL running in electron with Hi-Fi (High & Max) support thanks to widevine."
+pubDate: 2026-01-11T23:20:00Z
+slug: Tidal-Hifi
+categories: ["AudioVideo"]
+authors: ["Rick van Lieshout"]
+tags: 
+- "Music streaming client"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+
+==> tiled.md <==
+---
+title: "Tiled"
+description: |
+ "Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones."
+pubDate: 2025-01-28T04:42:00Z
+categories: ["Games"]
+authors: ["Tiled Authors"]
+tags: 
+- "Map Editor"
+- "Qt5"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> tockler.md <==
+---
+title: "Tockler"
+description: |
+ "An application that tracks your time by monitoring your active window title and idle time."
+pubDate: 2025-04-12T11:05:00Z
+categories: ["Productivity"]
+authors: ["Maigo Erit"]
+tags:
+- "Time management"
+- "Digital Wellbeing"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+
+==> todesktop.md <==
+---
+title: "ToDesktop"
+description: "Web app to desktop app in minutes"
+pubDate: 2025-12-11T00:00:00Z
+categories: ["Network"]
+authors: ["ToDesktop"]
+tags:
+- "Web apps management"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+---
+
+Web app to desktop app in minutes
+
+==> trezor.md <==
+---
+title: "Trezor"
+description: |
+ "Trezor desktop and web application for managing Trezor hardware wallet"
+pubDate: 2025-12-16T14:31:00Z
+categories: ["Finance"]
+authors: ["Trezor company"]
+tags:
+- "Cryptocurrency"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["Custom"]
+draft: false
+
+==> tutanota.md <==
+---
+title: "Tuta"
+description: |
+ "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
+pubDate: 2026-01-08T12:16:00Z
+categories: ["Network"]
+authors: ["Tutao"]
+tags:
+- "Mail Client"
+- "Censorship-resistance software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+draft: false
+
+==> ungoogled-chromium.md <==
+---
+title: "ungoogled-chromium"
+description: |
+ "ungoogled-chromium is Google Chromium, sans dependency on Google web services."
+pubDate: 2026-01-23T08:15:00Z
+categories: ["Network"]
+authors: ["The ungoogled-chromium Authors"]
+tags:
+- "Browser"
+- "Chromium"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["BSD-3-Clause"]
+draft: false
+
+==> upscayl.md <==
+---
+title: "Upscayl"
+description: |
+ "Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy."
+pubDate: 2024-12-25T16:44:00Z
+categories: ["Graphics"]
+authors: ["Nayam Amarshe"]
+tags:
+- "Upscaling software"
+- "AI-powered software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["AGPL-3.0"]
+draft: false
+
+==> vesktop.md <==
+---
+title: "Vesktop"
+description: |
+ "Vesktop is a custom Discord App aiming to give you better performance and improve linux support"
+pubDate: 2026-01-24T09:43:00Z
+categories: ["Network"]
+authors: ["Vendicated"]
+tags:
+- "Messenger"
+- "Discord client"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+
+==> vieb.md <==
+---
+title: "Vieb"
+description: |
+ "Vim Inspired Electron Browser"
+pubDate: 2025-11-03T01:13:00Z
+categories: ["Network"]
+authors: ["Jelmer van Arnhem"]
+tags:
+- "Browser"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
+
+==> vifm.md <==
+---
+title: "vifm"
+description: |
+ "File manager with curses interface"
+pubDate: 2025-06-04T20:43:00Z
+categories: ["System"]
+authors: ["vifm Authors"]
+tags:
+- "File Manager"
+- "ncurses"
+architecture: 
+- "x86_64"
+license: ["GPL-2.0"]
+draft: false
+---
+
+==> vscodium.md <==
+---
+title: "VSCodium"
+description: |
+ "Free/Libre Open Source Software Binaries of VS Code"
+pubDate: 2026-01-15T03:24:00Z
+categories: ["Development"]
+authors: ["The VSCodium contributors"]
+tags:
+- "Code editor"
+- "VSCode fork"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+
+==> warp.md <==
+---
+title: "Warp"
+description: |
+ "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster"
+pubDate: 2025-12-17T00:00:00Z
+categories: ["Utilities"]
+authors: ["Warp"]
+tags:
+- "Terminal"
+- "AI-powered software"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["EULA"]
+draft: false
+
+==> wavebox.md <==
+---
+title: "Wavebox"
+description: |
+ "Connect all the apps and websites you need to run your business and stay signed-in to every account"
+pubDate: 2026-01-21T13:11:00Z
+categories: ["Network"]
+authors: ["Wavebox"]
+tags:
+- "Web apps"
+- "Browser"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+---
+
+==> webcord.md <==
+---
+title: "WebCord"
+description: |
+ "A Discord and SpaceBar :electron:-based client implemented without Discord API."
+pubDate: 2025-11-18T03:55:00Z
+categories: ["Network"]
+authors: ["SpacingBat3"]
+tags:
+- "Messenger"
+- "Discord client"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+- "armv7l"
+
+==> wezterm.md <==
+---
+title: "Wezterm"
+description: |
+ "GPU-accelerated cross-platform terminal emulator and multiplexer"
+pubDate: 2024-02-03T21:32:00Z
+categories: ["System"]
+authors: ["Wez Furlong"]
+tags:
+- "Terminal"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+
+==> wire.md <==
+---
+title: "Wire"
+description: |
+ "Wire is the most secure platform for messaging, audio, and video calls, based on edge computing and zero knowledge architecture."
+pubDate: 2025-12-10T16:16:00Z
+categories: ["Network"]
+authors: ["Wire Swiss"]
+tags:
+- "Messenger"
+- "Censorship-resistance software"
+- "Cross-platform software"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["GPL-3.0"]
+
+==> wireguard-gui.md <==
+---
+title: "Wireguard GUI"
+description: |
+ "A wireguard client GUI for Linux made with nextauri"
+pubDate: 2025-10-27T20:18:00Z
+categories: ["Network"]
+authors: ["Wireguard GUI Contributors"]
+tags:
+- "VPN Client"
+- "Censorship-resistance software"
+- "Tauri"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["Apache 2.0"]
+
+==> wora.md <==
+---
+title: "Wora"
+description: |
+ "A beautiful player for audiophiles."
+pubDate: 2025-06-23T11:06:00Z
+categories: ["AudioVideo"]
+authors: ["Aaryan Kapoor"]
+tags:
+- "Offline music player"
+- "Electron"
+architecture: 
+- "x86_64"
+license: ["MIT"]
+draft: false
+---
+
+==> xemu.md <==
+---
+title: "xemu"
+description: |
+ "Free and open-source original Xbox game console emulation"
+pubDate: 2026-01-16T10:14:00Z
+categories: ["Games"]
+authors: ["xemu Project"]
+tags:
+- "Xbox emulator"
+- "Console emulator"
+- "SDL2"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-2.0"]
+
+==> xonsh.md <==
+---
+title: "xonsh"
+description: |
+ "Python-powered, cross-platform, Unix-gazing shell language and command prompt."
+pubDate: 2026-01-14T08:06:00Z
+categories: ["System"]
+authors: ["the xonsh developers"]
+tags:
+- "Shell language"
+architecture: 
+- "x86_64"
+license: ["BSD-2-Clause"]
+draft: false
+---
+
+
+==> xournalpp.md <==
+---
+title: "Xournal++"
+description: |
+ "Handwriting notetaking software with PDF annotation support"
+pubDate: 2025-12-22T01:12:00Z
+categories: ["Productivity"]
+authors: ["Xournal Team"]
+tags:
+- "Notes"
+- "Handwriting"
+- "GTK+3"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-2.0"]
+
+==> xpipe.md <==
+---
+title: "XPipe"
+description: |
+ "XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine"
+pubDate: 2025-12-06T13:01:00Z
+categories: ["Development"]
+authors: ["XPipe UG"]
+tags:
+- "Server Management"
+- "Kubernetes"
+- "Java"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["Apache-2.0"]
+
+==> zen-browser.md <==
+---
+title: "Zen Browser"
+description: |
+ "Performance-optimized and privacy-focused browser built atop Firefox"
+pubDate: 2026-01-25T01:49:00Z
+categories: ["Network"]
+authors: ["Zen Browser Team"]
+tags:
+- "Browser"
+- "Firefox-based"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["MPL-2.0"]
+draft: false
+
+==> zenkit.md <==
+---
+title: "Zenkit"
+description: |
+ "Project Management, Processes, Communication, Scheduling, Documents, and Knowledge Sharing – all in one platform."
+pubDate: 2025-12-18T00:00:00Z
+categories: ["Productivity"]
+authors: ["Axonic"]
+tags:
+- "Project Management"
+architecture: 
+- "x86_64"
+license: ["EULA"]
+draft: false
+---
+
+
+==> zettlr.md <==
+---
+title: "Zettlr"
+description: |
+ "Your One-Stop Publication Workbench"
+pubDate: 2026-01-13T18:10:00Z
+categories: ["Productivity"]
+authors: ["Hendrik Erz"]
+tags:
+- "Notes"
+- "Electron"
+architecture: 
+- "x86_64"
+- "arm64"
+license: ["GPL-3.0"]
+draft: false
