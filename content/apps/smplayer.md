@@ -14,7 +14,7 @@ license: ["GPL-2.0"]
 draft: false
 ---
 
-https://www.smplayer.info/images/screenshots/mainwindow.png
+<img src="https://www.smplayer.info/images/screenshots/mainwindow.png">
 
 Free Media Player with built-in codecs
 

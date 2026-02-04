@@ -10,15 +10,15 @@ tags:
 - "Streaming tools"
 architecture: 
 - "x86_64"
-license: ["AGPL-3.0"]
+license: ["EULA"]
 draft: false
 ---
 
-https://github.com/rivafarabi/deckboard/blob/master/01.PNG
+<img src="https://raw.githubusercontent.com/rivafarabi/deckboard/refs/heads/master/01.PNG">
 
 Control your PC with your phone in easy way possible
 
-License: AGPL-3.0
+License: EULA
 
 Web page: <https://deckboard.app>  
 

@@ -10,7 +10,7 @@ tags:
 - "Console Emulator"
 architecture: 
 - "x86_64"
-license: ["AGPL-3.0"]
+license: ["GPL-2.0"]
 draft: false
 ---
 

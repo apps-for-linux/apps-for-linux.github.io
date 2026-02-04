@@ -9,15 +9,15 @@ tags:
 - OSS Game
 architecture: 
 - "x86_64"
-license: ["Custom"]
+license: ["SUL-1.0"]
 draft: false
 ---
 
-https://github.com/user-attachments/assets/db6e94b1-a98b-413d-a109-1fb77dda34bd
+<img src="https://github.com/user-attachments/assets/db6e94b1-a98b-413d-a109-1fb77dda34bd">
 
 Port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features
 
-License: Sustainable Use License
+License: Sustainable Use License v1.0
 
 Source code: <https://github.com/diasurgical/devilutionX>
 

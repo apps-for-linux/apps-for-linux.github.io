@@ -15,7 +15,7 @@ license: ["AGPL-3.0"]
 draft: false
 ---
 
-https://cinny.in/assets/preview-light.png
+<img src="https://cinny.in/assets/preview-light.png">
 
 Matrix client focusing primarly on simple, elegant and secure interface
 
