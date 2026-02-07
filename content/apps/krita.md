@@ -8,7 +8,7 @@ authors: ["Stichting Krita Foundation"]
 tags:
 - "Painting software"
 - "Photo editor"
-- "Qt5"
+- "Qt6"
 architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
@@ -28,4 +28,4 @@ Become a sponsor: <https://krita.org/en/support-us/donations>
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://bugs.kde.org/enter_bug.cgi>  
 
-Download: <https://download.kde.org/stable/krita/5.2.15/krita-5.2.15-x86_64.AppImage>
+Download: <https://download.kde.org/unstable/krita/6.0.0-beta1/krita-6.0.0-beta1-x86_64.AppImage>

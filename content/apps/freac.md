@@ -2,7 +2,7 @@
 title: "Freac"
 description: |
  "Free and open source audio converter"
-pubDate: 2026-01-20T00:04:00Z
+pubDate: 2026-01-23T18:12:00Z
 categories: ["AudioVideo"]
 authors: ["Robert Kausch"]
 tags:
@@ -42,5 +42,11 @@ Report the bug: <https://github.com/enzo1982/freac/issues/new>
     {{< /tab >}}
     {{< tab label="Download armv7l" >}}
     <https://github.com/enzo1982/freac/releases/download/continuous/freac-continuous-linux-armhf.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download riscv64" >}}
+    <https://github.com/enzo1982/freac/releases/download/continuous/freac-continuous-linux-riscv64.AppImage>  
+    {{< /tab >}}
+    {{< tab label="Download ppc64" >}}
+    <https://github.com/enzo1982/freac/releases/download/continuous/freac-continuous-linux-ppc64el.AppImage>  
     {{< /tab >}}
 {{< /tabs >}}  

@@ -2,7 +2,7 @@
 title: "Ossia Score"
 description: |
  "ossia score is a sequencer for audio-visual artists, designed to create interactive shows."
-pubDate: 2026-01-26T16:39:00Z
+pubDate: 2026-02-06T10:36:00Z
 categories: ["AudioVideo"]
 authors: ["ossia.io Contributors"]
 tags:

@@ -2,7 +2,7 @@
 title: "DB Browser for SQLite"
 description: |
  "High quality, visual, open source tool to create, design, and edit database files compatible with SQLite"
-pubDate: 2026-01-03T21:49:00Z
+pubDate: 2026-01-28T21:49:00Z
 categories: ["Development"]
 authors: ["DB Browser for SQLite Team"]
 tags:
