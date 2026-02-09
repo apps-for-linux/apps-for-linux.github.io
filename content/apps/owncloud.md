@@ -22,7 +22,7 @@ License: GPL-2.0
 Web page: <https://owncloud.com/desktop-app>  
 Source code: <https://github.com/owncloud/client>
 
-Translate: <https://www.transifex.com/projects/p/owncloud>  
+Translate: <https://explore.transifex.com/owncloud-org/owncloud/>  
 Report the bug: <https://github.com/owncloud/client/issues/new>  
 
 Download: <https://download.owncloud.com/desktop/ownCloud/stable/6.0.2.17506/linux-appimage/ownCloud-6.0.2.17506-x86_64.AppImage>

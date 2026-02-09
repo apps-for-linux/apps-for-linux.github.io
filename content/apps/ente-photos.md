@@ -26,7 +26,7 @@ License: GPL-3.0
 Web page: <https://ente.io>  
 Source code: <https://github.com/ente-io/ente>
 
-Translate: <https://crowdin.com/project/ente-photos-web>
+Translate: <https://crowdin.com/project/ente-photos-web>  
 Report the bug: <https://github.com/ente-io/ente/issues/new>  
 
 {{< tabs >}}

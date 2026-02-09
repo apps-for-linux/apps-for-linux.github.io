@@ -25,7 +25,7 @@ Web page: <https://cryptomator.org>
 Source code: <https://github.com/cryptomator/cryptomator>
 
 Become a sponsor: <https://github.com/sponsors/cryptomator>  
-Translate: <https://translate.cryptomator.org>
+Translate: <https://translate.cryptomator.org>  
 Report the bug: <https://github.com/cryptomator/cryptomator/issues/new>  
 
 {{< tabs >}}

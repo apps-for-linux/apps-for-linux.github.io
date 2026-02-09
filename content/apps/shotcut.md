@@ -23,7 +23,7 @@ License: GPL-3.0
 Web page: <https://www.shotcut.org>  
 Source code: <https://github.com/mltframework/shotcut>
 
-Translate: <https://www.transifex.com/ddennedy/shotcut>  
+Translate: <https://explore.transifex.com/ddennedy/shotcut>  
 Report the bug: <https://github.com/mltframework/shotcut/issues/new>  
 
 Download: <https://github.com/mltframework/shotcut/releases/download/v26.1.30/shotcut-linux-x86_64-26.1.30.AppImage>

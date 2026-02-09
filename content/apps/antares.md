@@ -22,11 +22,11 @@ draft: false
 A modern, fast and productivity driven SQL client with a focus in UX
 
 License: MIT
-Web page: <https://antares-sql.app>
+Web page: <https://antares-sql.app>  
 Source code: <https://github.com/antares-sql/antares>
 
-Become a sponsor: <https://www.paypal.com/paypalme/fabiodistasio>
-Translate: <https://github.com/antares-sql/antares/wiki/Translate-Antares>
+Become a sponsor: <https://www.paypal.com/paypalme/fabiodistasio>  
+Translate: <https://github.com/antares-sql/antares/wiki/Translate-Antares>  
 Report the bug: <https://github.com/antares-sql/antares/issues>
 
 {{< tabs >}}

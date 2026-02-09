@@ -23,7 +23,7 @@ License: GPL-3.0
 Web page: <https://kdenlive.org>  
 Source code: <https://invent.kde.org/multimedia/kdenlive>
 
-Become a sponsor: <https://kdenlive.org/en/fund>  
+Become a sponsor: <https://kdenlive.org/fund/>  
 Translate: <https://l10n.kde.org>  
 Report the bug: <https://invent.kde.org/multimedia/kdenlive/-/issues/new>  
 

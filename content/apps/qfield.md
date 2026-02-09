@@ -22,7 +22,7 @@ Web page: <http://www.qfield.org>
 Source code: <https://github.com/opengisch/QField>
 
 Become a sponsor: <https://github.com/sponsors/opengisch>  
-Translate: <https://www.transifex.com/opengisch/qfield-for-qgis>  
+Translate: <https://explore.transifex.com/opengisch/qfield-for-qgis>  
 Report the bug: <https://github.com/opengisch/QField/issues/new>  
 
 Download: <https://github.com/opengisch/QField/releases/download/v4.0.4/qfield-v4.0.4-linux-x64.AppImage>

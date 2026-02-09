@@ -16,7 +16,7 @@ license: ["MIT"]
 draft: false
 ---
 
-<img src="https://github.com/Beaver-Notes/Beaver-Notes/blob/c6527c19fc8d606a9127c0b15b937534e5888ac5/flatpak/Home.png" alt="Home">
+<img src="https://raw.githubusercontent.com/Beaver-Notes/Beaver-Notes/refs/heads/development/flatpak/Home.png" alt="Home">
 
 Privacy-focused note-taking application
 

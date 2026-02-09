@@ -12,6 +12,7 @@ wget https://raw.githubusercontent.com/86Box/86Box/refs/heads/master/src/unix/as
     https://raw.githubusercontent.com/TheTumultuousUnicornOfDarkness/CPU-X/refs/heads/master/data/io.github.thetumultuousunicornofdarkness.cpu-x.appdata.xml -O /data/io.github.thetumultuousunicornofdarkness.cpu-x.metainfo.xml \
     https://raw.githubusercontent.com/cryptomator/cryptomator/refs/heads/develop/dist/linux/common/org.cryptomator.Cryptomator.metainfo.xml -O /data/org.cryptomator.Cryptomator.metainfo.xml \
     https://raw.githubusercontent.com/darktable-org/darktable/refs/heads/master/data/org.darktable.darktable.appdata.xml.in -O /data/org.darktable.darktable.metainfo.xml \
+    https://raw.githubusercontent.com/deltachat/deltachat-desktop/refs/heads/main/packages/target-tauri/metainfo.xml -O /data/org.deltachat.DeltaChat.metainfo.xml \
     https://raw.githubusercontent.com/dbgate/dbgate/refs/heads/master/app/org.dbgate.DbGate.metainfo.xml -O /data/org.dbgate.DbGate.metainfo.xml \
     https://invent.kde.org/graphics/digikam/-/raw/master/core/app/main/org.kde.digikam.appdata.xml -O /data/org.kde.digikam.metainfo.xml \
     https://raw.githubusercontent.com/stenzek/duckstation/refs/heads/master/scripts/packaging/org.duckstation.DuckStation.metainfo.xml.in -O /data/org.duckstation.DuckStation.metainfo.xml \

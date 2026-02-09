@@ -22,7 +22,7 @@ License: MPL-2.0
 Web page: <https://librewolf.net>  
 Source code: <https://codeberg.org/librewolf/source>
 
-Translate: <https://translate.codeberg.org/engage/librewolf>
+Translate: <https://translate.codeberg.org/engage/librewolf>  
 Report the bug: <https://codeberg.org/librewolf/issues>  
 
 {{< tabs >}}

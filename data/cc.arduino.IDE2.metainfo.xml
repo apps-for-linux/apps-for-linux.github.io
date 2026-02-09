@@ -261,7 +261,7 @@
 	<url type="homepage">https://www.arduino.cc/</url>
 	<url type="help">https://docs.arduino.cc/software/ide-v2</url>
 	<url type="bugtracker">https://github.com/flathub/cc.arduino.IDE2/issues/35</url>
-	<url type="translate">https://www.transifex.com/arduino-1/ide2/</url>
+	<url type="translate">https://explore.transifex.com/arduino-1/ide2/</url>
 	<url type="donation">https://www.arduino.cc/en/donate/</url>
 	<content_rating type="oars-1.1">
 		<content_attribute id="social-info">mild</content_attribute>

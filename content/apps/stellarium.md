@@ -22,7 +22,7 @@ Web page: <https://stellarium.org/>
 Source code: <https://github.com/Stellarium/stellarium>
 
 Become a sponsor: <https://opencollective.com/stellarium>  
-Translate: <https://www.transifex.com/stellarium/stellarium>  
+Translate: <https://explore.transifex.com/stellarium/stellarium>  
 Report the bug: <https://github.com/Stellarium/stellarium/issues/new>  
 
 Download: <https://github.com/Stellarium/stellarium/releases/download/v25.4/Stellarium-25.4-qt6-x86_64.AppImage>

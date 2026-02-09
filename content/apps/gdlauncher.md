@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["Gorilla Devs"]
 tags:
 - "Minecraft Launcher"
+- "Electron"
 architectures: 
 - "x86_64"
 license: ["BUSL-1.1"]
@@ -19,7 +20,7 @@ GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong foc
 
 License: BUSL-1.1
 
-Web page: <https://gdlauncher.com>
+Web page: <https://gdlauncher.com>  
 Source code: <https://github.com/gorilla-devs/GDLauncher-Carbon>
 
 Report the bug: <https://github.com/gorilla-devs/GDLauncher-Carbon/issues/new>

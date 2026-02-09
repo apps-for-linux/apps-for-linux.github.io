@@ -25,7 +25,7 @@ License: GPL-3.0
 Web page: <https://delta.chat>  
 Source code: <https://github.com/deltachat/deltachat-desktop>
 
-Translate: <https://www.transifex.com/delta-chat/public>  
+Translate: <https://explore.transifex.com/delta-chat/delta-chat-app/>  
 Become a sponsor: <https://delta.chat/en/donate>  
 Report the bug: <https://github.com/deltachat/deltachat-desktop/issues/new>  
 

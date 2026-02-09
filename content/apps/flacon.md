@@ -24,7 +24,7 @@ Web page: <https://flacon.github.io>
 Source code: <https://github.com/flacon/flacon>
 
 Become a sponsor: <https://flacon.github.io/donate>  
-Translate: <https://www.transifex.com/projects/p/flacon>  
+Translate: <https://explore.transifex.com/sokoloff/flacon/>  
 Report the bug: <https://github.com/flacon/flacon/issues/new>  
 
 Download: <https://github.com/flacon/flacon/releases/download/v12.0.0/flacon-12.0.0-x86_64.AppImage>

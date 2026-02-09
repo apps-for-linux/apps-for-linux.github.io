@@ -23,7 +23,7 @@ License: GPL-3.0
 Web page: <https://raredevs.github.io/Rare>  
 Source code: <https://github.com/RareDevs/Rare>
 
-Translate: <https://www.transifex.com/rare-1/rare>  
+Translate: <https://explore.transifex.com/rare-1/rare>  
 Report the bug: <https://github.com/RareDevs/Rare/issues/new>  
 
 {{< tabs >}}

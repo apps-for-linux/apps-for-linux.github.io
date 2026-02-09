@@ -20,7 +20,7 @@ A hierarchical note taking application, featuring rich text and syntax highlight
 
 License: GPL-3.0
 
-Web page: <https://www.giuspen.net/cherrytree>
+Web page: <https://www.giuspen.net/cherrytree>  
 Source code: <https://github.com/giuspen/cherrytree>
 
 Become a sponsor: <https://www.giuspen.net/cherrytree>  

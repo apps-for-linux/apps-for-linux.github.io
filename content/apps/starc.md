@@ -23,7 +23,7 @@ License: GPL-3.0
 Web page: <https://starc.app>  
 Source code: <https://github.com/story-apps/starc>
 
-Translate: <https://www.transifex.com/story-apps/starc>  
+Translate: <https://explore.transifex.com/story-apps/starc>  
 Report the bug: <https://github.com/story-apps/starc/issues/new/>  
 
 Download: <https://github.com/story-apps/starc/releases/download/v0.8.0/starc-setup.AppImage>
