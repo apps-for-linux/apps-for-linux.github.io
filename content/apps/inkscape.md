@@ -14,7 +14,7 @@ license: ["GPL-2.0"]
 draft: false
 ---
 
-<img src="https://media.inkscape.org/media/resources/file/dark-2.png">
+<img src="https://media.inkscape.org/media/resources/file/light-2.png">
 
 A Free and open source vector graphics editor
 

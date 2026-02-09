@@ -2,7 +2,7 @@
 title: "Jitsi Meet"
 description: |
  "Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
-pubDate: 2025-10-04T11:44:00Z
+pubDate: 2026-02-04T19:42:00Z
 categories: ["Network"]
 authors: ["Jitsi team"]
 tags: 
@@ -30,9 +30,9 @@ Report the bug: <https://github.com/jitsi/jitsi-meet-electron/issues/new>
 
 {{< tabs >}}
     {{< tab label="Download x86_64" >}}
-    <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.10.0/jitsi-meet-x86_64.AppImage>  
+    <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.1.0/jitsi-meet-x86_64.AppImage>  
     {{< /tab >}}
     {{< tab label="Download arm64" >}}
-    <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.10.0/jitsi-meet-arm64.AppImage>  
+    <https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.1.0/jitsi-meet-arm64.AppImage>  
     {{< /tab >}}
 {{< /tabs >}}  

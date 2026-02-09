@@ -14,7 +14,7 @@ architectures:
 license: ["EULA"]
 draft: false
 ---
-<img src="https://camo.githubusercontent.com/a6735ebe5e35376e87664255f711acc556949f00d578fc3a6a89183411983a1c/68747470733a2f2f617074616b7562652e636f6d2f6f672e706e67" alt="Main Window (Light Theme)">
+<img src="https://aptakube.com/screenshot.png" alt="Main Window (Dark Theme)">
 
 Modern, lightweight and multi-cluster Kubernetes GUI
 
