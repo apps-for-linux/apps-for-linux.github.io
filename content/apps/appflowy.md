@@ -8,6 +8,7 @@ authors: ["AppFlowy"]
 tags:
 - "Knowledge Base"
 - "Cross-platform software"
+frameworks:
 - "Flutter"
 architectures: 
 - "x86_64"

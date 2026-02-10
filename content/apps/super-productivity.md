@@ -8,6 +8,7 @@ authors: ["Johannes Millan"]
 tags:
 - "To-do"
 - "Cross-platform software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

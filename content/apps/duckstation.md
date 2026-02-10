@@ -8,6 +8,7 @@ authors: ["Connor McLaughlin"]
 tags:
 - "Console emulator"
 - "PlayStation Emulator"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

@@ -8,6 +8,8 @@ authors: ["Ultimaker"]
 tags:
 - "Slicing software"
 - "3D"
+frameworks:
+- "Qt6"
 architectures: 
 - "x86_64"
 license: ["LGPL-3.0"]

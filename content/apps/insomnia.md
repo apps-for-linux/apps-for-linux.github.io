@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Kong"]
 tags:
 - "API Testing"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

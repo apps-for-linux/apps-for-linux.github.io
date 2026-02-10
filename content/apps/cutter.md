@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Rizin"]
 tags:
 - "Reverse Engineering"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

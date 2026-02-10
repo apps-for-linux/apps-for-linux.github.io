@@ -8,6 +8,8 @@ authors: ["Riva Farabi"]
 tags:
 - "Remote control"
 - "Streaming tools"
+frameworks:
+- "Electron"
 architectures: 
 - "x86_64"
 license: ["EULA"]

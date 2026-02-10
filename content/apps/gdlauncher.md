@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["Gorilla Devs"]
 tags:
 - "Minecraft Launcher"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

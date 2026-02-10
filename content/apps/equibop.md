@@ -8,6 +8,7 @@ authors: ["Equicord"]
 tags:
 - "Messenger"
 - "Discord client"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

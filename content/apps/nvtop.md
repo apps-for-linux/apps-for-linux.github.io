@@ -8,7 +8,8 @@ authors: ["Maxime Schmitt"]
 tags:
 - "Resource Monitor"
 - "GPU"
-- "TUI"
+frameworks:
+- "ncurses"
 architectures: 
 - "x86_64"
 license: ["GPL-3.0"]

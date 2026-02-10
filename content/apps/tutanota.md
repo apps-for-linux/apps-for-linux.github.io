@@ -8,6 +8,7 @@ authors: ["Tutao"]
 tags:
 - "Mail Client"
 - "Censorship-resistance software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

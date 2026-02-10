@@ -8,6 +8,7 @@ authors: ["Rare Devs"]
 tags:
 - "Epic Games"
 - "Game launcher"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

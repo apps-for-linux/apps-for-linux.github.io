@@ -8,6 +8,7 @@ authors: ["Aurélien Hamy"]
 tags:
 - "Music streaming client"
 - "Cross-platform software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

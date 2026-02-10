@@ -7,6 +7,7 @@ categories: ["System"]
 authors: ["Klarälvdalens Datakonsult"]
 tags: 
 - "Resource Monitor"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

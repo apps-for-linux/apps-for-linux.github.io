@@ -9,6 +9,7 @@ tags:
 - "SIP Phone"
 - "Conference calling"
 - "Cross-platform software"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"
@@ -23,7 +24,7 @@ License: GPL-3.0
 Web page: <https://linphone.org>  
 Source code: <https://gitlab.linphone.org/BC/public/linphone-desktop>
 
-Translate: <https://weblate.linphone.org/projects/linphone-desktop>  
+Translate: <https://weblate.linphone.org/projects/linphone/linphone-desktop-6-1/>  
 Report the bug: <https://gitlab.linphone.org/BC/public/linphone-desktop/-/issues/new>  
 
 Download: <https://download.linphone.org/releases/linux/app/Linphone-6.1.0-x86_64.AppImage>

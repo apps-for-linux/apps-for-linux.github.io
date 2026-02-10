@@ -9,6 +9,7 @@ tags:
 - "Knowledge base"
 - "AI-powered software"
 - "Cross-platform software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

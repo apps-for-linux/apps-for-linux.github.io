@@ -8,6 +8,7 @@ authors: ["SpacingBat3"]
 tags:
 - "Messenger"
 - "Discord client"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

@@ -8,6 +8,7 @@ authors: ["Ferdium Team"]
 tags:
 - "Web apps"
 - "Browser"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

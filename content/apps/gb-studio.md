@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Chris Maltby"]
 tags:
 - "Game development"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

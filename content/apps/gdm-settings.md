@@ -7,6 +7,7 @@ categories: ["System"]
 authors: ["Mazhar Hussain"]
 tags:
 - "Appearance"
+frameworks:
 - "GTK4"
 architectures: 
 - "x86_64"

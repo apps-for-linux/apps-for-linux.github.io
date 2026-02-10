@@ -8,6 +8,7 @@ authors: ["Pencil2D"]
 tags:
 - "2D"
 - "Painting software"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

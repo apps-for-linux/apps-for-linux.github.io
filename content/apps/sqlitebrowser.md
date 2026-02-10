@@ -8,6 +8,7 @@ authors: ["DB Browser for SQLite Team"]
 tags:
 - "Database"
 - "SQL"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

@@ -7,7 +7,8 @@ categories: ["Development"]
 authors: ["WerWolv"]
 tags:
 - "Hex editor"
-- "GTK+3"
+frameworks:
+- "IMGUI"
 architectures: 
 - "x86_64"
 - "arm64"

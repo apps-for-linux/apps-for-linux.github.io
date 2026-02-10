@@ -8,6 +8,7 @@ authors: ["Anysphere"]
 tags:
 - "AI-powered software"
 - "Code editor"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

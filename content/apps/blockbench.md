@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Jannis Petersen"]
 tags:
 - "3D"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

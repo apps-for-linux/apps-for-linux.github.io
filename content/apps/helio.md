@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Peter Rudenko and contributors"]
 tags:
 - "Audio editor"
+frameworks:
 - "JUCE"
 architectures: 
 - "x86_64"

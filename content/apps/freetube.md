@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["FreeTube Authors"]
 tags:
 - "Youtube client"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

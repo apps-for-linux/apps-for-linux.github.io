@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["KOReader Community"]
 tags:
 - "eBook reader"
+frameworks:
 - "Lua"
 architectures: 
 - "x86_64"

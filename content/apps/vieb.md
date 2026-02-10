@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["Jelmer van Arnhem"]
 tags:
 - "Browser"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

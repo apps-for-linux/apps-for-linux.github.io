@@ -8,6 +8,7 @@ authors: ["Cemu Project"]
 tags:
 - "Game Emulator"
 - "Nintendo Emulator"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

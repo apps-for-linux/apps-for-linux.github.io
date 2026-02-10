@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Ricardo Villalba"]
 tags:
 - "Media player"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

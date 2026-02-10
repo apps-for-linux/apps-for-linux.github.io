@@ -8,6 +8,7 @@ authors: ["AntiMicroX Authors"]
 tags:
 - "Gamepad"
 - "Gaming controllers"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

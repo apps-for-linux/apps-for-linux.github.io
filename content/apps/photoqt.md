@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Lukas Spies"]
 tags:
 - "Image viewer"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

@@ -8,6 +8,7 @@ authors: ["Audacity Developer Team"]
 tags:
 - "Audio recording"
 - "DAW"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

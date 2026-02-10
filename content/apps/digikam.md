@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["digiKam Team"]
 tags:
 - "Photo Management"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

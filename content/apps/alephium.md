@@ -7,6 +7,7 @@ categories: ["Finance"]
 authors: ["Alephium Team"]
 tags:
 - "Cryptocurrency"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

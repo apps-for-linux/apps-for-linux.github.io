@@ -9,7 +9,9 @@ tags:
 - "Resource Monitor"
 - "GPU"
 - "TUI"
-- "EGUI"
+frameworks:
+- "egui"
+- "cursive"
 architectures: 
 - "x86_64"
 - "arm64"

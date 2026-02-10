@@ -8,6 +8,8 @@ authors: ["CP Editor team"]
 tags:
 - "Code editor"
 - "Competitive programming"
+frameworks:
+- "Qt5"
 architectures: 
 - "x86_64"
 license: ["GPL-3.0"]

@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Inkscape Authors"]
 tags:
 - "Vector graphics editor"
+frameworks:
 - "GTK4"
 architectures: 
 - "x86_64"

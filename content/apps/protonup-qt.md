@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["DavidoTek"]
 tags:
 - "Wine version manager"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

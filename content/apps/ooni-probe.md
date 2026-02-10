@@ -7,6 +7,7 @@ categories: ["Science"]
 authors: ["Open Observatory of Network Interference (OONI)"]
 tags:
 - "Censorship-resistance software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

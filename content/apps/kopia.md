@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["Kopia Authors"]
 tags:
 - "Backup tool"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

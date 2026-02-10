@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["CodeDead"]
 tags: 
 - "Password Generator"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

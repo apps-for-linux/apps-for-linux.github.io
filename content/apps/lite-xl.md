@@ -7,7 +7,8 @@ categories: ["Development"]
 authors: ["Lite XL Team"]
 tags:
 - "Code editor"
-- "SDL3"
+frameworks:
+- "Lua"
 architectures: 
 - "x86_64"
 license: ["MIT"]

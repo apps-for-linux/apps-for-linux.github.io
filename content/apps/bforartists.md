@@ -7,6 +7,9 @@ categories: ["Graphics"]
 authors: ["Reiner Prokein"]
 tags:
 - "3D"
+- "Blender"
+frameworks:
+- "SDL2"
 architectures: 
 - "x86_64"
 license: ["GPL-2.0"]

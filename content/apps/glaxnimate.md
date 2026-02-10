@@ -8,6 +8,7 @@ authors: ["Mattia Basaglia"]
 tags:
 - "2D"
 - "Vector graphics editor"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

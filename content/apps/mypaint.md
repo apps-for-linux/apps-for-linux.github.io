@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["MyPaint Development Team"]
 tags:
 - "Painting software"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

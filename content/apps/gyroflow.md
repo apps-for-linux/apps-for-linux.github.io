@@ -8,6 +8,7 @@ authors: ["Gyroflow Team"]
 tags: 
 - "Video stabilization"
 - "Cross-platform software"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

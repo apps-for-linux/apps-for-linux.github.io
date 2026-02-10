@@ -8,6 +8,7 @@ authors: ["LibreCAD Contributors"]
 tags:
 - "2D"
 - "CAD"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

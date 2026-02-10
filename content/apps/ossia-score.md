@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["ossia.io Contributors"]
 tags:
 - "Sequencer"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

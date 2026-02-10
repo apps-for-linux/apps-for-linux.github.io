@@ -7,6 +7,7 @@ categories: ["Science"]
 authors: ["Open Chemistry"]
 tags: 
 - "Chemistry"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

@@ -8,6 +8,7 @@ authors: ["Stichting Krita Foundation"]
 tags:
 - "Painting software"
 - "Photo editor"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

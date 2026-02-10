@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Justin Dailey"]
 tags:
 - "Code editor"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

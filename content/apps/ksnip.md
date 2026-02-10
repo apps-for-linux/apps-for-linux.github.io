@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Damir Porobić"]
 tags:
 - "Screenshot tool"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

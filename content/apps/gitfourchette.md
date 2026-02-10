@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Iliyas Jorio"]
 tags:
 - "Git client"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

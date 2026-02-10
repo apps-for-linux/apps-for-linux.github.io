@@ -8,6 +8,7 @@ authors: ["Bambu Lab"]
 tags:
 - "3D"
 - "Slicing software"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

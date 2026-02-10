@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Cinelerra GG community"]
 tags:
 - "Video Editor"
+frameworks:
 - "GTK2"
 architectures: 
 - "x86_64"

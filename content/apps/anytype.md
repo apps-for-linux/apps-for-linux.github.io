@@ -2,12 +2,13 @@
 title: "Anytype"
 description: |
  "Anytype is a personal knowledge base"
-pubDate: 2026-01-20T16:22:00Z
+pubDate: 2026-02-09T18:31:00Z
 categories: ["Productivity"]
 authors: ["Anytype"]
 tags:
 - "Knowledge base"
 - "Cross-platform software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"
@@ -25,5 +26,5 @@ Source code: <https://github.com/anyproto/anytype-ts>
 Translate: <https://crowdin.com/project/anytype-desktop>  
 Report the bug: <https://github.com/anyproto/anytype-ts//issues/new>  
 
-Download: <https://github.com/anyproto/anytype-ts/releases/download/v0.53.18-alpha/Anytype-0.53.18-alpha.AppImage>
+Download: <https://github.com/anyproto/anytype-ts/releases/download/v0.53.44-beta/Anytype-0.53.44-beta.AppImage>
 

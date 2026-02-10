@@ -7,8 +7,9 @@ categories: ["Network"]
 authors: ["Nextcloud"]
 tags:
 - "Collaboration platform"
-- "Qt6"
 - "Cross-platform software"
+frameworks:
+- "Qt6"
 architectures: 
 - "x86_64"
 license: ["GPL-2.0"]

@@ -8,6 +8,7 @@ authors: ["One Part Rain"]
 tags:
 - "Budget software"
 - "Cross-platform software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

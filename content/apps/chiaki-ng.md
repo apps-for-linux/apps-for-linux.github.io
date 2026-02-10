@@ -8,6 +8,8 @@ authors: ["Street Pea"]
 tags:
 - "PlayStation"
 - "Remote play"
+frameworks:
+- "Qt6"
 architectures: 
 - "x86_64"
 - "arm64"

@@ -8,6 +8,7 @@ authors: ["Matthew Rathbone"]
 tags:
 - "Database"
 - "SQL"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

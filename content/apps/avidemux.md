@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Avidemux Authors"]
 tags: 
 - "Video editor"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Ruby Mamistvalove"]
 tags:
 - "Notes"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

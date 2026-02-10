@@ -8,6 +8,8 @@ authors: ["Flyinghead"]
 tags:
 - "Sega Emulator"
 - "Console Emulator"
+frameworks:
+- "IMGUI"
 architectures: 
 - "x86_64"
 license: ["GPL-2.0"]

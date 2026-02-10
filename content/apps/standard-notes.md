@@ -7,8 +7,9 @@ categories: ["Productivity"]
 authors: ["Standard Notes"]
 tags:
 - "Notes"
-- "Electron"
 - "Cross-platform software"
+frameworks:
+- "Electron"
 architectures: 
 - "x86_64"
 - "arm64"

@@ -8,6 +8,7 @@ authors: ["LMMS"]
 tags:
 - "DAW"
 - "Audio Editor"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

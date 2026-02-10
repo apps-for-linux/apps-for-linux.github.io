@@ -7,6 +7,7 @@ categories: ["Finance"]
 authors: ["Feather Wallet"]
 tags:
 - "Cryptocurrency"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

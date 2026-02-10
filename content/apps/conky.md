@@ -8,6 +8,8 @@ authors: ["Brenden Matthews"]
 tags:
 - "System Monitor"
 - "OSD"
+frameworks:
+- "ncurses"
 architectures: 
 - "x86_64"
 license: ["GPL-3.0"]
@@ -26,4 +28,4 @@ Source code: <https://github.com/brndnmtthws/conky>
 Become a sponsor: <https://github.com/sponsors/brndnmtthws>  
 Report the bug: <https://github.com/brndnmtthws/conky/issues/new>  
 
-Download: https://github.com/brndnmtthws/conky/releases/download/v1.22.2/conky-ubuntu-24.04-x86_64-v1.22.2.AppImage
+Download: <https://github.com/brndnmtthws/conky/releases/download/v1.22.2/conky-ubuntu-24.04-x86_64-v1.22.2.AppImage>

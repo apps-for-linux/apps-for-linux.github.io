@@ -7,6 +7,7 @@ categories: ["Utilities"]
 authors: ["jeyasankar"]
 tags:
 - "Offline password manager"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

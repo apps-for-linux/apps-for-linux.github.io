@@ -8,6 +8,7 @@ authors: ["XPipe UG"]
 tags:
 - "Server Management"
 - "Kubernetes"
+frameworks:
 - "Java"
 architectures: 
 - "x86_64"

@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["JGraph"]
 tags:
 - "Diagramming tool"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

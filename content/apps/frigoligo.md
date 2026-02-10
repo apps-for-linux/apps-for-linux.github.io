@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["Martin Chaine"]
 tags:
 - "Bookmark manager"
+frameworks:
 - "Flutter"
 architectures: 
 - "x86_64"

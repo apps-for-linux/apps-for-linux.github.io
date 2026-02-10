@@ -7,6 +7,8 @@ categories: ["Finance"]
 authors: ["James Long"]
 tags:
 - "Budget software"
+frameworks:
+- "Electron"
 architectures: 
 - "x86_64"
 - "arm64"

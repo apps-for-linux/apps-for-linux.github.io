@@ -8,6 +8,7 @@ authors: ["OneKey"]
 tags:
 - "Cryptocurrency"
 - "Cross-platform software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

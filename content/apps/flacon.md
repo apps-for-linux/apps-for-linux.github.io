@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Flacon team"]
 tags:
 - "CD ripper"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

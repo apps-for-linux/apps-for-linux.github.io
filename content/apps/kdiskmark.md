@@ -8,6 +8,7 @@ authors: ["Dmitry Sidorov"]
 tags:
 - "Benchmarking"
 - "Resource monitor"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

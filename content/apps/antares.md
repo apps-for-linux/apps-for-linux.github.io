@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Fabio Di Stasio"]
 tags:
 - "SQL"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

@@ -8,6 +8,7 @@ authors: ["GAMS Development"]
 tags:
 - "Algebra"
 - "Mathematical models"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

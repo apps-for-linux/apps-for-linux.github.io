@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Robin Ahle"]
 tags:
 - "To-do"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

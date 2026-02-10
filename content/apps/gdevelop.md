@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Florian Rival"]
 tags:
 - "Game development"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

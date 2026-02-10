@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Giuseppe Penone"]
 tags:
 - "Notes"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

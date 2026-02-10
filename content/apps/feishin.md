@@ -11,6 +11,7 @@ tags:
 - "Navidrome"
 - "Self-hosted"
 - "Music streaming client"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

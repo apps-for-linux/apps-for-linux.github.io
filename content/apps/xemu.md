@@ -8,7 +8,8 @@ authors: ["xemu Project"]
 tags:
 - "Xbox emulator"
 - "Console emulator"
-- "SDL2"
+frameworks:
+- "GTK3"
 architectures: 
 - "x86_64"
 - "arm64"

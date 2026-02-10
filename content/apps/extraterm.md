@@ -7,6 +7,8 @@ categories: ["System"]
 authors: ["Simon Edwards"]
 tags:
 - "Terminal"
+frameworks:
+- "Qt6"
 architectures: 
 - "x86_64"
 license: ["MIT"]

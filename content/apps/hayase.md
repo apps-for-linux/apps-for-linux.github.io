@@ -8,6 +8,7 @@ authors: ["Cas"]
 tags:
 - "Anime"
 - "Torrent client"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

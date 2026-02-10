@@ -7,6 +7,7 @@ categories: ["Utilities"]
 authors: ["KeePassXC Team"]
 tags:
 - "Offline password manager"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

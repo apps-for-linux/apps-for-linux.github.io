@@ -8,6 +8,7 @@ authors: ["Blueprint for Free Speech"]
 tags:
 - "Messenger"
 - "Censorship-resistance software"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

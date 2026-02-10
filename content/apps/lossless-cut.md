@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Mikael Finstad"]
 tags:
 - "Video editor"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

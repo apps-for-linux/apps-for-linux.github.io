@@ -8,6 +8,7 @@ authors: ["Ente"]
 tags:
 - "Authentificator"
 - "Cross-platform software"
+frameworks:
 - "Flutter"
 architectures: 
 - "x86_64"

@@ -7,8 +7,9 @@ categories: ["Productivity"]
 authors: ["Logseq"]
 tags:
 - "Knowledge base"
-- "Electron"
 - "Cross-platform software"
+frameworks:
+- "Electron"
 architectures: 
 - "x86_64"
 license: ["AGPL-3.0"]

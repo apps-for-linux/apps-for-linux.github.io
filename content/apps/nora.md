@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Sandakan Nipunajith"]
 tags:
 - "Offline music player"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

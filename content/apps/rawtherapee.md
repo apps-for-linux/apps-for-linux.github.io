@@ -8,6 +8,7 @@ authors: ["The RawTherapee Team"]
 tags:
 - "RAW processing"
 - "Image editor"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

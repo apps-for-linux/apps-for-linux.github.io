@@ -7,6 +7,7 @@ categories: ["Science"]
 authors: ["OPENGIS.ch"]
 tags:
 - "Geodata"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

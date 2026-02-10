@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Friction contributors"]
 tags:
 - "2D"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

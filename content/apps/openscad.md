@@ -8,6 +8,7 @@ authors: ["Marius Kintel"]
 tags:
 - "3D"
 - "CAD"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

@@ -7,6 +7,7 @@ categories: ["Finance"]
 authors: ["Blockstream"]
 tags: 
 - "Cryptocurrency"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

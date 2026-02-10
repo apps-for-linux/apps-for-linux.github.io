@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Lőrik Levente"]
 tags:
 - "Authentificator"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Robert Kausch"]
 tags:
 - "Audio Converter"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

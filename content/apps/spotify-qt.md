@@ -8,6 +8,7 @@ authors: ["kraxie"]
 tags:
 - "Music streaming client"
 - "Spotify client"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

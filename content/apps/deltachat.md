@@ -9,6 +9,8 @@ tags:
 - "Messenger"
 - "eMail client"
 - "Electron"
+frameworks:
+- "Tauri"
 architectures: 
 - "x86_64"
 - "arm64"
@@ -31,7 +33,7 @@ Report the bug: <https://github.com/deltachat/deltachat-desktop/issues/new>
 
 {{< tabs >}}
     {{< tab label="Download x86_64" >}}
-    <https://github.com/deltachat/deltachat-desktop/releases/download/v2.35.0/DeltaChat-2.35.0-x86_64.AppImage>  
+    <https://github.com/deltachat/deltachat-desktop/releases/download/v2.35.0/deltachat-tauri_2.35.0_amd64.AppImage>  
     {{< /tab >}}
     {{< tab label="Download arm64" >}}
     <https://github.com/deltachat/deltachat-desktop/releases/download/v2.35.0/DeltaChat-2.35.0-arm64.AppImage>  

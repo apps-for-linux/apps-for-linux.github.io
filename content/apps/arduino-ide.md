@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Arduino"]
 tags:
 - "IDE"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"
@@ -23,7 +24,6 @@ License: AGPL-3.0
 Web page: <https://www.arduino.cc/en/software>  
 Source code: <https://github.com/arduino/arduino-ide>
 
-Become a sponsor: <https://www.arduino.cc/en/donate>  
 Translate: <https://explore.transifex.com/arduino-1/ide2>  
 Report the bug: <https://github.com/arduino/arduino-ide/issues/new>  
 

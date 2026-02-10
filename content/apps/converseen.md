@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Francesco Mondello"]
 tags:
 - "Image converter"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

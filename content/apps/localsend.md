@@ -7,8 +7,9 @@ categories: ["Network"]
 authors: ["Tien Do Nam"]
 tags:
 - "Sending files"
-- "Flutter"
 - "Cross-platform software"
+frameworks:
+- "Flutter"
 architectures: 
 - "x86_64"
 license: ["MIT"]

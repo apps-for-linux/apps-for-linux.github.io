@@ -8,6 +8,7 @@ authors: ["Pablo Ivan Fonovich"]
 tags:
 - "Gaming tool"
 - "Game development"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

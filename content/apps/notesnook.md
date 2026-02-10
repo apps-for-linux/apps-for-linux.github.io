@@ -8,6 +8,7 @@ authors: ["Streetwriters"]
 tags:
 - "Notes"
 - "Cross-platform software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

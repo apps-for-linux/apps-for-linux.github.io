@@ -7,6 +7,7 @@ categories: ["Finance"]
 authors: ["Trezor company"]
 tags:
 - "Cryptocurrency"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

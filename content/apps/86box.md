@@ -8,6 +8,8 @@ categories: ["Games"]
 authors: ["86box"]
 tags: 
 - "Game Emulator"
+frameworks:
+- "Qt5"
 architectures: 
 - "x86_64"
 - "arm64"

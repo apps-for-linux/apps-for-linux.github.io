@@ -8,6 +8,7 @@ authors: ["Timon Käch"]
 tags:
 - "RAW processing"
 - "Image editor"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

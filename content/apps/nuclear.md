@@ -9,6 +9,7 @@ tags:
 - "Music streaming client"
 - "YouTube Music client"
 - "Soundcloud client"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

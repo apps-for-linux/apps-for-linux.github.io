@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Story Apps"]
 tags:
 - "Screenwriting"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

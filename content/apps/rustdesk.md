@@ -7,6 +7,7 @@ categories: ["Utilities"]
 authors: ["RustDesk"]
 tags:
 - "Remote control"
+frameworks:
 - "Flutter"
 architectures: 
 - "x86_64"

@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Leonardo Zide"]
 tags:
 - "CAD"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

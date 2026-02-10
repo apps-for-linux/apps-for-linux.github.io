@@ -10,6 +10,7 @@ tags:
 - "SoundCloud client"
 - "YouTube Music client"
 - "YouTube Client"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

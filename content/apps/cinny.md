@@ -8,6 +8,7 @@ authors: ["Ajay Bura"]
 tags:
 - "Matrix"
 - "Messenger"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

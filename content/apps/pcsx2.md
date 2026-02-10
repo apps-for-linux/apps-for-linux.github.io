@@ -8,6 +8,7 @@ authors: ["PCSX2 Team"]
 tags:
 - "PlayStation Emulator"
 - "Console Emulator"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

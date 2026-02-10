@@ -8,6 +8,7 @@ authors: ["Xournal Team"]
 tags:
 - "Notes"
 - "Handwriting"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

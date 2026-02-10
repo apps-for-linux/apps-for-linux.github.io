@@ -7,6 +7,7 @@ categories: ["Network"]
 authors: ["n0vella"]
 tags:
 - "Podcast player"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

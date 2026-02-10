@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["Samuel Imolorhe"]
 tags:
 - "GraphQL"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

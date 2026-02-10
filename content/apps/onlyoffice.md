@@ -9,6 +9,7 @@ tags:
 - "Office Suite"
 - "Cross-platform software"
 - "Qt6"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

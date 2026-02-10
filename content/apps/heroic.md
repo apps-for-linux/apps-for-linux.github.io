@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["Heroic Games Launcher Authors"]
 tags:
 - "Game Launcher"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

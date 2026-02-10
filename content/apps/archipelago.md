@@ -7,6 +7,8 @@ categories: ["Games"]
 authors: ["Archipelago"]
 tags: 
 - "Game Engine"
+frameworks:
+- "Kivy"
 architectures: 
 - "x86_64"
 license: ["GPL-3.0"]

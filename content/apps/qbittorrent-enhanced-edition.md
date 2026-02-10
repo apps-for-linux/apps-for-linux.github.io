@@ -8,6 +8,7 @@ authors: ["c0re100"]
 tags:
 - "Torrent client"
 - "Download manager"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

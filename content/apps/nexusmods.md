@@ -8,6 +8,7 @@ authors: ["Black Tree Gaming Ltd"]
 tags:
 - "Gaming tool"
 - "Mod marketplace"
+frameworks:
 - "Avalonia"
 architectures: 
 - "x86_64"

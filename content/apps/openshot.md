@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["OpenShot Studios"]
 tags:
 - "Video Editor"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

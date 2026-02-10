@@ -8,6 +8,7 @@ authors: ["The VSCodium contributors"]
 tags:
 - "Code editor"
 - "VSCode fork"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

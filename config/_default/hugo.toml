@@ -25,9 +25,10 @@ enableEmoji = true
   anchor = 'Center'
 
 [taxonomies]
-  tag = "tags"
   category = "categories"
+  tag = "tags"
   author = "authors"
+  frameworks = "frameworks"
   architecture = "architectures"
   license = "license"
 

@@ -7,6 +7,7 @@ categories: ["Utilities"]
 authors: ["The Tumultuous Unicorn Of Darkness"]
 tags:
 - "System Monitor"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

@@ -7,6 +7,7 @@ categories: ["Finance"]
 authors: ["Frappe Technologies"]
 tags:
 - "Budget software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

@@ -7,6 +7,7 @@ categories: ["Utilities"]
 authors: ["GlitterWare"]
 tags:
 - "Offline password manager"
+frameworks:
 - "Flutter"
 architectures: 
 - "x86_64"

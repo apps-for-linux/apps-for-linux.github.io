@@ -8,6 +8,8 @@ authors: ["Jan Prochazka"]
 tags:
 - "Database"
 - "SQL"
+frameworks:
+- "Electron"
 architectures: 
 - "x86_64"
 - "arm64"

@@ -9,6 +9,7 @@ tags:
 - "Photo Management"
 - "Cloud storage client"
 - "Cross-platform software"
+frameworks:
 - "Flutter"
 architectures: 
 - "x86_64"

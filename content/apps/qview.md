@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["Benjamin O"]
 tags:
 - "Image Viewer"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

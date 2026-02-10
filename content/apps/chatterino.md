@@ -8,6 +8,7 @@ authors: ["Chatterino2 Authors"]
 tags:
 - "Twitch"
 - "Streaming tools"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

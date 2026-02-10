@@ -7,6 +7,7 @@ categories: ["Science"]
 authors: ["Stellarium contributors"]
 tags:
 - "Planetarium"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

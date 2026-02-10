@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["Michael Rosack"]
 tags:
 - "Game client"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

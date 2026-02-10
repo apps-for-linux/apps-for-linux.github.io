@@ -8,6 +8,7 @@ authors: ["Maigo Erit"]
 tags:
 - "Time management"
 - "Digital Wellbeing"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

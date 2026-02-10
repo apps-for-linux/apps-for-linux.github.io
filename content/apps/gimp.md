@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["GIMP’s Team"]
 tags:
 - "Image editing"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

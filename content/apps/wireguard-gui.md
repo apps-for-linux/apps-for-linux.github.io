@@ -8,6 +8,7 @@ authors: ["Wireguard GUI Contributors"]
 tags:
 - "VPN Client"
 - "Censorship-resistance software"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

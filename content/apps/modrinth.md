@@ -8,6 +8,7 @@ authors: ["Rinth"]
 tags:
 - "Gaming tool"
 - "Mod marketplace"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

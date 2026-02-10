@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["Prism Launcher Contributors"]
 tags:
 - "Minecraft launcher"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

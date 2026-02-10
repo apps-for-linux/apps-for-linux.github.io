@@ -8,6 +8,7 @@ authors: ["Bruno Authors"]
 tags:
 - "API Testing"
 - "IDE"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

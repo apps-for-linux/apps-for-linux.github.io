@@ -8,6 +8,7 @@ authors: ["Nayam Amarshe"]
 tags:
 - "Upscaling software"
 - "AI-powered software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

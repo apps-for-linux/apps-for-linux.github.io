@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Skymatic"]
 tags:
 - "Cloud encryption"
+frameworks:
 - "Java"
 architectures: 
 - "x86_64"

@@ -8,6 +8,7 @@ authors: ["TOEVERYTHING"]
 tags: 
 - "Knowledge Base"
 - "Cross-platform software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

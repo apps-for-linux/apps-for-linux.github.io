@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["Tiled Authors"]
 tags: 
 - "Map Editor"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

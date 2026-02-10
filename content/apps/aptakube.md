@@ -8,6 +8,7 @@ authors: ["Sumbit Labs Limited"]
 tags:
 - "Kubernetes"
 - "IDE"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

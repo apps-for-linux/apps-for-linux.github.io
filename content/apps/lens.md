@@ -8,6 +8,7 @@ authors: ["Mirantis"]
 tags:
 - "IDE"
 - "Kubernetes"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

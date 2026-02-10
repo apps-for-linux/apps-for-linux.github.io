@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Hendrik Erz"]
 tags:
 - "Notes"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

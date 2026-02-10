@@ -8,6 +8,7 @@ authors: ["Eclipse Foundation"]
 tags:
 - "IDE"
 - "VSCode fork"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

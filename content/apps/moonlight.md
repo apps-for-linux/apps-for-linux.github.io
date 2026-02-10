@@ -7,6 +7,7 @@ categories: ["Games"]
 authors: ["Moonlight Game Streaming Project"]
 tags:
 - "Remote play"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

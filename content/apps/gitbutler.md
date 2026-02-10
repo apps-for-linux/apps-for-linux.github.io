@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["GitButler"]
 tags:
 - "Git client"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

@@ -8,6 +8,7 @@ authors: ["ownCloud"]
 tags:
 - "Collaboration platform"
 - "Cross-platform software"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

@@ -8,6 +8,7 @@ authors: ["Adam Honse"]
 tags:
 - "Hardware controller"
 - "RGB lighting control"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"

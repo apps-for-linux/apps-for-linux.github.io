@@ -9,6 +9,7 @@ tags:
 - "RSS"
 - "News Reader"
 - "Podcast player"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

@@ -8,6 +8,7 @@ authors: ["Jitsi team"]
 tags: 
 - "Conference calling"
 - "Cross-platform software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

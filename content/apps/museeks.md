@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Pierre de la Martinière"]
 tags:
 - "Offline music player"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

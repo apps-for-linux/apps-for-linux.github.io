@@ -7,6 +7,7 @@ categories: ["Productivity"]
 authors: ["Phil Denhoff"]
 tags:
 - "eBook reader"
+frameworks:
 - "Tauri"
 architectures: 
 - "x86_64"

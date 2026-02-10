@@ -8,6 +8,7 @@ authors: ["LinwoodDev"]
 tags:
 - "Time management"
 - "Cross-platform software"
+frameworks:
 - "Flutter"
 architectures: 
 - "x86_64"

@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["MuseScore BVBA"]
 tags:
 - "Audio editor"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

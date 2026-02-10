@@ -7,6 +7,7 @@ categories: ["Graphics"]
 authors: ["FontForge Project contributors"]
 tags:
 - "Font editor"
+frameworks:
 - "GTK+3"
 architectures: 
 - "x86_64"

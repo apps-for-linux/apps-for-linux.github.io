@@ -7,6 +7,7 @@ categories: ["AudioVideo"]
 authors: ["Kdenlive Team"]
 tags: 
 - "Video Editor"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

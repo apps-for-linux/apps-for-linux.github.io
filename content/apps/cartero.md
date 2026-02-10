@@ -7,6 +7,7 @@ categories: ["Development"]
 authors: ["the Cartero authors"]
 tags:
 - "API Testing"
+frameworks:
 - "GTK4"
 architectures: 
 - "x86_64"

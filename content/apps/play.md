@@ -8,6 +8,7 @@ authors: ["Jean-Philip Desjardins"]
 tags:
 - "PlayStation Emulator"
 - "Console Emulator"
+frameworks:
 - "Qt6"
 architectures: 
 - "x86_64"

@@ -8,6 +8,7 @@ authors: ["App by Troye"]
 tags:
 - "eBook reader"
 - "Cross-platform software"
+frameworks:
 - "Electron"
 architectures: 
 - "x86_64"

@@ -8,6 +8,8 @@ authors: ["Blaž Hrastnik"]
 tags:
 - "Code editor"
 - "TUI"
+frameworks:
+- "tui-rs"
 architectures: 
 - "x86_64"
 license: ["MPL-2.0"]

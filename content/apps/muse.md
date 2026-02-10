@@ -8,6 +8,7 @@ authors: ["The MusE development team"]
 tags:
 - "Audio editor"
 - "DAW"
+frameworks:
 - "Qt5"
 architectures: 
 - "x86_64"
